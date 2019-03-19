@@ -12692,6 +12692,7 @@ oficially->officially
 ofo->of
 ofrom->from
 ofsetted->offsetted
+oft->of the
 oftenly->often
 ofthe->of the
 oging->going, ogling,
