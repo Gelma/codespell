@@ -2540,6 +2540,7 @@ Bonnano->Bonanno
 bood->boot
 booda->buddha
 booe->buoy
+boofay->buffet
 bookeeping->bookkeeping
 bookkeeing->bookkeeping
 bookkeeiping->bookkeeping
