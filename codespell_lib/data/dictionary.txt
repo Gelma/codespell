@@ -11374,6 +11374,7 @@ maake->make
 mabe->maybe
 mabye->maybe
 macack->macaque
+macason->moccasin
 machanism->mechanism
 machanisms->mechanisms
 mached->matched
