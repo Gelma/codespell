@@ -11280,6 +11280,7 @@ listner->listener
 listners->listeners
 liszt->list, liszt,
 litature->literature
+lite->light
 literaly->literally
 literture->literature
 litle->little
