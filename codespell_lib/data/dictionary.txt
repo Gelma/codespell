@@ -11903,6 +11903,7 @@ miscellanous->miscellaneous
 miscelleneous->miscellaneous
 mischeivous->mischievous
 mischevious->mischievous
+mischevus->mischievous
 mischievious->mischievous
 misconfiged->misconfigured
 Miscrosoft->Microsoft
