@@ -15433,6 +15433,7 @@ rennovated->renovated
 rennovating->renovating
 rennovation->renovation
 renosance->renaissance
+renoun->renown
 rentime->runtime
 rentors->renters
 reoccurrence->recurrence
