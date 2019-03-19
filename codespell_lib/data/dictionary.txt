@@ -6075,6 +6075,7 @@ diaster->disaster
 dicergence->divergence
 dichtomy->dichotomy
 dicipline->discipline
+dicision->decision
 diconnects->disconnects
 dicover->discover
 dicovered->discovered
