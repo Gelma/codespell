@@ -8076,6 +8076,7 @@ extrordinarily->extraordinarily
 extrordinary->extraordinary
 extry->entry
 exuberent->exuberant
+exurpt->excerpt
 eyar->year, eyas,
 eyars->years, eyas,
 eyasr->years, eyas,
