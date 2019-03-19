@@ -7075,6 +7075,7 @@ emmitting->emitting
 emnity->enmity
 emoty->empty
 empass->impasse
+emperial->imperial
 emperical->empirical
 emphaised->emphasised
 emphsis->emphasis
