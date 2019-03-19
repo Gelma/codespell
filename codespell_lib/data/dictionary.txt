@@ -7503,6 +7503,7 @@ establishs->establishes
 establising->establishing
 establsihed->established
 estbalishment->establishment
+esthetic->aesthetic
 estimage->estimate
 estimages->estimates
 esy->easy
