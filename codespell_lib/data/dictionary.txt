@@ -8672,6 +8672,7 @@ furzzer->fuzzer
 fusha->fuchsia
 fushed->flushed
 fushing->flushing
+futal->futile
 futer->further
 futher->further
 futherize->further
