@@ -11161,6 +11161,7 @@ lenth->length
 lenths->lengths
 lepracan->leprechaun
 leprachan->leprechaun
+lepracy->leporsy
 leran->learn
 lerans->learns
 lesstiff->lesstif
