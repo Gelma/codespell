@@ -5174,6 +5174,7 @@ datastrcuture->datastructure
 datastrcutures->datastructures
 datadefintion->datadefinition
 datas->data
+datasereis->dataseries
 datastrem->datastream
 datatbase->database
 datatbases->databases
