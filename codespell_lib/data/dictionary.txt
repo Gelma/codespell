@@ -16278,6 +16278,7 @@ segmetned->segmented
 segmetns->segments
 segument->segment
 seguoys->segues
+segway->segue
 seige->siege
 seing->seeing
 seinor->senior
