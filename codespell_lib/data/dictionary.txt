@@ -9367,6 +9367,7 @@ hypenating->hyphenating
 hypenation->hyphenation
 hypens->hyphens
 hyperboly->hyperbole
+hyphention->hyphenation
 hypocracy->hypocrisy
 hypocrasy->hypocrisy
 hypocricy->hypocrisy
