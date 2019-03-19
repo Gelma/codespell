@@ -18303,6 +18303,7 @@ throwgh->through
 thru->through
 thrue->through
 thruout->throughout
+thrusts->trusts
 ths->the, this,
 thses->these
 thsi->this
