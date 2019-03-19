@@ -3386,6 +3386,7 @@ claime->claim
 claimes->claims
 clairvoiant->clairvoyant
 clame->claim
+claravoyant->clairvoyant
 clared->cleared
 clarety->clarity
 clas->class, disabled because of name clash in c++
