@@ -18711,6 +18711,7 @@ trooso->trousseau
 trought->through
 troup->troupe
 troups->troupes, troops,
+trubador->troubadour
 trubble->trouble
 trubbled->troubled
 trubbles->troubles
