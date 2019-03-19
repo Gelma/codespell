@@ -11554,6 +11554,7 @@ Massachussetts->Massachusetts
 massectomy->mastectomy
 massewer->masseur
 massmedia->mass media
+massoose->masseuse
 masster->master
 masterbation->masturbation
 mata-data->meta-data
