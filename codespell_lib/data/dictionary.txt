@@ -15766,6 +15766,7 @@ resposibility->responsibility
 resposible->responsible
 respositories->repositories
 respository->repository
+resreve->reserve
 ressapee->recipe
 ressemblance->resemblance
 ressemble->resemble
