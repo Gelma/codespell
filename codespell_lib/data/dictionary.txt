@@ -8984,6 +8984,7 @@ gutteral->guttural
 gziped->gzipped
 guyzer->geyser
 gwava->guava
+gymnist->gymnast
 haa->has
 habaeus->habeas
 habbit->habit
