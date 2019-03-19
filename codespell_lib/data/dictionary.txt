@@ -14423,6 +14423,7 @@ projectio->projection
 prolbems->problems
 prolem->problem
 prolems->problems
+prolicks->prolix
 prologomena->prolegomena
 prominance->prominence
 prominant->prominent
