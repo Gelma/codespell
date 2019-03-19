@@ -13568,6 +13568,7 @@ pevents->prevents
 pezier->bezier
 pharmasudical->pharmaceutical
 Pharoah->Pharaoh
+pharoh->pharaoh
 phasepsace->phasespace
 phasis->phases
 phenomenom->phenomenon
