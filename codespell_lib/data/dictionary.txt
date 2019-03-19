@@ -6271,6 +6271,7 @@ directes->directs
 directgories->directories
 directgory->directory
 directoies->directories
+directon->direction
 directores->directories
 directoris->directories
 directort->directory
