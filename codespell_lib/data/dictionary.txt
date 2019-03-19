@@ -19020,6 +19020,7 @@ unhilight->unhighlight
 unhilighted->unhighlighted
 unhilights->unhighlights
 Unicde->Unicode
+unick->eunuch
 unidentifiedly->unidentified
 unidimensionnal->unidimensional
 unifiy->unify
