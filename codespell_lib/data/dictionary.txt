@@ -8997,6 +8997,7 @@ haeder->header
 haemorrage->haemorrhage
 haev->have, heave,
 hahve->have, halve, half,
+hagas->haggis
 halarious->hilarious
 hald->held
 halfs->halves
