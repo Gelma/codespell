@@ -8158,6 +8158,7 @@ faseeshus->facetious
 fasen->fasten
 fasend->fastened
 fases->fazes, phases,
+fashism->fascism
 fasing->fazing, phasing,
 fasion->fashion
 fassade->facade
