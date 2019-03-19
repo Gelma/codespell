@@ -12341,6 +12341,7 @@ neightbours->neighbours
 neighter->neither
 nenviroment->environment
 neolitic->neolithic
+neral->neural
 nescessarily->necessarily
 nescessary->necessary
 nesesarily->necessarily
