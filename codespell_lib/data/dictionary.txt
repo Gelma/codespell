@@ -15965,6 +15965,7 @@ rigt->right
 rigth->right
 rigths->rights
 rigurous->rigorous
+rimaniss->reminisce
 rime->rhyme
 riminder->reminder
 riminders->reminders
