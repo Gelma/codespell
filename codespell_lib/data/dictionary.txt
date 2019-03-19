@@ -5203,6 +5203,7 @@ datatyoe->datatype
 datatyoes->datatypes
 datatytpe->datatype
 datatytpes->datatypes
+datbase->database
 datea->date, data,
 daty->data, date,
 daugher->daughter
