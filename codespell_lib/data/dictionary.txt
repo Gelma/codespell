@@ -8983,6 +8983,7 @@ guttaral->guttural
 gutteral->guttural
 gziped->gzipped
 guyzer->geyser
+gwava->guava
 haa->has
 habaeus->habeas
 habbit->habit
