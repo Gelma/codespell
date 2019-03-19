@@ -14974,6 +14974,7 @@ recompence->recompense
 recomplie->recompile, recomply,
 recomputaion->recomputation
 reconaissance->reconnaissance
+reconasence->reconnaissance
 reconcilation->reconciliation
 recondifure->reconfigure
 reconfifure->reconfigure
