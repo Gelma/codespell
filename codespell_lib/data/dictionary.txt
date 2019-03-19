@@ -7985,9 +7985,6 @@ exsits->exists, exist,
 exspect->expect
 exstacy->ecstasy
 exstream->extreme
-exspect->expect
-exstacy->ecstasy
-exstream->extreme
 extact->extract
 extaction->extraction
 extactly->exactly
