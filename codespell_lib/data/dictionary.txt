@@ -13606,6 +13606,7 @@ phyiscs->physics
 phylosophical->philosophical
 physcial->physical
 physicaly->physically
+physision->physician
 physisist->physicist
 phython->python
 phyton->python
