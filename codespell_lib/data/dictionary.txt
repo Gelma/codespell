@@ -11673,6 +11673,7 @@ medioker->mediocre
 medisinal->medicinal
 mediterainnean->mediterranean
 Mediteranean->Mediterranean
+medow->meadow
 meeds->needs
 meens->means
 meerkrat->meerkat
