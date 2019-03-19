@@ -8669,6 +8669,7 @@ furure->future
 furuther->further
 furutre->future
 furzzer->fuzzer
+fusha->fuchsia
 fushed->flushed
 fushing->flushing
 futer->further
