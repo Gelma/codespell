@@ -8687,6 +8687,7 @@ fysisit->physicist
 gadged->gadget, gauged,
 gae->game, Gael, gale,
 gage->gauge
+gagit->gadget
 galatic->galactic
 Galations->Galatians
 gallaxies->galaxies
