@@ -3282,6 +3282,7 @@ chineese->chinese
 chipet->chipset
 chipslect->chipselect
 chipstes->chipsets
+chisle->chisel
 chiuldren->children
 chked->checked
 chnage->change
