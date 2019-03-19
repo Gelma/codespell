@@ -7206,6 +7206,7 @@ enironment->environment
 enitities->entities
 enitity->entity
 enivornment->environment
+enlargening->enlarging
 enlargment->enlargement
 enlargments->enlargements
 enlightnment->enlightenment
