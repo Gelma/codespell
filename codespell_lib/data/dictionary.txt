@@ -2885,6 +2885,7 @@ cancelability->cancellability
 cancelaltion->cancellation
 cancelation->cancellation
 cancelations->cancellations
+cancelation->cancellation
 cancelles->cancels
 cancl->cancel
 cancle->cancel
