@@ -12787,6 +12787,7 @@ opertion->operation
 opertional->operational
 opertions->operations
 opetional->optional
+opinyon->opinion
 opion->option
 opionally->optionally
 opions->options
