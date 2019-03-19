@@ -19984,6 +19984,7 @@ wirtten->written
 wirtual->virtual
 wisper->whisper
 wissle->whistle
+wit hthe->with the
 wit->wit, with,
 witable->writeable
 witdh->width
