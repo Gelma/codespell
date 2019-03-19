@@ -6387,6 +6387,7 @@ disenchanged->disenchanted
 disencouraged->discouraged
 disertation->dissertation
 disfunctional->dysfunctional
+disertation->dissertation
 disgarded->discarded, discarted,
 disgnostic->diagnostic
 disign->design
