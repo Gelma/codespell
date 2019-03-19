@@ -11373,6 +11373,7 @@ Lybia->Libya
 maake->make
 mabe->maybe
 mabye->maybe
+macack->macaque
 machanism->mechanism
 machanisms->mechanisms
 mached->matched
