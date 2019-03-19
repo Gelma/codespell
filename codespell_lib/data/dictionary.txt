@@ -3048,6 +3048,7 @@ causions->cautions
 causious->cautious
 cavaet->caveat
 cavaets->caveats
+cavren->cavern
 ccahe->cache
 ccale->scale
 ccertificate->certificate
