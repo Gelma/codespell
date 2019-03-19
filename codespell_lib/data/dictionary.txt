@@ -11362,6 +11362,7 @@ lpatform->platform
 lsat->last
 lsit->list
 lsits->lists
+lugage->luggage
 lukid->likud
 luminose->luminous
 luminousity->luminosity
