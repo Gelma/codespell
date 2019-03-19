@@ -11069,6 +11069,7 @@ languate->language
 languates->languages
 languauge->language
 languauges->languages
+langueg->language
 languege->language
 langueges->languages
 langugage->language
