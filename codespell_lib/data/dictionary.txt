@@ -12964,6 +12964,7 @@ osffset->offset
 osffsets->offsets
 osffsetting->offsetting
 osicllations->oscillations
+osterage->ostrich
 ot->to, of, or,
 otains->obtains
 otehr->other
