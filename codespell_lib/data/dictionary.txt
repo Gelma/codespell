@@ -20112,6 +20112,7 @@ wyth->with
 wythout->without
 xdescribe->describe
 xdpf->xpdf
+xelementacces->xelementaccess
 xenophoby->xenophobia
 xepect->expect
 xepected->expected
