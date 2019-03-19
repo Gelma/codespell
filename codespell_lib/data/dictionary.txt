@@ -19540,6 +19540,7 @@ varity->variety
 variuos->various
 variuous->various
 varius->various
+varmit->varmint
 varn->warn
 varned->warned
 varning->warning
