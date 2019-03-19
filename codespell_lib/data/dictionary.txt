@@ -8714,6 +8714,7 @@ garuantee->guarantee
 garuanteed->guaranteed
 garuantees->guarantees
 garuantied->guaranteed
+gastly->ghastly
 gauarana->guaraná
 gauarantee->guarantee
 gauaranteed->guaranteed
