@@ -10105,6 +10105,7 @@ informatikon->information
 informatiom->information
 informations->information
 informaton->information
+informm->inform
 informtion->information
 inforrmation->information
 infrantryman->infantryman
