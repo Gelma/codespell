@@ -11714,6 +11714,7 @@ memorys->memories
 memove->memmove
 mempry->memory
 memroy->memory
+memwars->memoirs
 menally->mentally
 menas->means
 menetion->mention
