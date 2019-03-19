@@ -2920,6 +2920,7 @@ canot->cannot
 cant'->can't
 cant->can't
 cant;->can't
+cantalope->cantaloupe
 canvase->canvas
 caost->coast
 capabicity->capability
