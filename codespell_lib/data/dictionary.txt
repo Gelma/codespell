@@ -10980,6 +10980,7 @@ karisma->charisma
 kazakstan->kazakhstan
 keep-alives->keep-alive
 keept->kept
+keesh->quiche
 kenel->kernel, kennel,
 kenrel->kernel
 kepping->keeping
