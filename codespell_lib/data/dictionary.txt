@@ -2708,6 +2708,7 @@ buoancy->buoyancy
 bureauracy->bureaucracy
 buring->burying, burning, burin, during,
 burocratic->bureaucratic
+burjun->burgeon
 burried->buried
 busines->business
 busineses->business, businesses,
