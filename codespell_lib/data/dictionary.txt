@@ -5111,6 +5111,7 @@ curruption->corruption
 curruptions->corruptions
 curser->cursor
 cursro->cursor
+curtesy->courtesy
 curvelinear->curvilinear
 customable->customizable
 custome->custom, costume,
