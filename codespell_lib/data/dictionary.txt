@@ -19839,6 +19839,7 @@ weas->was
 webiste->website
 wedensday->Wednesday
 wednesdaay->Wednesday
+weerd->weird
 wege->wedge
 wehere->where
 wehn->when
