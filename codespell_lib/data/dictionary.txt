@@ -14406,6 +14406,7 @@ progrom->pogrom, program,
 progroms->pogroms, programs,
 progrss->progress
 prohabition->prohibition
+prohibative->prohibitive
 prohibt->prohibit
 prohibted->prohibited
 prohibting->prohibiting
