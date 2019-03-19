@@ -19530,6 +19530,8 @@ varient->variant
 varients->variants
 varierty->variety
 variey->variety
+varified->verified
+varifying->verifying
 variing->varying
 varing->varying
 varities->varieties
