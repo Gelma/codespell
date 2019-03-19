@@ -13615,6 +13615,7 @@ piblisher->publisher
 pice->piece
 pich->pitch
 picknick->picnic
+pickyune->picayune
 pilgrimmage->pilgrimage
 pilgrimmages->pilgrimages
 pinapple->pineapple
