@@ -2090,6 +2090,7 @@ autofilt->autofilter
 autofomat->autoformat
 autoformating->autoformatting
 autogroping->autogrouping
+autogrowwith->autogrowwidth
 autoincrememnt->autoincrement
 autoincrementive->autoincrement
 automaatically->automatically
