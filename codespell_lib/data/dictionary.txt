@@ -10603,6 +10603,7 @@ intergers->integers
 intergrated->integrated
 intergrating->integrating
 intergration->integration
+interitance->inheritance
 interliveing->interleaving
 interlly->internally
 interm->interim, intern,
