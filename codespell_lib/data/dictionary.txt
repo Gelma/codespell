@@ -3041,6 +3041,7 @@ caugt->caught
 cauhgt->caught
 cauing->causing
 causees->causes
+causalities->casualties
 causion->caution
 causioned->cautioned
 causions->cautions
