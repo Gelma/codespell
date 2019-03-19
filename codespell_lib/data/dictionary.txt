@@ -5047,6 +5047,7 @@ cross-orgin->cross-origin
 crossin->crossing
 crossreference->cross-reference
 crowkay->croquet
+crowkay->croquet
 crowm->crown
 crrespond->correspond
 crsytal->crystal
