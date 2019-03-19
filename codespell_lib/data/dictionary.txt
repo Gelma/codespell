@@ -12073,6 +12073,7 @@ monstrum->monster
 montains->mountains
 montaj->montage
 montanous->mountainous
+monthes->months
 montly->monthly
 Montnana->Montana
 monts->months
