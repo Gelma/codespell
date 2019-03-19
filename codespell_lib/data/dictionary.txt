@@ -20145,6 +20145,7 @@ yoman->yeoman
 yot->yacht
 yotube->youtube
 youforic->euphoric
+youlogy->eulogy
 youre->your, you're,
 youseff->yourself, yousef,
 youself->yourself
