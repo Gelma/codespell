@@ -11130,6 +11130,7 @@ leathal->lethal
 leats->least
 leeg->league
 leegun->legion
+leesure->leisure
 lefted->left
 legac->legacy
 legact->legacy
