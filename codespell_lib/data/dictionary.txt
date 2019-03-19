@@ -8582,6 +8582,7 @@ fucntions->functions
 fuction->function
 fuctionoid->functionoid
 fuctions->functions
+fuer->for
 fufill->fulfill
 fufilled->fulfilled
 fule->file
