@@ -4937,6 +4937,7 @@ counds->counts
 counpound->compound
 counpounds->compounds
 counries->countries
+counsil->counsel
 countain->contain
 countainer->container
 countains->contains
