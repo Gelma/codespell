@@ -1893,6 +1893,7 @@ asthetics->aesthetics
 astiimate->estimate
 astiimation->estimation
 astrix->asterisk
+astroid->asteroid
 asume->assume
 asuming->assuming
 asumption->assumption
