@@ -16392,6 +16392,7 @@ seperatly->separately
 seperator->separator
 seperators->separators
 sepina->subpoena
+seplicural->sepulchral
 seporate->separate
 sepperate->separate
 seprarate->separate
