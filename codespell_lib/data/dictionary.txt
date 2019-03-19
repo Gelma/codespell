@@ -7942,6 +7942,7 @@ explict->explicit
 explictely->explicitly
 explictily->explicitly
 explictly->explicitly
+explination->explanation
 explit->explicit
 explitly->explicitly
 explizit->explicit
