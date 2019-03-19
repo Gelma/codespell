@@ -1390,6 +1390,7 @@ apllying->applying
 apocraful->apocryphal
 apolegetic->apologetic
 apolegetics->apologetics
+apollstree->upholstery
 apon->upon, apron,
 apostrophie->apostrophe
 apostrophies->apostrophes
