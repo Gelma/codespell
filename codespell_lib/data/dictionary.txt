@@ -8155,6 +8155,7 @@ fasade->facade
 fase->faze, phase,
 fased->fazed, phased,
 faseeshus->facetious
+fasend->fastened
 fases->fazes, phases,
 fasing->fazing, phasing,
 fasion->fashion
