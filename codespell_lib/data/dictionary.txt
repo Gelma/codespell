@@ -7506,6 +7506,7 @@ estbalishment->establishment
 esthetic->aesthetic
 estimage->estimate
 estimages->estimates
+estuwarry->estuary
 esy->easy
 etablish->establish
 etablishd->established
