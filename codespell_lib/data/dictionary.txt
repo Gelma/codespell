@@ -12249,6 +12249,7 @@ navagation->navigation
 navagitation->navigation
 nawseous->nauseous
 nawshus->nauseous
+naybor->neighbor
 Nazereth->Nazareth
 nclude->include
 nd->and, 2nd,
