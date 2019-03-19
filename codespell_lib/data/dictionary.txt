@@ -13385,6 +13385,7 @@ passtime->pastime
 passtrough->passthrough
 passwrod->password
 pasteing->pasting
+pastery->pastry
 pasttime->pastime
 pastural->pastoral
 pasword->password
