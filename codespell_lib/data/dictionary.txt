@@ -11029,6 +11029,7 @@ kwanza->kwanzaa
 kwno->know
 kwoledgebase->knowledge base
 kwuzine->cuisine
+kyebosh->kibosh
 kyrillic->cyrillic
 labatory->lavatory, laboratory,
 labed->labeled
