@@ -3123,6 +3123,7 @@ chage->change, charge,
 chaged->changed, charged,
 chages->changes, charges,
 chaging->changing, charging,
+chagne->change
 chahged->changed
 chalenging->challenging
 challanage->challenge
