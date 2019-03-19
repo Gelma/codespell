@@ -1272,6 +1272,7 @@ annointed->anointed
 annointing->anointing
 annoints->anoints
 annoncement->announcement
+annonomus->anonymous
 annonymous->anonymous
 annotaion->annotation
 annotaions->annotations
