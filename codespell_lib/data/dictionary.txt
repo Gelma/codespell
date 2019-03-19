@@ -11136,6 +11136,7 @@ legac->legacy
 legact->legacy
 legalimate->legitimate
 legel->legal
+legionair->legionnaire
 legitamate->legitimate
 legitimiately->legitimately
 legitmate->legitimate
