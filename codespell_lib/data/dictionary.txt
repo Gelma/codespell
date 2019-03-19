@@ -16180,6 +16180,7 @@ scientis->scientist
 scince->science
 scinece->science
 scintiallation->scintillation
+scipped->skipped
 scipt->script
 scirpt->script
 scirpts->scripts
