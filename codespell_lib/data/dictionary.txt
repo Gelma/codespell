@@ -11001,6 +11001,7 @@ keywprd->keyword
 kidknap->kidnap
 kighbosh->kibosh
 kilometre->kilometer
+kilometres->kilometers
 kindergarden->kindergarten
 klenex->kleenex
 klick->click
