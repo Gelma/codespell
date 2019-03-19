@@ -3409,6 +3409,7 @@ clearify->clarify
 clearifying->clarifying
 clearnance->clearance
 clearnances->clearances
+clearstory->clerestory
 clearted->cleared
 cleck->check
 cleean->clean
