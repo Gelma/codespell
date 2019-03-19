@@ -13367,6 +13367,7 @@ partitiones->partitions
 partiton->partition
 partitoning->partitioning
 pary->party, parry,
+paschurize->pasteurize
 pase->pass, pace, parse,
 pased->passed
 pasengers->passengers
