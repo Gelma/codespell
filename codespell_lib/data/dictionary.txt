@@ -14257,6 +14257,7 @@ priviliged->privileged
 priviliges->privileges
 privious->previous
 privledge->privilege
+privlege->privilege
 privleges->privileges
 privte->private
 prmitive->primitive
