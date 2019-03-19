@@ -12744,6 +12744,7 @@ onyl->only
 oommits->commits
 opacy->opacity
 opague->opaque
+oparation->operation
 opbjects->objects
 opeartion->operation
 opeation->operation
