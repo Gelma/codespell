@@ -5042,6 +5042,7 @@ cronological->chronological
 croshet->crochet
 cross-commpilation->cross-compilation
 cronological->chronological
+croshet->crochet
 cross-orgin->cross-origin
 crossin->crossing
 crossreference->cross-reference
