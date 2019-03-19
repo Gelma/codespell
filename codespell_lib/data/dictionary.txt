@@ -1171,6 +1171,7 @@ amalgum->amalgam
 amatuer->amateur
 amatur->amateur
 amature->armature, amateur,
+ambadexterous->ambidextrous
 ambedded->embedded
 ambibuity->ambiguity
 ambigious->ambiguous
