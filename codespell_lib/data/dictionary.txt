@@ -9421,6 +9421,7 @@ identtifier->identifier
 identty->identity
 ideosyncracies->ideosyncrasies
 identtity->identity
+ideosincracy->idiosyncrasy
 ideosyncratic->idiosyncratic
 idesa->ideas, ides,
 idetifies->identifies
