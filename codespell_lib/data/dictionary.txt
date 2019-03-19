@@ -3921,6 +3921,7 @@ completly->completely
 completness->completeness
 complette->complete
 complettly->completely
+complextion->complexion
 complianse->compliance
 complied-in->compiled-in
 complience->compliance
