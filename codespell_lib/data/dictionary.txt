@@ -2885,7 +2885,6 @@ cancelability->cancellability
 cancelaltion->cancellation
 cancelation->cancellation
 cancelations->cancellations
-cancelation->cancellation
 cancelles->cancels
 cancl->cancel
 cancle->cancel
@@ -2898,6 +2897,7 @@ candidiate->candidate
 candidiates->candidates
 candinate->candidate
 candinates->candidates
+canew->canoe
 cange->change
 canidate->candidate
 canidates->candidates
