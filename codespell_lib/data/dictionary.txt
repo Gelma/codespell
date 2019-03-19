@@ -2903,6 +2903,7 @@ canidate->candidate
 canidates->candidates
 cann't->can't
 cann->can
+cannabile->cannibal
 cannister->canister
 cannisters->canisters
 cannnot->cannot
