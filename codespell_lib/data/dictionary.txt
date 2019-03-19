@@ -3936,6 +3936,7 @@ compnents->components
 compoennt->component
 compoent->component
 compoents->components
+compoment->component
 compoments->components
 componant->component
 componbents->components
