@@ -4825,6 +4825,7 @@ correectly->correctly
 correlasion->correlation
 correlatd->correlated
 correllate->correlate
+correlasion->correlation
 correllation->correlation
 correllations->correlations
 correnspond->correspond
