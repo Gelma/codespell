@@ -11544,6 +11544,7 @@ marraige->marriage
 marrtyred->martyred
 marryied->married
 marshall->marshal
+marshmellow->marshmallow
 marter->martyr
 masakist->masochist
 mashetty->machete
