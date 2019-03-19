@@ -6590,6 +6590,7 @@ doccumented->documented
 doccuments->documents
 dockson->dachshund
 docmenetation->documentation
+dockson->dachshund
 docrines->doctrines
 docstatistik->docstatistic
 docsund->dachshund
