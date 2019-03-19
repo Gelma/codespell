@@ -16624,6 +16624,7 @@ siguret->cigarette
 silabus->syllabus
 silentely->silently
 silenty->silently
+sill->still
 simialr->similar
 simiar->similar
 similarily->similarly
