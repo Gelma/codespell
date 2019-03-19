@@ -11478,6 +11478,7 @@ manger->manager
 manifacture->manufacture
 manifacturer->manufacturer
 manifacturers->manufacturers
+manikin->mannequin
 manipluate->manipulate
 manipulatin->manipulating
 manisfestations->manifestations
