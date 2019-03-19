@@ -4891,6 +4891,7 @@ cosntrains->constrains, constraints,
 cosntraint->constraint
 cosntraints->constraints
 cosntructed->constructed
+corse->course
 cosntructor->constructor
 costant->constant
 costitution->constitution
