@@ -14708,6 +14708,7 @@ quesiton->question
 quesitonable->questionable
 quesitons->questions
 questionaire->questionnaire
+questionare->questionnaire
 questionnair->questionnaire
 questonable->questionable
 queu->queue
