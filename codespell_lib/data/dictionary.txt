@@ -6795,6 +6795,7 @@ dstination->destination
 dthe->the
 dtoring->storing
 dubios->dubious
+duble->double
 dublicade->duplicate
 dublicat->duplicate
 dublicate->duplicate
