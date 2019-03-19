@@ -11018,6 +11018,7 @@ kocalized->localized
 konw->know
 konwn->known
 konws->knows
+kookoo->cuckoo
 koordinate->coordinate
 koordinates->coordinates
 kown->known
