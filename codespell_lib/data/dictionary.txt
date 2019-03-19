@@ -11043,6 +11043,7 @@ labour->labor
 labouriously->laboriously
 labratory->laboratory
 labrynth->labyrinth
+lacker->lacquer
 laguage->language
 laguages->languages
 laguague->language
