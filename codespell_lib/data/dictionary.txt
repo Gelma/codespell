@@ -16741,6 +16741,7 @@ skipp->skip, skipped,
 skippd->skipped
 skipt->skip, Skype, skipped,
 skyp->skip, Skype,
+skitsofrinic->schizophrenic
 slase->slash
 slases->slashes
 slashs->slashes
