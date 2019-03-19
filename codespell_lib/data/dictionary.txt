@@ -11049,6 +11049,7 @@ langage->language
 langauage->language
 langauge->language
 langauges->languages
+langerie->lingerie
 langeuage->language
 langeuagesection->languagesection
 languace->language
