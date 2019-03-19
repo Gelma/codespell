@@ -7287,6 +7287,7 @@ entitlied->entitled
 entitys->entities
 entoties->entities
 entoty->entity
+entrapeneur->entrepreneur
 entrepeneur->entrepreneur
 entrepeneurs->entrepreneurs
 entrie->entry, entries,
