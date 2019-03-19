@@ -6048,6 +6048,7 @@ diablical->diabolical
 diabling->disabling
 diagnol->diagonal
 diagnositc->diagnostic
+diagnol->diagonal
 diagnotic->diagnostic
 diagnotics->diagnostics
 diagonale->diagonal
