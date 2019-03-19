@@ -10996,6 +10996,7 @@ keyboads->keyboards
 keybord->keyboard
 keybords->keyboards
 keyords->keywords
+keyosk->kiosk
 keyoutch->keytouch
 keyowrd->keyword
 keyserver->key server
