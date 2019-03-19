@@ -3384,6 +3384,7 @@ claerly->clearly
 claibscale->calibscale
 claime->claim
 claimes->claims
+clairvoiant->clairvoyant
 clame->claim
 clared->cleared
 clarety->clarity
