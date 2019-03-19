@@ -8815,9 +8815,6 @@ geting->getting
 getlael->getlabel
 getoe->ghetto
 getoject->getobject
-getlael->getlabel
-getoe->ghetto
-getoject->getobject
 gettetx->gettext
 gettter->getter
 gettters->getters
