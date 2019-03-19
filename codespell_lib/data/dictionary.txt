@@ -2878,6 +2878,7 @@ calulating->calculating
 calulation->calculation
 calulations->calculations
 Cambrige->Cambridge
+camelion->chameleon
 camoflage->camouflage
 camoflague->camouflage
 campagin->campaign
