@@ -2043,6 +2043,7 @@ auot->auto
 auotmatic->automatic
 auromated->automated
 austair->austere
+austeer->austere
 austrailia->Australia
 austrailian->Australian
 Australien->Australian
