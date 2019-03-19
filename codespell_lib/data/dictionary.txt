@@ -9222,6 +9222,7 @@ himselv->himself
 hinderance->hindrance
 hinderence->hindrance
 hindrence->hindrance
+hiorizontal->horizontal
 hipopotamus->hippopotamus
 hipotetical->hypothetical
 hirarchies->hierarchies
