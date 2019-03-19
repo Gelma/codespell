@@ -2230,6 +2230,7 @@ awya->away
 axises->axes
 axpressed->expressed
 ayway->anyway, away,
+azma->asthma
 ba->by, be,
 bacause->because
 baceause->because
