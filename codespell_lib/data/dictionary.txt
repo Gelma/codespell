@@ -16791,6 +16791,7 @@ socail->social
 socalism->socialism
 socities->societies
 socked->socket
+sodder->solder
 soecialize->specialized
 soem->some
 soemthing->something
