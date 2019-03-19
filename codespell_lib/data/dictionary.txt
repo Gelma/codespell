@@ -16742,6 +16742,7 @@ slect->select
 slected->selected
 slecting->selecting
 slection->selection
+slewth->sleuth
 slient->silent
 slighlty->slightly
 slighly->slightly
