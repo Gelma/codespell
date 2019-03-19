@@ -19698,6 +19698,7 @@ visblie->visible
 vise->vice, vise,
 viseral->visceral
 visheate->vitiate
+vishus->vicious
 visiable->visible
 visiably->visibly
 visibale->visible
