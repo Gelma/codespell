@@ -6861,6 +6861,7 @@ eachother->each other
 eachs->each
 eagrely->eagerly
 eahc->each
+eailer->earlier
 eailier->earlier
 eaiser->easier
 ealier->earlier
