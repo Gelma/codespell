@@ -19787,6 +19787,7 @@ vulnerbilities->vulnerabilities
 vulnerbility->vulnerability
 vulnerbuilities->vulnerabilities
 vulnerbuility->vulnerability
+vunrable->vulnerable
 vyer->very
 vyre->very
 waht->what
