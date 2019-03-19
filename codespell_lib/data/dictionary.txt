@@ -19859,6 +19859,7 @@ welp->whelp
 wen->we, when,
 wendesday->Wednesday
 wendsay->Wednesday
+wendsday->wednesday
 wensday->Wednesday
 were'->we're
 were'nt->weren't
