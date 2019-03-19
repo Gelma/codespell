@@ -16423,6 +16423,7 @@ serach->search
 serached->searched
 serailisation->serialisation
 serailization->serialization
+seramony->ceremony
 sergent->sergeant
 serialiazation->serialization
 serie->series
