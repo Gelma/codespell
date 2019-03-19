@@ -2726,6 +2726,7 @@ buttton->button
 butttons->buttons
 buuild->build
 bwtween->between
+byast->biased
 byteoder->byte order
 byteorder->byte order, disabled due to Java class
 cacahe->cache
