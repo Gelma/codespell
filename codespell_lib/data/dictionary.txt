@@ -15970,6 +15970,7 @@ rime->rhyme
 riminder->reminder
 riminders->reminders
 riminding->reminding
+riminicent->reminiscent
 rimitives->primitives
 rininging->ringing
 rised->raised, rose,
