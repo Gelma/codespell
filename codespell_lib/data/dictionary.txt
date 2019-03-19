@@ -8913,6 +8913,7 @@ grammers->grammars
 granchildren->grandchildren
 granilarity->granularity
 grandeeos->grandiose
+grandize->aggrandize
 granulatiry->granularity
 grapgics->graphics
 graphcis->graphics
