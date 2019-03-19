@@ -7986,6 +7986,7 @@ exspect->expect
 exstacy->ecstasy
 exstream->extreme
 exspect->expect
+exstacy->ecstasy
 extact->extract
 extaction->extraction
 extactly->exactly
