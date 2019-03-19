@@ -17934,6 +17934,7 @@ tabke->table
 tablepsace->tablespace
 tablepsaces->tablespaces
 tablle->table
+tablre->table
 tage->stage, take, tag, tagged,
 taged->tagged
 taget->target
