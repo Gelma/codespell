@@ -16753,6 +16753,7 @@ sligtly->slightly
 slippy->slippery
 sliseshow->slideshow
 slite->sleight
+slooth->sleuth
 slowy->slowly
 sluggify->slugify
 smae->same
