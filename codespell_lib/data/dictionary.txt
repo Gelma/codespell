@@ -19659,6 +19659,7 @@ veyr->very
 vhild->child
 viatnamese->vietnamese
 vicefersa->vice-versa
+victum->victim
 videostreamming->videostreaming
 vie->via
 vietnamesea->Vietnamese
