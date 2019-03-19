@@ -5073,6 +5073,7 @@ cubburd->cupboard
 culiminating->culminating
 cummulative->cumulative
 cummunicate->communicate
+cumpus->compass
 cumulatative->cumulative
 cuncurency->concurrency
 curch->church
