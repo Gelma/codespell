@@ -11094,6 +11094,7 @@ largst->largest
 larinx->larynx
 larrry->larry
 larvay->larvae
+larvy->larvae
 laso->also, lasso,
 lastes->latest
 lastest->latest
