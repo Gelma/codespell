@@ -10951,6 +10951,7 @@ jossle->jostle
 jouney->journey
 journied->journeyed
 journies->journeys
+journy->journey
 joystik->joystick
 jscipt->jscript
 jstu->just
