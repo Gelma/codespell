@@ -20157,6 +20157,7 @@ yuforic->euphoric
 yugoslac->yugoslav
 yuo->you
 yur->your
+zar->czar
 zeebra->zebra
 ziped->zipped
 ziper->zipper
