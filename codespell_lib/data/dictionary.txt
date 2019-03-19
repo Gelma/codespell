@@ -8640,6 +8640,7 @@ funtionallity->functionality
 funtionally->functionally
 funtionalty->functionality
 funtioning->functioning
+funtionkeys->functionkeys
 funtions->functions
 furether->further
 furethermore->furthermore
