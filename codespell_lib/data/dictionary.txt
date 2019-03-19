@@ -10023,6 +10023,7 @@ individualy->individually
 individuel->individual
 individuelly->individually
 individuely->individually
+individule->individual
 indivual->individual
 indivudual->individual
 indivudually->individually
