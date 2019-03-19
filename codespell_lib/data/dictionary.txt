@@ -11952,6 +11952,7 @@ misstype->mistype
 misstypes->mistypes
 missunderstood->misunderstood
 missuse->misuse
+misteek->mystique
 misterious->mysterious
 mistery->mystery
 misteryous->mysterious
