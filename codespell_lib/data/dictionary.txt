@@ -4926,6 +4926,7 @@ couln't->couldn't
 coult->could
 coumpound->compound
 coumpounds->compounds
+councel->council
 councellor->councillor, counselor, councilor,
 councellors->councillors, counselors, councilors,
 cound->could, count,
