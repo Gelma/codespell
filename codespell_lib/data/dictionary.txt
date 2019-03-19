@@ -8272,6 +8272,7 @@ finishe->finished, finish,
 finishs->finishes
 finitel->finite
 finness->finesse
+finness->finesse
 finnished->finished
 finsih->finish
 finsihed->finished
