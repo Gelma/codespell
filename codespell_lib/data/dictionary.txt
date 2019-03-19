@@ -5041,6 +5041,7 @@ crockodiles->crocodiles
 cronological->chronological
 croshet->crochet
 cross-commpilation->cross-compilation
+cronological->chronological
 cross-orgin->cross-origin
 crossin->crossing
 crossreference->cross-reference
