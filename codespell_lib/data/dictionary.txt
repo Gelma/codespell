@@ -2703,6 +2703,7 @@ bulit->built
 bulle->bullet
 bulletted->bulleted
 bullevard->boulevard
+bullyan->bouillon
 bult->built
 bult-in->built-in
 bultin->builtin
