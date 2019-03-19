@@ -5721,6 +5721,7 @@ derprecated->deprecated
 derrive->derive
 derrived->derived
 derth->dearth
+derth->dearth
 dervie->derive
 dervied->derived
 dervies->derives
