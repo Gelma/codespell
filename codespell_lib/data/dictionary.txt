@@ -1252,6 +1252,7 @@ aneeling->annealing
 anevironment->environment
 ang->and
 angshus->anxious
+angziety->anxiety
 anhoter->another
 anid->and
 anihilation->annihilation
