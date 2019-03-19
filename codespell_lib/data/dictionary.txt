@@ -8331,6 +8331,7 @@ flie->file
 floading->floating, flooding,
 floading-add->floating-add
 floatation->flotation
+floatation->flotation
 florescent->fluorescent
 floresent->fluorescent
 floride->fluoride
