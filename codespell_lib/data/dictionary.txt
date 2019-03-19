@@ -2655,6 +2655,7 @@ Buddah->Buddha
 Buddist->Buddhist
 bufefr->buffer
 bufer->buffer
+bufering->buffering
 bufers->buffers
 buffereed->buffered
 bufferent->buffered
