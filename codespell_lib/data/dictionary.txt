@@ -1332,6 +1332,7 @@ anthropolgist->anthropologist
 anthropolgy->anthropology
 antialialised->antialiased
 antialising->antialiasing
+anticdote->anecdote
 anticpate->anticipate
 anual->annual
 anually->annually
