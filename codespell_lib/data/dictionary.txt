@@ -17562,7 +17562,6 @@ suop->soup
 supeblock->superblock
 supeena->subpoena
 supercalifragilisticexpialidoceous->supercalifragilisticexpialidocious
-supeena->subpoena
 supercede->supersede
 superceded->superseded
 supercedes->supersedes
