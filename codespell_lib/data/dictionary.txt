@@ -2343,6 +2343,7 @@ becoz->because
 bector->vector
 bectors->vectors
 becuase->because
+becuz->because
 beding->bedding, begging,
 bedore->before
 beeing->being, been,
