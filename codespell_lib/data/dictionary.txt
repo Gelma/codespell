@@ -2121,6 +2121,7 @@ autoritative->authoritative
 autority->authority
 autorization->authorization
 autors->authors
+autotorium->auditorium
 auxilaries->auxiliaries
 auxilary->auxiliary
 auxileries->auxiliaries
