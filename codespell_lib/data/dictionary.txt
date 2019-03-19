@@ -2529,6 +2529,7 @@ boddy->body
 bodgy->body, disabled because one might want to allow informal spelling
 bodydbuilder->bodybuilder
 bofore->before
+boganveelia->bougainvillea
 boggus->bogus
 bolean->boolean
 boleen->boolean
