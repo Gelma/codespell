@@ -2302,6 +2302,7 @@ basf->base
 basicaly->basically
 basicly->basically
 basicmanger->basicmanager
+basidide->basicide
 batery->battery
 bcak->back
 bcause->because
