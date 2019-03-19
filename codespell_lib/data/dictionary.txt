@@ -13496,6 +13496,7 @@ perisist->persist
 peristent->persistent
 perjery->perjury
 perjorative->pejorative
+perliferate->proliferate
 permanant->permanent
 permanantly->permanently
 permanentely->permanently
