@@ -5035,6 +5035,7 @@ critized->criticized
 critizing->criticizing
 croch->crotch
 crockadile->crocodile
+croch->crotch
 crockodiles->crocodiles
 cronological->chronological
 croshet->crochet
