@@ -6943,6 +6943,7 @@ ehance->enhance
 ehanced->enhanced
 ehancement->enhancement
 ehancements->enhancements
+ehcin->ohcin
 ehough->enough
 eighter->either
 eigth->eighth, eight,
