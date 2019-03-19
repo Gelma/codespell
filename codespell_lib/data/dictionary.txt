@@ -11543,6 +11543,7 @@ marrage->marriage
 marraige->marriage
 marrtyred->martyred
 marryied->married
+marshall->marshal
 marter->martyr
 masakist->masochist
 mashetty->machete
