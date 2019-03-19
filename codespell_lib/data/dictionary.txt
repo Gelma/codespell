@@ -11442,6 +11442,7 @@ maks->mask, masks, makes, make,
 makse->makes, masks,
 makss->masks, makes,
 Malcom->Malcolm
+malfrom->malform
 malicous->malicious
 malicously->maliciously
 malplace->misplace
