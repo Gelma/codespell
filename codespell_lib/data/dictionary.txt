@@ -1920,6 +1920,7 @@ atachment->attachment
 atachments->attachments
 atain->attain
 atempting->attempting
+atemptively->attemptively
 atempts->attempts
 atheistical->atheistic
 athenean->athenian
