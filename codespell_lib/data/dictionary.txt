@@ -1615,6 +1615,7 @@ archvies->archives
 archving->archiving
 arcticle->article
 Ardiuno->Arduino
+ardvark->aardvark
 are'nt->aren't
 aready->already
 aren's->aren't
