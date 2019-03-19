@@ -15956,6 +15956,7 @@ rhythim->rhythm
 rhythimcally->rhythmically
 rhytmic->rhythmic
 rickoshay->ricochet
+riendeer->reindeer
 rigeur->rigueur, rigour, rigor,
 righht->right
 rigourous->rigorous
