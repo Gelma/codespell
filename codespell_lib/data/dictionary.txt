@@ -8816,6 +8816,7 @@ getlael->getlabel
 getoe->ghetto
 getoject->getobject
 getlael->getlabel
+getoe->ghetto
 gettetx->gettext
 gettter->getter
 gettters->getters
