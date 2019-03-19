@@ -14425,6 +14425,7 @@ prolem->problem
 prolems->problems
 prolicks->prolix
 prologomena->prolegomena
+promatory->promontory
 prominance->prominence
 prominant->prominent
 prominantly->prominently
