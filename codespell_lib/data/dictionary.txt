@@ -12708,6 +12708,7 @@ omision->omission
 omited->omitted
 omiting->omitting
 omitt->omit
+omlet->omelet
 omlette->omelette
 ommision->omission
 ommit->omit
