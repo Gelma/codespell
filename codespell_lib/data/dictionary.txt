@@ -8760,6 +8760,7 @@ genererated->generated
 genererater->generator
 genererating->generating
 genereration->generation
+generete->generate
 generilise->generalise
 generilised->generalised
 generilises->generalises
