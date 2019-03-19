@@ -12377,6 +12377,7 @@ nighborhood->neighborhood
 nighboring->neighboring
 nightfa;;->nightfall
 nightime->nighttime
+nimph->nymph
 nimutes->minutes
 nineth->ninth
 ninjs->ninja
