@@ -2755,6 +2755,7 @@ caculations->calculations
 caculator->calculator
 cacuses->caucuses
 Caesarian->Caesarean
+caese->cease
 cahacter->character
 cahacters->characters
 cahange->change
