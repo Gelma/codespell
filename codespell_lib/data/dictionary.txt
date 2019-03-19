@@ -3517,6 +3517,7 @@ collaction->collection
 collaobrative->collaborative
 collapsable->collapsible
 collationg->collation
+colleage->colleague
 collecing->collecting
 collecion->collection
 collecions->collections
