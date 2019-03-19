@@ -3073,6 +3073,7 @@ cenario->scenario
 cencus->census
 censur->censor, censure,
 centain->certain
+centenal->sentinel
 cententenial->centennial
 centerd->centered
 centisencond->centisecond
