@@ -5076,6 +5076,7 @@ cummunicate->communicate
 cumpus->compass
 cumulatative->cumulative
 cuncurency->concurrency
+cuple->couple
 curch->church
 curcuit->circuit
 curcumstance->circumstance
