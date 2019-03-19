@@ -1384,6 +1384,7 @@ apolegetics->apologetics
 apologise->apologize
 apologised->apologized
 apon->upon, apron,
+apostrafy->apostrophe
 apostrophie->apostrophe
 apostrophies->apostrophes
 apparant->apparent
