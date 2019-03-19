@@ -4271,6 +4271,7 @@ conntents->contents
 conntroller->controller
 conosuer->connoisseur
 conotation->connotation
+conosuer->connoisseur
 conotations->connotations
 conpares->compares
 conquerd->conquered
