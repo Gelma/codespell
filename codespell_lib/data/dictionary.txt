@@ -9897,6 +9897,7 @@ incorreect->incorrect
 incorreectly->incorrectly
 incorret->incorrect
 incorruptable->incorruptible
+incosistency->inconsistency
 incosistent->inconsistent
 incramentally->incrementally
 increadible->incredible
