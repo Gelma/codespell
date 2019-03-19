@@ -14638,6 +14638,7 @@ puchasing->purchasing
 Pucini->Puccini
 Puertorrican->Puerto Rican
 Puertorricans->Puerto Ricans
+puffer->buffer
 pulisher->publisher
 puls->pulse, plus,
 pumkin->pumpkin
