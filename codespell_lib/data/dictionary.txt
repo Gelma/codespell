@@ -20161,6 +20161,7 @@ zar->czar
 zeebra->zebra
 zefer->zephyr
 zellot->zealot
+zink->zinc
 ziped->zipped
 ziper->zipper
 ziping->zipping
