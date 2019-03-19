@@ -10635,6 +10635,7 @@ interprate->interpret
 interpreation->interpretation
 interpretated->interpreted
 interprete->interpret
+interpretended->interpreted
 interpretes->interprets
 interpretet->interpreted
 interpretion->interpretation
