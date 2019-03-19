@@ -19466,6 +19466,7 @@ vaccume->vacuum
 vaccuum->vacuum
 vacination->vaccination
 vacinity->vicinity
+vacume->vacuum
 vacuosly->vacuously
 vaguaries->vagaries
 vaiable->variable
