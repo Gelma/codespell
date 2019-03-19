@@ -1333,6 +1333,7 @@ anumber->a number
 anurism->aneurysm
 anway->anyway
 anways->anyway
+anwee->ennui
 anwser->answer
 anwsered->answered
 anwsering->answering
