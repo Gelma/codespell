@@ -1179,6 +1179,7 @@ ambigous->ambiguous
 ambiguious->ambiguous
 ambiguos->ambiguous
 amealearate->ameliorate
+ameba->amoeba
 amendement->amendment
 amendmant->amendment
 amened->amended, amend,
