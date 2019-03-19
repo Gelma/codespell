@@ -16259,6 +16259,7 @@ seemless->seamless
 seemlessly->seamlessly
 seesion->session
 seesions->sessions
+seez->seize
 segement->segment
 segementation->segmentation
 segements->segments
