@@ -11019,6 +11019,7 @@ konw->know
 konwn->known
 konws->knows
 kookoo->cuckoo
+koolot->culottes
 koordinate->coordinate
 koordinates->coordinates
 kown->known
