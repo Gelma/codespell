@@ -9857,6 +9857,7 @@ inconsistant->inconsistent
 inconsisten->inconsistent
 inconsistenly->inconsistently
 inconsisteny->inconsistency, inconsistent,
+inconsitency->inconsistency
 inconsitent->inconsistent
 inconstent->inconsistent, inconstant,
 inconvertable->inconvertible
