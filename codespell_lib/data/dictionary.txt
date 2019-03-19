@@ -13616,6 +13616,7 @@ pice->piece
 pich->pitch
 picknick->picnic
 pickyune->picayune
+picnicing->picnicking
 pilgrimmage->pilgrimage
 pilgrimmages->pilgrimages
 pinapple->pineapple
