@@ -6948,6 +6948,7 @@ eigth->eighth, eight,
 eihter->either
 einstance->instance
 eiter->either
+elapse->elapsed
 elction->election
 eleate->relate
 electic->eclectic, electric,
