@@ -13540,6 +13540,7 @@ persepectives->perspectives
 perserve->preserve
 perserverance->perseverance
 perseverence->perseverance
+persew->pursue
 persistance->persistence
 persistant->persistent
 persistantly->persistently
