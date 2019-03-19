@@ -3222,6 +3222,7 @@ chariman->chairman
 charistics->characteristics
 charizma->charisma
 chartroose->chartreuse
+charizma->charisma
 chasnge->change, changes,
 chasr->chaser, chase,
 chassy->chassis
