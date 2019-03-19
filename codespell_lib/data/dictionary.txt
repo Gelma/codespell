@@ -2306,6 +2306,7 @@ beachead->beachhead
 beacuse->because
 bearword->bareword
 beastiality->bestiality
+beastiary->bestiary
 beatiful->beautiful
 beauracracy->bureaucracy
 beaurocracy->bureaucracy
