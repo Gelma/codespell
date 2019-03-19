@@ -11808,6 +11808,7 @@ Microsof->Microsoft
 Microsofot->Microsoft
 Micrsft->Microsoft
 Micrsoft->Microsoft
+midevil->medieval
 midified->modified
 midwifes->midwives
 migth->might
