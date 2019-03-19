@@ -13575,6 +13575,7 @@ pevent->prevent
 pevents->prevents
 pewder->pewter
 pezier->bezier
+pharmasist->pharmacist
 Pharoah->Pharaoh
 phasepsace->phasespace
 phasis->phases
