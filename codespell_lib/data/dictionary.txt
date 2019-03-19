@@ -11455,6 +11455,7 @@ managment->management
 manaise->mayonnaise
 manal->manual
 manange->manage
+mananged->managed
 manangement->management
 mananger->manager
 manangers->managers
