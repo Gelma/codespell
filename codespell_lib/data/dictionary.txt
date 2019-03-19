@@ -11556,6 +11556,7 @@ massewer->masseur
 massmedia->mass media
 massoose->masseuse
 masster->master
+masstif->mastiff
 masterbation->masturbation
 mata-data->meta-data
 matadata->metadata
