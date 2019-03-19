@@ -11912,6 +11912,7 @@ misdameanor->misdemeanor
 misdameanors->misdemeanors
 misdemenor->misdemeanor
 misdemenors->misdemeanors
+miselaneous->miscellaneous
 misfourtunes->misfortunes
 misile->missile
 mising->missing
