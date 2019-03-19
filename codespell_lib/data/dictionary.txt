@@ -1295,6 +1295,7 @@ annyoingly->annoyingly
 anohter->another
 anologon->analogon
 anomally->anomaly
+anomolee->anomaly
 anomolies->anomalies
 anomolous->anomalous
 anomoly->anomaly
