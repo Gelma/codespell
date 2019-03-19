@@ -16807,6 +16807,7 @@ soiurce->source
 soket->socket
 sokets->sockets
 solarmutx->solarmutex
+solatare->solitaire
 solatary->solitary
 soler->solver, solar, solely,
 soley->solely
