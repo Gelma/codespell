@@ -6380,6 +6380,7 @@ discusson->discussion
 discussons->discussions
 discusting->disgusting
 disection->dissection
+discusting->disgusting
 disemination->dissemination
 disenchanged->disenchanted
 disencouraged->discouraged
