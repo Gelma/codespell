@@ -2707,9 +2707,9 @@ bundeled->bundled
 buoancy->buoyancy
 bureauracy->bureaucracy
 buring->burying, burning, burin, during,
-burocratic->bureaucratic
 burjun->burgeon
 buro->bureau
+burocratic->bureaucratic
 burried->buried
 burzwah->bourgeois
 busines->business
@@ -2718,9 +2718,9 @@ busness->business
 buss->bus
 busses->buses
 bussiness->business
+butiful->beautiful
 butons->buttons
 butterly->butterfly
-butiful->beautiful
 buttosn->buttons
 buttton->button
 butttons->buttons
@@ -2730,6 +2730,7 @@ byast->biased
 bycicle->bicycle
 byteoder->byte order
 byteorder->byte order, disabled due to Java class
+cabnet->cabinet
 cacahe->cache
 cacahes->caches
 cace->cache
