@@ -1248,6 +1248,7 @@ androidextra->androidextras
 androind->Android
 andthe->and the
 ane->and
+aneeling->annealing
 anevironment->environment
 ang->and
 anhoter->another
