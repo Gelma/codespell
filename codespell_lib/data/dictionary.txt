@@ -16583,6 +16583,7 @@ siezed->seized, sized,
 siezing->seizing, sizing,
 siezure->seizure
 siezures->seizures
+sift->shift
 sigen->sign
 sightly->slightly
 sigificance->significance
