@@ -1669,6 +1669,7 @@ armagedon->armageddon
 armamant->armament
 armistace->armistice
 armistis->armistice
+armorment->armament
 arn't->aren't
 arne't->aren't
 arogant->arrogant
