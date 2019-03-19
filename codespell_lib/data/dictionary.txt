@@ -2430,6 +2430,7 @@ beneits->benefits
 benerate->generate, venerate,
 benetifs->benefits
 beng->being
+benge->binge
 benhind->behind
 benificial->beneficial
 benifit->benefit
