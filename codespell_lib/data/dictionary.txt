@@ -2235,6 +2235,7 @@ azmith->azimuth
 ba->by, be,
 bacause->because
 baceause->because
+bachler->bachelor
 bacic->basic
 backards->backwards
 backbround->background
