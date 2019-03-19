@@ -11737,6 +11737,7 @@ mesage->message
 mesages->messages
 mesaureed->measured
 meshe->mesh, meshed, meshes,
+meskeeto->mosquito
 messag->message
 messagin->messaging
 messags->messages
