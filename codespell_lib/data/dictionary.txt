@@ -15735,6 +15735,7 @@ respectivley->respectively
 respectivly->respectively
 respnse->response
 respoduce->reproduce
+respoitory->repository
 responce->response
 responces->responses
 responde->respond, response, responds, responded, responder,
