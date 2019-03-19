@@ -6777,6 +6777,7 @@ droping->dropping
 droppend->dropped
 droppped->dropped
 dropse->drops
+drowt->drought
 druing->during
 druming->drumming
 drummless->drumless
