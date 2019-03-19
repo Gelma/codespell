@@ -2279,6 +2279,7 @@ baloon->balloon
 baloons->balloons
 balse->false
 banannas->bananas
+bandaid->band-aid
 bandwidht->bandwidth
 bandwitdh->bandwidth
 bandwith->bandwidth
