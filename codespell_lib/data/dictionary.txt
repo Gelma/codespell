@@ -2854,6 +2854,7 @@ callef->called
 calles->calls
 callibration->calibration
 callibri->calibri
+calliflower->cauliflower
 callig->calling
 callled->called
 calloed->called
