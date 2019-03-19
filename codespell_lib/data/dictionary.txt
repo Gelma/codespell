@@ -7120,6 +7120,7 @@ enclosung->enclosing
 enclude->include
 encluding->including
 encocded->encoded
+encompus->encompass
 enconding->encoding
 encondings->encodings
 encorded->encoded
