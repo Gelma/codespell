@@ -12959,6 +12959,7 @@ osciallator->oscillator
 oscilate->oscillate
 oscilated->oscillated
 oscilating->oscillating
+oscilliscope->oscilloscope
 osffset->offset
 osffsets->offsets
 osffsetting->offsetting
