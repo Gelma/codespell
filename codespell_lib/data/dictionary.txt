@@ -3058,6 +3058,7 @@ cehcked->checked
 cehcking->checking
 cehcks->checks
 Celcius->Celsius
+cellabration->celebration
 celles->cells
 cellpading->cellpadding
 cellst->cells
