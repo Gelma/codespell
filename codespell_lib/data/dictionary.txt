@@ -14543,6 +14543,7 @@ proteen->protein
 protential->potential
 protext->protect
 protocal->protocol
+protocall->protocol
 protocals->protocols
 protocl->protocol
 protoco->protocol
