@@ -6136,6 +6136,7 @@ differend->different
 differenes->differences
 differenly->differently
 differens->difference
+differentia->difference
 differentiatiations->differentiations
 differents->different, difference,
 differernt->different
