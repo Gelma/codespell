@@ -6676,6 +6676,7 @@ donwloading->downloading
 donwloads->downloads
 doocument->document
 doorjam->doorjamb
+dor->for
 dorce->force
 dorced->forced
 dorceful->forceful
