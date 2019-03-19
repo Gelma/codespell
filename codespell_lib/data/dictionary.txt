@@ -8421,6 +8421,7 @@ forementionned->aforementioned
 foreward->foreword, forward,
 forewarded->forewarded, forwarded,
 forfiet->forfeit
+forfit->forfeit
 forgeround->foreground
 forgoten->forgotten
 forground->foreground
