@@ -8336,6 +8336,7 @@ florescent->fluorescent
 floresent->fluorescent
 floride->fluoride
 floresent->fluorescent
+floride->fluoride
 floting->floating
 flourescent->fluorescent
 flouride->fluoride
