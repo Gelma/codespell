@@ -18767,6 +18767,7 @@ tyhe->they
 tyies->tries
 tyope->type
 typcial->typical
+typdef->typedef
 typechek->typecheck
 typecheking->typechecking
 typicall->typically, typical,
