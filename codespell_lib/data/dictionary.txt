@@ -3016,6 +3016,7 @@ catapillers->caterpillars
 catastrofy->catastrophe
 catastropically->catastrophically
 catched->caught
+catchip->ketchup
 catepillar->caterpillar
 catepillars->caterpillars
 catergorize->categorize
