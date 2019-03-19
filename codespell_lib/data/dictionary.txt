@@ -12494,6 +12494,7 @@ notmalize->normalize
 notmalized->normalized
 notmutch->notmuch
 notning->nothing
+notoreous->notorious
 notse->notes, note,
 nott->not
 notwhithstanding->notwithstanding
