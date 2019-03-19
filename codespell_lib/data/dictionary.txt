@@ -5966,6 +5966,7 @@ detur->detour
 deturance->deterrence
 deubug->debug
 deubuging->debugging
+deturance->deterrence
 deug->debug
 deugging->debugging
 devasted->devastated
