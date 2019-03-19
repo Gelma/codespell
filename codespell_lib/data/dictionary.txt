@@ -4064,6 +4064,7 @@ concieved->conceived
 concious->conscious
 conciously->consciously
 conciousness->consciousness
+concur->conquer
 concurence->concurrence
 concurency->concurrency
 concurent->concurrent
