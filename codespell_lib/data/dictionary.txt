@@ -8435,6 +8435,7 @@ Formalhaut->Fomalhaut
 formallize->formalize
 formallized->formalized
 formaly->formally, formerly,
+forman->foreman
 formate->format
 formated->formatted
 formates->formats
