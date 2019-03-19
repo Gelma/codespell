@@ -15949,6 +15949,7 @@ rference->reference
 rferences->references
 rfeturned->returned
 rgister->register
+rhinosarus->rhinoceros
 rhymme->rhyme
 rhythem->rhythm
 rhythim->rhythm
