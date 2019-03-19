@@ -19573,6 +19573,7 @@ vegatarian->vegetarian
 vegeterian->vegetarian
 vegitable->vegetable
 vegitables->vegetables
+vegitarion->vegetarian
 vegtable->vegetable
 vehicule->vehicle
 vektor->vector
