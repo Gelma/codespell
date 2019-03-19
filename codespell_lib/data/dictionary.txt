@@ -19588,6 +19588,7 @@ vengance->vengeance
 vengence->vengeance
 ventillate->ventilate
 venyet->vignette
+veragated->variegated
 verbatum->verbatim
 verbous->verbose
 verbouse->verbose
