@@ -1396,6 +1396,7 @@ apparoches->approaches
 appart->apart
 appartment->apartment
 appartments->apartments
+appathetic->apathetic
 appealling->appealing, appalling,
 appearantly->apparently
 appeareance->appearance
