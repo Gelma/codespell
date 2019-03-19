@@ -426,6 +426,7 @@ acssumed->assumed
 actally->actually
 actaul->actual
 actaully->actually
+acter->actor
 actibity->activity
 actine->active
 actiual->actual
