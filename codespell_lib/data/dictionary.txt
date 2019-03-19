@@ -19823,6 +19823,7 @@ wasnt'->wasn't
 wasnt->wasn't
 wasnt;->wasn't
 wass->was
+wasy->ways
 watchog->watchdog
 watermask->watermark
 wathc->watch
