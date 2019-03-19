@@ -19918,6 +19918,7 @@ whitch->which
 whitchever->whichever
 whitepsace->whitespace
 whitepsaces->whitespaces
+whitespaces->whitespace
 whith->with
 whithin->within
 whithout->without
