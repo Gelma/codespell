@@ -6903,6 +6903,7 @@ ect->etc
 ecxept->except
 ecxtracted->extracted
 EDCDIC->EBCDIC
+eczecutive->executive
 edditable->editable
 ede->edge
 ediable->editable
