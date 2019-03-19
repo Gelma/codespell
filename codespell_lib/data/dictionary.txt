@@ -14726,6 +14726,7 @@ quitt->quit
 quitted->quit
 quizes->quizzes
 quizs->quizzes
+quoshant->quotient
 quotaion->quotation
 quottes->quotes
 quried->queried
