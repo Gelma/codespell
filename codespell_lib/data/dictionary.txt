@@ -16586,6 +16586,7 @@ siezures->seizures
 sift->shift
 sigen->sign
 sighrynge->syringe
+sighth->scythe
 sightly->slightly
 sigificance->significance
 siginificant->significant
