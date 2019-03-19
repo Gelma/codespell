@@ -11669,6 +11669,7 @@ medias->media, mediums,
 mediciney->mediciny
 medievel->medieval
 medifor->metaphor
+medioker->mediocre
 mediterainnean->mediterranean
 Mediteranean->Mediterranean
 meeds->needs
