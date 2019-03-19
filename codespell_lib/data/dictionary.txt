@@ -11294,6 +11294,7 @@ litterally->literally
 litterals->literals
 litterate->literate
 litterature->literature
+liturature->literature
 liuke->like
 livel->level
 livetime->lifetime
