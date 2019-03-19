@@ -2240,6 +2240,7 @@ bacic->basic
 backaloriette->baccalaureate
 backards->backwards
 backbround->background
+backed->backend
 backgorund->background
 backgound->background
 backgournd->background
