@@ -2839,6 +2839,7 @@ caleed->called
 calender->calendar
 calenders->calendars
 caler->caller
+calfes->calves
 calibrte->calibrate
 calibrtion->calibration
 caligraphy->calligraphy
