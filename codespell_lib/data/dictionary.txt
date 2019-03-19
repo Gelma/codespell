@@ -11711,6 +11711,7 @@ memmory->memory
 memor->memory
 memorise->memorise, memorize,
 memorys->memories
+memove->memmove
 mempry->memory
 memroy->memory
 menally->mentally
