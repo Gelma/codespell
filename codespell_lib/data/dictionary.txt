@@ -2486,6 +2486,7 @@ binominal->binomial
 bistream->bitstream
 bitamps->bitmaps
 bitwise-orring->bitwise-oring
+bivwack->bivouac
 bizare->bizarre
 bizarely->bizarrely
 bizzare->bizarre
