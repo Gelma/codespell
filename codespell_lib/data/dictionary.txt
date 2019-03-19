@@ -2231,6 +2231,7 @@ axises->axes
 axpressed->expressed
 ayway->anyway, away,
 azma->asthma
+azmith->azimuth
 ba->by, be,
 bacause->because
 baceause->because
