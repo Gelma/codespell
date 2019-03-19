@@ -8982,6 +8982,7 @@ gurrantee->guarantee
 guttaral->guttural
 gutteral->guttural
 gziped->gzipped
+guyzer->geyser
 haa->has
 habaeus->habeas
 habbit->habit
