@@ -1740,6 +1740,7 @@ asscciated->associated
 asscociated->associated
 asscoitaed->associated
 assebly->assembly
+assemalate->assimilate
 assember->assembler
 assemby->assembly
 assemnly->assembly
