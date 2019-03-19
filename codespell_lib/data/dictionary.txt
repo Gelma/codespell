@@ -10812,6 +10812,7 @@ inviation->invitation
 invididual->individual
 invidual->individual
 invidually->individually
+invisbile->invisible
 invisiable->invisible
 invisibile->invisible
 invisivble->invisible
