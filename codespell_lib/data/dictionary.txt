@@ -2491,6 +2491,7 @@ binairy->binary
 binanary->binary
 binay->binary
 binominal->binomial
+biscut->biscuit
 bistream->bitstream
 bitamps->bitmaps
 bitwise-orring->bitwise-oring
