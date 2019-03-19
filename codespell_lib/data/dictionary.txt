@@ -13634,6 +13634,7 @@ placeholer->placeholder
 placeholers->placeholders
 placemenet->placement
 placholder->placeholder
+plack->plaque
 placmenet->placement
 plaform->platform
 plaforms->platforms
