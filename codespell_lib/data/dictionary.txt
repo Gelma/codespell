@@ -11178,6 +11178,7 @@ levl->level
 levle->level
 lew->lieu
 lewchemia->leukemia
+lewow->luau
 lexial->lexical
 leyer->layer
 liasion->liaison
