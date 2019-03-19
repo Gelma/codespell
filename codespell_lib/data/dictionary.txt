@@ -11247,6 +11247,7 @@ limititer->limiter
 limititers->limiters
 limititing->limiting
 limitted->limited
+limosine->limousine
 limted->limited
 lincese->license
 lincesed->licensed
