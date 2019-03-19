@@ -3854,6 +3854,7 @@ compatiblity->compatibility
 compatitbility->compatibility
 compativle->compatible
 compaytibility->compatibility
+compeat->compete
 compeitions->competitions
 compeletely->completely
 compelte->complete
