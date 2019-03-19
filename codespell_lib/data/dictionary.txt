@@ -6914,6 +6914,7 @@ editedt->edited
 editiing->editing
 editting->editing
 eearly->early
+eeger->eager
 eescription->description
 efect->effect
 efective->effective
