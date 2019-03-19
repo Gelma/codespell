@@ -14734,6 +14734,7 @@ quroum->quorum
 qutie->quite, quiet,
 qwesant->croissant
 rabinnical->rabbinical
+rabit->rabbit
 racaus->raucous
 ractise->practise
 rade->read, raid,
