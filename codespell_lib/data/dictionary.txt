@@ -11788,7 +11788,6 @@ metion->mention
 metioned->mentioned
 metod->method
 metods->methods
-metres->meters
 meybe->maybe
 mezmorize->mesmerize
 miagic->magic
