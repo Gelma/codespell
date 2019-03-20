@@ -11165,7 +11165,6 @@ lepracy->leporsy
 leran->learn
 lerans->learns
 lesstiff->lesstif
-lest->least
 letgitimate->legitimate
 letmost->leftmost
 leutenant->lieutenant
