@@ -1,4 +1,7 @@
 1nd->1st
+<<<<<<< HEAD
+=======
+>>>>>>> Add misc words
 a-diaerers->a-diaereses
 aaccessibility->accessibility
 aaccession->accession
@@ -20158,4 +20161,5 @@ ziping->zipping
 zlot->slot
 zoon->zoom, zoon,
 zuser->user
+||||||| merged common ancestors
 évaluate->evaluate
