@@ -2608,6 +2608,7 @@ braodcasted->broadcasted
 Brasillian->Brazilian
 brazeer->brassiere
 bre->be, brie,
+breaked->broke
 breakes->breaks
 breakthough->breakthrough
 breakthroughts->breakthroughs
