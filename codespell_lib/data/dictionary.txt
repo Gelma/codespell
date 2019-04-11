@@ -3349,6 +3349,7 @@ circularly->circular, circularly,
 circulaton->circulation
 circumferencial->circumferential
 circumsicion->circumcision
+circumstnces->circumstances
 circustances->circumstances
 circut->circuit
 circuts->circuits
