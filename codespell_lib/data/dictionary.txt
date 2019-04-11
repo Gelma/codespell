@@ -4764,6 +4764,7 @@ cootdinated->coordinated
 cootdinates->coordinates
 cootdinating->coordinating
 cootdination->coordination
+copatibility->compatibility
 copeing->copying
 copiing->copying
 copiler->compiler
