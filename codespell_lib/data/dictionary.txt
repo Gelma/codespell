@@ -13418,6 +13418,7 @@ parrallell->parallel
 parrallelly->parallelly
 parrallely->parallelly
 parrent->parent
+parseable->parsable
 parseing->parsing
 parsering->parsing
 parsin->parsing
