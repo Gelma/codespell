@@ -14878,6 +14878,7 @@ recalcuated->recalculated
 recalcution->recalculation
 recalulate->recalculate
 recalulation->recalculation
+recan->rescan
 reccomend->recommend
 reccomendations->recommendations
 reccomended->recommended
