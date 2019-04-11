@@ -19682,6 +19682,7 @@ verbse->verbose
 veresion->version
 veresions->versions
 verfication->verification
+verfiy->verify
 verfy->verify
 verfying->verifying
 verifi->verify, verified,
