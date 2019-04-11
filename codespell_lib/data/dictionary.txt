@@ -17028,6 +17028,7 @@ speciefied->specified
 specif->specific, specify,
 specifactions->specifications
 specifc->specific
+specifcally->specifically
 specifcation->specification
 specifcations->specifications
 specifcied->specified
