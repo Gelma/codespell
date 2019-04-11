@@ -17695,6 +17695,7 @@ sugests->suggests
 suggestsed->suggested
 suggesttion->suggestion
 suggesttions->suggestions
+sugnals->signals
 suh->such
 suiete->suite
 suiteable->suitable
