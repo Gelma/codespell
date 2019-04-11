@@ -18933,6 +18933,7 @@ tyope->type
 typcial->typical
 typechek->typecheck
 typecheking->typechecking
+typescriot->typescript
 typicall->typically, typical,
 typicaly->typically
 typicially->typically
