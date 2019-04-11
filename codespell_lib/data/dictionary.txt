@@ -7820,6 +7820,7 @@ exibition->exhibition
 exibitions->exhibitions
 exicting->exciting
 exinct->extinct
+exis->exist
 exising->existing
 exisit->exist
 exisited->existed
