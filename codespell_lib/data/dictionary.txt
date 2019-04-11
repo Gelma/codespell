@@ -6148,6 +6148,7 @@ differantiation->differentiation
 differantiator->differentiator
 differantion->differentiation
 differate->differentiate
+differece->difference
 differect->different
 differen->different
 differencial->differential
