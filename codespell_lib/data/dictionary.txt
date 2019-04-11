@@ -999,6 +999,7 @@ alinments->alignments
 alising->aliasing
 aliver->alive, liver,
 allcate->allocate
+allcated->allocated
 allcation->allocation
 allcoated->allocated
 alle->all
