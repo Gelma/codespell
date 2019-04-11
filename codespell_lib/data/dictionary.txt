@@ -17424,6 +17424,7 @@ stript->stripped
 strirngification->stringification
 strnad->strand
 stroage->storage
+strogly->strongly
 stroing->storing
 stronlgy->strongly
 stronly->strongly
