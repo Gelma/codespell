@@ -1494,6 +1494,7 @@ appropiately->appropriately
 approppriately->appropriately
 appropraite->appropriate
 appropraitely->appropriately
+approprate->appropriate
 appropriatedly->appropriately
 appropriatly->appropriately
 appropriatness->appropriateness
