@@ -5528,6 +5528,7 @@ dekstop->desktop
 dekstops->desktops
 delagate->delegate
 delagates->delegates
+delallocate->deallocate
 delapidated->dilapidated
 delarations->declarations
 delare->declare
