@@ -12209,6 +12209,7 @@ movment->movement
 mozila->Mozilla
 mroe->more
 MSDOS->MS-DOS
+msqid->msgid
 mssing->missing
 mthod->method
 mtuually->mutually
