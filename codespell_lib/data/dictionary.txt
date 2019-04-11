@@ -16287,6 +16287,7 @@ scalled->scaled
 scandanavia->Scandinavia
 scaned->scanned
 scaning->scanning
+scannig->scanning
 scannning->scanning
 scarch->search
 scaricity->scarcity
