@@ -7315,6 +7315,7 @@ enthousiasm->enthusiasm
 enthusiam->enthusiasm
 enthusiatic->enthusiastic
 entierly->entirely
+enties->entities
 entired->entered, entire,
 entireity->entirety
 entires->entries
