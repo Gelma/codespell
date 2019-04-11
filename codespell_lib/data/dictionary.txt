@@ -18557,6 +18557,7 @@ Tolkein->Tolkien
 tollerable->tolerable
 tollerance->tolerance
 tolology->topology
+tolopogy->topopogy
 tomatoe->tomato
 tomatos->tomatoes
 tommorow->tomorrow
