@@ -4466,6 +4466,7 @@ consulant->consultant
 consumate->consummate
 consumated->consummated
 consumating->consummating
+consumpption->consumption
 contacentaion->concatenation
 contagen->contagion
 contaier->container
