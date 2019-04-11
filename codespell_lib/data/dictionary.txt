@@ -16373,6 +16373,7 @@ sectin->section
 sectins->sections
 sectionis->section is
 sectionning->sectioning
+sectrors->sectors
 secund->second
 securtity->security
 securtiy->security
