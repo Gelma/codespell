@@ -15956,6 +15956,7 @@ resurce->resource
 resurecting->resurrecting
 resursive->recursive
 resursively->recursively
+resut->result
 resuts->results
 resycn->resync
 retalitated->retaliated
