@@ -2365,6 +2365,7 @@ begginning->beginning
 beggins->begins
 begiinning->beginning
 begines->begins
+beginig->begin
 begining->beginning
 beginn->begin
 beginnig->beginning
