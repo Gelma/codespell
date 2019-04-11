@@ -8243,6 +8243,7 @@ fetaure->feature
 fetaures->features
 fetchs->fetches
 feture->feature
+fetures->features
 fewd->few, feud,
 fewg->few, fugue,
 fewsha->fuchsia
