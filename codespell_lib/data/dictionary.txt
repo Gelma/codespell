@@ -14361,6 +14361,7 @@ privilages->privileges
 priviledge->privilege
 priviledged->privileged
 priviledges->privileges
+privilegies->privileges
 privilige->privilege
 priviliged->privileged
 priviliges->privileges
