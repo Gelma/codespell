@@ -10273,6 +10273,7 @@ initialzation->initialization
 initialze->initialize
 initialzed->initialized
 initialzes->initializes
+initialzied->initialized
 initialzing->initializing
 initiliase->initialise, initialize,
 initiliased->initialised, initialized,
