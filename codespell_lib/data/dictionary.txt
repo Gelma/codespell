@@ -17892,6 +17892,7 @@ symetrical->symmetrical
 symetrically->symmetrically
 symetry->symmetry
 symettric->symmetric
+symlinks->symlink
 symmetic->symmetric
 symmetral->symmetric
 symmetri->symmetry
