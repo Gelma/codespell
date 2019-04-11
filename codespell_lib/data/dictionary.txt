@@ -10804,6 +10804,7 @@ intitials->initials
 intity->entity
 intot->into
 intpreter->interpreter
+intput->input
 intputs->inputs
 intrduced->introduced
 intreeg->intrigue
