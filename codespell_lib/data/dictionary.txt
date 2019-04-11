@@ -13460,6 +13460,7 @@ partitiion->partition
 partitining->partitioning
 partitioing->partitioning
 partitiones->partitions
+partitionning->partitioning
 partiton->partition
 partitoning->partitioning
 pary->party, parry,
