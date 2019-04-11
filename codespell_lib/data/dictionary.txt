@@ -8421,6 +8421,7 @@ followng->following
 follwing->following
 follwoing->following
 folowing->following
+folrmat->format
 folx->folks
 fomat->format
 fomated->formatted
