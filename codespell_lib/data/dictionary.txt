@@ -9682,6 +9682,7 @@ implementaton->implementation
 implementator->implementer
 implementators->implementers
 implementattion->implementation
+implementd->implemented
 implemente->implement, implemented,
 implementes->implements
 implementet->implemented
