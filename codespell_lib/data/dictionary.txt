@@ -19534,6 +19534,7 @@ updatig->updating
 updats->updates
 updgrade->upgrade
 updwtmp->updwtmpx
+uperblok->superblock
 uperclass->upperclass
 upgade->upgrade
 upgarde->upgrade
