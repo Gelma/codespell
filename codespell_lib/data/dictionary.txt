@@ -5692,6 +5692,7 @@ deploymenets->deployments
 depnds->depends
 deporarily->temporarily
 depracated->deprecated
+depreacated->deprecated
 depreacte->deprecate
 depreacted->deprecated
 deprecatedf->deprecated
