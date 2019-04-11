@@ -13464,6 +13464,7 @@ partitionning->partitioning
 partiton->partition
 partitoning->partitioning
 partitons->partitions
+partitsion->partition
 pary->party, parry,
 pase->pass, pace, parse,
 pased->passed
