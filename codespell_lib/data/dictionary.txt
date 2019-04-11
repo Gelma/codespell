@@ -1596,6 +1596,7 @@ architechturally->architecturally
 architechture->architecture
 architechtures->architectures
 architectual->architectural
+architectured->architectures
 architecturs->architectures
 architecturse->architectures
 architecure->architecture
