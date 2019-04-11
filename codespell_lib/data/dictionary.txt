@@ -13359,6 +13359,7 @@ parial->partial
 parially->partially
 parisitic->parasitic
 paritial->partial
+paritical->partial
 parition->partition
 paritioning->partitioning
 paritition->partition
