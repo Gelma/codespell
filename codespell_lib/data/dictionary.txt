@@ -16931,6 +16931,7 @@ soop->soup, scoop, snoop,
 soource->source
 sophicated->sophisticated
 sophmore->sophomore
+sopies->copies
 sorce->source
 sorceror->sorcerer
 sord->sword, sore, sored, sawed,
