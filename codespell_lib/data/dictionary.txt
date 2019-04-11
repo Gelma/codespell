@@ -8166,6 +8166,7 @@ fature->feature
 faught->fought
 fauilures->failures
 faund->found
+fautly->faulty
 fave->save
 favoutrable->favourable
 faymus->famous
