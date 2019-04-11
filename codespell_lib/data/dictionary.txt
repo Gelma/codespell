@@ -18575,6 +18575,7 @@ tooo->todo
 toos->tools
 tootonic->teutonic
 topicaizer->topicalizer
+toplogy->topology
 topologie->topology
 torerable->tolerable
 toriodal->toroidal
