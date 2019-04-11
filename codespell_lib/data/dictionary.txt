@@ -18514,6 +18514,7 @@ timmestamp->timestamp
 timming->timing
 timne->time
 timout->timeout
+timrout->timeout
 timtout->timeout
 tinterrupts->interrupts
 tiome->time, tome,
