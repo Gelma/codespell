@@ -8298,6 +8298,7 @@ filnal->final
 filname->filename
 filsystem->filesystem
 filterring->filtering
+filure->failure
 fime->fixme, time,
 fimilies->families
 finacial->financial
