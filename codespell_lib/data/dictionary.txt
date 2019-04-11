@@ -8979,6 +8979,7 @@ grammers->grammars
 granchildren->grandchildren
 granilarity->granularity
 granulatiry->granularity
+granulity->granularity
 grapgics->graphics
 graphcis->graphics
 grapic->graphic
