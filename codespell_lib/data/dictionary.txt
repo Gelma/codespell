@@ -12008,6 +12008,7 @@ misscounted->miscounted
 missen->mizzen
 missin->mission, missing,
 missings->missing
+missiong->missing
 Missisipi->Mississippi
 Missisippi->Mississippi
 missle->missile
