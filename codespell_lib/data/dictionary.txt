@@ -6292,6 +6292,7 @@ direcotory->directory
 direcotries->directories
 direcotry->directory
 direcoty->directory
+direcrory->directory
 directd->directed
 directes->directs
 directgories->directories
