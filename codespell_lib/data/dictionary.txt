@@ -16807,6 +16807,7 @@ skiped->skipped, skyped,
 skiping->skipping
 skipp->skip, skipped,
 skippd->skipped
+skippped->skipped
 skipt->skip, Skype, skipped,
 skyp->skip, Skype,
 slase->slash
