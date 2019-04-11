@@ -9800,6 +9800,7 @@ improvments->improvements
 imput->input
 imrovement->improvement
 in-memeory->in-memory
+inable->unable
 inablility->inability
 inacccessible->inaccessible
 inaccesible->inaccessible
