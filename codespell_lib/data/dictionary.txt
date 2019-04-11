@@ -4817,6 +4817,7 @@ coresponded->corresponded
 corespondence->correspondence
 coresponding->corresponding
 coresponds->corresponds
+coreutuls->coreutils
 corfirms->confirms
 coridal->cordial
 corispond->correspond
