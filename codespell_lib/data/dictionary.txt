@@ -18988,6 +18988,7 @@ uminportant->unimportant
 umit->unit
 umlimited->unlimited
 ummark->unmark
+umoumt->umount
 umoutn->umount
 unabailable->unavailable
 unabale->unable
