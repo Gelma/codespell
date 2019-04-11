@@ -16877,6 +16877,7 @@ slect->select
 slected->selected
 slecting->selecting
 slection->selection
+sleepp->sleep
 slient->silent
 slighlty->slightly
 slighly->slightly
