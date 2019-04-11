@@ -5967,6 +5967,7 @@ determinne->determine
 determins->determines
 determinstic->deterministic
 determinstically->deterministically
+determint->determine
 determintes->determines
 determnine->determine
 detet->detect, delete,
