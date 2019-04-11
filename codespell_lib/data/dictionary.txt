@@ -16753,6 +16753,7 @@ signular->singular
 signularity->singularity
 silentely->silently
 silenty->silently
+sillently->silently
 simialr->similar
 simiar->similar
 similarily->similarly
