@@ -11284,6 +11284,7 @@ libray->library
 libreoffie->libreoffice
 libreoficekit->libreofficekit
 libries->libraries
+librray->library
 libstc++->libstdc++
 licenceing->licencing
 licese->license
