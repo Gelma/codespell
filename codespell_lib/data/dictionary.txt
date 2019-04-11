@@ -8850,6 +8850,7 @@ getlael->getlabel
 getoe->ghetto
 getoject->getobject
 gettetx->gettext
+gettig->getting
 gettter->getter
 gettters->getters
 getttext->gettext
