@@ -7012,6 +7012,7 @@ eleminated->eliminated
 eleminates->eliminates
 eleminating->eliminating
 elemnt->element
+elemntary->elementary
 elemnts->elements
 elemtary->elementary
 elenment->element
