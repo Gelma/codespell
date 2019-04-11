@@ -19174,6 +19174,7 @@ unformated->unformatted
 unforseen->unforeseen
 unfortuante->unfortunate
 unfortuantely->unfortunately
+unfortuately->unfortunately
 unfortunatelly->unfortunately
 unfortunatetly->unfortunately
 unfortunatley->unfortunately
