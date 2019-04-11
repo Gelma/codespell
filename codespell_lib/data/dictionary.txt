@@ -2472,6 +2472,7 @@ bianries->binaries
 bianry->binary
 biappicative->biapplicative
 bidimentionnal->bidimensional
+biffer->bigger
 bigining->beginning
 biginning->beginning
 bilangual->bilingual
