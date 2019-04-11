@@ -9268,6 +9268,7 @@ hisory->history
 hist->heist, his,
 histgram->histogram
 histocompatability->histocompatibility
+historgram->histogram
 histori->history, historic,
 historicians->historians
 historycal->historical
