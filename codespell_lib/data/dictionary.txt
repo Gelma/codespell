@@ -12193,6 +12193,7 @@ mountpoit->mountpoint
 mountpont->mountpoint
 mountpopint->mountpoint
 mouspointer->mousepointer
+moutinfo->mountinfo
 moutn->mount
 moutned->mounted
 moutning->mounting
