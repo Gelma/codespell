@@ -17139,6 +17139,7 @@ spedified->specified
 spedify->specify
 speeak->speak
 speeaking->speaking
+speend->speed
 speep->sleep
 speep-up->speed-up
 speeped->sped
