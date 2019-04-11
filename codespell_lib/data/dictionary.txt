@@ -19106,6 +19106,7 @@ unfourtunately->unfortunately
 unfourtunetly->unfortunately
 unfurtunately->unfortunately
 ungeneralizeable->ungeneralizable
+ungliend->unaligned
 unhandeled->unhandled
 unhilight->unhighlight
 unhilighted->unhighlighted
