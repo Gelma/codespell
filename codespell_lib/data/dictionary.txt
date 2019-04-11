@@ -8896,6 +8896,7 @@ globbal->global
 glorfied->glorified
 glpyh->glyph
 glpyhs->glyphs
+glush->flush
 glyh->glyph
 glyhs->glyphs
 glyped->glyphed
