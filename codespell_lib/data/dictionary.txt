@@ -17214,6 +17214,7 @@ sqeuence->sequence
 squence->sequence
 squirel->squirrel
 squirl->squirrel
+sratch->scratch
 srcipt->script
 srcipts->scripts
 sreenshot->screenshot
