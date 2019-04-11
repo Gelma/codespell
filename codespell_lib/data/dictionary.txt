@@ -19432,6 +19432,7 @@ unsignificant->insignificant
 unsinged->unsigned
 unspecificed->unspecified
 unspported->unsupported
+unssuported->unsupported
 unstall->install, uninstall,
 unstallation->installation, uninstallation,
 unstalled->installed, uninstalled,
