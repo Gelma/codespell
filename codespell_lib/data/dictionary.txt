@@ -9036,6 +9036,7 @@ halpoints->halfpoints
 hammmer->hammer
 hampster->hamster
 handel->handle
+hande->hand
 handeld->handled, handheld,
 handeled->handled, handheld,
 handeler->handler
