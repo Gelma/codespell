@@ -3856,6 +3856,7 @@ compatiability->compatibility
 compatiable->compatible
 compatiablity->compatibility
 compatibile->compatible
+compatibililty->compatibility
 compatibiliy->compatibility
 compatibilty->compatibility
 compatibily->compatibility
