@@ -16014,6 +16014,7 @@ revolutionar->revolutionary
 revrese->reverse
 rewirte->rewrite
 rewitable->rewritable
+rewite->rewrite
 rewitten->rewritten
 rewriet->rewrite
 rewrited->rewrote, rewritten,
