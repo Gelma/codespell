@@ -12547,6 +12547,7 @@ notatin->notation
 noteable->notable
 noteably->notably
 noteriety->notoriety
+notest->notes
 notfication->notification
 notfications->notifications
 noth->north
