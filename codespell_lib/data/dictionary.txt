@@ -14246,6 +14246,7 @@ prinicipal->principal
 printting->printing
 prioritiy->priority
 priorty->priority
+priot->prior
 prirority->priority
 priting->printing
 privalege->privilege
