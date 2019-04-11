@@ -1035,6 +1035,7 @@ allocat->allocate
 allocatbale->allocatable
 allocatoor->allocator
 alloced->allocated
+allocing->allocating
 allocte->allocate
 allocted->allocated
 alloctor->allocator
