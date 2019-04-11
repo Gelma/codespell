@@ -4162,6 +4162,7 @@ configues->configures
 configuraion->configuration
 configuraiton->configuration
 configuratin->configurating
+configuratio->configuration
 configuratiom->configuration
 configuratioon->configuration
 configuratoin->configuration
