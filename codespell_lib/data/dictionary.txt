@@ -15292,6 +15292,7 @@ regluar->regular
 regon->region
 regorded->recorded
 regresion->regression
+regrex->regex
 regrigerator->refrigerator
 regsiter->register
 regsitered->registered
