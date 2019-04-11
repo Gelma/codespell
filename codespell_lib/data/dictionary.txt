@@ -8490,6 +8490,7 @@ formend->formed
 formes->forms, formed,
 formidible->formidable
 formmatted->formatted
+formmatting->formatting
 formost->foremost
 formt->format
 formua->formula
