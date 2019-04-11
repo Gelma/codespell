@@ -2506,6 +2506,7 @@ blanace->balance
 blanck->blank, black,
 blancked->blanked
 blatent->blatant
+blck->block
 blcok->block
 blcoks->blocks
 bleading->bleeding
