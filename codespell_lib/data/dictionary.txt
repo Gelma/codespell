@@ -17187,6 +17187,7 @@ sponzored->sponsored
 spoonfulls->spoonfuls
 sporatic->sporadic
 sporious->spurious
+spost->post
 sppeches->speeches
 spport->support
 spported->supported
