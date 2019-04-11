@@ -11953,6 +11953,7 @@ mintors->mentors, monitors,
 minum->minimum
 minumum->minimum
 minuts->minutes
+minux->minix
 miplementation->implementation
 mirconesia->micronesia
 mircosoft->Microsoft
