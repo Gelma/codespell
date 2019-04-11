@@ -13443,6 +13443,7 @@ pasword->password
 patckets->packets
 patern->pattern
 paterns->patterns
+pathame->pathname
 pathane->pathname
 pathced->patched
 pathes->paths
