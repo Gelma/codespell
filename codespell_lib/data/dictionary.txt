@@ -13499,6 +13499,7 @@ pathnme->pathname
 patial->spatial
 paticular->particular
 paticularly->particularly
+patition->partition
 patrent->parent, patent, patron,
 pattented->patented
 pattersn->patterns
