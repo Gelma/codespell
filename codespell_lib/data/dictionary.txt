@@ -7460,6 +7460,7 @@ erorr->error
 erorrs->errors
 erors->errors
 erraneously->erroneously
+errase->erase
 erro->error
 erroneus->erroneous
 erroneusly->erroneously
