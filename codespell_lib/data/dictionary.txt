@@ -6389,6 +6389,7 @@ discovereability->discoverability
 discovr->discover
 discreminates->discriminates
 discrepencies->discrepancies
+discrepency->discrepancy
 discrepicies->discrepancies
 discribe->describe
 discribed->described
