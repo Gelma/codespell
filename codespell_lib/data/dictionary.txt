@@ -12183,6 +12183,7 @@ moue->mouse
 mould->mold, mould, module,
 moun->mount
 mouninfo->mountinfo
+mounninfo->mountinfo
 mounth->month, mouth,
 mountian->mountain
 mountpiont->mountpoint
