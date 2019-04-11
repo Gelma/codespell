@@ -15892,6 +15892,7 @@ ressemle->resemble
 ressetting->resetting
 ressize->resize
 ressource->resource
+ressourcen->resource
 ressources->resources
 resssurecting->resurrecting
 ressult->result
