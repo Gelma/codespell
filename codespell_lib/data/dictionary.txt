@@ -17367,6 +17367,7 @@ strores->stores
 stroring->storing
 strotage->storage
 stroy->story, destroy,
+strpie->stripe
 struc->struct
 strucrure->structure
 strucrured->structured
