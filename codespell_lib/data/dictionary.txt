@@ -10815,6 +10815,7 @@ inverion->inversion
 inverions->inversions
 invers->inverse, invert,
 invertibrates->invertebrates
+invertory->inventory
 inverval->interval
 invesitgated->investigated
 invesitgating->investigating
