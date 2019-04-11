@@ -3784,6 +3784,7 @@ commuication->communication
 commuications->communications
 commuinications->communications
 communcation->communication
+communcations->communications
 communciation->communication
 communiation->communication
 communicatie->communication
