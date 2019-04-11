@@ -19325,6 +19325,7 @@ unnessesary->unnecessary
 unnessessarily->unnecessarily
 unnessessary->unnecessary
 unning->running
+unnsupported->unsupported
 unocde->Unicode
 unoffical->unofficial
 unompress->uncompress
