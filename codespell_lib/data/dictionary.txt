@@ -8224,6 +8224,7 @@ Feburary->February
 fedality->fidelity
 fedreally->federally
 feeback->feedback
+feedbadk->feedback
 feeded->fed
 feek->feel
 feeks->feels
