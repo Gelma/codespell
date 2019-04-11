@@ -17644,6 +17644,7 @@ sunglases->sunglasses
 suntask->subtask
 suop->soup
 supeblock->superblock
+supeblocks->superblocks
 supeena->subpoena
 supercalifragilisticexpialidoceous->supercalifragilisticexpialidocious
 supercede->supersede
