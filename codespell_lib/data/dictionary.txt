@@ -18918,6 +18918,7 @@ unacceptible->unacceptable
 unaccesible->unaccessible
 unacompanied->unaccompanied
 unahppy->unhappy
+unalianged->unaligned
 unalllowed->unallowed
 unambigious->unambiguous
 unambigously->unambiguously
