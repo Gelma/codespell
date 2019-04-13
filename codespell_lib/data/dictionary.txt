@@ -16353,6 +16353,7 @@ scritpts->scripts
 scrollablbe->scrollable
 scrollin->scrolling
 scroolbar->scrollbar
+scrpit->script
 scrren->screen
 scrutinity->scrutiny
 scuccessully->successfully
