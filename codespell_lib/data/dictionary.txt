@@ -4972,6 +4972,7 @@ counpounds->compounds
 counries->countries
 countain->contain
 countainer->container
+countaining->containing
 countains->contains
 counterfit->counterfeit
 counterintuive->counter intuitive
