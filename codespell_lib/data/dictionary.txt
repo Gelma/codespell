@@ -2473,6 +2473,7 @@ betwene->between
 betwern->between
 beuracracy->bureaucracy
 bever->never
+bevice->device
 bevore->before
 beweeen->between
 beween->between
