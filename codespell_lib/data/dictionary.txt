@@ -10236,6 +10236,7 @@ inherithed->inherited
 inherithing->inheriting
 inheriths->inherits
 inheritted->inherited
+inhert->inherit
 inhomogenous->inhomogeneous
 inialized->initialized
 inidicates->indicates
