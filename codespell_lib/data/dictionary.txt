@@ -16138,6 +16138,7 @@ roatation->rotation
 roated->rotated
 roation->rotation
 roboustness->robustness
+robuest->robust
 Rockerfeller->Rockefeller
 rococco->rococo
 rocord->record
