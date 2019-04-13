@@ -16568,6 +16568,7 @@ sequelce->sequence
 sequencial->sequential
 sequencially->sequentially
 sequencies->sequences
+sequentialy->sequentially
 sequenzes->sequences
 sequeze->squeeze, sequence,
 sequnces->sequences
