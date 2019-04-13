@@ -8552,6 +8552,7 @@ forwading->forwarding
 forwads->forwards
 forwardig->forwarding
 forwared->forwarded, forward,
+forwever->forever
 forwwarded->forwarded
 fot->for
 foto->photo
