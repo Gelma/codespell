@@ -1913,6 +1913,7 @@ asynchornous->asynchronous
 asynchrnous->asynchronous
 asynchron->asynchronous
 asynchroneously->asynchronously
+asynchronic->asynchronous
 asynchronious->asynchronous
 asynchrons->asynchronous
 asynchrounous->asynchronous
