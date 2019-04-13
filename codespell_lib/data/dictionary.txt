@@ -10436,6 +10436,7 @@ ins't->isn't
 insallation->installation
 insalled->installed
 insance->instance, insane,
+insatll->install
 inscpeting->inspecting
 insde->inside
 insectiverous->insectivorous
