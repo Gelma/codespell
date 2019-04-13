@@ -8291,6 +8291,7 @@ fielname->filename
 fielneame->filename
 fiels->feels, fields, files, phials,
 fiercly->fiercely
+figgure->figure
 fightings->fighting
 filal->final
 fileds->fields
