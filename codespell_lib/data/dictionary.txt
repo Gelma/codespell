@@ -14339,6 +14339,7 @@ prference->preference
 prferred->preferred
 prgram->program
 priave->private
+priary->primary
 pricipal->principal
 priciple->principle
 priciples->principles
