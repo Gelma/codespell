@@ -11912,6 +11912,7 @@ Micrsft->Microsoft
 Micrsoft->Microsoft
 midified->modified
 midwifes->midwives
+migate->migrate
 migth->might
 mikrosecond->microsecond
 mikroseconds->microseconds
