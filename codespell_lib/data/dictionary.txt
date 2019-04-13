@@ -1675,6 +1675,7 @@ arogant->arrogant
 arogent->arrogant
 aronud->around
 aroud->around
+arounded->around
 aroung->around
 arount->around
 arragement->arrangement
