@@ -4245,6 +4245,7 @@ congifure->configure
 congifured->configured
 congradulations->congratulations
 congresional->congressional
+conherency->coherency
 conider->consider
 conig->config
 conincide->coincide
