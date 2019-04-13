@@ -15400,6 +15400,7 @@ rehersal->rehearsal
 rehersing->rehearsing
 reicarnation->reincarnation
 reigining->reigning
+reigon->region
 reigster->register
 reigstered->registered
 reigstering->registering
