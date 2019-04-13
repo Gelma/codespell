@@ -3366,6 +3366,7 @@ ciritcal->critical
 ciriteria->criteria
 cirle->circle
 cirles->circles
+cirmcustances->circumstances
 cirsumstances->circumstances
 cirtcuit->circuit
 cirucal->circular
