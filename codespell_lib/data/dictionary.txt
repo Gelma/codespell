@@ -3175,6 +3175,7 @@ characers->characters
 characeter->character
 characeters->characters
 characetrs->characters
+characgters->characters
 characher->character
 charachers->characters
 charachter->character
