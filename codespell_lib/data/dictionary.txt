@@ -18681,13 +18681,11 @@ transaction-spacific->transaction-specific
 transactoin->transaction
 transalate->translate
 transalte->translate
-transation->transaction, translation,
-transations->transactions, translations,
-transation->transaction
-transations->transactions
 transanction->transaction
 transation->transaction
+transation->transaction, translation,
 transations->transactions
+transations->transactions, translations,
 transcendance->transcendence
 transcendant->transcendent
 transcendentational->transcendental
