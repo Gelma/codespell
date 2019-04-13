@@ -7945,6 +7945,7 @@ experiantial->experiential
 experiement->experiment
 experienshial->experiential
 experiensial->experiential
+experimently->experimentally
 experimet->experiment
 experimetal->experimental
 experimeted->experimented
@@ -7953,7 +7954,6 @@ experimeter->experimenter
 experimeting->experimenting
 experimetnal->experimental
 experimetns->experiments
-experimently->experimentally
 expermental->experimental
 expermiental->experimental
 experssion->expression
@@ -8227,6 +8227,7 @@ faund->found
 fave->save
 favoutrable->favourable
 faymus->famous
+fck->fsck
 fcound->found
 feasabile->feasible
 feasability->feasibility
