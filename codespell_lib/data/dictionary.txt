@@ -17734,6 +17734,7 @@ supeblock->superblock
 supeena->subpoena
 supercalifragilisticexpialidoceous->supercalifragilisticexpialidocious
 superblc->superbloc
+superbocks->superblocks
 supercede->supersede
 superceded->superseded
 supercedes->supersedes
