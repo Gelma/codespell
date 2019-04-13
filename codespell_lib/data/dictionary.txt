@@ -17916,6 +17916,7 @@ swaped->swapped
 swapiness->swappiness
 swaping->swapping
 swcloumns->swcolumns
+sweedish->swedish
 swepth->swept
 swich->switch
 swiched->switched
