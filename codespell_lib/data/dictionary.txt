@@ -6916,6 +6916,7 @@ ealiest->earliest
 eample->example
 eamples->examples
 eanble->enable
+eanbled->enabled
 earch->search
 earler->earlier
 earliear->earlier
