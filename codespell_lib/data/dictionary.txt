@@ -3881,6 +3881,7 @@ compeitions->competitions
 compeletely->completely
 compelte->complete
 compeltelyt->completely
+compeltely->completely
 compeltion->completion
 compeltly->completely
 compenent->component, competent,
