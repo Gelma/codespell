@@ -2307,6 +2307,7 @@ basicaly->basically
 basicly->basically
 bassed->passed
 batery->battery
+bblock->block
 bcak->back
 bcause->because
 beacause->because
