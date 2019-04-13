@@ -13273,9 +13273,9 @@ packaeg->package
 packaege->package
 packaeges->packages
 packaegs->packages
-packaing->packaging
 packages'->package's
 packags->packages
+packaing->packaging
 packe->packed, packet,
 packege->package
 packge->package
@@ -13346,8 +13346,8 @@ parahaps->perhaps
 paralel->parallel
 paralelising->parallelising
 paralelism->parallelism
-paralelizing->parallelizing
 paralelize->parallelize
+paralelizing->parallelizing
 paralell->parallel
 paralelle->parallel
 paralellism->parallelism
@@ -14338,8 +14338,8 @@ prferables->preferables
 prference->preference
 prferred->preferred
 prgram->program
-priave->private
 priary->primary
+priave->private
 pricipal->principal
 priciple->principle
 priciples->principles
@@ -17400,8 +17400,8 @@ strangly->strangely, strange,
 strangness->strangeness
 strat->start, strata,
 stratagically->strategically
-strcutre->structure
 strctures->structures
+strcutre->structure
 strcutural->structural
 strcuture->structure
 strcutures->structures
@@ -17732,9 +17732,9 @@ suntask->subtask
 suop->soup
 supeblock->superblock
 supeena->subpoena
-supercalifragilisticexpialidoceous->supercalifragilisticexpialidocious
 superblc->superbloc
 superbocks->superblocks
+supercalifragilisticexpialidoceous->supercalifragilisticexpialidocious
 supercede->supersede
 superceded->superseded
 supercedes->supersedes
@@ -18040,6 +18040,7 @@ synopsys->synopsis
 synphony->symphony
 synronous->synchronous
 syntac->syntax
+syntaces->syntaxes
 syntacks->syntax
 syntacs->syntax
 syntact->syntax
