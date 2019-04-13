@@ -9404,6 +9404,7 @@ htis->this
 htmp->html
 htting->hitting
 hueristic->heuristic
+hueristics->heuristics
 humber->number
 humer->humor, humour,
 humerous->humorous, humerus,
