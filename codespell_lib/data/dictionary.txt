@@ -2071,6 +2071,7 @@ authoritiers->authorities
 authorititive->authoritative
 authoritive->authoritative
 authos->authors, autos,
+authro->author
 authrorities->authorities
 autimatic->automatic
 autimatically->automatically
