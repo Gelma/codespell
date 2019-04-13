@@ -13601,6 +13601,7 @@ perfoms->performs
 perfoom->perfume, perform,
 performace->performance
 performamce->performance
+performanace->performance
 performane->performance
 performence->performance
 performes->performed, performs,
