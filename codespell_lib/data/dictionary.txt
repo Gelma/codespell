@@ -7126,6 +7126,7 @@ emmits->emits
 emmitted->emitted
 emmitting->emitting
 emnity->enmity
+emory->memory
 emoty->empty
 emperical->empirical
 emphaised->emphasised
