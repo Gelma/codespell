@@ -17911,6 +17911,7 @@ svelt->svelte
 swaer->swear
 swaers->swears
 swalloed->swallowed
+swampped->swapped
 swaped->swapped
 swapiness->swappiness
 swaping->swapping
