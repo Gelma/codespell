@@ -18290,6 +18290,7 @@ terminte->terminate
 termperature->temperature
 ternament->tournament
 terrable->terrible
+terrabyte->terabyte
 terrestial->terrestrial
 terriories->territories
 terriory->territory
