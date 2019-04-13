@@ -7207,6 +7207,7 @@ endevors->endeavors
 endevour->endeavour
 endianes->endianness
 endianess->endianness
+endianity->endianness
 endiannes->endianness
 endig->ending
 endnoden->endnode
