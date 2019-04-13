@@ -7953,6 +7953,7 @@ experimeter->experimenter
 experimeting->experimenting
 experimetnal->experimental
 experimetns->experiments
+experimently->experimentally
 expermental->experimental
 expermiental->experimental
 experssion->expression
