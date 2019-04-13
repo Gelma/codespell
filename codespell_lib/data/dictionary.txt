@@ -7098,8 +7098,8 @@ emedded->embedded
 emegrency->emergency
 emenet->element
 emenets->elements
-emiited->emitted
 emeregency->emergency
+emiited->emitted
 eminate->emanate
 eminated->emanated
 emision->emission
@@ -7480,6 +7480,7 @@ erorneusly->erroneously
 erorr->error
 erorrs->errors
 erors->errors
+erport->report
 erraneously->erroneously
 erro->error
 erroneus->erroneous
