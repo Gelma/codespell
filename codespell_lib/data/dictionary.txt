@@ -11857,6 +11857,7 @@ minerial->mineral
 MingGW->MinGW
 minimial->minimal
 minimise->minimise, minimize,
+minimising->minimizing
 minimumm->minimum
 minimumn->minimum
 minimun->minimum
