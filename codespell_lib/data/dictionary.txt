@@ -8647,6 +8647,7 @@ fschk->fsck
 fualt->fault
 fualts->faults
 fsk->fsck
+fsprosg->fsprogs
 fucntion->function
 fucntioning->functioning
 fucntions->functions
