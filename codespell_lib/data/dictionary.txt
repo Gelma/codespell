@@ -10639,6 +10639,7 @@ interals->internals
 interaly->internally
 interanl->internal
 interanlly->internally
+interarting->interacting
 interate->iterate
 interating->iterating
 interation->iteration, interaction,
