@@ -5157,6 +5157,7 @@ customicable->customisable, customizable,
 customie->customize
 customied->customized
 customsied->customised
+customizeable->customizable
 customzied->customized
 custumised->customised
 custumized->customized
