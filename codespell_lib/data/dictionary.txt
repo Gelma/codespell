@@ -19179,6 +19179,7 @@ unexpcted->unexpected
 unexpectdly->unexpectedly
 unexpecte->unexpected
 unexpectend->unexpected
+unexpectly->unexpectedly
 unexpeted->unexpected
 unexpetedly->unexpectedly
 unexspected->unexpected
