@@ -12275,6 +12275,7 @@ multiplicites->multiplicities
 multiplicty->multiplicity
 multiplikation->multiplication
 multipresistion->multiprecision
+multiplition->multiplication
 multipul->multiple
 multipy->multiply
 multipyling->multiplying
