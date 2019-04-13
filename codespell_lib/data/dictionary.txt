@@ -5823,6 +5823,7 @@ descriptiors->descriptors
 descripton->description
 descriptons->descriptions
 descriptoy->descriptor
+descriptros->descriptors
 descriptuve->descriptive
 descrition->description
 descritpion->description
