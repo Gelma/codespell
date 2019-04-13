@@ -17514,6 +17514,7 @@ subdirectoires->subdirectories
 subdirectorys->subdirectories
 subdirecty->subdirectory
 subdivisiond->subdivisioned
+subections->subsections
 subelemet->subelement
 subelemets->subelements
 subexperession->subexpression
