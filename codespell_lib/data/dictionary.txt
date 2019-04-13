@@ -3735,6 +3735,7 @@ commnd->command
 commnd-line->command-line
 commndline->commandline
 commnds->commands
+commnd->command
 commnent->comment
 commnents->comments
 commnetary->commentary
