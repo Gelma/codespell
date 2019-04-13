@@ -17303,6 +17303,7 @@ startlisteneing->startlistening
 startting->starting
 statamenet->statement
 statamenets->statements
+stategy->strategy
 stateman->statesman
 statemanet->statement
 statememts->statements
