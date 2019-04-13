@@ -8841,6 +8841,7 @@ generilize->generalize
 generilized->generalized
 generilizes->generalizes
 generiously->generously
+generla->general
 genialia->genitalia
 genrate->generate
 genrated->generated
