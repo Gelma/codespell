@@ -18366,6 +18366,7 @@ themslves->themselves
 thenn->then
 theorectical->theoretical
 theoreticall->theoretically
+theosore->theodore
 ther->there, their, the, other,
 therafter->thereafter
 therapudic->therapeutic
