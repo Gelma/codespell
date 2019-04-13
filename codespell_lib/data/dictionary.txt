@@ -5742,6 +5742,7 @@ deregiter->deregister
 deregiters->deregisters
 derevative->derivative
 derevatives->derivatives
+derferences->dereferences
 dergeistered->deregistered
 dergistration->deregistration
 deriair->derriere
