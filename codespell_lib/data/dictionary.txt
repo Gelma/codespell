@@ -5616,6 +5616,7 @@ delimters->delimiter
 delink->unlink
 delivative->derivative
 delivatives->derivatives
+dellocate->deallocate
 delte->delete
 delted->deleted
 deltes->deletes
