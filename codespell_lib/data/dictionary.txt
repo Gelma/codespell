@@ -15651,6 +15651,7 @@ reponsibility->responsibility
 reponsible->responsible
 reporing->reporting
 reporitory->repository
+reporsitory->repository
 reportadly->reportedly
 reportresouces->reportresources
 repositiroes->repositories
