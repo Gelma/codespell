@@ -3468,6 +3468,7 @@ clossed->closed
 clossing->closing
 clousre->closure
 clsoe->close
+clu->cli
 cluase->clause
 clude->clued, clue,
 clumn->column
