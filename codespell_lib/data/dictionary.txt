@@ -6412,6 +6412,7 @@ discourrage->discourage
 discourraged->discouraged
 discovereability->discoverability
 discovr->discover
+discrection->discretion
 discreminates->discriminates
 discrepencies->discrepancies
 discrepicies->discrepancies
