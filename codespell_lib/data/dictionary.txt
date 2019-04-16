@@ -9229,6 +9229,7 @@ heursitics->heuristics
 hevy->heavy
 hexademical->hexadecimal
 hexidecimal->hexadecimal
+hhttps->https
 hiarchical->hierarchical
 hiarchy->hierarchy
 hiddden->hidden
