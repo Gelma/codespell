@@ -11176,6 +11176,7 @@ lastes->latest
 lastest->latest
 lastr->last
 lates->later, latest,
+latestet->latest
 lating->latin
 latitide->latitude
 latitute->latitude
