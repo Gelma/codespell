@@ -8460,6 +8460,7 @@ fontains->fountains, contains,
 fontier->frontier
 fontonfig->fontconfig
 fontrier->frontier
+fooh->foo
 foontnotes->footnotes
 foootball->football
 foorter->footer
