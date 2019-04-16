@@ -18476,6 +18476,7 @@ thumbbnail->thumbnail
 thur->their
 thurough->thorough
 thurrow->thorough
+thursdsay->thursday
 thurver->further
 thw->the, thaw,
 thyat->that
