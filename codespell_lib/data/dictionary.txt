@@ -16295,6 +16295,7 @@ savy->savvy
 saxaphone->saxophone
 sbsampling->subsampling
 scahr->schar
+scalabe->scalable
 scaleable->scalable
 scalled->scaled
 scandanavia->Scandinavia
