@@ -9460,6 +9460,7 @@ idaeidae->idea
 idaes->ideas
 idealogies->ideologies
 idealogy->ideology
+ideat->idea
 idefinite->indefinite
 idelogy->ideology
 idendifier->identifier
