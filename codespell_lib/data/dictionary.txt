@@ -4292,6 +4292,7 @@ connectibity->connectivity
 connectino->connection
 connectinos->connections
 connectionas->connections
+connectiong->connecting
 connectted->connected
 connecttion->connection
 conneection->connection
