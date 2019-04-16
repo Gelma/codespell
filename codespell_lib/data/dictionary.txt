@@ -14335,6 +14335,7 @@ priciple->principle
 priciples->principles
 pricision->precision
 priestood->priesthood
+prililedges->privileges
 primarly->primarily
 primative->primitive
 primatively->primitively
