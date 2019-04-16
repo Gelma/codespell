@@ -17683,9 +17683,9 @@ sucome->succumb
 sucsede->succeed
 sudmobule->submodule
 sudmobules->submodules
-sueful->useful
 sudp->sudo
 sudu->sudo
+sueful->useful
 sufface->surface
 sufferage->suffrage
 sufferred->suffered
@@ -18902,8 +18902,8 @@ tufure->future
 tuhmbnail->thumbnail
 tunelled->tunnelled
 tunelling->tunneling
-tunned->tuned
 tunneblick->tunnelblick
+tunned->tuned
 tunnell->tunnel
 tupple->tuple
 tupples->tuples
@@ -19921,6 +19921,7 @@ vulerable->vulnerable
 vulerabuilities->vulnerabilities
 vulerabuility->vulnerability
 vulerabule->vulnerable
+vulernable->vulnerable
 vulnearable->vulnerable
 vulnearabule->vulnerable
 vulnearbilities->vulnerabilities
