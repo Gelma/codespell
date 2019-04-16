@@ -3624,6 +3624,7 @@ comented->commented
 comenting->commenting
 coments->comments
 comformance->conformance
+comf->conf
 comilers->compilers
 comination->combination
 comision->commission
