@@ -6959,6 +6959,7 @@ ede->edge
 ediable->editable
 edige->edge
 ediges->edges
+edirot->editor
 editedt->edited
 editiing->editing
 editting->editing
