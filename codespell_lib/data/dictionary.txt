@@ -11345,6 +11345,7 @@ linheight->lineheight
 linkfy->linkify
 linnaena->linnaean
 linodee->linode
+linpde->linode
 lintain->lintian
 linz->lines
 lippizaner->lipizzaner
