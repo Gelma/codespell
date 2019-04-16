@@ -4933,6 +4933,7 @@ cosntraints->constraints
 cosntructed->constructed
 cosntructor->constructor
 costant->constant
+costantly->constantly
 costitution->constitution
 costruct->construct
 costructer->constructor
