@@ -1722,6 +1722,7 @@ artillary->artillery
 arugment->argument
 arugments->arguments
 arund->around
+asas->as
 asbtraction->abstraction
 asceding->ascending
 asetic->ascetic
