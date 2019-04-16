@@ -3016,6 +3016,7 @@ cashe->cache
 casion->caisson
 cassawory->cassowary
 cassowarry->cassowary
+casssandra->cassandra
 casue->cause
 casued->caused
 casues->causes
