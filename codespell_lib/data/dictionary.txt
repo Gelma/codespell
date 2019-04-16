@@ -1003,6 +1003,7 @@ alined->aligned
 alingment->alignment
 alinment->alignment
 alinments->alignments
+alisases->aliases
 alising->aliasing
 aliver->alive, liver,
 allcate->allocate
