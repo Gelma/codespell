@@ -12222,6 +12222,7 @@ mozila->Mozilla
 mroe->more
 MSDOS->MS-DOS
 mssing->missing
+mstmp->msmtp
 mthod->method
 mtuually->mutually
 mucuous->mucous
