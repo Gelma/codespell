@@ -5101,6 +5101,7 @@ cryptocraphic->cryptographic
 crystalisation->crystallisation
 cryto->crypto
 crytpo->crypto
+csr->crt
 ctificates->certificates
 cuase->cause
 cuased->caused
