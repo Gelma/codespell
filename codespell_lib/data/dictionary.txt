@@ -13402,6 +13402,7 @@ paravirutalization->paravirtualization
 paravirutalize->paravirtualize
 paravirutalized->paravirtualized
 parctical->practical
+paravirtualizaion->paravirtualization
 parctically->practically
 pard->part
 parellelogram->parallelogram
