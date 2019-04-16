@@ -12477,6 +12477,7 @@ newslines->newlines
 newtork->network
 Newyorker->New Yorker
 ngix->nginx
+ngnix->nginx
 nickle->nickel
 nighbor->neighbor
 nighborhood->neighborhood
