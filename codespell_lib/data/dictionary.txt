@@ -18958,6 +18958,7 @@ uegister->unregister
 uers->users
 uesd->used
 uglyness->ugliness
+uing->using
 uint->unit, disabled due to being a data type
 uique->unique
 uise->use
