@@ -10637,6 +10637,7 @@ interchangably->interchangeably
 intercollegate->intercollegiate
 intercontinential->intercontinental
 intercontinetal->intercontinental
+interctive->interactive
 interecptor->interceptor
 intered->interred, interned,
 intereested->interested
