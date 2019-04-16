@@ -1380,6 +1380,7 @@ apending->appending
 apendix->appendix
 apenines->Apennines
 apilogue->epilogue
+apha->alpha
 aplication->application
 aplications->applications
 aplied->applied
