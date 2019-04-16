@@ -10954,6 +10954,7 @@ isssued->issued
 isssues->issues
 issueing->issuing
 ist->is, it, its,
+istalled->installed
 istalling->installing
 istance->instance
 istead->instead
