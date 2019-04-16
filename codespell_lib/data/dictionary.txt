@@ -10542,6 +10542,7 @@ insurence->insurance
 intaces->instance
 intack->intact
 intall->install
+intalled->installed
 intance->instance, intense,
 intances->instances
 intantiate->instantiate
