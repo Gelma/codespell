@@ -7710,6 +7710,7 @@ excells->excels
 excempt->exempt
 excepetion->exception
 excepions->exceptions
+exceprt->excerpt
 exceptation->expectation
 exceptins->exceptions, excepting,
 exceptionnal->exceptional
