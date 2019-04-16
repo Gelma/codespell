@@ -10308,6 +10308,7 @@ initialze->initialize
 initialzed->initialized
 initialzes->initializes
 initialzing->initializing
+initiatize->initialize
 initiliase->initialise, initialize,
 initiliased->initialised, initialized,
 initiliases->initialises, initializes,
