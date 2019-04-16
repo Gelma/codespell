@@ -19777,6 +19777,7 @@ vermillion->vermilion
 verndor->vendor
 verrical->vertical
 verry->very
+versatilte->versatile
 versin->version
 versiom->version
 versionm->version
