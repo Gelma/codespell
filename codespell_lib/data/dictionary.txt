@@ -564,6 +564,7 @@ adjasensy->adjacency
 adjasent->adjacent
 adjast->adjust
 adjsuted->adjusted
+adjudst->adjust
 adjuscent->adjacent
 adjusment->adjustment
 adjustement->adjustment
