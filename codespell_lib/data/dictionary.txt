@@ -2582,6 +2582,7 @@ borke->broke
 bostom->boston, bottom,
 bothe->both
 botifies->notifies
+bottem->bottom
 bottlenect->bottleneck
 bottlneck->bottleneck
 bottomborde->bottomborder
