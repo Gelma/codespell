@@ -10645,6 +10645,7 @@ intereference->interference
 intereferences->interferences
 interelated->interrelated
 interelaved->interleaved
+interent->internet
 interepreted->interpreted
 interept->intercept
 interesect->intersect
