@@ -1580,6 +1580,7 @@ arbitraryily->arbitrarily
 arbitraryly->arbitrary
 arbitraty->arbitrary
 arbitray->arbitrary
+arbitrily->arbitrarily
 arbritary->arbitrary
 arbritrary->arbitrary
 archaelogical->archaeological
