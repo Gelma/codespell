@@ -14241,6 +14241,7 @@ preprocesing->preprocessing
 preprocesor->preprocessor
 preprocesssing->preprocessing
 prequisites->prerequisites
+prerequesite->prerequisite
 prerequesites->prerequisites
 prerequisit->prerequisite
 prerequisits->prerequisites
