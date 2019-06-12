@@ -9418,17 +9418,15 @@ identiy->identify, identity,
 identtation->indentation
 identties->identities
 identtifier->identifier
-identty->identity
-ideosyncracies->ideosyncrasies
-ideosyncracies->ideosyncrasies
 identtity->identity
+identty->identity
 ideosincracy->idiosyncrasy
 ideosyncracies->ideosyncrasies
 ideosyncratic->idiosyncratic
 idesa->ideas, ides,
-idetifies->identifies
 idetifier->identifier
 idetifiers->identifiers
+idetifies->identifies
 idicate->indicate
 idicated->indicated
 idicates->indicates
