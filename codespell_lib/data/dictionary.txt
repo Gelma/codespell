@@ -5065,11 +5065,11 @@ cuase->cause
 cuased->caused
 cuases->causes
 cuasing->causing
+cubburd->cupboard
 cuestion->question
 cuestioned->questioned
 cuestions->questions
 cuileoga->cuileog
-cubburd->cupboard
 culiminating->culminating
 cummulative->cumulative
 cummunicate->communicate
@@ -5089,11 +5089,10 @@ curent->current
 curentfilter->currentfilter
 curently->currently
 curernt->current
-curiousities->curiosities
-curiousity's->curiosity's
-curiousity->curiosity
 curiocity->curiosity
 curios->curious
+curiousities->curiosities
+curiousity's->curiosity's
 curiousity->curiosity
 curnel->colonel
 currect->correct, current,
