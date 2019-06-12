@@ -8272,7 +8272,6 @@ finishe->finished, finish,
 finishs->finishes
 finitel->finite
 finness->finesse
-finness->finesse
 finnished->finished
 finsih->finish
 finsihed->finished
@@ -8331,10 +8330,7 @@ flie->file
 floading->floating, flooding,
 floading-add->floating-add
 floatation->flotation
-floatation->flotation
 florescent->fluorescent
-floresent->fluorescent
-floride->fluoride
 floresent->fluorescent
 floride->fluoride
 floting->floating
