@@ -5966,8 +5966,6 @@ detur->detour
 deturance->deterrence
 deubug->debug
 deubuging->debugging
-detur->detour
-deturance->deterrence
 deug->debug
 deugging->debugging
 devasted->devastated
@@ -6048,7 +6046,6 @@ diablical->diabolical
 diabling->disabling
 diagnol->diagonal
 diagnositc->diagnostic
-diagnol->diagonal
 diagnotic->diagnostic
 diagnotics->diagnostics
 diagonale->diagonal
