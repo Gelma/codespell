@@ -5568,7 +5568,6 @@ delimitor->delimiter
 delimitors->delimiters
 delimitted->delimited
 delimma->dilemma
-delimma->dilemma
 delimted->delimited
 delimters->delimiter
 delink->unlink
@@ -5720,7 +5719,6 @@ derogitory->derogatory
 derprecated->deprecated
 derrive->derive
 derrived->derived
-derth->dearth
 derth->dearth
 dervie->derive
 dervied->derived
