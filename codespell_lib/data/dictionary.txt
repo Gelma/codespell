@@ -4825,8 +4825,6 @@ correectly->correctly
 correlasion->correlation
 correlatd->correlated
 correllate->correlate
-correlasion->correlation
-correllate->correlate
 correllation->correlation
 correllations->correlations
 correnspond->correspond
@@ -4891,8 +4889,6 @@ cosntrains->constrains, constraints,
 cosntraint->constraint
 cosntraints->constraints
 cosntructed->constructed
-corse->course
-corus->chorus
 cosntructor->constructor
 costant->constant
 costitution->constitution
