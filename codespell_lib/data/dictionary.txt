@@ -8147,7 +8147,6 @@ fancyness->fanciness
 fane->feign
 Farenheit->Fahrenheit
 farest->fairest, farthest,
-farest->farthest
 farmasudical->pharmaceutical
 farmework->framework
 farse->farce, farsi,
