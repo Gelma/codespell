@@ -6380,13 +6380,9 @@ discusson->discussion
 discussons->discussions
 discusting->disgusting
 disection->dissection
-discusting->disgusting
-disection->dissection
 disemination->dissemination
 disenchanged->disenchanted
 disencouraged->discouraged
-disertation->dissertation
-disfunctional->dysfunctional
 disertation->dissertation
 disfunctional->dysfunctional
 disgarded->discarded, discarted,
@@ -6590,7 +6586,6 @@ doccumented->documented
 doccuments->documents
 dockson->dachshund
 docmenetation->documentation
-dockson->dachshund
 docrines->doctrines
 docstatistik->docstatistic
 docsund->dachshund
