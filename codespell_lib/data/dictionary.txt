@@ -3236,8 +3236,6 @@ chceking->checking
 chceks->checks
 chckbox->checkbox
 cheatta->cheetah
-chckbox->checkbox
-cheatta->cheetah
 checg->check
 checged->checked
 chech->check, czech,
