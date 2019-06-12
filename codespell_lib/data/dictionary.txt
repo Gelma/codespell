@@ -1047,7 +1047,7 @@ allowence->allowance
 allpication->application
 allready->already
 allredy->already
-allright->all right, alright,
+allright->all right,
 alls->all, falls,
 allso->also
 allthough->although
