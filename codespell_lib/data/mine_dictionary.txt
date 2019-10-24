@@ -4102,7 +4102,6 @@ betrayd->betrayed
 betrayeado->betrayed
 beuatiful->beautiful
 beuatifully->beautifully
-beucase->because
 beuraucracy->bureaucracy
 beuraucratic->bureaucratic
 beuraucrats->bureaucrats
@@ -27070,7 +27069,8 @@ ierator->iterator
 insteead->instead
 iternal->internal
 methoids->methods
-strings->sstrings
+sstrings->strings
+sstring->string
 sybolic->symbolic
 targetss->targets
 toolbart->toolbar
