@@ -6469,7 +6469,6 @@ consideribly->considerably
 considerstion->considerations
 considerstions->considerations
 considertaion->considerations
-considert->considerate
 consilation->consolation
 consilidate->consolidate
 consilidated->consolidated
