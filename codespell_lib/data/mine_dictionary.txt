@@ -882,7 +882,7 @@ zink->zinc
 zookeenee->zucchini
 zylophone->xylophone
 interruted->interrupted
-levelling->leveling
+leveling->levelling
 prifles->profiles
 approciate->appropriate
 blocsk->blocks
@@ -7545,7 +7545,7 @@ defaint->defiant
 defaintly->defiantly
 defaltion->deflation
 defamating->defamation
-defanitely->definitely
+defanitely->definitly
 defanitly->defiantly
 defectos->defects
 defectus->defects
@@ -12689,7 +12689,7 @@ initaition->initiation
 initaitives->initiatives
 initaled->initialed
 initalese->initialese
-initaling->initialing
+initaling->initializing
 initalisations->initialisations
 initaliser->initialiser
 initalisers->initialisers
@@ -19221,7 +19221,7 @@ recgonized->recognized
 recgonize->recognize
 recgonizes->recognizes
 recgonizing->recognizing
-recievd->recieved
+recievd->received
 recipees->recipes
 recipeints->recipients
 recipets->recipes
@@ -22145,7 +22145,7 @@ supervisoras->supervisors
 supervisores->supervisors
 superviso->supervision
 supervsior->supervisors
-supirsed->suprised
+supirsed->surprised
 supllemental->supplemental
 supperssor->suppressor
 supplamental->supplemental
@@ -22183,8 +22183,8 @@ supremacits->supremacist
 supremasist->supremacist
 supremicist->supremacist
 suprimacist->supremacist
-suprisd->suprised
-suprsied->suprised
+suprisd->surprised
+suprsied->surprised
 supscriptions->subscriptions
 supscription->subscription
 supsects->suspects
