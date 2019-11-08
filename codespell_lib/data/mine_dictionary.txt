@@ -509,7 +509,6 @@ mast->must
 matinay->matinee
 mawsoleum->mausoleum
 mayonase->mayonnaise
-mdelay->udelay
 mecanical->mechanical
 meddo->meadow
 medifor->metaphor
@@ -1517,7 +1516,6 @@ clusermgr->clustermgr
 colliquially->colloquially
 comf->conf
 comfigured->configured
-comfirm->confirm
 commanda->commands
 communty->community
 configre->configure
@@ -6229,12 +6227,7 @@ conduict->conduit
 conduiting->conducting
 condulences->condolences
 conecntration->concentrations
-conencting->connecting
-conenctivity->connectivity
-conenctor->connector
-conenctors->connectors
 conenctration->concentrations
-conencts->connects
 conescutive->consecutive
 confedaracy->confederacy
 confedarate->confederate
@@ -8418,9 +8411,6 @@ discograpy->discography
 discogrophy->discography
 discogrpahy->discography
 discolsure->disclosure
-disconenct->disconnect
-disconencted->disconnected
-disconencts->disconnects
 disconncet->disconnects
 disconnecters->disconnects
 disconnectes->disconnects
@@ -19279,7 +19269,6 @@ recommondations->recommendations
 reconcider->reconsider
 reconcilled->reconcile
 reconcille->reconcile
-reconenct->reconnect
 recongised->recognised
 recongise->recognise
 recongition->recognition
@@ -24557,7 +24546,6 @@ workfore->workforce
 workfroce->workforce
 workingest->workings
 workins->workings
-workstaion->workstation
 workstaton->workstation
 worldivew->worldview
 worldveiw->worldview
@@ -24661,7 +24649,6 @@ removep->remove
 retrns->returns
 retuurn->return
 revsion->revision
-rquires->requires
 throrugh->through
 xcalibrare->xcalibrate
 calibrare->calibrate
@@ -25822,8 +25809,6 @@ comunicating->communicating
 concolidate->consolidate
 concrurrent->concurrent
 condidions->conditions
-conector->connector
-conerted->converted
 confg->config
 confgigures->configures
 confgured->configured
@@ -26037,7 +26022,6 @@ disassember->disassembler
 disassoiciation->disassociation
 discarde->discarded
 discharing->discharging
-disconected->disconnected
 disconnnected->disconnected
 discouvery->discovery
 discrimintor->discriminator
@@ -27201,7 +27185,6 @@ historial->historical
 identiacal->identical
 impediance->impedance
 includeing->including
-increment->incrementl
 incrementq->increment
 inerrupts->interrupts
 infterface->interface
