@@ -1109,7 +1109,6 @@ smililarly->similarly
 sopies->copies
 specifcally->specifically
 strpie->stripe
-subvolumes->subvolume
 subvolum->subvolume
 subvoolume->subvolume
 supeblocks->superblocks
@@ -1241,7 +1240,7 @@ builitn->builtin
 bulitin->builtin
 caleee->callee
 calees->callees
-calle->callee
+calle->callee, called,
 calll->call
 catagori->categori
 chlids->children
@@ -4401,7 +4400,6 @@ broadbad->broadband
 broadcasing->broadcasting
 broadcastes->broadcasts
 broadcastors->broadcasts
-broadcat->broadcasts
 broadley->broadly
 broadwalk->boardwalk
 brocoli->broccoli
@@ -27825,6 +27823,7 @@ abord->abort
 acceess->access
 acclerated->accelerated
 accordign->according
+acknowledgement->acknowledgment
 acumulative->accumulative
 addrress->address
 adrresses->addresses
@@ -27858,7 +27857,6 @@ broadcat->broadcast
 bufufer->buffer
 cadidate->candidate
 calescing->coalescing
-calle->called
 calucate->calculate
 capabitilies->capabilities
 capapbilities->capabilities
