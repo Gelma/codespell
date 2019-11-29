@@ -1217,9 +1217,6 @@ accestor->accessor
 accoutrements->accouterments
 addressibility->addressability
 adjustes->adjusts
-agricultue->agriculture
-agriculure->agriculture
-aircrafts'->aircraft's
 alreadh->already
 alsoneeds->also_needs
 aply->apply
@@ -1232,7 +1229,6 @@ awrning->warning
 barrer->barrier
 beging->beginning
 bogous->bogus
-boook->book
 builitn->builtin
 bulitin->builtin
 caleee->callee
@@ -1316,7 +1312,6 @@ conherency->coherency
 consisstent->consistent
 containined->contained
 convetions->conventions
-cooresponds->corresponds
 correctl->correctly
 corrpt->corrupt
 corupted->corrupted
@@ -5304,7 +5299,6 @@ circumcisied->circumcised
 circumcison->circumcision
 circumcission->circumcision
 circumcition->circumcision
-circumferance->circumference
 circumsice->circumcised
 circumsiced->circumcised
 circumsicions->circumcision
@@ -5737,10 +5731,6 @@ compandium->compendium
 companians->companions
 companines->companions
 companis->companions
-compansate->compensate
-compansated->compensated
-compansating->compensating
-compansation->compensation
 comparabil->comparable
 comparabile->comparable
 comparasion->comparison
@@ -6791,7 +6781,6 @@ contridict->contradict
 contridicted->contradicted
 contridictory->contradictory
 contridicts->contradicts
-contriubte->contributes
 contriversial->controversial
 contriversy->controversy
 controception->contraception
@@ -6932,7 +6921,6 @@ coordinaton->coordination
 coordinatore->coordinate
 coordonation->coordination
 coordonator->coordinator
-cooresponding->corresponding
 cooridnation->coordination
 cooridnator->coordinator
 copehnagen->copenhagen
@@ -9125,7 +9113,6 @@ eldistribution->redistribution
 elecrto->electro
 elecrtomagnetic->electromagnetic
 electhor->electro
-electircal->electrical
 electivite->elective
 electivre->elective
 electoraat->electorate
@@ -12718,8 +12705,6 @@ innvoate->innovate
 innvoation->innovation
 inovker->invoker
 inpection->inception
-inpending->impending
-inpenetrable->impenetrable
 inperfections->imperfections
 inpersonating->impersonating
 inplementing->implementing
@@ -16961,8 +16946,6 @@ paychologists->psychologists
 paychopathic->psychopathic
 peacefullly->peacefully
 peacefuly->peacefully
-peaple->people
-peaples->peoples
 pebbels->pebbles
 pebbleos->pebbles
 pebblers->pebbles
@@ -17040,7 +17023,6 @@ pentuim->pentium
 peodphile->pedophile
 peodphiles->pedophiles
 peodphilia->pedophilia
-peopels->peoples
 pepperino->pepperoni
 pepperin->pepperoni
 pepperment->peppermint
@@ -17232,7 +17214,6 @@ perputuates->perpetuates
 perputuating->perpetuating
 perrogative->prerogative
 persain->persian
-persan->person
 persauded->persuaded
 persaude->persuade
 persausion->persuasion
@@ -19863,8 +19844,6 @@ resonet->resonate
 resoruces->resources
 resotration->restoration
 resotred->restored
-resoultion->resolution
-resoultions->resolutions
 resourse->resources
 resovled->resolved
 resovle->resolve
@@ -22132,7 +22111,6 @@ suppresson->suppression
 suppresssion->suppression
 suppresssor->suppressor
 supramacist->supremacist
-suprassing->surpassing
 suprass->surpass
 supremacits->supremacist
 supremasist->supremacist
@@ -22430,7 +22408,6 @@ tapitude->aptitude
 targetd->targeted
 taryvon->trayvon
 tasliman->talisman
-tatoo->tattoo
 tattooos->tattoos
 tawainese->taiwanese
 tawianese->taiwanese
@@ -24867,7 +24844,6 @@ timzone->timezone
 tokem->token
 topppings->toppings
 toyata->toyota
-trigered->triggered
 ubuntusers->ubuntuusers
 ukrain->ukraina
 ukreina->ukraina
@@ -24946,7 +24922,6 @@ deprepcated->deprecated
 deseralize->deserialize
 devisible->divisible
 dfferent->different
-dicionary->dictionary
 djangorproject->djangoproject
 djanjo->django
 djano->django
@@ -24977,7 +24952,6 @@ fixth->sixth
 flavored->flavoured
 flinstone->flintstone
 foloded->folded
-formset->formsets
 formss->forms
 geater->greater
 getparamter->getparameter
@@ -25908,7 +25882,6 @@ destrot->destroy
 destrution->destruction
 detacted->detected
 determies->determines
-determinte->determine
 detructive->destructive
 dettached->detached
 devault->default
@@ -27136,3 +27109,6 @@ woh->who
 wrod->word
 wya->way
 yuor->your
+anhything->anything
+scenerios->scenarios
+stoke->stroke
