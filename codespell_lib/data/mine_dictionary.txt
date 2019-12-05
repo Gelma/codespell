@@ -27053,7 +27053,6 @@ calsulate->calculate
 cannt->cannot
 captue->capture
 captureing->capturing
-centred->centered
 centyry->century
 chainging->changing
 cheanged->changed
