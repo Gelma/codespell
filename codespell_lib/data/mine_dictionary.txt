@@ -25936,7 +25936,6 @@ watermaks->watermarks
 watermak->watermark
 optionnally->optionally
 poast->past
-wrting->writing
 transferrable->transferable
 conventionnally->conventionally
 reinterprete->reinterpret
@@ -26776,7 +26775,6 @@ tranverse->traverse
 triggred->triggered
 uncludes->includes
 uncommont->uncommon
-undeflow->underflow
 underfow->underflow
 undwinder->unwinder
 unespcape->unescape
@@ -27284,8 +27282,6 @@ abiguities->ambiguities
 alloccation->allocation
 anonimized->anonymized
 associateed->associated
-attributes->aattributes
-attributin->attribuutin
 averything->everything
 battributes->attributes
 capitilise->capitalise
@@ -27331,7 +27327,7 @@ quadractic->quadratic
 quantinies->quantities
 quantites->quantities
 quiesecent->quiescent
-rasterized->rasterizer
+rasterizer->rasterized
 reaonable->reasonable
 reassemby->reassembly
 recharing->recharging
@@ -27491,7 +27487,7 @@ restiction->restriction
 restictive->restrictive
 restucture->restructure
 ssociative->associative
-successuly->successully
+successuly->successfully
 techically->technically
 termnation->termination
 touchsreen->touchscreen
@@ -27537,3 +27533,4 @@ ingeger->integer
 inrease->increase
 itertor->iterator
 librart->library
+proprtional->proportional
