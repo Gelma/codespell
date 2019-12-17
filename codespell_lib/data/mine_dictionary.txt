@@ -28732,7 +28732,6 @@ opnepgp->openpgp
 otherse->otherwise
 oultine->outline
 ovelray->overlay
-overlay->overlay
 picebus->pciebus
 pirvate->private
 poniter->pointer
@@ -28750,7 +28749,7 @@ repsect->respect
 requset->request
 resepct->respect
 resotre->restore
-reunion->reyunyon
+reyunyon->reunion
 revocer->recover
 serfver->servers
 shuffel->shuffle
