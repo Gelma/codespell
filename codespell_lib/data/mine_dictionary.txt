@@ -1152,7 +1152,6 @@ annnounce->announce
 arrrived->arrived
 beginnning->beginning
 compresssed->compressed
-corrruption->corruption
 decompresssion->decompression
 discreet->discrete, discreet,
 garanteeed->guaranteed
@@ -25938,7 +25937,6 @@ nestedd->nested
 nonexisiting->nonexisting
 olderst->oldest
 opbject->object
-optionial->optional
 origianl->original
 origibnal->original
 partitons->partitions
@@ -28714,7 +28712,7 @@ hisotry->history
 igonred->ignored
 iniator->initiator
 inniate->initiate
-invalid->invld
+invld->invalid
 karakas->caracas
 lokcing->locking
 machien->machine
