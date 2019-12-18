@@ -27453,7 +27453,7 @@ handly->handle
 localy->locally
 ncould->could
 noboby->nobody
-onjekt->objekt
+onjekt->object
 refrsh->refresh
 shoter->shorter
 stanby->standby
