@@ -28432,7 +28432,6 @@ referreres->referrers
 sisnce->since
 smpt->smtp
 temination->termination
-thruogh->through
 warinings->warnings
 addheaer->addheader
 anounce->announce
