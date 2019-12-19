@@ -1582,7 +1582,6 @@ stackscritps->stackscripts
 stadards->standards
 sudp->sudo
 sudu->sudo
-summarised->summarized
 taskwarriror->taskwarrior
 terria->terraria
 thursdsay->thursday
@@ -2260,7 +2259,7 @@ acrynoms->acronyms
 acsended->ascended
 acsending->ascending
 acsension->ascension
-actauly->actualy
+actauly->actually
 acticating->activating
 actication->activation
 activacion->activation
@@ -2286,18 +2285,18 @@ activizion->activision
 activley->actively
 actresess->actresses
 actresss->actresses
-actualey->actualy
+actualey->actually
 actualiy->actuality
-actualky->actualy
-actualmy->actualy
-actualoy->actualy
-actualpy->actualy
-actualty->actualy
-actulay->actualy
+actualky->actually
+actualmy->actually
+actualoy->actually
+actualpy->actually
+actualty->actually
+actulay->actually
 acusation->causation
 acusing->causing
 acutality->actuality
-acutaly->actualy
+acutaly->actually
 acutions->auctions
 acyrlic->acrylic
 adaptacion->adaptation
@@ -3514,7 +3513,7 @@ asutrian->austrian
 asychronous->asynchronous
 atatchment->attachment
 atatchments->attachments
-atcualy->actualy
+atcualy->actually
 atelast->atleast
 atheisim->atheism
 atheistc->atheistic
@@ -26947,7 +26946,6 @@ martinikua->martinika
 contenxt->context
 rfr->rdr
 registor->register
-acknowledgement->acknowledgment
 an union->a union
 an user->a user
 an userspace->a userspace
@@ -28096,7 +28094,7 @@ keyblok->keyblock
 keyboock->keyblock
 keyboxs->keyboxes
 keyparm->keyparam
-keysrver->keyserver
+keysrver->key server
 knowledgde->knowledge
 konsle->konsole
 leagacy->legacy
@@ -28807,7 +28805,7 @@ unsip->unzip
 witrh->with
 cearly->clearly
 colomn->column
-cotton->coton
+coton->cotton
 emptes->empties
 famaly->family
 frensh->french
