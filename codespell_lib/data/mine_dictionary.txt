@@ -28630,7 +28630,7 @@ clearde->cleared
 columna->columnes
 complie->compile
 confige->configure
-conists->consits
+conists->consists
 contorl->control
 conuter->counter
 coolign->cooling
