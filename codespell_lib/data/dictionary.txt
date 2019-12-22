@@ -20431,6 +20431,7 @@ seesion->session
 seesions->sessions
 segement->segment
 segementation->segmentation
+segemented->segmented
 segements->segments
 segemnts->segments
 segfualt->segfault
