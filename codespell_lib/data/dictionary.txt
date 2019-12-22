@@ -15900,6 +15900,7 @@ openning->opening
 operaand->operand
 operaands->operands
 operaion->operation
+operaions->operations
 operaror->operator
 operatation->operation
 operatations->operations
