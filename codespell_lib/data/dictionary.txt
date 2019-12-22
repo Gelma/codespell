@@ -15768,6 +15768,7 @@ ocurrences->occurrences
 od->of
 oder->order, odor,
 odly->oddly
+ody->body
 oen->one
 oerflow->overflow
 ofcource->of course
