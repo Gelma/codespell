@@ -9163,6 +9163,7 @@ endolithes->endoliths
 endpints->endpoints
 endpiont->endpoint
 endpionts->endpoints
+endregio->endregion
 endsup->ends up
 enduce->induce
 eneables->enables
