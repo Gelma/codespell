@@ -4136,6 +4136,7 @@ checkcsum->checksum
 checkd->checked
 checkes->checks
 checkk->check
+checkng->checking
 checkoslovakia->czechoslovakia
 checkpoing->checkpoint
 checkstum->checksum
