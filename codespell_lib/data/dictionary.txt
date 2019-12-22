@@ -24847,6 +24847,7 @@ workes->works
 workign->working
 workpsace->workspace
 workpsaces->workspaces
+workspce->workspace
 workspsace->workspace
 workspsaces->workspaces
 workstaion->workstation
