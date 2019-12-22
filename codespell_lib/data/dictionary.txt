@@ -24439,6 +24439,7 @@ visiable->visible
 visiably->visibly
 visibale->visible
 visibile->visible
+visibililty->visibility
 visibilty->visibility
 visibleable->visible
 visibles->visible
