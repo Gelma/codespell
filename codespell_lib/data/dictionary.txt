@@ -1893,6 +1893,7 @@ apprpriate->appropriate
 apprpriately->appropriately
 appy->apply
 appying->applying
+appytokind->applytokind
 aprehensive->apprehensive
 apreteate->appreciate
 apreteated->appreciated
