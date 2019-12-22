@@ -318,6 +318,7 @@ acconted->accounted
 acconting->accounting
 accoording->according
 accoordingly->accordingly
+accoount->account
 accordding->according
 accordeon->accordion
 accordian->accordion
