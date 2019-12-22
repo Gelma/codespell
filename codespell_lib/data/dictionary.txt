@@ -11032,6 +11032,7 @@ gernerators->generators
 gess->guess
 get's->gets
 get;s->gets
+getcomposit->getcomposite
 getfastproperyvalue->getfastpropertyvalue
 geting->getting
 getlael->getlabel
