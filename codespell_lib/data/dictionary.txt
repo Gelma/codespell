@@ -2879,6 +2879,7 @@ backgrond->background
 backgroud->background
 backgroung->background
 backgrount->background
+backgrouund->background
 backgrund->background
 backlght->backlight
 backound->background
