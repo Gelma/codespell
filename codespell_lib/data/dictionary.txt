@@ -6882,6 +6882,7 @@ decoposes->decomposes
 decoraded->decorated
 decoratrion->decoration
 decorrellation->decorrelation
+decortator->decorator
 decraesing->decreasing, deceasing,
 decrasing->decreasing, deceasing,
 decration->decoration
