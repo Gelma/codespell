@@ -13636,6 +13636,7 @@ keword->keyword
 kewword->keyword
 kewwords->keywords
 keybaord->keyboard
+keybault->keyvault
 keyboad->keyboard
 keyboads->keyboards
 keybord->keyboard
