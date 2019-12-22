@@ -15117,6 +15117,7 @@ nealy->nearly, newly,
 neares->nearest
 nearset->nearest
 neast->nearest, beast,
+neasurefont->measurefont
 necassery->necessary
 necassry->necessary
 necause->because
