@@ -9935,6 +9935,7 @@ expendeble->expendable
 expepected->expected
 expepectedly->expectedly
 expeption->exception
+expeptions->exceptions
 expereince->experience
 expereinced->experienced
 experemental->experimental
