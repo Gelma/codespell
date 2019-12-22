@@ -7223,6 +7223,7 @@ depandent->dependent
 deparment->department
 deparmental->departmental
 deparments->departments
+depcrecated->deprecated
 depdencies->dependencies
 depdency->dependency
 depdend->depend
