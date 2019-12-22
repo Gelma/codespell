@@ -5075,6 +5075,7 @@ componsites->composites
 compontent->component
 compontents->components
 composit->composite
+composits->composites
 compount->compound
 comppatible->compatible
 comprable->comparable
