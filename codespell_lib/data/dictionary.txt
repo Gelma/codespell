@@ -10603,6 +10603,7 @@ formates->formats
 formating->formatting
 formattind->formatting
 formattings->formatting
+formattring->formatting
 formattted->formatted
 formattting->formatting
 formelly->formerly
