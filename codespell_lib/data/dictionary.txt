@@ -24944,6 +24944,7 @@ wront->wrong
 wrtie->write
 wrting->writing
 wsee->see
+wser->user
 wth->with
 wtih->with
 wuold->would
