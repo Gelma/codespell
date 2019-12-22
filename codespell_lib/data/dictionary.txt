@@ -14495,6 +14495,7 @@ messagses->messages
 messanger->messenger
 messangers->messengers
 messave->message
+messeges->messages
 messenging->messaging
 messgaes->messages
 messge->message
