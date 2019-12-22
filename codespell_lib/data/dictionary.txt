@@ -11836,6 +11836,7 @@ idiosyncracy->idiosyncrasy
 idividual->individual
 idividually->individually
 idividuals->individuals
+idons->icons
 iechart->piechart
 iff->if, disabled due to valid mathematical concept
 ifself->itself
