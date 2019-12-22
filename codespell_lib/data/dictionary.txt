@@ -10435,6 +10435,7 @@ firmeware->firmware
 firmwart->firmware
 firmwqre->firmware
 firmwware->firmware
+firspage->firstpage
 firsr->first
 firt->first, flirt,
 firts->first, flirts,
