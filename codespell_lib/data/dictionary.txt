@@ -24457,6 +24457,7 @@ vissible->visible
 visted->visited
 visting->visiting
 vistors->visitors
+visulstudio->visualstudio
 vitories->victories
 vitual->virtual
 viusally->visually
