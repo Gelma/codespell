@@ -3036,6 +3036,7 @@ behinde->behind
 behing->behind, being,
 behvaiour->behaviour
 behviour->behaviour
+beigin->begin
 beiginning->beginning
 beind->behind
 beinning->beginning
