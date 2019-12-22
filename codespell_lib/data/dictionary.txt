@@ -11045,6 +11045,7 @@ gernerators->generators
 gess->guess
 get's->gets
 get;s->gets
+getcomposit->getcomposite
 getfastproperyvalue->getfastpropertyvalue
 getimezone->gettimezone
 geting->getting
