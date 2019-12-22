@@ -2051,6 +2051,7 @@ argumetn->argument
 argumetns->arguments
 argumnet->argument
 argumnets->arguments
+argumnts->arguments
 arhive->archive
 arhives->archives
 aribitary->arbitrary
