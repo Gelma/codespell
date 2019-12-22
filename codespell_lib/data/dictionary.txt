@@ -7772,6 +7772,7 @@ diamon->diamond
 diamons->diamonds
 diangose->diagnose
 dianostic->diagnostic
+dianostics->diagnostics
 diaplay->display
 diaplays->displays
 diappeares->disappears
