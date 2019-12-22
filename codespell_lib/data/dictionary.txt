@@ -16527,6 +16527,7 @@ parsering->parsing
 parsin->parsing
 parstree->parse tree
 partaining->pertaining
+parth->path
 partialy->partially
 partical->partial, particle,
 particalar->particular
