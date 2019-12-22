@@ -10170,6 +10170,7 @@ extrordinarily->extraordinarily
 extrordinary->extraordinary
 extry->entry
 exuberent->exuberant
+exucuted->executed
 eyar->year, eyas,
 eyars->years, eyas,
 eyasr->years, eyas,
