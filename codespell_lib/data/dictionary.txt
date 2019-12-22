@@ -16755,6 +16755,7 @@ peripathetic->peripatetic
 peripherial->peripheral
 peripherials->peripherals
 perisist->persist
+perisisted->persisted
 peristent->persistent
 perjery->perjury
 perjorative->pejorative
