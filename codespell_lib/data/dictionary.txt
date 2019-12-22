@@ -14021,6 +14021,7 @@ lokal->local
 lokale->locale
 lokaly->locally
 lolal->total
+lolerant->tolerant
 lond->long
 lonelyness->loneliness
 long-runnign->long-running
