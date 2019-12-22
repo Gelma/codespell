@@ -24623,6 +24623,7 @@ wayword->wayward
 weant->want, wean,
 weaponary->weaponry
 weas->was
+webadress->webaddress
 webiste->website
 wedensday->Wednesday
 wednesdaay->Wednesday
