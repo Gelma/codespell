@@ -23703,6 +23703,7 @@ unlcear->unclear
 unles->unless
 unlikey->unlikely
 unlikley->unlikely
+unlimeted->unlimited
 unlimitied->unlimited
 unlimted->unlimited
 unline->unlike
