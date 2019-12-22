@@ -18474,6 +18474,7 @@ reachs->reaches
 reacing->reaching
 reacll->recall
 readabilty->readability
+readanle->readable
 readapted->re-adapted
 readble->readable
 readby->read, read by,
