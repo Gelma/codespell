@@ -3784,6 +3784,7 @@ carniverous->carnivorous
 carreer->career
 carreid->carried
 carrers->careers
+carret->caret
 carriadge->carriage
 Carribbean->Caribbean
 Carribean->Caribbean
