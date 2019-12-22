@@ -221,6 +221,7 @@ accension->accession, ascension,
 accepatble->acceptable
 accepect->accept
 accepected->accepted
+accepeted->accepted
 acceppt->accept
 acceptence->acceptance
 acceptible->acceptable
