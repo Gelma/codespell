@@ -24632,6 +24632,7 @@ whataver->whatever
 whatepsace->whitespace
 whatepsaces->whitespaces
 whather->whether, weather,
+whathever->whatever
 whats->what's
 whch->which
 whcih->which
