@@ -13776,6 +13776,7 @@ leapyears->leap years
 leary->leery
 leas->least, lease,
 leaset->least
+leasy->least
 leat->lead, leak, least, leaf,
 leathal->lethal
 leats->least
