@@ -11918,6 +11918,7 @@ Ihaca->Ithaca
 ihs->his
 iif->if
 iinclude->include
+iiterator->iterator
 iland->island
 ileagle->illegal
 ilegal->illegal
