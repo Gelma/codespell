@@ -22862,6 +22862,7 @@ tihs->this
 tim->time, Tim, disabled due to being a person's name
 timedlta->timedelta
 timeing->timing
+timemout->timeout
 timeot->timeout
 timere->timer
 timeschedule->time schedule
