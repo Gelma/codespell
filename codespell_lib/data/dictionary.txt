@@ -21010,6 +21010,7 @@ skipp->skip, skipped,
 skippd->skipped
 skipt->skip, Skype, skipped,
 skyp->skip, Skype,
+slaches->slashes
 slase->slash
 slases->slashes
 slashs->slashes
