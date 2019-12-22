@@ -9112,6 +9112,7 @@ enclosung->enclosing
 enclude->include
 encluding->including
 encocded->encoded
+encodingt->encoding
 enconding->encoding
 encondings->encodings
 encorded->encoded
