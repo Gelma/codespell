@@ -11390,6 +11390,7 @@ handels->handles
 hander->handler
 handfull->handful
 handhake->handshake
+handker->handler
 handleer->handler
 handleing->handling
 handlig->handling
