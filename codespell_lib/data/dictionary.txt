@@ -21971,6 +21971,7 @@ sugestion->suggestion
 sugestions->suggestions
 sugests->suggests
 suggestes->suggests
+suggestins->suggestions
 suggestsed->suggested
 suggesttion->suggestion
 suggesttions->suggestions
