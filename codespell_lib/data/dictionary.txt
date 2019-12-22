@@ -6544,6 +6544,7 @@ cryptograpic->cryptographic
 crystalisation->crystallisation
 cryto->crypto
 crytpo->crypto
+cson->json
 ctificates->certificates
 cuasality->causality
 cuasation->causation
