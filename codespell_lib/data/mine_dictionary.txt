@@ -23512,7 +23512,6 @@ undertunes->undertones
 underwaer->underwear
 underwager->underwater
 underwares->underwater
-underware->underwear
 underwarter->underwater
 underwar->underwater
 underwealming->underwhelming
@@ -28995,7 +28994,7 @@ orignated->originated
 ouer->outer
 owener->owner
 parth->path
-persisted->perisisted
+perisisted->persisted
 playgropund->playground
 predfined->predefined
 previewd->previewed
@@ -29022,7 +29021,7 @@ visulstudio->visualstudio
 webadress->webaddress
 whathever->whatever
 withon->within
-workspace->workspce
+workspce->workspace
 worl->world
 wser->user
 versiob->version
