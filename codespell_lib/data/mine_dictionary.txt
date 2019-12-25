@@ -7455,7 +7455,7 @@ defaint->defiant
 defaintly->defiantly
 defaltion->deflation
 defamating->defamation
-defanitely->definitly
+defanitely->definitely
 defanitly->defiantly
 defectos->defects
 defectus->defects
@@ -7540,7 +7540,7 @@ definicion->definition
 definie->definite
 definietly->definitely
 definig->defining
-definilty->definitly
+definilty->definitely
 defininitely->definitively
 definitaley->definitely
 definitaly->definitely
@@ -7548,7 +7548,7 @@ definitavely->definitively
 definitelly->definitely
 definitevely->definitively
 definitevly->definitively
-definiteyl->definitly
+definiteyl->definitely
 definitie->definitive
 definitiely->definitively
 definitieve->definitive
@@ -7562,16 +7562,16 @@ definitivley->definitively
 definitivno->definition
 definitivo->definition
 definitivos->definitions
-definitlely->definitly
-definitlety->definitly
+definitlely->definitely
+definitlety->definitely
 definitley->definitely
-definitlly->definitly
-definitlry->definitly
-definitlty->definitly
+definitlly->definitely
+definitlry->definitely
+definitlty->definitely
 definito->definition
 definitv->definitive
 definitve->definite
-definityl->definitly
+definityl->definitely
 definjtely->definitely
 definltely->definitely
 definltey->definitely
@@ -7581,11 +7581,11 @@ defintaley->definitely
 defintaly->defiantly
 defintiely->definitely
 defintiion->definitions
-defintily->definitly
+defintily->definitely
 defintley->definitely
 definutely->definitely
 defitenly->definitely
-defitinly->definitly
+defitinly->definitely
 defitnaly->defiantly
 defitnely->definitely
 deflaction->deflection
@@ -7622,7 +7622,7 @@ dehyrdated->dehydrated
 dehyrdation->dehydration
 deifnately->definitely
 deifnetly->definitely
-deifnitly->definitly
+deifnitly->definitely
 deiners->deniers
 deinitalization->deinitialization
 deinitalize->deinitialize
@@ -8140,7 +8140,7 @@ dictionaires->dictionaries
 dictionairy->dictionary
 dictionare->dictionaries
 didsapointed->disappointed
-difenitly->definitly
+difenitly->definitely
 differantly->differently
 differenciation->differentiation
 differenciations->differentiation
@@ -9619,14 +9619,14 @@ evengalical->evangelical
 evenlopes->envelopes
 everets->everest
 everset->everest
-evertyime->everytime
+evertyime->every time
 everyoens->everyones
 everyonehas->everyones
 everyoneis->everyones
 everyonelse->everyones
 everyons->everyones
-everyteim->everytime
-everytiem->everytime
+everyteim->every time
+everytiem->every time
 eveyrones->everyones
 evidencd->evidenced
 evidende->evidenced
@@ -9642,7 +9642,7 @@ evolveos->evolves
 evovled->evolved
 evovles->evolves
 evreyones->everyones
-evreytime->everytime
+evreytime->every time
 exacarbated->exacerbated
 exacberated->exacerbated
 exacberate->exacerbated
