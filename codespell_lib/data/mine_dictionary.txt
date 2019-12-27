@@ -879,7 +879,6 @@ zink->zinc
 zookeenee->zucchini
 zylophone->xylophone
 interruted->interrupted
-leveling->levelling
 prifles->profiles
 approciate->appropriate
 blocsk->blocks
@@ -6982,10 +6981,10 @@ costumization->customization
 costumizations->customization
 costumized->customized
 cosutmes->costumes
-coudlnt->couldnt
-couldnot->couldnt
+coudlnt->couldn't
+couldnot->couldn't
 coulmns->columns
-coulndt->couldnt
+coulndt->couldn't
 coulored->coloured
 counceling->counseling
 councelors->counselors
@@ -10323,7 +10322,6 @@ figuretively->figuratively
 figuritively->figuratively
 filcker->flicker
 fileding->fielding
-filetimes->lifetimes
 filmamkers->filmmakers
 filmmakare->filmmakers
 filmmakes->filmmakers
@@ -14610,7 +14608,6 @@ mathemetician->mathematician
 mathemeticians->mathematicians
 mathemetics->mathematics
 mathewes->mathews
-mathimatically->mathematically
 mathwes->mathews
 matieralism->materialism
 matieral->material
@@ -24564,7 +24561,6 @@ directorie->directories
 directorya->directory
 disavantage->disadvantage
 downoading->downloading
-dropextension->dropextensions
 duoiohandles->dupiohandles
 effecet->effect
 efffect->effect
@@ -27333,7 +27329,6 @@ unevitably->inevitably
 unmappble->unmappable
 unpplugged->unplugged
 unregiser->unregister
-upperindex->upperindx
 uregister->unregister
 urlhostory->urlhistory
 validatin->validating
@@ -28235,7 +28230,7 @@ thhere->there
 timesbase->timebase
 timestampe->timestamps
 timsstamps->timestamps
-trabceiver->tranceiver
+trabceiver->transceiver
 tranceive->transceive
 tranlators->translators
 tranpose->transpose
@@ -28448,7 +28443,6 @@ degress->degrees
 desposit->deposit
 doubletquote->doublequote
 dyanamically->dynamically
-entquiry->enquiry
 existatus->exitstatus
 imperiaal->imperial
 litquid->liquid
@@ -28898,7 +28892,6 @@ adapator->adapter
 adcanved->advanced
 addiding->adding
 anaylsed->analysed
-anguilla->angvila
 aparrent->apparent
 asbtract->abstract
 barreirs->barriers
@@ -28962,8 +28955,8 @@ expeptions->exceptions
 exucuted->executed
 firspage->firstpage
 formaters->formatters
-formattings->formatting
 formattring->formatting
+formattrings->formattings
 getcomposit->getcomposite
 handker->handler
 highlightin->highlighting
@@ -29005,7 +28998,6 @@ reviewl->review
 segemented->segmented
 selecrtion->selection
 slaches->slashes
-smoketests->smoketest
 spliiter->splitter
 suggestins->suggestions
 timemout->timeout
@@ -29024,9 +29016,6 @@ withon->within
 workspce->workspace
 worl->world
 wser->user
-versiob->version
-cetrainly->certainly
-xyou->you
 addede->added
 adhead->ahead
 alreadu->already
