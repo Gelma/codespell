@@ -17528,7 +17528,6 @@ platimun->platinum
 platnium->platinum
 platnuim->platinum
 platofrmer->platformer
-platofrms->platforms
 plausbile->plausible
 plausibel->plausible
 plausibe->plausible
@@ -24179,8 +24178,6 @@ vrigins->virgins
 vulberability->vulnerability
 vulernabilities->vulnerabilities
 vulernability->vulnerability
-vulnarabilities->vulnerabilities
-vulnarability->vulnerability
 vulnarable->vulnerable
 vulnerabile->vulnerable
 vulnerabiltiy->vulnerability
@@ -25781,7 +25778,6 @@ dependenties->dependencies
 dequeing->dequeuing
 dequeud->dequeued
 derefereced->dereferenced
-derefernce->dereference
 derermines->determines
 desabled->disabled
 desable->disable
@@ -28044,7 +28040,6 @@ extpression->expression
 fallbacl->fallback
 fauiled->failed
 fieldss->fields
-fileld->field
 filterning->filtering
 fiters->filters
 flaxible->flexible
