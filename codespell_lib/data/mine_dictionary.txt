@@ -28958,7 +28958,6 @@ highlightin->highlighting
 idons->icons
 iiterator->iterator
 indentaction->indentation
-iscancelled->iscanceled
 keybault->keyvault
 leasy->least
 lene->lens
@@ -29091,3 +29090,6 @@ wrute->write
 xample->example
 zinde->zindex
 choppet->chopped
+exportd->exported
+boundig->bounding
+heiht->height
