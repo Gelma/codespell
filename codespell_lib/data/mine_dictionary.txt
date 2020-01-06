@@ -1793,7 +1793,6 @@ secton->section
 segmant->segment
 selct->select
 serch->search
-setion->section
 settigs->settings
 sevirity->severity
 simplicitly->simplicity
@@ -7417,7 +7416,6 @@ declaraste->declares
 declareation->declaration
 declarees->declares
 declaremos->declares
-declars->declares
 declase->declares
 declears->declares
 declinig->declining
@@ -20742,8 +20740,6 @@ sidelinjen->sideline
 sidelinked->sideline
 sidleine->sideline
 siezable->sizeable
-siganture->signature
-sigantures->signatures
 sightstine->sightstone
 signapore->singapore
 signfiy->signify
@@ -27146,7 +27142,6 @@ secounds->seconds
 semaphor->semaphore
 seprador->separador
 sesion->session
-setions->sections
 sevas->saves
 shoiuld->should
 simila->similar
@@ -27339,8 +27334,6 @@ computernam->computername
 concatanate->concatenate
 concequence->consequence
 createthrad->createthread
-declartions->declarations
-declatation->declaration
 dissortions->distortions
 epression->expression
 explanitory->explanatory
@@ -27653,7 +27646,6 @@ conflictling->conflicting
 constrainted->constrained
 consutruction->construction
 converstation->conversation
-declatations->declarations
 decyptmessage->decryptmessage
 derefferenced->dereferenced
 docuementation->documentation
@@ -28905,7 +28897,6 @@ chargign->charging
 checkusm->checksum
 chekcing->checking
 chidlren->children
-coalsece->coalesce
 coccured->occurred
 cohernet->coherent
 comapred->compared
@@ -29093,3 +29084,4 @@ choppet->chopped
 exportd->exported
 boundig->bounding
 heiht->height
+stacj->stack
