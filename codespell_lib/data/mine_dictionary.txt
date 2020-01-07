@@ -957,7 +957,7 @@ geristers->registers
 glean->clean
 gleaned->cleaned
 higjlighted->highlighted
-glidled->glided
+glidled->idled
 highhest->highest
 chagne->change
 hyphention->hyphenation
@@ -29085,3 +29085,4 @@ exportd->exported
 boundig->bounding
 heiht->height
 stacj->stack
+writethtough->writethrough
