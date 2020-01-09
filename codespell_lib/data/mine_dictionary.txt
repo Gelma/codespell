@@ -19319,7 +19319,6 @@ regresos->regress
 regresse->regressive
 regressivo->regression
 regresso->regression
-regresssion->regression
 regresssive->regressive
 regrest->regrets
 regrests->regress
@@ -20330,7 +20329,6 @@ sceintific->scientific
 sceintist->scientist
 sceintists->scientists
 scenarioes->scenarios
-scenarions->scenarios
 scenarious->scenarios
 scepture->scepter
 scheduleing->scheduling
@@ -20378,7 +20376,6 @@ scirptures->scriptures
 sclupture->sculpture
 scnadinavian->scandinavian
 scnadinavia->scandinavia
-scnearios->scenarios
 scooterers->scooters
 scootes->scooters
 scoprion->scorpion
@@ -23516,7 +23513,6 @@ underwolrd->underworld
 underwoord->underworld
 underwright->underweight
 underwrold->underworld
-underyling->underlying
 undescore->underscore
 undesireble->undesirable
 undesriable->undesirable
@@ -25052,7 +25048,6 @@ instaciating->instantiating
 intendation->indentation
 intoto->into
 iteratoror->iterator
-itesm->items
 keenia->kenya
 kolumbia->colombia
 likley->likely
@@ -25921,7 +25916,6 @@ multuple->multiple
 nestedd->nested
 nonexisiting->nonexisting
 olderst->oldest
-opbject->object
 origianl->original
 origibnal->original
 partitons->partitions
@@ -27228,7 +27222,6 @@ pottential->potential
 powerswave->powersave
 precerding->preceding
 preemtion->preemption
-premptive->preemptive
 preseting->presetting
 pricipals->principals
 primtives->primitives
@@ -27803,7 +27796,6 @@ uncoditionally->unconditionally
 unconditonal->unconditional
 unconnnected->unconnected
 uncrecognized->unrecognized
-unecessarily->unnecessarily
 unfortunaltely->unfortunately
 unimplemnted->unimplemented
 unimplmented->unimplemented
@@ -28092,7 +28084,6 @@ mbuttonbox->buttonbox
 meanigless->meaningless
 meanss->means
 mesdsages->messages
-millseconds->milliseconds
 minimux->minimum
 missbehaves->misbehaves
 misscompiles->miscompiles
@@ -28192,7 +28183,6 @@ singnalstats->signalstats
 slighrly->slightly
 smarcard->smartcard
 sndblock->sendblock
-somewher->somewhere
 specifer->specifier
 specifiec->specific
 specifig->specific
@@ -28687,7 +28677,6 @@ procted->protected
 proting->porting
 recylce->recycle
 aboutqt->abouttqt
-regsion->regions
 reguens->returns
 reiceve->receive
 repalce->replace
@@ -29086,3 +29075,4 @@ boundig->bounding
 heiht->height
 stacj->stack
 writethtough->writethrough
+excepted->expected
