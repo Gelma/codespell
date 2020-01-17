@@ -21792,11 +21792,6 @@ subredddits->subreddits
 subredditors->subreddits
 subruban->suburban
 subsadized->subsidized
-subscirbed->subscribed
-subscirbers->subscribers
-subscirber->subscribers
-subscirbe->subscribe
-subscirption->subscriptions
 subsconciously->subconsciously
 subsconcious->subconscious
 subscribar->subscriber
@@ -23751,8 +23746,6 @@ unsoliciated->unsolicited
 unsolicted->unsolicited
 unsoliticed->unsolicited
 unsolocited->unsolicited
-unsubscirbed->unsubscribed
-unsubscirbe->unsubscribe
 unsubscrbed->unsubscribed
 unsubscrbe->unsubscribe
 unsubscribade->unsubscribed
@@ -29009,3 +29002,5 @@ ttile->title
 marches->matches
 pdef->pdf
 classificationpath->classification path
+instantiatied->instantiated
+thingss->things
