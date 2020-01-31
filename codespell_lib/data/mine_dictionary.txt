@@ -29004,3 +29004,10 @@ pdef->pdf
 classificationpath->classification path
 instantiatied->instantiated
 thingss->things
+differentioation->differentiation
+obdc->odbc
+extrmely->extremely
+unritten->unwritten
+sequnece->sequence
+aftger->after
+namespave->namespace
