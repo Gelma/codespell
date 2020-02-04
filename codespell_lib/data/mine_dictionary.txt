@@ -744,7 +744,6 @@ rondayvoo->rendezvous
 sawtay->saute
 scafolding->scaffolding
 scenaireo->scenario
-scence->sense
 seege->siege
 seez->seize
 seezure->seizure
@@ -1406,13 +1405,11 @@ specifes->specifies
 ssystems->systems
 stategy->strategy
 strage->storage
-strctures->structures
 subection->subsection
 subections->subsections
 suitible->suitable
 superblc->superblock
 superbocks->superblocks
-supprted->supported
 swampped->swapped
 sweedish->swedish
 syntaces->syntaxes
@@ -1739,7 +1736,6 @@ hardwared->hardwired
 haredware->hardware
 hetergeneous->heterogeneous
 hogh->high
-hotname->hostname
 hotpug->hotplug
 imeplement->implement
 immedaiate->immediate
@@ -1793,7 +1789,6 @@ secton->section
 segmant->segment
 selct->select
 serch->search
-settigs->settings
 sevirity->severity
 simplicitly->simplicity
 solaries->solaris
@@ -4687,7 +4682,6 @@ capitolism->capitalism
 capitolist->capitalist
 capitolists->capitalists
 capitolization->capitalization
-capitolize->capitalize
 capitolized->capitalized
 capitulo->capitol
 capmbell->campbell
@@ -6250,7 +6244,6 @@ conicide->coincide
 conicidence->coincidence
 conicidental->coincidental
 conicidentally->coincidentally
-conifguration->configurations
 conifgurations->configurations
 conisderation->considerations
 conjucntion->conjunction
@@ -6802,7 +6795,6 @@ conversons->conversions
 converstaional->conversational
 converstaion->conversation
 converstaions->conversations
-converst->converts
 convertiable->convertible
 convertibile->convertible
 convertie->convertible
@@ -7515,7 +7507,6 @@ definatelty->definitely
 definatetly->definitely
 definatey->definitely
 definatily->definitely
-definations->definitions
 definative->definitive
 definatively->definitively
 definatlely->definitely
@@ -15962,7 +15953,6 @@ noticiably->noticeably
 notificacion->notification
 notificaiton->notification
 notificaitons->notifications
-notificaton->notification
 notificatons->notifications
 notoriosly->notoriously
 notorios->notorious
@@ -22411,7 +22401,6 @@ temepst->tempest
 tempalrs->templars
 temparament->temperament
 temparatures->temperatures
-temparature->temperature
 temparement->temperament
 tempearture->temperatures
 tempels->temples
@@ -23743,7 +23732,6 @@ unsintalled->uninstalled
 unsistainable->unsustainable
 unsolicated->unsolicited
 unsoliciated->unsolicited
-unsolicted->unsolicited
 unsoliticed->unsolicited
 unsolocited->unsolicited
 unsubscrbed->unsubscribed
@@ -23842,7 +23830,6 @@ vaiation->aviation
 vaibility->viability
 vaildated->validated
 vairables->variables
-vairable->variable
 vairant->variant
 vaklyrie->valkyrie
 valdiated->validated
@@ -24692,7 +24679,6 @@ transferr->transfer
 clipbord->clipboard
 concated->concatened
 abctract->abstract
-abstration->abstraction
 acceps->accept
 accurantely->accurately
 actionnable->actionable
@@ -24793,7 +24779,6 @@ changedn->changed
 chechsum->checksum
 childefinition->childdefinition
 childrend->children
-chilren->children
 circumfrence->circumference
 citeria->criteria
 cleares->clears
@@ -24973,7 +24958,6 @@ representend->represented
 requeted->requested
 requet->request
 requqest->request
-resonse->response
 restting->resetting
 retrievies->retrieves
 returnded->returned
@@ -26180,7 +26164,6 @@ parnent->parent
 patcked->packed
 pcmciai->pcmcia
 peeprom->eeprom
-pendig->pending
 pexists->exists
 pinter->pointer
 pleace->please
@@ -26480,7 +26463,6 @@ telgram->telegram
 teturns->returns
 theremal->thermal
 thowing->throwing
-trasmit->transmit
 trigget->trigger
 trunning->running
 ucommon->uncommon
@@ -26566,7 +26548,6 @@ nagative->negative
 nexecuted->executed
 nornally->normally
 numberred->numbered
-obsolate->obsolete
 ohysical->physical
 operatin->operation
 optiimize->optimize
@@ -26649,7 +26630,6 @@ softwarew->software
 sounbank->soundbank
 specefic->specific
 specifix->specific
-speicific->specific
 spurilous->spurious
 sripping->stripping
 stanadard->standard
@@ -26664,7 +26644,6 @@ supplyed->supplied
 supporsts->supports
 surrount->surround
 telemtry->telemetry
-teminate->terminate
 templete->template
 therwise->otherwise
 threfore->therefore
@@ -26766,7 +26745,6 @@ atttempt->attempt
 behaior->behavior
 controlo->control
 disinct->distinct
-endpont->endpoint
 ierator->iterator
 insteead->instead
 iternal->internal
@@ -26931,7 +26909,6 @@ optimsation->optimization
 anhything->anything
 scenerios->scenarios
 stoke->stroke
-acccount->account
 acord->accord
 aggain->again
 algorighm->algorithm
@@ -27158,7 +27135,6 @@ themeing->theming
 thouched->touched
 throughs->through
 totaly->totally
-traling->trailing
 trasform->transform
 troncated->truncated
 tweek->tweak
@@ -27783,7 +27759,6 @@ transimitter->transmitter
 transistioned->transitioned
 travesability->traversability
 unaccessable->unaccessible
-unacknowleged->unacknowledged
 unambiguious->unambiguous
 uncoditionally->unconditionally
 unconditonal->unconditional
@@ -28467,7 +28442,6 @@ recpie->recipe
 regiry->registry
 regual->regular
 resutl->result
-reuslt->result
 rotuer->router
 rspnse->response
 simlpy->simply
@@ -28591,7 +28565,6 @@ oultine->outline
 ovelray->overlay
 picebus->pciebus
 pirvate->private
-poniter->pointer
 prcoess->process
 proboly->probably
 procted->protected
@@ -28630,7 +28603,6 @@ verifys->verifies
 visibel->visible
 vritual->virtual
 widnows->windows
-wihtout->without
 windwos->windows
 winedgb->winedbg
 winodws->windows
@@ -28805,7 +28777,6 @@ chanceld->canceled
 channesl->channels
 chargign->charging
 checkusm->checksum
-chekcing->checking
 chidlren->children
 coccured->occurred
 cohernet->coherent
@@ -29260,7 +29231,6 @@ assoumed->assumed
 astrisks->asterisks
 attempte->attempt
 attmpted->attempted
-augument->augment
 authtoke->authtoken
 bacwards->backwards
 becauase->because
