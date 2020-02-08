@@ -29484,7 +29484,6 @@ sandwitch->sandwich
 screnshot->screenshot
 securituy->security
 sementics->semantics
-setenable->setenabled
 sceptical->skeptical
 ssettings->settings
 stablized->stabilized
@@ -29628,3 +29627,4 @@ jgoups->jgroups
 fuctionality->functionality
 credentia->credential
 deveoper->developer
+ftom->from
