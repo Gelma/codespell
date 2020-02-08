@@ -29396,7 +29396,6 @@ constexts->contexts
 contition->condition
 coparison->comparison
 cryptseup->cryptsetup
-databases->adatabases
 deeclared->declared
 deferrred->deferred
 deletelog->deletelogs
@@ -29542,7 +29541,6 @@ deprecared->deprecated
 destuctors->destructors
 detectiuon->detection
 deveopment->development
-dictionary->idictionary
 dispossing->disposing
 disrectory->directory
 documentid->mdocumentid
@@ -29624,3 +29622,9 @@ adapatively->adaptively
 annotationg->annotating
 applicationt->application
 appliciable->applicable
+mobilelocaleseperator->mobilelocaleseparator
+tooptip->tooltip
+jgoups->jgroups
+fuctionality->functionality
+credentia->credential
+deveoper->developer
