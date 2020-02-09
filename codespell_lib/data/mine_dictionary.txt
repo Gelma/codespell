@@ -29105,7 +29105,6 @@ wthout->without
 yieled->yielded
 allowen->allowed
 apacket->packet
-apkfile->appfile
 arounds->around
 arrage->arrange
 asseted->asserted
@@ -30409,7 +30408,6 @@ analtics->analytics
 analye->analyze
 analyez->analyze
 analyics->analytics
-analyse->analyze
 analytcis->analytics
 analytcs->analytics
 analytis->analytics
@@ -30894,7 +30892,6 @@ beastial->bestial
 beated->beat
 beaurocrat->bureaucrat
 beeen->been
-behaviour->behavior
 beieve->believe
 beigns->begins
 beileve->believe
@@ -31256,7 +31253,6 @@ colone->colonel
 colonl->colonel
 colonle->colonel
 coloquial->colloquial
-colour->color
 colouration->coloration
 colourless->colorless
 colun->colon
@@ -32045,7 +32041,6 @@ folat->float
 followup->follow
 folowed->followed
 folower->follower
-foo->food
 fooball->football
 foobtall->football
 foode->food
@@ -32765,7 +32760,6 @@ jeywalk->jaywalk
 jnket->junket
 jnuket->junket
 juction->junction
-judgement->judgment
 juket->junket
 juknet->junket
 junekt->junket
@@ -33596,7 +33590,6 @@ pasenger->passenger
 pasime->pastime
 pasitme->pastime
 passanger->passenger
-pasted->passed
 pastie->pasties
 pastiem->pastime
 pastim->pastime
@@ -34044,7 +34037,6 @@ purhase->purchase
 purhcase->purchase
 purpindicular->perpendicular
 pwn->own
-py->pie
 pyhsics->physics
 pyschic->psychic
 pyscho->psycho
@@ -35010,7 +35002,6 @@ visonary->visionary
 vist->visit
 vistation->visitation
 visti->visit
-visualisation->visualization
 vittel->vittle
 vlaidity->validity
 vlidity->validity
@@ -35139,3 +35130,4 @@ zuccihni->zucchini
 zuccini->zucchini
 zuchcini->zucchini
 zuchini->zucchini
+paragrapsh->paragraph
