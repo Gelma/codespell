@@ -23830,7 +23830,6 @@ vaiation->aviation
 vaibility->viability
 vaildated->validated
 vairables->variables
-vairant->variant
 vaklyrie->valkyrie
 valdiated->validated
 valenca->valencia
@@ -23873,7 +23872,6 @@ vanillia->vanilla
 vanillla->vanilla
 vanugard->vanguard
 varaints->variants
-varaint->variant
 vareity->variety
 varians->variants
 variantes->variants
@@ -28189,7 +28187,6 @@ unroling->unrolling
 untranslted->untranslated
 unusupported->unsupported
 upacker->unpacker
-variasnt->variant
 vebosity->verbosity
 vetorial->vectorial
 vissual->visual
@@ -29099,7 +29096,7 @@ traint->trait
 treaks->treats
 tutple->tuple
 unifed->unified
-unwrap->unwrawp
+unwrawp->unwrap
 valuee->value
 wheree->where
 witnin->within
@@ -30975,7 +30972,6 @@ bsorbent->absorbent
 bsorption->absorption
 bstinence->abstinence
 bu->but
-buffalos->acceptable
 buger->bugler
 bugrer->burger
 buildng->building
@@ -31096,7 +31092,6 @@ carrer->career
 carylic->acrylic
 casted->cast
 catalist->catalyst
-catalogue->variant
 categor->category
 categoy->category
 categoyr->category
@@ -31124,7 +31119,6 @@ cemetry->cemetery
 cemntery->cemetery
 centenial->centennial
 centennary->centenary
-centre->variant
 chadelier->chandelier
 chadnelier->chandelier
 chageable->changeable
@@ -31326,8 +31320,6 @@ conensus->consensus
 conentrate->concentrate
 conesnsus->consensus
 conevnience->convenience
-confectionary->acceptable
-confectionery->acceptable
 confrence->conference
 confuzled->confused
 confuzzled->confessed
@@ -31456,7 +31448,6 @@ criaglist->craigslist
 criagslist->craigslist
 crigslist->craigslist
 cristmas->christmas
-criticise->variant
 critiscism->criticism
 crnaberry->cranberry
 crnberry->cranberry
@@ -31505,7 +31496,6 @@ cybr->cyber
 cybre->cyber
 cyebr->cyber
 cyer->coyer
-cypher->acceptable
 daequate->adequate
 dahesive->adhesive
 daieu->adieu
@@ -31538,9 +31528,6 @@ debat->debit
 debtae->debate
 debte->debate
 decembur->december
-decigramme->variant
-decilitre->variant
-decimetre->variant
 decrepid->decrepit
 deel->deal
 defencive->defensive
@@ -31583,9 +31570,6 @@ deperate->desperate
 dequate->adequate
 derivated->derived
 deriviative->derivative
-descendant->acceptable
-descendent->acceptable
-descendents->acceptable
 desease->disease
 desember->december
 deseprate->desperate
@@ -31639,7 +31623,6 @@ dhesive->adhesive
 diad->dyad
 diadic->dyadic
 dialation->dilation
-dialogue->variant
 diaquiri->daiquiri
 diciple->disciple
 dicsipline->discipline
@@ -31665,7 +31648,6 @@ diosyncratic->idiosyncratic
 diquiri->daiquiri
 directer->director
 disapora->diaspora
-disc->variant
 disciline->discipline
 discilpine->discipline
 discipilne->discipline
@@ -31685,7 +31667,6 @@ disperate->desperate
 dissapointment->disappointment
 dissappointment->disappointment
 dissoluted->dissolved
-distil->variant
 distilation->distillation
 distributer->distributor
 ditology->ideology
@@ -31698,16 +31679,12 @@ dmocrat->democrat
 doler->dolor
 dolescent->adolescent
 donload->download
-donut->acceptable
 doosy->doozy
-doughnut->acceptable
 dowlnoad->download
 downloa->download
 downloda->download
 downoad->download
 downolad->download
-draught->variant
-dreamt->variant
 drinked->drank
 drumed->drummed
 drumer->drummer
@@ -31723,7 +31700,6 @@ dued->dude
 duely->duly
 dvantageous->advantageous
 dversary->adversary
-dwelled->variant
 dwnload->download
 dwonload->download
 eadphones->earphones
@@ -31859,7 +31835,6 @@ emplode->implode
 employes->employees
 empound->impound
 empoundment->impoundment
-enamoured->acceptable
 enamured->enamored
 enbankment->embankment
 encorperate->incorporate
@@ -31895,7 +31870,6 @@ eparate->separate
 epcan->pecan
 epculiar->peculiar
 eperience->experience
-epicentre->variant
 epiode->episode
 epitomy->epitome
 eprseverance->perseverance
@@ -32034,8 +32008,6 @@ famouse->famous
 fascitious->facetious
 fasinate->fascinate
 faulter->falter
-favour->variant
-favourite->variant
 faw->few
 feas->fees
 februrary->february
@@ -32057,7 +32029,6 @@ fighted->fought
 firend->friend
 firy->firry
 fla->flay
-flavour->variant
 fli->fly
 floa->float
 flot->flit
@@ -32158,7 +32129,6 @@ garrisson->garrison
 garteful->grateful
 garvey->gravy
 garvy->gravy
-gasses->acceptable
 gateful->grateful
 gaue->ague
 gaueg->gauge
@@ -32193,7 +32163,6 @@ girated->gyrated
 girates->gyrates
 girating->gyrating
 giration->gyration
-git->get
 gitate->agitate
 gitf->gift
 giude->guide
@@ -32488,7 +32457,6 @@ icense->incense
 icieng->icing
 icnnamon->cinnamon
 icrcumference->circumference
-idealise->variant
 idealy->ideally
 idefinable->indefinable
 idenify->identify
@@ -32767,7 +32735,6 @@ italion->italian
 itallian->italian
 itallion->stallion
 itelligence->intelligence
-itemise->variant
 itenary->ternary
 itenerant->itinerant
 iterrogate->interrogate
@@ -33071,9 +33038,7 @@ memnto->memento
 memranous->membranous
 memrbanous->membranous
 mercernary->mercenary
-meter->variant
 metorology->meteorology
-metre->variant
 meu->menu
 meun->menu
 mhaogany->mahogany
@@ -33202,7 +33167,6 @@ mnoey->money
 mnu->menu
 mnuscule->minuscule
 moday->moray
-modelled->variant
 modnay->monday
 moeba->amoeba
 moey->money
@@ -33559,17 +33523,12 @@ paarllelism->parallelism
 paarllelogram->parallelogram
 paartheid->apartheid
 pajent->parent
-pallour->variant
 palyed->played
 palyer->player
 palying->playing
 palywright->playwright
 panal->panel
 panarama->panorama
-paneled->variant
-paneling->variant
-panelled->variant
-panelling->variant
 panish->punish
 pannini->panning
 pansil->pensile
@@ -33620,7 +33579,6 @@ parlalelogram->parallelogram
 parllel->parallel
 parllelism->parallelism
 parllelogram->parallelogram
-parlour->variant
 partciularly->particularly
 partcularly->particularly
 partheid->apartheid
@@ -33651,7 +33609,6 @@ patinum->platinum
 patricularly->particularly
 patsime->pastime
 pattent->patent
-paviour->variant
 payler->player
 paywright->playwright
 pblicly->publicly
@@ -33949,7 +33906,6 @@ presonnel->personnel
 presumeably->presumably
 presure->pressure
 prevale->prevail
-preventative->acceptable
 priilege->privilege
 priivlege->privilege
 primarially->primarily
@@ -33986,7 +33942,6 @@ proclmaation->proclamation
 proclmation->proclamation
 programe->program
 programer->programmer
-programme->variant
 prolamation->proclamation
 prolcamation->proclamation
 prominate->prominent
@@ -34326,7 +34281,6 @@ richs->riches
 ries->rise
 rigonometric->trigonometric
 rigonometry->trigonometry
-rigour->variant
 rivilege->privilege
 rle->rile
 rleevant->relevant
@@ -34365,7 +34319,6 @@ rtigonometry->trigonometry
 ruel->rule
 rul->rule
 rular->ruler
-rumour->variant
 ryadar->radar
 rydar->radar
 ryhme->rhyme
@@ -34389,9 +34342,6 @@ sasimilate->assimilate
 sathma->asthma
 satistic->statistic
 sattistic->statistic
-saviour->variant
-savour->variant
-savoury->variant
 sbestos->asbestos
 scapgoat->scapegoat
 scarry->scary
@@ -34559,7 +34509,6 @@ spansh->spans
 sparsly->sparsely
 speaked->spoke
 spearate->separate
-specialty->variant
 speek->speech
 spel->spell
 spelled->spelt
@@ -34573,7 +34522,6 @@ splel->spell
 spll->spell
 spnaish->spanish
 spnish->spins
-spoilt->variant
 sportscar->sports
 spoter->spotter
 spotetr->spotter
@@ -34741,7 +34689,6 @@ testiment->testament
 testimont->testament
 tewlfth->twelfth
 theologan->theologian
-theologist->acceptable
 theraputic->therapeutic
 theroretical->theoretical
 thershold->threshold
@@ -34776,7 +34723,6 @@ tormalin->formalin
 tormaline->tourmaline
 tormalyn->formalin
 tormalyne->tourmaline
-tornados->acceptable
 tornament->tournament
 tourmalin->tourmaline
 tourmalyn->tourmaline
@@ -34810,8 +34756,6 @@ transltor->translator
 transmitt->transmit
 trarchy->starchy
 traslator->translator
-travelled->variant
-traveller->variant
 trcak->track
 trcaker->tracker
 trck->trick
@@ -34890,9 +34834,7 @@ tuesdy->tuesday
 tuffing->toughing
 tukey->turkey
 tukrey->turkey
-tumour->variant
 tumultous->tumultuous
-tunnelling->variant
 turcuoise->turquoise
 tureky->turkey
 turey->turkey
@@ -34926,7 +34868,6 @@ tyarnny->tyranny
 tyme->time
 tyrann->tyranny
 tyranyn->tyranny
-tyre->variant
 tyrnany->tyranny
 tyrnny->tyranny
 tyrofoam->tyro foam
@@ -34969,7 +34910,6 @@ unti->unit
 untied->united
 untl->until
 untli->until
-unuseable->acceptable
 upblicly->publicly
 upersede->supersede
 upmost->utmost
@@ -34980,7 +34920,6 @@ urger->urge
 urkey->turkey
 urle->rule
 usance->since
-useable->acceptable
 usite->suite
 uspersede->supersede
 usurpate->usurp
@@ -35022,8 +34961,6 @@ validty->validity
 valient->valiant
 valiidty->validity
 valiity->validity
-valour->variant
-vapour->variant
 varietes->varieties
 varios->various
 variosly->variously
@@ -35059,7 +34996,6 @@ viaility->viability
 vibaility->viability
 vibility->viability
 vigilent->vigilant
-vigour->variant
 viist->visit
 viit->visit
 vilage->village
@@ -35084,7 +35020,6 @@ voe->vie
 voet->vote
 voilence->violence
 voilent->violent
-volcanos->acceptable
 vot->vote
 voyae->voyage
 voyaeg->voyage
