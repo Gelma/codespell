@@ -31066,7 +31066,6 @@ calulus->calculus
 cameback->came
 cameraderie->camaraderie
 canberry->cranberry
-cancelled->variant
 candelier->chandelier
 cangeable->changeable
 canoing->canoeing
@@ -32066,7 +32065,6 @@ flota->float
 flw->flew
 flwa->flaw
 foat->feat
-fod->food
 fode->fade
 fodo->food
 foeign->feign
@@ -34383,7 +34381,6 @@ saerch->search
 safegaurd->safeguard
 saffire->safire
 saksaphone->saxophone
-sal->sale
 sanish->spanish
 saphalt->asphalt
 sapnish->spanish
