@@ -30885,7 +30885,6 @@ baysmal->abysmal
 bbreviate->abbreviate
 bcakward->backward
 bcame->became
-beared->bared
 bearly->barely
 beastial->bestial
 beated->beat
@@ -35271,3 +35270,7 @@ recaluculate->recalculate
 recognisable->recognizable
 bookarks->bookmarks
 bookark->bookmark
+renderinmg->rendering
+institutn->institution
+deonotes->denotes
+deonote->denote
