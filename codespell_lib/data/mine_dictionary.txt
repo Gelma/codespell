@@ -1843,7 +1843,6 @@ togglefullscreen->dotogglefullscreen
 tubale->tunable
 unrealizefn->unrealize
 unreasobale->unreasonable
-volname->volume
 wrottn->wrote
 cernter->center
 clipe->clip
@@ -31156,7 +31155,6 @@ chta->chat
 cicrumference->circumference
 cicumference->circumference
 cide->cede
-cidr->cider
 cidre->cider
 ciedr->cider
 cience->science
@@ -35274,3 +35272,9 @@ renderinmg->rendering
 institutn->institution
 deonotes->denotes
 deonote->denote
+comfusion->confusion
+gett->get
+etest->test
+lamba->lambda
+namesspace->namespace
+priniting->printing
