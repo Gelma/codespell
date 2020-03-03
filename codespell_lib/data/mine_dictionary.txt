@@ -3972,7 +3972,6 @@ benchamrk->benchmark
 benchamrks->benchmarks
 benchmakrs->benchmarks
 benchmars->benchmarks
-benckmarks->benchmarks
 benedicat->benedict
 benedickt->benedict
 benedit->benedict
