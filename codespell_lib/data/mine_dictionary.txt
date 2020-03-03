@@ -9675,7 +9675,6 @@ excerises->exercises
 excerising->exercising
 excessivley->excessively
 excessivly->excessively
-exceuting->executing
 exceutioner->executioner
 exchangees->exchanges
 exchnages->exchanges
@@ -25004,7 +25003,6 @@ djanog->django
 eixst->exist
 environnemnt->environment
 exbit->exhibit
-exceutable->executable
 execuatble->executable
 explicitally->explicitly
 ezmple->example
@@ -31934,7 +31932,6 @@ exced->exceed
 excede->exceed
 excee->exceed
 excelrate->accelerate
-exceutive->executive
 excrutiating->excruciating
 excutive->executive
 execed->exceed
