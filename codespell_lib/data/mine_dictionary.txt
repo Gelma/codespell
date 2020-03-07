@@ -993,7 +993,6 @@ accissible->accessible
 libatomic-ops->libatomic_ops
 msexcell->msexcel
 overhide->override
-seprated->separated
 alligment->alignment
 differt->different
 pairty->parity
@@ -7890,8 +7889,6 @@ descirbe->describe
 descirbes->describes
 descprition->descriptions
 describiste->describes
-describtion->description
-describtions->descriptions
 descriminant->discriminant
 descripcion->description
 descripiton->descriptions
@@ -13863,7 +13860,6 @@ lavendr->lavender
 lawernce->lawrence
 laybrinth->labyrinth
 leaglization->legalization
-leaglize->legalize
 leaglizing->legalizing
 lebanesse->lebanese
 leceister->leicester
@@ -14006,7 +14002,6 @@ libertea->liberate
 liberterianism->libertarianism
 liberterian->libertarian
 liberterians->libertarians
-libraires->libraries
 librarse->libraries
 libretarianism->libertarianism
 libretarian->libertarian
@@ -15948,8 +15943,6 @@ noticeablely->noticeably
 noticeabley->noticeably
 noticiably->noticeably
 notificacion->notification
-notificaiton->notification
-notificaitons->notifications
 notificatons->notifications
 notoriosly->notoriously
 notorios->notorious
@@ -28030,7 +28023,6 @@ keyparm->keyparam
 keysrver->key server
 knowledgde->knowledge
 konsle->konsole
-leagacy->legacy
 lefovers->leftovers
 lenbgth->length
 levele->level
@@ -32028,7 +32020,6 @@ foeign->feign
 foerign->foreign
 foilage->foliage
 folat->float
-followup->follow
 folowed->followed
 folower->follower
 fooball->football
@@ -35274,3 +35265,5 @@ lamba->lambda
 namesspace->namespace
 priniting->printing
 radious->radius
+coollapsed->collapsed
+coollapse->collapse
