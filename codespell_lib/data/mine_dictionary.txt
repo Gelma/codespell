@@ -19462,7 +19462,6 @@ reluctanty->reluctantly
 reluctently->reluctantly
 remaind->remained
 remainds->remains
-remainig->remaining
 remakrs->remarks
 remannt->remnant
 remannts->remnants
@@ -24699,7 +24698,6 @@ simplifed->simplified
 sitemamp->sitemap
 slahes->slashes
 specalist->specialist
-specialties->specialities
 sqashing->squashing
 sripts->scripts
 staf->staff
@@ -25398,7 +25396,6 @@ assciate->associate
 asseert->assert
 assertiing->asserting
 assetion->assertion
-assigne->assign
 assignents->assignments
 assignmnent->assignment
 assining->assigning
@@ -25467,7 +25464,6 @@ bluethooth->bluetooth
 boardp->board
 booloader->bootloader
 boundardy->boundary
-bounday->boundary
 bpostprocessing->postprocessing
 broardcom->broadcom
 broght->brought
@@ -26009,7 +26005,6 @@ ffrom->from
 fieldd->field
 filds->fields
 filte->filter
-fiter->filter
 flaggs->flags
 foces->forces
 fould->found
@@ -27979,7 +27974,6 @@ fallbacl->fallback
 fauiled->failed
 fieldss->fields
 filterning->filtering
-fiters->filters
 flaxible->flexible
 fliping->flipping
 formward->forward
