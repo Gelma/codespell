@@ -26838,7 +26838,6 @@ framesyncc->framesync
 frational->fractional
 guaranntee->guarantee
 handhakes->handshakes
-happenning->happening
 tnis->this
 hnown->known
 wanrs->wants
@@ -28332,7 +28331,6 @@ tname->tzname
 trivival->trivial
 worchester->worcester
 cyrlicy->cyrylicy
-reomve->remove
 absulte->absolute
 accding->according
 achnor->anchor
@@ -29021,7 +29019,6 @@ vacum->vacuum
 vmext->vmexit
 vtodo->todo
 winbg->windbg
-workd->world
 advnce->advance
 applie->applied
 bulder->builder
