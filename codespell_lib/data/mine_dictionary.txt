@@ -20862,9 +20862,6 @@ sitmuli->stimuli
 sitrring->stirring
 situacional->situational
 situatinal->situational
-situationals->situations
-situationly->situational
-situationnal->situational
 siutational->situational
 sizebale->sizeable
 skandinavian->scandinavian
@@ -27917,7 +27914,6 @@ comuting->computing
 congtainer->container
 considereing->considering
 constats->constants
-contect->context
 contins->contains
 corrently->correctly
 couling->coupling
@@ -29356,7 +29352,6 @@ atomicand->atomicadd
 attriutes->attributes
 brekpoint->breakpoint
 caprtures->captures
-collisons->collisions
 comipiler->compiler
 compating->comparing
 compelted->compeleted
