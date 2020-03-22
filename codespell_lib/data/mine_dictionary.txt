@@ -27650,7 +27650,7 @@ montonically->monotonically
 mulitifunction->multifunction
 multipliciation->multiplication
 multiverioning->multiversioning
-navigational->navgational
+navgational->navigational
 needremainder->needreminder
 nomalization->normalization
 noncontinous->noncontinuous
@@ -35252,3 +35252,4 @@ coollapsed->collapsed
 coollapse->collapse
 noeed->need
 gradient->gradient
+servivce->service
