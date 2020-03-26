@@ -1237,7 +1237,6 @@ recurrency->recurrence
 restire->restore
 seraliz->serializ
 seriliz->serializ
-sucesss->success
 uless->unless
 valud->valid
 vaues->values
@@ -10013,7 +10012,6 @@ exterme->extreme
 extermely->extremely
 extermism->extremism
 extermists->extremists
-externaly->externally
 extoics->exotics
 extortin->extortion
 extraccion->extraction
@@ -35251,5 +35249,8 @@ radious->radius
 coollapsed->collapsed
 coollapse->collapse
 noeed->need
-gradient->gradient
+gradinet->gradient
 servivce->service
+tis->its
+deacvtivates->deactivates
+deacvtivate->deactivate
