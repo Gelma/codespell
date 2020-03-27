@@ -20540,8 +20540,6 @@ separato->separation
 separatron->separation
 sepcially->specially
 sepculating->speculating
-sepearte->separate
-seperatley->separate
 seplling->spelling
 sepreate->separate
 septmeber->september
@@ -24606,7 +24604,6 @@ rsunc->rsync
 schedile->schedule
 sefvice->service
 selets->selects
-sepearated->separated
 serialied->serialized
 seturlpresent->seturipresent
 sharedrepsitory->sharedrepository
@@ -35154,7 +35151,6 @@ returnddata->returneddata
 rigoriously->rigorously
 safebrowing->safebrowsing
 satifcation->satisfaction
-seperations->separations
 sepparately->separately
 sequencible->sequencable
 sporadially->sporadically
