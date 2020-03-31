@@ -8532,7 +8532,6 @@ dissastified->dissatisfied
 dissatisfed->dissatisfied
 dissatisifed->dissatisfied
 dissatsified->dissatisfied
-disscusion->discussion
 disscusions->discussions
 dissepointed->disappointed
 dissertaion->dissertation
@@ -25240,7 +25239,6 @@ inititially->initially
 interagate->interrogate
 modication->modification
 popluates->populates
-previsouly->previously
 probablilty->probability
 progreenss->progress
 simultenously->simultaneously
@@ -25778,7 +25776,6 @@ discrimintor->discriminator
 discriptors->descriptors
 disl->disk
 displached->displaced
-dissallows->disallows
 distination->destination
 distince->distinct
 distinguisable->distinguishable
@@ -27932,7 +27929,6 @@ directky->directly
 directted->directed
 disallowin->disallowing
 discontinously->discontinuously
-disscuss->discuss
 distrortion->distortion
 ditherq->ditherd
 divised->divided
@@ -29217,7 +29213,6 @@ decaring->declaring
 definies->defines
 delmiter->delimiter
 delorian->delorean
-dissmiss->dismiss
 divering->diverging
 downgrad->downgrade
 ebibytes->exbibytes
