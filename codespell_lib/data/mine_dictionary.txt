@@ -1216,7 +1216,6 @@ effeect->effect
 empted->emptied
 esily->easily
 expaned->expanded
-expexted->expected
 explicits->explicit
 explicte->explicate
 exponentials->exponential
@@ -9837,13 +9836,8 @@ expensve->expense
 expentancy->expectancy
 expentiture->expenditure
 expentitures->expenditures
-experamental->experimental
 expereinces->experiences
 expereincing->experiencing
-experementation->experimentation
-experement->experiment
-experementing->experimenting
-experements->experiments
 experieced->experienced
 experieces->experiences
 experiemntal->experimental
@@ -9855,10 +9849,8 @@ experiened->experienced
 experiening->experiencing
 experiense->experiences
 experimentacion->experimentation
-experimentaion->experimentation
 experimentais->experiments
 experimentan->experimentation
-experimentating->experimentation
 experimentella->experimental
 experimenterade->experimented
 experimentes->experiments
@@ -9867,8 +9859,6 @@ experimentle->experimented
 experimentors->experiments
 experimentos->experiments
 experimentul->experimental
-experimintation->experimentation
-expermient->experiments
 expertas->experts
 expertis->experts
 expertos->experts
@@ -23507,7 +23497,6 @@ unexpectely->unexpectedly
 unexpectetly->unexpectedly
 unexpectidly->unexpectedly
 unexperience->inexperience
-unexpextedly->unexpectedly
 unexplaind->unexplained
 unexplaned->unexplained
 unexplicably->inexplicably
@@ -26030,7 +26019,6 @@ exapand->expand
 execess->excess
 existis->exists
 exitted->exited
-expext->expect
 extants->extents
 facrory->factory
 fadvice->fadvise
@@ -28259,7 +28247,6 @@ decelaration->declaration
 earleir->earlier
 effedts->effects
 ethernal->eternal
-experimentat->experimental
 filese->files
 filterin->filtering
 ignnore->ignore
@@ -31930,14 +31917,12 @@ expeirence->experience
 expeled->expelled
 expeling->expelling
 expence->expense
-experence->experience
 experiece->experience
 experiecne->experience
 experienc->experience
 experiene->experience
 experienec->experience
 experince->experience
-experinece->experience
 explane->explain
 exploitate->exploit
 expreience->experience
