@@ -12093,7 +12093,6 @@ incognition->incognito
 incoherant->incoherent
 incoherrent->incoherent
 incohorent->incoherent
-incomfortable->uncomfortable
 incomfortably->uncomfortably
 incomparible->incompatible
 incompatent->incompetent
