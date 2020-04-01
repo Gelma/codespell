@@ -1092,7 +1092,6 @@ regrex->regex
 reresents->represents
 rescure->rescue
 returnin->returning
-rewite->rewrite
 separeate->separate
 skippped->skipped
 smililarly->similarly
@@ -1945,7 +1944,6 @@ revission->revision
 xfcie->xfce
 activies->activities
 befroe->before
-faetures->features
 separe->separate
 cinnom->cinnamon
 selectiion->selection
@@ -2156,8 +2154,6 @@ accumulato->accumulation
 accumulaton->accumulation
 accumule->accumulate
 accumulted->accumulated
-accuratelly->accurately
-accuratley->accurately
 accusating->accusation
 accusato->accusation
 accusition->accusation
@@ -6184,9 +6180,6 @@ confilct->conflict
 confilcting->conflicting
 confilcts->conflicts
 confins->confines
-confirmacion->confirmation
-confirmas->confirms
-confirmd->confirmed
 confise->confines
 confisgated->confiscated
 conflcit->conflict
@@ -19977,7 +19970,6 @@ rewatchibg->rewatching
 rewatchign->rewatching
 rewatchig->rewatching
 rewatchimg->rewatching
-reworkd->reworked
 rewritte->rewrite
 rewtched->wretched
 reynlods->reynolds
@@ -24945,7 +24937,6 @@ accouncement->announcement
 additionnaly->additionally
 althete->athlete
 ambiguitity->ambiguity
-antyhing->anything
 aorund->around
 appliaction->application
 applicatino->application
@@ -24962,7 +24953,6 @@ coordites->coordinates
 customing->customizing
 cvs->csv
 cvsfileloader->csvfileloader
-deamonize->daemonize
 deinstall->uninstall
 denmaki->denmark
 djagno->django
@@ -25657,7 +25647,6 @@ deccreasing->decreasing
 deccriptor->descriptor
 deceision->decision
 dechipher->decipher
-decieded->decided
 declaraion->declaration
 declarartion->declaration
 declate->declare
@@ -29434,7 +29423,6 @@ startwith->startswith
 sttribute->attribute
 subfolers->subfolders
 successfu->successful
-sucessors->successors
 sufficies->suffices
 suggetion->suggestion
 terminaor->terminator
