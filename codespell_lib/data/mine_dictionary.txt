@@ -1651,7 +1651,6 @@ pritnf->printf
 reqiures->requires
 reuquired->required
 reypling->replying
-sction->section
 separatedly->separately
 simluate->simulate
 simpple->simple
@@ -1663,7 +1662,6 @@ stuffes->stuffs
 subeject->subject
 subtrace->subtract
 subtread->subthread
-temportary->temporary
 termial->terminal
 themseves->themselves
 typograhical->typographical
@@ -1864,7 +1862,6 @@ consitutes->constitutes
 culmulative->cumulative
 exclusivly->exclusively
 finialize->finalize
-invlid->invalid
 anbother->another
 limitting->limiting
 authenication->authentication
@@ -4916,7 +4913,6 @@ certificaiton->certification
 certificare->certificate
 certificationkits->certifications
 certificato->certification
-certificats->certificates
 certificiate->certificate
 cessationalism->sensationalism
 cessationalist->sensationalist
@@ -8116,7 +8112,6 @@ dictionare->dictionaries
 didsapointed->disappointed
 difenitly->definitely
 differantly->differently
-differenciation->differentiation
 differenciations->differentiation
 differencies->differences
 differense->differences
@@ -13192,7 +13187,6 @@ intracicies->intricacies
 intracite->intricate
 intraspection->introspection
 intraverted->introverted
-intraverts->introverts
 intrecacies->intricacies
 intregal->integral
 intregity->integrity
@@ -21664,7 +21658,6 @@ structurel->structural
 structurs->structures
 strucutral->structural
 struggeld->struggled
-struggels->struggles
 strugglebus->struggles
 struggleing->struggling
 strugglign->struggling
@@ -22386,8 +22379,6 @@ temporairly->temporarily
 temporali->temporarily
 temporaraly->temporarily
 temporarity->temporarily
-tempreatures->temperatures
-tempreature->temperature
 tempset->tempest
 temptating->temptation
 temptetion->temptation
@@ -23022,8 +23013,6 @@ traveles->travels
 travellerhd->travelled
 travellodge->travelled
 travelodge->traveled
-traveres->traverse
-travere->traverse
 traverlers->traverse
 traversare->traverse
 traversier->traverse
@@ -24688,7 +24677,6 @@ tempalates->templates
 temporarilyy->temporarily
 textare->textarea
 thais->thai
-thei->their
 themselved->themselves
 thottled->throttled
 thtem->them
@@ -25398,7 +25386,6 @@ availaibility->availability
 avalilable->available
 awy->away
 axists->exists
-axix->axis
 ayer->layer
 backmaping->backmapping
 bardrate->baudrate
@@ -28813,7 +28800,6 @@ visibililty->visibility
 visulstudio->visualstudio
 webadress->webaddress
 whathever->whatever
-withon->within
 workspce->workspace
 worl->world
 wser->user
@@ -30589,7 +30575,6 @@ aprallel->parallel
 aprallelism->parallelism
 aprallelogram->parallelogram
 aprecian->patrician
-apreciation->appreciation
 apropriation->appropriation
 aprpopriation->appropriation
 aprtheid->apartheid
@@ -33013,7 +32998,6 @@ mintenance->maintenance
 mintues->minutes
 minucsule->minuscule
 minucule->minuscule
-minuscle->minuscule
 minusclue->minuscule
 minuscue->minuscule
 minuscuel->minuscule
