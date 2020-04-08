@@ -35182,3 +35182,5 @@ servivce->service
 tis->its
 deacvtivates->deactivates
 deacvtivate->deactivate
+experted->exported
+accelereated->accelerated
