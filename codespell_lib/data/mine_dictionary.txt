@@ -1862,7 +1862,6 @@ exclusivly->exclusively
 finialize->finalize
 anbother->another
 limitting->limiting
-authenication->authentication
 rearrannged->rearranged
 uable->unable
 indrect->indirect
@@ -3612,14 +3611,12 @@ australin->australians
 australlian->australian
 austrija->austria
 austrila->austria
-authenitcation->authentication
 authenticaton->authentication
 authenticiy->authenticity
 authenticor->authenticator
 authenticty->authenticity
 authenticy->authenticity
 authentisity->authenticity
-autherization->authorization
 autherized->authorized
 authoratitive->authoritative
 authoritate->authoritative
@@ -6920,7 +6917,6 @@ correspondece->correspondence
 correspondense->correspondence
 correspondente->correspondence
 corresponders->corresponds
-corridoor->corridor
 corrilated->correlated
 corrilates->correlates
 corrilation->correlation
@@ -26647,7 +26643,6 @@ defauit->default
 invalic->invalid
 exseptions->exceptions
 nesed->nested
-folow->follow
 functioname->function name
 sourrounds->surrounds
 sourround->surround
@@ -28443,7 +28438,6 @@ extacly->exactly
 faiulre->failure
 featrue->feature
 featuer->feature
-ffprobe->avprobe
 fieldes->filedes
 fintech->fintek
 fiwmare->firmware
@@ -28523,7 +28517,6 @@ metatada->metadata
 amdpgu->amdgpu
 alogn->align
 alterning->altering
-authenicated->authenticated
 boolian->boolean
 capabilitites->capabilities
 compltes->completes
@@ -28549,7 +28542,6 @@ wakeing->waking
 convencience->convenience
 cumstom->custom
 domaim->domain
-foler->folder
 furute->future
 hugin->huginn
 mindd->mind
@@ -31934,8 +31926,6 @@ foeign->feign
 foerign->foreign
 foilage->foliage
 folat->float
-folowed->followed
-folower->follower
 fooball->football
 foobtall->football
 foode->food
@@ -35103,7 +35093,6 @@ appllication->application
 asycronously->asychronously
 asynchronour->asynchronous
 athorization->authorization
-autheticated->authenticated
 cancallation->cancellation
 concistently->consistently
 conservatice->conservative
@@ -35183,3 +35172,6 @@ experted->exported
 accelereated->accelerated
 linine->inline
 build-essentials->build-essential
+everywher->everywhere
+graidients->gradients
+graidient->gradient
