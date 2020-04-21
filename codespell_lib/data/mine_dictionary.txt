@@ -24602,7 +24602,7 @@ retreivekeyfile->retrievekeyfile
 tpye->type
 transferr->transfer
 clipbord->clipboard
-concated->concatened
+concated->concatened, disabilitato_mio,
 abctract->abstract
 acceps->accept
 accurantely->accurately
@@ -34602,7 +34602,7 @@ tourmalyn->tourmaline
 tourmalyne->tourmaline
 tourmeline->tourmaline
 tperodactyl->pterodactyl
-trac->track
+trac->track, disalbilitato_per_wp
 tracekr->tracker
 tracke->tracked
 trackr->track
@@ -35175,3 +35175,4 @@ build-essentials->build-essential
 everywher->everywhere
 graidients->gradients
 graidient->gradient
+hnpm->npm
