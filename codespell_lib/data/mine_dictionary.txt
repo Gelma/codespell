@@ -1104,7 +1104,6 @@ supeblocks->superblocks
 superbloc->superblock
 supreblock->superblock
 tailling->tailing
-testsuites->testsuite
 treeblocl->treeblock
 unalianged->unaligned
 ungliend->unaligned
@@ -1482,7 +1481,6 @@ envicornment->environment
 estart->restart
 exceprt->excerpt
 feports->reports
-filepaths->filepath
 fooh->foo
 fuctioning->functioning
 geame->game
@@ -1593,7 +1591,6 @@ aeg->arg
 catlink->taglink
 codee->code
 commentcoun->commentcount
-editattachment->editattachments
 fsoxkopen->fsockopen
 matchedcontrol->matchedcontrols
 newuserconfimation->newuserconfirmation
@@ -4159,7 +4156,6 @@ bodybuildng->bodybuilding
 bodybuilidng->bodybuilding
 bodybuiling->bodybuilding
 bodybuliding->bodybuilding
-bodyheight->bodyweight
 bodyweigt->bodyweight
 bodyweigth->bodyweight
 bodywieght->bodyweight
@@ -31361,7 +31357,7 @@ csore->score
 ctaegory->category
 ctaroon->cartoon
 ctegory->category
-ctor->actor
+ctor->actor, disabilitato,
 ctually->actually
 cumlative->cumulative
 cumluative->cumulative
@@ -35176,3 +35172,25 @@ everywher->everywhere
 graidients->gradients
 graidient->gradient
 hnpm->npm
+cusror->cursor
+descendand->descendant
+replciation->replication
+deteminded->determined
+echos->echoes
+immiediately->immediately
+paramentes->parameters
+parapraph->paragraph
+partterns->patterns
+parttern->pattern
+presing->pressing
+prevemnt->prevent
+redifined->redefined
+requesr->request
+requisities->requisites
+resizng->resizing
+soltiary->solitary
+tacking->tracking
+vetting->setting
+kserverdefiniton->kserverdefinition
+knowledgable->knowledgeable
+occationaly->occasionally
