@@ -29091,7 +29091,6 @@ sertext->settext
 shorest->shortest
 shoulde->should
 skippen->skipped
-spcific->specific
 stringl->string
 struact->struct
 tblkcnt->blkcnt
@@ -32787,7 +32786,6 @@ lmond->almond
 loat->loath
 locamotive->locomotive
 loction->location
-loose->lose
 loseing->losing
 losr->loser
 lovley->lovely
@@ -35194,3 +35192,22 @@ vetting->setting
 kserverdefiniton->kserverdefinition
 knowledgable->knowledgeable
 occationaly->occasionally
+prviously->previously
+subcategroy->subcategory
+amybe->maybe
+praragraph->paragraph
+nubers->numbers
+highligh->highlight
+remvoing->removing
+chercker->checker
+discarged->discharged
+despites->despite
+evenmore->even more
+executess->executes
+orderin->order
+referreing->referring
+scub->scrub
+specificaion->specification
+speetest->speedtest
+unsynched->unsynced
+funcition->function
