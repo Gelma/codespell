@@ -35211,3 +35211,4 @@ specificaion->specification
 speetest->speedtest
 unsynched->unsynced
 funcition->function
+euqal->equal
