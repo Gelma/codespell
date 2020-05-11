@@ -1458,7 +1458,6 @@ communty->community
 configre->configure
 configurde->configure
 confiugred->configured
-confrim->confirm
 conhesive->cohesive
 connectiong->connecting
 costantly->constantly
@@ -6146,7 +6145,6 @@ confessino->confessions
 confessionis->confessions
 confesso->confession
 confesssion->confessions
-confidance->confidence
 confidantly->confidently
 confidencial->confidential
 confidenciality->confidential
@@ -6177,10 +6175,6 @@ conflictos->conflicts
 confliting->conflating
 confrentational->confrontational
 confrentation->confrontation
-confrimation->confirmation
-confrimed->confirmed
-confriming->confirming
-confrims->confirms
 confrontacional->confrontational
 confrontacion->confrontation
 confrontaion->confrontation
@@ -7591,10 +7585,6 @@ deinitalize->deinitialize
 deinitalizes->deinitializes
 deinitalizing->deinitializing
 deisgnated->designated
-deisgned->designed
-deisgner->designer
-deisgners->designers
-deisgns->designs
 deivant->deviant
 delaership->dealership
 delaerships->dealerships
@@ -35212,3 +35202,4 @@ speetest->speedtest
 unsynched->unsynced
 funcition->function
 euqal->equal
+diffent->different
