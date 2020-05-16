@@ -4539,7 +4539,6 @@ calroies->calories
 calssification->classification
 calssified->classified
 calssify->classify
-caluclating->calculating
 caluclation->calculation
 caluclations->calculations
 caluclators->calculators
@@ -30781,7 +30780,6 @@ believeable->believable
 belivee->believe
 beliver->believer
 belweather->bellwether
-benchs->benches
 bereau->bureau
 biagraphical->biographical
 biast->beast
@@ -35173,7 +35171,6 @@ parttern->pattern
 presing->pressing
 prevemnt->prevent
 redifined->redefined
-requesr->request
 requisities->requisites
 resizng->resizing
 soltiary->solitary
@@ -35203,3 +35200,4 @@ unsynched->unsynced
 funcition->function
 euqal->equal
 diffent->different
+gradeint->gradient
