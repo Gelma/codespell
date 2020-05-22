@@ -211,7 +211,6 @@ cellabration->celebration
 celler->cellar
 centenal->sentinel
 centerfuge->centrifuge
-centimetres->centimeters
 centrafuge->centrifuge
 cercomstance->circumstance
 champain->champagne
@@ -301,8 +300,6 @@ defishant->deficient
 defuncs->death
 dicision->decision
 dicotomy->dichotomy
-digitise->digitize
-digitising->digitizing
 dimand->diamond
 dingee->dinghy
 dioreha->diarrhea
@@ -431,8 +428,6 @@ keyosk->kiosk
 kibutz->kibbutz
 kidknap->kidnap
 kighbosh->kibosh
-kilometre->kilometer
-kilometres->kilometers
 kimerra->chimera
 kiyack->kayak
 knockous->noxious
@@ -529,7 +524,6 @@ mezmorize->mesmerize
 midevil->medieval
 mige->midge
 milicous->malicious
-millimetres->millimeters
 millimiters->millimeters
 milyew->milieu
 mischevus->mischievous
@@ -675,8 +669,6 @@ prejudgudice->prejudice
 presbaterian->presbyterian
 preshus->precious
 primevil->primeval
-prioritise->prioritize
-prioritising->prioritizing
 privlege->privilege
 prohibative->prohibitive
 prolicks->prolix
@@ -787,7 +779,6 @@ solatare->solitaire
 soldger->soldier
 solger->soldier
 sourbraten->sauerbraten
-specialise->specialize
 tresure->treasure
 trew->true
 triathalon->triathlon
@@ -1167,7 +1158,6 @@ termintor->terminator
 whem->when
 widgect->widget
 worrry->worry
-colours->colors
 tswitch->switch
 a'ready->already
 abbott->abort
@@ -1202,7 +1192,6 @@ constan->constant
 contentionz->contentions
 coverd->covered
 cpecial->special
-customising->customizing
 deapth->depth
 dentifier->identifier
 derivate->derivative
@@ -1598,7 +1587,6 @@ olpml->opml
 owpbody->wpbody
 periodicalexecutor->periodicalexecuter
 sanitiation->sanitisation
-sanitised->sanitized
 scheduletracing->schedulertracing
 stypes->styles
 svalues->values
@@ -6391,11 +6379,9 @@ constituates->constitutes
 constitucional->constitutional
 constitucion->constitution
 constitude->constitute
-constitue->constitutes
 constitued->constitute
 constituem->constitute
 constituer->constitute
-constitues->constitutes
 constituie->constitute
 constituient->constitute
 constituinte->constituents
@@ -9411,7 +9397,6 @@ environmently->environmental
 environmetal->environmental
 environmet->environments
 environmnets->environments
-envrionmental->environmental
 envrionmentally->environmentally
 ephipany->epiphany
 epihpany->epiphany
@@ -9636,7 +9621,6 @@ excessivley->excessively
 excessivly->excessively
 exceutioner->executioner
 exchangees->exchanges
-exchnages->exchanges
 excitiment->excitement
 exclamacion->exclamation
 exclamating->exclamation
@@ -25339,7 +25323,6 @@ attribte->attribute
 attribure->attribute
 attributon->attribution
 attributtes->attributes
-attribyte->attribute
 attritbutes->attributes
 atttribution->attribution
 audiorvol->audiolvol
@@ -25431,7 +25414,6 @@ chanenel->channel
 changin->changing
 channell->channel
 characater->character
-characterised->characterized
 charateristics->characteristics
 chartset->charset
 chcked->checked
@@ -28296,7 +28278,6 @@ fialed->failed
 filaed->failed
 fliter->filter
 ﬂuent->fluent
-fomrat->format
 forgor->forget
 genirc->generic
 gourps->groups
@@ -28486,7 +28467,6 @@ veiwing->viewing
 verfity->verify
 verifys->verifies
 visibel->visible
-vritual->virtual
 widnows->windows
 windwos->windows
 winedgb->winedbg
@@ -29015,7 +28995,6 @@ disgest->digest
 distict->distinct
 durtion->duration
 exampes->examples
-exchnge->exchange
 excuded->excluded
 exlipse->eclipse
 extifmt->extfmt
@@ -35201,3 +35180,4 @@ funcition->function
 euqal->equal
 diffent->different
 gradeint->gradient
+dostinguish->distinguish
