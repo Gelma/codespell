@@ -35181,3 +35181,4 @@ euqal->equal
 diffent->different
 gradeint->gradient
 dostinguish->distinguish
+ifx->fix
