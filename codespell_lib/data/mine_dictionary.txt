@@ -1757,7 +1757,6 @@ projevt->project
 pupulate->populate
 recomment->recommend
 relaim->reclaim
-replacd->replaced
 requets->requests
 sceleton->skeleton
 scondary->secondary
@@ -1903,7 +1902,6 @@ essentally->essentially
 shareffilesets->sharedfilesets
 desacriptors->descriptors
 desacriptor->descriptor
-oiginal->original
 opitmized->optimized
 bebugging->debugging
 brizen->bryzen
@@ -4158,7 +4156,6 @@ bookmakred->bookmarked
 bookmakrs->bookmarks
 bookmarkd->bookmarked
 bookmars->bookmarks
-bootlaoder->bootloader
 bootleader->bootloader
 boradband->broadband
 boradcasting->broadcasting
@@ -9386,8 +9383,7 @@ envelopped->envelope
 enveloppe->envelope
 enveloppen->envelope
 enveloppes->envelope
-envinroment->environments
-enviromnent->environments
+envinroments->environments
 environemntally->environmentally
 environmentality->environmentally
 environmentals->environments
@@ -9664,8 +9660,6 @@ exectuion->execution
 exectuions->executions
 exectuive->executive
 exectuives->executives
-execusions->executions
-executabe->executable
 executabil->executable
 executible->executable
 executie->executive
@@ -9716,7 +9710,6 @@ exhuast->exhaust
 exhuasting->exhausting
 exhuastion->exhaustion
 exictement->excitement
-exipration->expiration
 existane->existence
 existantes->existent
 existantial->existential
@@ -19480,7 +19473,6 @@ repharse->rephrase
 rephrasse->rephrase
 repitle->reptile
 repitles->reptiles
-replacated->replicated
 replaceble->replaceable
 replacemet->replacements
 replacemnet->replacements
@@ -22297,8 +22289,6 @@ teliportation->teleportation
 teloportation->teleportation
 temafights->teamfights
 temafight->teamfight
-temepratures->temperatures
-temeprature->temperature
 temepst->tempest
 tempalrs->templars
 temparament->temperament
@@ -24363,7 +24353,6 @@ contiuously->continuously
 deterines->determines
 disipline->discipline
 dusplicatemode->duplicatemode
-execuatable->executable
 framebuffe->framebuffer
 freamebuffer->framebuffer
 inclrease->increase
@@ -24724,7 +24713,6 @@ essance->essence
 exceede->exceed
 excludepattern->excludepatterns
 excludetest->excludetests
-executred->executed
 exicode->exitcode
 existin->existing
 expore->explore
@@ -24897,7 +24885,6 @@ djanog->django
 eixst->exist
 environnemnt->environment
 exbit->exhibit
-execuatble->executable
 explicitally->explicitly
 ezmple->example
 foriegnkey->foreignkey
@@ -24940,7 +24927,6 @@ siutations->situations
 spania->spain
 stanslate->translate
 tetum->tetoem
-tyring->trying
 ultimatively->ultimately
 unitl->until
 untis->units
@@ -26180,7 +26166,6 @@ exammple->example
 exceedes->exceeds
 exdecute->execute
 exdended->extended
-execuate->execute
 exeeded->exceeded
 exitting->exiting
 externa->external
@@ -26364,7 +26349,6 @@ wirelss->wireless
 worying->worrying
 writesq->writesql
 writteh->written
-execuing->executing
 exhasted->exhausted
 expecing->expecting
 extecuted->executed
@@ -27793,7 +27777,6 @@ canconical->canonical
 carring->carrying
 cefficients->coefficients
 ceither->either
-certifiates->certificates
 certificatet->certificate
 chanes->changes
 chanmge->change
@@ -27856,7 +27839,6 @@ errneous->erroneous
 estimaton->estimation
 etween->between
 excvept->except
-execuded->executed
 expericence->experience
 explixitly->explicitly
 expresstion->expression
@@ -34500,7 +34482,6 @@ technicina->technician
 techniian->technician
 techniican->technician
 tecnhician->technician
-tecnician->technician
 tecnology->technology
 tehcnician->technician
 tehnician->technician
@@ -35182,3 +35163,5 @@ diffent->different
 gradeint->gradient
 dostinguish->distinguish
 ifx->fix
+fitered->filtered
+propertei->propertie
