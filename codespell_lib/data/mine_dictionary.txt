@@ -3194,7 +3194,6 @@ archetyps->archetypes
 archetypus->archetypes
 archeytpes->archetypes
 architechs->architects
-architechts->architect
 architechural->architectural
 architechure->architecture
 architecs->architects
@@ -25268,7 +25267,6 @@ arabinc->arabic
 arbritration->arbitration
 arbritrator->arbitrator
 architectually->architecturally
-arcitecture->architecture
 argmument->argument
 arithetic->arithmetic
 arracopy->arraycopy
@@ -34327,8 +34325,6 @@ speaked->spoke
 spearate->separate
 speek->speech
 spel->spell
-spelled->spelt
-spelt->spelled
 spended->spent
 spersede->supersede
 sphalt->asphalt
@@ -35165,3 +35161,4 @@ dostinguish->distinguish
 ifx->fix
 fitered->filtered
 propertei->propertie
+quoation->quotation
