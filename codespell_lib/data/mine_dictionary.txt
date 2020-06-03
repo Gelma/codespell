@@ -705,7 +705,6 @@ recroot->recruit
 recund->reckoned
 redemtion->redemption
 reduceable->reducible
-regulary->regularly
 releaf->relief
 religeon->religion
 relm->realm
@@ -927,7 +926,6 @@ rom->from
 trak->track
 detectect->detected
 uregntly->urgently
-indepdenent->independent
 indepedant->independent
 invisbile->invisible
 nad->and
@@ -27070,7 +27068,6 @@ redirektor->redirector
 regaurding->regarding
 regreesion->regression
 regulaltor->regulator
-regultory->regulatory
 releaseing->releasing
 renabling->reenabling
 replacoing->replacing
@@ -35057,7 +35054,6 @@ equivalvents->equivalents
 excpectation->expectation
 explanantion->explanation
 importanntly->importantly
-indepdendent->independent
 ineffiecient->inefficient
 infaithfully->unfaithfully
 informantion->information
@@ -35162,3 +35158,14 @@ ifx->fix
 fitered->filtered
 propertei->propertie
 quoation->quotation
+aggregration->aggregation
+conistency->consistency
+decvice->device
+optione->option
+preparion->preparation
+progammable->programmable
+sice->since
+storge->storage
+unlinke->unlink
+siutaions->situations
+siutaion->situation
