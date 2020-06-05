@@ -1023,7 +1023,6 @@ backrefrences->backreferences
 blck->block
 bnaries->binaries
 botoom->bottom
-boudnary->boundary
 cannont->cannot
 chaacters->characters
 checkso->checks
@@ -13609,7 +13608,6 @@ kentuckey->kentucky
 kentucy->kentucky
 kenyesian->keynesian
 ketmaine->ketamine
-keybaords->keyboards
 keyboars->keyboards
 keyborad->keyboard
 keychan->keychain
@@ -23998,7 +23996,6 @@ voilates->violates
 voilating->violating
 voilation->violation
 voilently->violently
-volatge->voltage
 volatiliy->volatility
 volatillity->volatility
 volatiltiy->volatility
@@ -26017,7 +26014,6 @@ opaqua->opaque
 opcde->opcode
 opton->option
 oputput->output
-outpus->outputs
 paccept->accept
 pageing->paging
 parnent->parent
@@ -35169,3 +35165,4 @@ storge->storage
 unlinke->unlink
 siutaions->situations
 siutaion->situation
+increate->increase
