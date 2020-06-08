@@ -1056,7 +1056,6 @@ loookup->lookup
 malformated->malformed
 meory->memory
 messagese->messages
-misisng->missing
 multipler->multiplier
 objecitd->objectid
 objecteid->objectid
@@ -3339,9 +3338,6 @@ asisstants->assistants
 asissted->assisted
 asissts->assists
 askreddt->askreddit
-asnwered->answered
-asnwering->answering
-asnwers->answers
 aspahlt->asphalt
 aspectos->aspects
 aspergerers->aspergers
@@ -5169,7 +5165,6 @@ cigaretts->cigarettes
 cigeratte->cigarette
 cigerattes->cigarettes
 cilanto->cilantro
-cilents->clients
 cilivians->civilians
 cilivization->civilizations
 cilmbers->climbers
@@ -22044,7 +22039,6 @@ swizterland->switzerland
 swnasea->swansea
 swtiched->switched
 swtiches->switches
-swtiching->switching
 swtizerland->switzerland
 syarcuse->syracuse
 sycning->syncing
@@ -29213,7 +29207,6 @@ arthmetic->arithmetic
 asssigned->assigned
 atomicand->atomicadd
 attriutes->attributes
-brekpoint->breakpoint
 caprtures->captures
 comipiler->compiler
 compating->comparing
