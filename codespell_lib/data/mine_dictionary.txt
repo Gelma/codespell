@@ -1397,7 +1397,6 @@ sytax->syntax
 terrabyte->terabyte
 theosore->theodore
 tidyed->tidied
-timzeone->timezone
 transalate->translate
 transanction->transaction
 unexpectly->unexpectedly
@@ -14863,7 +14862,6 @@ millionairs->millionaires
 millionarie->millionaire
 millionaries->millionaires
 millionar->millionaire
-millioniares->millionaires
 miltiant->militant
 miluwakee->milwaukee
 milwakuee->milwaukee
@@ -27832,7 +27830,6 @@ framless->frameless
 fraqmework->framework
 funcionality->functionality
 generaion->generation
-genrations->generations
 giiven->given
 glogal->global
 gremove->remove
@@ -28758,7 +28755,6 @@ salien->salient
 scalin->scaling
 selet->select
 sennd->send
-seond->second
 setupp->setup
 simle->simple
 sorrty->sorry
