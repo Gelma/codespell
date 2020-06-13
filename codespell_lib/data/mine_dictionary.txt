@@ -26885,7 +26885,6 @@ optimitic->optimistic
 oscilator->oscillator
 ourselfves->ourselves
 outine->routine
-outtermost->outermost
 overlowed->overflowed
 ownerrship->ownership
 packtetbuf->packetbuf
@@ -28015,7 +28014,6 @@ upacker->unpacker
 vebosity->verbosity
 vetorial->vectorial
 vissual->visual
-warninng->warning
 weighthing->weighting
 widthd->widthq
 woking->working
