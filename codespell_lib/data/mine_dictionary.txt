@@ -977,7 +977,6 @@ varienty->variety
 vsisibility->visibility
 vsiualisation->visualisation
 whit->with
-wile->while
 accissible->accessible
 libatomic-ops->libatomic_ops
 msexcell->msexcel
@@ -1399,7 +1398,6 @@ theosore->theodore
 tidyed->tidied
 transalate->translate
 transanction->transaction
-unexpectly->unexpectedly
 unfortuntaely->unfortunately
 unpappable->unmappable
 unusued->unused
@@ -7854,7 +7852,6 @@ desillusioned->disillusioned
 desingage->disengage
 desingation->designation
 desingers->designers
-desings->designs
 desinterested->disinterested
 desitnation->destination
 desitnations->destinations
@@ -9744,8 +9741,6 @@ expedetion->expedition
 expedicion->expedition
 expeditivo->expedition
 expedito->expedition
-expemtion->exemption
-expemtions->exemptions
 expences->expense
 expendature->expenditure
 expendatures->expenditures
@@ -9758,8 +9753,6 @@ expensve->expense
 expentancy->expectancy
 expentiture->expenditure
 expentitures->expenditures
-expereinces->experiences
-expereincing->experiencing
 experieced->experienced
 experieces->experiences
 experiemntal->experimental
@@ -11811,7 +11804,6 @@ imperislist->imperialist
 imperitave->imperative
 impersinating->impersonating
 impersonationg->impersonating
-implaments->implements
 implantase->implants
 implantes->implants
 implausable->implausible
@@ -23388,7 +23380,6 @@ unempolyment->unemployment
 unenployment->unemployment
 unexpectadely->unexpectedly
 unexpectadly->unexpectedly
-unexpectely->unexpectedly
 unexpectetly->unexpectedly
 unexpectidly->unexpectedly
 unexperience->inexperience
@@ -26579,7 +26570,6 @@ behaior->behavior
 controlo->control
 disinct->distinct
 ierator->iterator
-insteead->instead
 iternal->internal
 methoids->methods
 sstrings->strings
@@ -26807,7 +26797,6 @@ emmulated->emulated
 endoded->encoded
 enryption->encryption
 eternet->ethernet
-expcted->expected
 expontent->exponent
 exppect->expect
 exprected->expected
@@ -28631,7 +28620,6 @@ encodingt->encoding
 endregio->endregion
 endregionn->endregion
 enginee->engine
-expeptions->exceptions
 exucuted->executed
 firspage->firstpage
 formaters->formatters
@@ -31736,8 +31724,6 @@ ewelry->jewelry
 ewird->weird
 exactlly->exactly
 exasparated->exasperated
-exced->exceed
-excede->exceed
 excee->exceed
 excelrate->accelerate
 excrutiating->excruciating
@@ -31770,7 +31756,6 @@ existnece->existence
 exitence->existence
 exitsence->existence
 expantion->expansion
-expeience->experience
 expeirence->experience
 expeled->expelled
 expeling->expelling
