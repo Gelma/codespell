@@ -3677,7 +3677,6 @@ awknowledging->acknowledging
 awkwardess->awkwardness
 awkwardsness->awkwardness
 awkwardy->awkwardly
-awnsered->answered
 awnsering->answering
 bablyon->babylon
 babysister->babysitter
@@ -28690,7 +28689,6 @@ anconda->anaconda
 angine->engine
 askedd->asked
 aure->azure
-awsome->awesome
 beneth->beneath
 bigits->digits
 bouner->bouncer
@@ -32767,7 +32765,6 @@ masonery->masonry
 matareals->materials
 mateur->amateur
 mathmatics->mathematics
-maybee->maybe
 mbidextrous->ambidextrous
 mcaaroni->macaroni
 mcaroni->macaroni
