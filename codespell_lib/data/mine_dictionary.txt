@@ -287,7 +287,6 @@ daspora->diaspora
 datadefintion->datadefinition
 datasereis->dataseries
 datasourfce->datasource
-datbase->database
 datefiled->datefilled
 datta->data
 daybue->debut
@@ -1423,7 +1422,6 @@ backtic->backtick
 backtics->backticks
 baed->based
 bottem->bottom
-broswer->browser
 canfigured->configured
 casssandra->cassandra
 causew->cause
@@ -3701,9 +3699,7 @@ backerds->backers
 backfeild->backfield
 backfied->backfield
 backfiled->backfield
-backgorunds->backgrounds
 backgroudn->backgrounds
-backgrouds->backgrounds
 backgrouns->backgrounds
 backgruond->backgrounds
 backhacking->backpacking
@@ -4277,7 +4273,6 @@ brodaway->broadway
 broderlands->borderlands
 broncoes->broncos
 bronocs->broncos
-broswing->browsing
 brotherhod->brotherhood
 brotherhoood->brotherhood
 brotherood->brotherhood
@@ -4851,7 +4846,6 @@ ceremone->ceremonies
 ceremonias->ceremonies
 ceremoniis->ceremonies
 ceremonije->ceremonies
-cerification->verification
 ceritfication->certifications
 cermaic->ceramic
 certainlyt->certainty
@@ -5332,7 +5326,6 @@ cockroackes->cockroaches
 cockroahes->cockroaches
 cocktailers->cocktails
 cocktials->cocktails
-coefficeint->coefficient
 coefficiant->coefficient
 coefficienct->coefficient
 coencidental->coincidental
@@ -20280,7 +20273,6 @@ scrunity->scrutiny
 scrutiney->scrutiny
 scrutinty->scrutiny
 sctosman->scotsman
-sculpter->sculpture
 sculpteur->sculpture
 sculputre->sculpture
 scultpure->sculpture
@@ -24652,7 +24644,6 @@ creatd->created
 creteria->criteria
 customzed->customized
 dababase->database
-databses->databases
 dateimes->datetimes
 desimal->decimal
 deleteable->deletable
@@ -24668,7 +24659,6 @@ dfferent->different
 djangorproject->djangoproject
 djanjo->django
 djano->django
-drescription->description
 dummuy->dummy
 eeroneous->erroneous
 efficiant->efficient
@@ -25075,7 +25065,6 @@ teturn->return
 thely->they
 thios->this
 trasformdict->transformdict
-trasforms->transforms
 trvial->trivial
 turnned->turned
 tutoral->tutorial
@@ -25288,7 +25277,6 @@ backmaping->backmapping
 bardrate->baudrate
 barier->barrier
 basband->baseband
-bassic->basic
 bausrate->baudrate
 becausse->because
 beeak->break
@@ -25724,7 +25712,6 @@ nonexisiting->nonexisting
 olderst->oldest
 origianl->original
 origibnal->original
-partitons->partitions
 persisitent->persistent
 portibility->portability
 precodition->precondition
@@ -26184,7 +26171,6 @@ metadat->metadata
 metadta->metadata
 metatags->metatag
 minimuum->minimum
-minimze->minimize
 modrobe->modprobe
 moniors->monitors
 monstor->monster
@@ -26652,7 +26638,6 @@ uridecide->uridecode
 valiables->variables
 accepable->acceptable
 bittorent->bittorrent
-blockhain->blockchain
 checkoint->checkpoint
 comoponent->component
 compileres->compilers
@@ -26845,7 +26830,6 @@ maschine->machine
 mehod->method
 meldings->melding
 messageing->messaging
-minimzing->minimizing
 misaliged->misaligned
 modifiying->modifying
 montoring->monitoring
@@ -26921,7 +26905,6 @@ satistied->satisfied
 screipt->script
 scrol->scroll
 secounds->seconds
-semaphor->semaphore
 seprador->separador
 sesion->session
 sevas->saves
@@ -26953,7 +26936,6 @@ themeing->theming
 thouched->touched
 throughs->through
 totaly->totally
-trasform->transform
 troncated->truncated
 tweek->tweak
 udated->updated
@@ -27048,7 +27030,6 @@ satuation->saturation
 scheduline->scheduling
 semanthics->semantics
 sempaphore->semaphore
-semphores->semaphores
 semptember->september
 sepatation->separation
 signarture->signature
@@ -27158,7 +27139,6 @@ outsanding->outstanding
 paretheses->parentheses
 parityerro->parityerror
 particiant->participant
-partitoned->partitioned
 passthough->passthrough
 passthroug->passthrough
 performanc->performance
@@ -27414,7 +27394,6 @@ autnenticating->authenticating
 caluculation->calculation
 capabiblities->capabilities
 chacksumming->checksumming
-charactersistics->characteristics
 checktinputs->checkinputs
 communiction->communication
 communictions->communications
@@ -27581,7 +27560,6 @@ uncoditionally->unconditionally
 unconditonal->unconditional
 unconnnected->unconnected
 uncrecognized->unrecognized
-unfortunaltely->unfortunately
 unimplemnted->unimplemented
 unimplmented->unimplemented
 uninitializd->uninitialized
@@ -28270,7 +28248,6 @@ arrount->around
 athemps->attempts
 atomicy->atomicity
 awlloed->allowed
-backedn->backend
 baclbox->blackbox
 baterry->battery
 beening->being
@@ -28563,7 +28540,6 @@ adcanved->advanced
 addiding->adding
 anaylsed->analysed
 aparrent->apparent
-asbtract->abstract
 barreirs->barriers
 benajmin->benjamin
 bintuils->binutils
@@ -28916,7 +28892,6 @@ capacit->capacity
 chldren->children
 chosses->chooses
 claning->cleaning
-climing->climbing
 coercin->coercion
 coercon->coercion
 coerece->coerce
@@ -31057,8 +31032,6 @@ commitetd->committed
 committd->committed
 committde->committed
 committies->committees
-compaired->compared
-compairison->comparison
 compeet->compete
 competor->competitor
 compilate->compile
@@ -34138,7 +34111,6 @@ scre->screw
 scret->secret
 scroe->score
 scry->scary
-scupture->sculpture
 sday->say
 seacrh->search
 seamingly->seemingly
@@ -35116,7 +35088,6 @@ conistency->consistency
 decvice->device
 optione->option
 preparion->preparation
-progammable->programmable
 sice->since
 storge->storage
 unlinke->unlink
@@ -35127,3 +35098,5 @@ includding->including
 snifs->sniffs
 gurrent->current
 comboxbox->combobox
+paleete->palette
+multilple->multiple
