@@ -25283,7 +25283,6 @@ beeak->break
 beed->been
 beelp->beep
 begnning->beginning
-behavioural->behavioral
 behavor->behavior
 beheviour->behaviour
 belance->balance
@@ -33762,7 +33761,6 @@ pubicly->publicly
 pubilcly->publicly
 publcily->publicly
 publcly->publicly
-publich->public
 publicl->publicly
 publicyl->publicly
 publilcy->publicly
