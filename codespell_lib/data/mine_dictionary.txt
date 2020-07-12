@@ -16868,9 +16868,6 @@ perfomrance->performances
 perforamnce->performances
 performaces->performances
 performacne->performances
-performancepcs->performances
-performancetest->performances
-performancewise->performances
 performanes->performances
 performanse->performances
 performans->performances
@@ -35098,3 +35095,4 @@ gurrent->current
 comboxbox->combobox
 paleete->palette
 multilple->multiple
+exludelist->excludelist
