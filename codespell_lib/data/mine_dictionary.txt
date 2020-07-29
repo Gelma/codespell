@@ -1561,7 +1561,6 @@ unecrypted->unencrypted
 verfify->verify
 versatilte->versatile
 viop->voip
-vulernable->vulnerable
 wihin->within
 withj->with
 yourcomain->yourdomain
@@ -1597,7 +1596,6 @@ gitmodule->gitmodules
 packfile->packfiles
 solang->solange
 startls->starttls
-unmerged->unmerge
 unreferenzierte->unreferenziertes
 usuallmente->usualmente
 worktrees->worktree
@@ -8327,7 +8325,6 @@ disingenuious->disingenuous
 disingenuos->disingenuous
 disinteresed->disinterested
 disintereted->disinterested
-diskrimination->discrimination
 dislcaimer->disclaimer
 disliks->dislikes
 dislikse->dislikes
@@ -16888,7 +16885,6 @@ peridoically->periodically
 peridoic->periodic
 perihperal->peripheral
 perihperals->peripherals
-perimetre->perimeter
 perimetr->perimeter
 periodes->periods
 periodisch->periodic
@@ -23987,8 +23983,6 @@ vriament->vraiment
 vriginity->virginity
 vrigins->virgins
 vulberability->vulnerability
-vulernabilities->vulnerabilities
-vulernability->vulnerability
 vulnarable->vulnerable
 vulnerabile->vulnerable
 vulnerabiltiy->vulnerability
@@ -26848,7 +26842,6 @@ onboaring->onboarding
 onject->object
 operatiors->operators
 oprations->operations
-optained->obtained
 optimitic->optimistic
 oscilator->oscillator
 ourselfves->ourselves
@@ -31135,7 +31128,6 @@ conveniene->convenience
 convenienec->convenience
 conveninece->convenience
 conventry->coventry
-convertors->converters
 convetional->conventional
 convneience->convenience
 convnience->convenience
@@ -35096,3 +35088,12 @@ comboxbox->combobox
 paleete->palette
 multilple->multiple
 exludelist->excludelist
+intsnace->instance
+symmtetric->symmetric
+firebord->firebird
+exampoe->example
+brtfs->btrfs
+insanly->insanely
+perfetct->perfect
+prefect->perfect
+resivlering->resilvering
