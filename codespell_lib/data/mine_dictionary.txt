@@ -35097,3 +35097,5 @@ insanly->insanely
 perfetct->perfect
 prefect->perfect
 resivlering->resilvering
+imporoved->improved
+abored->aborted
