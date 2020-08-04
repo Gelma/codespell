@@ -25676,7 +25676,6 @@ direectory->directory
 ecryption->encryption
 enclousure->enclosure
 encounded->encoded
-endcoded->encoded
 esimated->estimated
 espected->expected
 evenutally->eventually
@@ -35099,3 +35098,5 @@ prefect->perfect
 resivlering->resilvering
 imporoved->improved
 abored->aborted
+dereferecen->dereference
+referecen->reference
