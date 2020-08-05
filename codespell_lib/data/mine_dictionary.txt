@@ -35100,3 +35100,4 @@ imporoved->improved
 abored->aborted
 dereferecen->dereference
 referecen->reference
+gettings->settings
