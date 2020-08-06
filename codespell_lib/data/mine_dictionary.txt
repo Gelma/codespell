@@ -13729,7 +13729,6 @@ lasgana->lasagna
 lateration->alteration
 latitudie->latitude
 latitudine->latitude
-latitue->latitude
 latnern->lantern
 laucnhed->launched
 laucnher->launcher
@@ -35101,3 +35100,4 @@ abored->aborted
 dereferecen->dereference
 referecen->reference
 gettings->settings
+dito->ditto
