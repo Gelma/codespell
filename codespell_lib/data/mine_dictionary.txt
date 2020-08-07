@@ -21443,7 +21443,6 @@ stragetic->strategic
 strageties->strategies
 stragety->strategy
 straightden->straightened
-straighted->straightened
 straightend->straightened
 straightenend->straightened
 straightforeward->straightforward
@@ -35101,3 +35100,6 @@ dereferecen->dereference
 referecen->reference
 gettings->settings
 dito->ditto
+caes->case
+neext->next
+propertey->property
