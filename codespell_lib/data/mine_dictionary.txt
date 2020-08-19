@@ -1734,7 +1734,6 @@ objectclas->objectclass
 oice->voice
 partinal->partial
 pchost->pcihost
-performaed->performed
 peripherans->peripherals
 phsical->physical
 prefech->prefetch
@@ -9601,7 +9600,6 @@ exclusivily->exclusivity
 exclusivitiy->exclusivity
 exclusivley->exclusively
 exclusivos->exclusives
-exclusivs->exclusives
 exclusivty->exclusivity
 exclusivy->exclusivity
 exclussive->exclusives
@@ -25746,7 +25744,6 @@ veriy->verify
 wrapppers->wrappers
 wrappper->wrapper
 auotmatically->automatically
-bellow->below
 sinced->since
 collectable->collectible
 globle->global
@@ -27015,7 +27012,6 @@ sanitzers->sanitizers
 satuation->saturation
 scheduline->scheduling
 semanthics->semantics
-sempaphore->semaphore
 semptember->september
 sepatation->separation
 signarture->signature
@@ -29065,7 +29061,6 @@ obsevers->observers
 ocurring->occurring
 omething->something
 opennurl->openurl
-organise->organises
 ownershp->ownership
 pausible->pausable
 perharps->perhaps
@@ -29830,7 +29825,6 @@ adhsive->adhesive
 adio->adios
 adiquate->adequate
 adiquiri->daiquiri
-adition->addition
 adiu->adieu
 adiue->adieu
 adius->adios
@@ -35103,3 +35097,12 @@ dito->ditto
 caes->case
 neext->next
 propertey->property
+trikcy->tricky
+evebn->even
+resuem->resume
+realloctions->reallocations
+realloction->reallocation
+coreesponding->corresponding
+decreaed->decreased
+documemts->documents
+possibel->possible
