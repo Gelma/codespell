@@ -1221,7 +1221,6 @@ uless->unless
 valud->valid
 vaues->values
 wellformed->well formed
-fullfil->fulfil
 abbreivated->abbreviated
 adapation->adaption
 allocaing->allocating
@@ -9859,7 +9858,6 @@ exponantially->exponentially
 exponencial->exponential
 exponencially->exponentially
 exponental->exponential
-exponentiel->exponential
 exponentiella->exponential
 exportas->exports
 exportes->exports
@@ -31623,7 +31621,6 @@ equipmet->equipment
 equipmetn->equipment
 equipmnet->equipment
 equipmnt->equipment
-equiptment->equipment
 equpiment->equipment
 equpment->equipment
 eraphones->earphones
@@ -34155,7 +34152,6 @@ sinegog->singeing
 sinked->sank
 sissors->scissors
 skary->scary
-skillfull->skillful
 slae->sale
 sle->sled
 slided->slid
