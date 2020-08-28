@@ -22376,7 +22376,6 @@ theature->theater
 theisitc->theistic
 theistc->theistic
 themsef->themself
-themselfes->themselves
 themselvs->themselves
 themsevles->themselves
 themslef->themself
@@ -24251,7 +24250,6 @@ yosemitie->yosemite
 yosimete->yosemite
 youngents->youngest
 younget->youngest
-yourselfes->yourselves
 yourselvs->yourselves
 yoursleves->yourselves
 zaelots->zealots
@@ -26290,7 +26288,6 @@ formarly->formerly
 formware->firmware
 fragents->fragments
 freecale->freescale
-genertor->generator
 globablly->globally
 gonolulu->honolulu
 graphocs->graphics
