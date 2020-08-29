@@ -3442,7 +3442,6 @@ asuterity->austerity
 asutralian->australian
 asutria->austria
 asutrian->austrian
-asychronous->asynchronous
 atatchment->attachment
 atatchments->attachments
 atcualy->actually
@@ -11989,7 +11988,6 @@ includeds->includes
 incoginto->incognito
 incognitio->incognito
 incognition->incognito
-incoherant->incoherent
 incoherrent->incoherent
 incohorent->incoherent
 incomfortably->uncomfortably
@@ -25367,7 +25365,6 @@ coalesing->coalescing
 coce->code
 coealesce->coalesce
 coelesced->coalesced
-coherancy->coherency
 coherncy->coherency
 coincede->coincide
 colflicts->conflicts
@@ -31724,7 +31721,6 @@ facination->fascination
 faest->feast
 fairwell->farewell
 falled->fallen
-falsly->falsely
 falw->flaw
 familys->families
 famouse->famous
@@ -35128,3 +35124,4 @@ excpeted->expected
 execpted->expected
 execture->execute
 expceted->expected
+binarary->binary
