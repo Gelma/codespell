@@ -5630,7 +5630,6 @@ compassione->compassionate
 compasso->compassion
 compasssion->compassion
 compatative->comparative
-compatibel->compatible
 compatibil->compatible
 compatibillity->compatibility
 compatibiltiy->compatibility
@@ -21434,8 +21433,6 @@ storytellling->storytelling
 stragegically->strategically
 stragetically->strategically
 stragetic->strategic
-strageties->strategies
-stragety->strategy
 straightden->straightened
 straightend->straightened
 straightenend->straightened
@@ -22643,7 +22640,6 @@ trackres->trackers
 tradicional->traditional
 tradisional->traditional
 traditionel->traditional
-trageted->targeted
 tragicallly->tragically
 tragicaly->tragically
 traileras->trailers
@@ -28208,7 +28204,6 @@ survor->survivor
 symble->symbol
 terset->reset
 textre->textures
-traget->target
 unusde->unused
 veretx->vertex
 wrigin->writing
@@ -35125,3 +35120,5 @@ execpted->expected
 execture->execute
 expceted->expected
 binarary->binary
+represeted->represented
+represete->represente
