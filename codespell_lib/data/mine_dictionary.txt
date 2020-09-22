@@ -1097,8 +1097,6 @@ unmatch->mismatch
 unwrittent->unwritten
 verfiy->verify
 verifictaion->verification
-customise->customize
-summarise->summarize
 heir->hier
 evironmnet->environment
 execmple->example
@@ -27309,7 +27307,6 @@ robusteness->robustness
 rransaction->transaction
 semanticaly->semantically
 seqeuencers->sequencers
-serialising->serializing
 simplfistic->simplistic
 snapshoting->snapshotting
 soliciation->solicitation
@@ -27434,7 +27431,6 @@ navgational->navigational
 needremainder->needreminder
 nomalization->normalization
 noncontinous->noncontinuous
-normalisation->normalization
 notificatisons->notifications
 notifocation->notification
 nreconfiguring->reconfiguring
@@ -32243,7 +32239,6 @@ ilgrim->pilgrim
 illegaly->illegally
 illegimate->illegitimate
 illennium->millennium
-ilumination->illumination
 imemdiate->immediate
 imllennium->millennium
 immagination->imagination
@@ -32418,7 +32413,6 @@ invsiible->invisible
 inwhich->in
 iplgrim->pilgrim
 ircumference->circumference
-iritate->irritate
 ironical->ironic
 iscellaneous->miscellaneous
 ischievous->mischievous
@@ -35110,3 +35104,7 @@ represete->represente
 modeules->modules
 byes->bytes
 whoch->which
+opperators->operators
+opperator->operator
+retutn->return
+towar->toward
