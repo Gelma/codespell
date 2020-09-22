@@ -2740,7 +2740,6 @@ analitycs->analytics
 analoge->analogue
 analsyt->analyst
 analtyics->analytics
-analyes->analyse
 analyitcal->analytical
 analyitcs->analytics
 analyseas->analyses
@@ -8490,10 +8489,6 @@ distinquishing->distinguishing
 distintcly->distinctly
 distint->distinct
 distirbance->disturbance
-distirbuted->distribute
-distirbuting->distributing
-distirbution->distribution
-distirbutions->distributions
 distirbutor->distributor
 distiungished->distinguished
 distoriton->distortion
@@ -14908,9 +14903,6 @@ miralces->miracles
 mircales->miracles
 mircoatx->microatx
 mircocenter->microcenter
-mircophone->microphone
-mircophones->microphones
-mircoscope->microscope
 mircoscopic->microscopic
 mircotransaction->microtransactions
 mircotransactions->microtransactions
@@ -19046,7 +19038,6 @@ redepmtion->redemption
 redesgin->redesign
 redesiging->redesign
 redesing->redesign
-redistirbution->redistribution
 redistribucion->redistribution
 redistribuito->redistribution
 redistributin->redistribution
@@ -21551,7 +21542,6 @@ stubbon->stubborn
 stubbron->stubborn
 stubmled->stumbled
 studioes->studios
-stuidos->studios
 stuipder->stupider
 stumbeld->stumbled
 stunami->tsunami
@@ -26539,7 +26529,6 @@ verifes->verifies
 priperty->property
 prococol->protocol
 clasname->classname
-countinue->continue
 deliverd->delivered
 dowbnload->download
 duplcate->duplicate
@@ -27332,7 +27321,6 @@ subsequenet->subsequent
 subsription->subscription
 suplemental->supplemental
 supliedname->suppliedname
-sychronized->synchronized
 synchronzed->synchronized
 tabelespace->tablespace
 tansitional->transitional
@@ -30139,7 +30127,6 @@ amythyst->amethyst
 anachistic->anarchistic
 anacrhistic->anarchistic
 analtics->analytics
-analye->analyze
 analyez->analyze
 analyics->analytics
 analytcis->analytics
@@ -30505,7 +30492,6 @@ assimlate->assimilate
 assisstance->assistance
 assmiilate->assimilate
 assmilate->assimilate
-assymetry->asymmetry
 asterick->asterisk
 astha->asthma
 astham->asthma
@@ -34897,7 +34883,6 @@ sequencible->sequencable
 sporadially->sporadically
 stylesnames->stylenames
 surpisingly->surprisingly
-sychronizes->synchronizes
 testoubject->testsubject
 transmation->translation
 uniformised->uniformized
@@ -35122,3 +35107,6 @@ expceted->expected
 binarary->binary
 represeted->represented
 represete->represente
+modeules->modules
+byes->bytes
+whoch->which
