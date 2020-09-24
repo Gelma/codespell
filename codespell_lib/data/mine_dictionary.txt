@@ -24946,7 +24946,6 @@ inforbar->infobar
 initializd->initialized
 intereface->interface
 intrfaces->interfaces
-irow->nrow
 isomery->isometry
 knowning->knowing
 labrary->library
@@ -25212,7 +25211,6 @@ assosiative->associative
 assumpitions->assumptions
 asynchromously->asynchronously
 asynchronuously->asynchronously
-atention->attention
 ative->active
 atomc->atomic
 atructure->structure
@@ -27406,7 +27404,6 @@ instaniation->instantiation
 instersections->intersections
 instumentation->instrumentation
 inteferences->interferences
-intentionaly->intentionally
 interraction->interaction
 ipersistence->persistence
 kenelversion->kernelversion
@@ -35108,3 +35105,5 @@ opperators->operators
 opperator->operator
 retutn->return
 towar->toward
+itereate->iterate
+obejcts->objects
