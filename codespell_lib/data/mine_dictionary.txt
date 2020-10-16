@@ -11320,7 +11320,6 @@ homogenenous->homogeneous
 homogeneos->homogeneous
 homogenes->homogeneous
 homogeneus->homogeneous
-homogenious->homogeneous
 homogenuous->homogeneous
 homophibia->homophobia
 homophibic->homophobic
@@ -20347,7 +20346,6 @@ sensetional->sensational
 sensibel->sensible
 sensibilisiert->sensibilities
 sensibilites->sensibilities
-sensitivety->sensitivity
 sensitivitiy->sensitivity
 sensitiviy->sensitivity
 sensores->sensors
@@ -25408,7 +25406,6 @@ consistecy->consistency
 consitute->constitute
 consle->console
 consructed->constructed
-constatnts->constants
 consteallation->constellation
 constratint->constraint
 constrcuctor->constructor
@@ -28066,7 +28063,6 @@ statistices->statistics
 symbonname->symbolname
 tcppcheck->cppcheck
 truct->struct
-truw->true
 unich->unix
 unknwonlanguage->unknownlanguage
 unoredered->unordered
@@ -31177,7 +31173,6 @@ ctaroon->cartoon
 ctegory->category
 ctor->actor, disabilitato,
 ctually->actually
-cumlative->cumulative
 cumluative->cumulative
 cumualtive->cumulative
 cumuative->cumulative
@@ -35108,3 +35103,6 @@ towar->toward
 itereate->iterate
 obejcts->objects
 benchmarl->benchmark
+indicaing->indicating
+contrbutor->contributor
+shrared->shared
