@@ -1221,7 +1221,6 @@ vaues->values
 wellformed->well formed
 abbreivated->abbreviated
 adapation->adaption
-allocaing->allocating
 alreadyy->already
 apporpriate->appropriate
 arounded->around
@@ -1823,7 +1822,6 @@ courrpted->corrupted
 sequenze->sequence
 contanis->contains
 fragmetation->fragmentation
-consitutes->constitutes
 culmulative->cumulative
 exclusivly->exclusively
 finialize->finalize
@@ -19419,7 +19417,6 @@ replayd->replayed
 replayes->replays
 repleacable->replaceable
 replecated->replicated
-replicae->replicated
 replubic->republic
 replusive->repulsive
 repoistory->repository
@@ -25403,7 +25400,6 @@ conneted->connected
 consequenetly->consequently
 consisitent->consistent
 consistecy->consistency
-consitute->constitute
 consle->console
 consructed->constructed
 consteallation->constellation
@@ -27221,7 +27217,6 @@ specififed->specified
 specifiled->specified
 standalong->standalone
 strucure->structure
-subsitutes->substitutes
 substing->substring
 suggestipn->suggestion
 supportng->supporting
