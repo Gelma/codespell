@@ -9578,7 +9578,6 @@ exclimation->exclamation
 exclsuives->exclusives
 exclucivity->exclusivity
 excludeds->excludes
-excluse->excludes
 exclusie->exclusives
 exclusivas->exclusives
 exclusiveity->exclusivity
@@ -21506,8 +21505,6 @@ stressers->stresses
 stresss->stresses
 stretchs->stretches
 stretegically->strategically
-striaghten->straighten
-striaght->straight
 strians->strains
 stricty->strictly
 striekrs->strikers
@@ -26887,7 +26884,6 @@ throughs->through
 totaly->totally
 troncated->truncated
 tweek->tweak
-udated->updated
 unabled->unable
 unckecked->unchecked
 unneeed->unneeded
@@ -27216,7 +27212,6 @@ sockect->socket
 specififed->specified
 specifiled->specified
 standalong->standalone
-strucure->structure
 substing->substring
 suggestipn->suggestion
 supportng->supporting
@@ -32615,7 +32610,6 @@ macroni->macaroni
 maeby->maybe
 maenuver->maneuver
 maeuver->maneuver
-magent->magnet
 magestic->majestic
 magicaly->magically
 magnant->magnet
