@@ -35095,3 +35095,7 @@ benchmarl->benchmark
 indicaing->indicating
 contrbutor->contributor
 shrared->shared
+allocatated->allocated
+paragrephs->paragraphs
+paragrap->paragraph
+paragreph->paragraph
