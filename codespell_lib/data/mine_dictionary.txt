@@ -1224,7 +1224,6 @@ arounded->around
 assmebly->assembly
 asynchronic->asynchronous
 authro->author
-avanced->advanced
 badbocks->badblocks
 badding->padding
 bassed->passed
@@ -24600,7 +24599,6 @@ falss->false
 favoured->favored
 fiilter->filter
 filteer->filter
-fingeprint->fingerprint
 fith->fifth
 fixth->sixth
 flavored->flavoured
@@ -26047,7 +26045,6 @@ handlder->handler
 happense->happens
 hihghest->highest
 homepge->homepage
-hostspot->hotspot
 humidty->humidity
 ifonfig->ifconfig
 imageing->imaging
@@ -33774,7 +33771,8 @@ registreed->registered
 regitser->register
 regitsered->registered
 reguard->regard
-reistered->roistered
+reistered->registered
+roistered->registered
 relagate->relegate
 relagated->relegated
 releavnt->relevant
@@ -35046,3 +35044,7 @@ paragrephs->paragraphs
 paragrap->paragraph
 paragreph->paragraph
 bulck->bulk
+modalality->modality
+purpuse->purpose
+namepspace->namespace
+approximisation->approximation
