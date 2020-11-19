@@ -1068,7 +1068,6 @@ possbile->possible
 prfiles->profiles
 profided->provided
 rbree->rtbree
-redunancy->redundancy
 referrening->referencing
 regerneate->regenerate
 regrex->regex
@@ -1125,7 +1124,6 @@ accesssing->accessing
 accumalates->accumulates
 annnounce->announce
 arrrived->arrived
-beginnning->beginning
 compresssed->compressed
 decompresssion->decompression
 discreet->discrete, discreet,
@@ -5848,7 +5846,6 @@ compromosing->compromising
 compromsie->compromises
 comprossor->compressor
 compsers->compress
-comptability->compatibility
 compteting->completing
 comptetion->completion
 compteurs->computers
@@ -9787,7 +9784,6 @@ exploitaiton->exploitation
 exploitatie->exploitative
 exploitating->exploitation
 exploites->exploits
-exploition->exploiting
 explonation->exploration
 exploracion->exploration
 explorarea->explorer
@@ -10212,8 +10208,6 @@ firtsly->firstly
 firwmare->firmware
 flacons->falcons
 flaghsip->flagship
-flahsed->flashed
-flahses->flashes
 flamethorwer->flamethrower
 flametrhower->flamethrower
 flanethrower->flamethrower
@@ -10446,7 +10440,6 @@ frequence->frequencies
 frequenices->frequencies
 frequensies->frequencies
 frequenties->frequencies
-frequeny->frequency
 frequenzies->frequencies
 friednship->friendships
 friednzone->friendzoned
@@ -12048,8 +12041,6 @@ incrementos->increments
 incrimental->incremental
 incriments->increments
 incrompehensible->incomprehensible
-inculded->included
-inculding->including
 indains->indians
 indavertently->inadvertently
 indefenite->indefinite
@@ -17866,7 +17857,6 @@ presuasion->persuasion
 presuasive->persuasive
 presude->presumed
 presumabley->presumably
-presumebly->presumably
 presumendo->presumed
 presumpteous->presumptuous
 presumpton->presumption
@@ -18920,11 +18910,9 @@ recogniton->recognition
 recognizible->recognizable
 recognzied->recognised
 recolleciton->recollection
-recommandation->recommendation
 recommandations->recommendations
 recommande->recommend
 recommandes->recommends
-recommanding->recommending
 recommendeds->recommends
 recommendes->recommends
 recommendors->recommends
@@ -19017,7 +19005,6 @@ redners->renders
 reduncancy->redundancy
 redundantcy->redundancy
 redundany->redundancy
-redundency->redundancy
 redundnacy->redundancy
 redunduncy->redundancy
 reedemed->redeemed
@@ -21065,7 +21052,6 @@ spehres->spheres
 spehrical->spherical
 speicalist->specialist
 speically->specially
-speical->special
 speicals->specials
 spellign->spelling
 spellig->spelling
@@ -25174,7 +25160,6 @@ attentuation->attenuation
 attepts->attempts
 attmempt->attempt
 attrative->attractive
-attribte->attribute
 attribure->attribute
 attributon->attribution
 attributtes->attributes
@@ -25636,7 +25621,6 @@ quuota->quota
 rangeing->ranging
 readonl->readonly
 recentely->recently
-recepit->receipt
 reinterpretted->reinterpreted
 reprioitization->reprioritization
 prioitization->rioritization
@@ -25987,7 +25971,6 @@ tirane->tirana
 togle->toggle
 tored->stored
 totoal->total
-triger->trigger
 trown->thrown
 tryied->tried
 ttypes->types
@@ -26433,7 +26416,6 @@ enormal->normal
 gglobal->global
 klling->killing
 latecy->latency
-numnber->number
 optins->options
 overal->overall
 returun->return
@@ -27923,7 +27905,6 @@ incresmenting->incrementing
 specalization->specialization
 destionationset->destinationset
 lexicographycally->lexicographically
-reday->ready
 shous->should
 tarck->track
 tehse->these
@@ -28298,7 +28279,6 @@ reqister->register
 requeusted->requested
 rescedule->reschedule
 resheduled->rescheduled
-schduler->scheduler
 sscratch->scratch
 themi->them
 wakeing->waking
@@ -29185,7 +29165,6 @@ deprecared->deprecated
 destuctors->destructors
 detectiuon->detection
 deveopment->development
-dispossing->disposing
 disrectory->directory
 documeting->documenting
 duscovered->discovered
@@ -29998,7 +29977,6 @@ alond->almond
 alongish->longish
 alowance->allowance
 alphubetical->alphabetical
-alreday->already
 alrlight->aright
 alumnis->alumni
 aluvial->alluvial
@@ -31120,7 +31098,6 @@ cumulatve->cumulative
 cumulatvie->cumulative
 cumultaive->cumulative
 cumultive->cumulative
-cutted->cut
 cuulative->cumulative
 cuumlative->cumulative
 cybe->cyber
@@ -34738,7 +34715,6 @@ zuccini->zucchini
 zuchcini->zucchini
 zuchini->zucchini
 paragrapsh->paragraph
-posibly->possibly
 positing->positioning
 smuge->smudge
 asserraises->assertraises
@@ -35050,3 +35026,22 @@ namepspace->namespace
 approximisation->approximation
 boundariess->boundaries
 exanding->expanding
+exprsession->expression
+finction->function
+forbedden->forbidden
+interpredted->interpreted
+leadung->leading
+methof->method
+preceede->precede
+psersistent->persistent
+sepatrated->separated
+solders->olders
+whitepaces->whitespace
+aleardy->already
+exanded->expanded
+shew->skew
+supperposing->superposing
+dekay->delay
+resive->resize
+worktress->worktrees
+tress->trees
