@@ -945,7 +945,6 @@ gleaned->cleaned
 higjlighted->highlighted
 glidled->idled
 highhest->highest
-chagne->change
 hyphention->hyphenation
 inclusing->including
 patchres->patches
@@ -1441,7 +1440,6 @@ desidered->desired
 dhcpcd->dhcpd
 discrection->discretion
 distr->distro
-ditributions->distributions
 domaain->domain
 ecrypted->encrypted
 edirot->editor
@@ -1863,7 +1861,6 @@ accruate->accurate
 exerciesd->exercised
 intiailization->initialization
 maintianed->maintained
-pipleine->pipeline
 conumsers->consumers
 beahvior->behavior
 comprar->comparar
@@ -2510,7 +2507,6 @@ airboner->airborne
 airbore->airborne
 airbrone->airborne
 aircarft->aircraft
-airlfow->airflow
 airosft->airsoft
 airplance->airplane
 airplans->airplanes
@@ -3203,7 +3199,6 @@ ariborne->airborne
 aribter->arbiter
 aribtration->arbitration
 aricraft->aircraft
-ariflow->airflow
 ariplane->airplane
 ariplanes->airplanes
 ariports->airports
@@ -26131,7 +26126,6 @@ scather->scatter
 scrable->scramble
 secrity->security
 securit->security
-seeting->setting
 selecor->selector
 sequnce->sequence
 servioe->service
@@ -26559,7 +26553,6 @@ shareabe->shareable
 basbranch->basebranch
 comercial->commercial
 hieararchy->hierarchy
-hierarhcy->hierarchcy
 histograpm->histogram
 historial->historical
 identiacal->identical
@@ -29029,7 +29022,6 @@ deprcated->deprecated
 desuaring->desugaring
 desugered->desugared
 disablees->disables
-ditribute->distribute
 downsteam->downstream
 draginfly->dragonfly
 enclosinb->enclosing
