@@ -633,7 +633,6 @@ penwar->peignoir
 perfurd->preferred
 perliferate->proliferate
 perseed->precede
-perserve->preserve
 persew->pursue
 perticipate->participate
 pertinate->pertinent
@@ -1155,7 +1154,6 @@ adjustes->adjusts
 alreadh->already
 alsoneeds->also_needs
 aply->apply
-argumet->argument
 arument->argument
 assignmen->assignment
 avoidpaste->avoid_paste
@@ -1218,7 +1216,6 @@ adapation->adaption
 alreadyy->already
 apporpriate->appropriate
 arounded->around
-assmebly->assembly
 asynchronic->asynchronous
 authro->author
 badbocks->badblocks
@@ -1510,7 +1507,6 @@ postifx->postfix
 postix->postfix
 precist->precise
 prerequesite->prerequisite
-previousl->previously
 prililedges->privileges
 priviges->privileges
 privledges->privileges
@@ -1742,7 +1738,6 @@ serch->search
 sevirity->severity
 simplicitly->simplicity
 solaries->solaris
-speicified->specified
 stabalized->stabilized
 synthetized->synthesized
 telll->tell
@@ -1921,8 +1916,6 @@ abdomnial->abdominal
 abdonimal->abdominal
 abilitiy->ability
 abiltiy->ability
-abnoramlly->abnormally
-abnormalty->abnormally
 abodmen->abdomen
 abodminal->abdominal
 abomanation->abomination
@@ -2231,9 +2224,7 @@ acutaly->actually
 acutions->auctions
 acyrlic->acrylic
 adaptacion->adaptation
-adaptare->adapter
 adaptating->adaptation
-adaptes->adapters
 adaquetely->adequately
 adbomen->abdomen
 adbominal->abdominal
@@ -2324,7 +2315,6 @@ adovcacy->advocacy
 adovcated->advocated
 adovcates->advocates
 adpatation->adaptation
-adpaters->adapters
 adreanline->adrenaline
 adrelanine->adrenaline
 adreneline->adrenaline
@@ -2400,8 +2390,6 @@ affiars->affairs
 affiliato->affiliation
 affiliaton->affiliation
 affiliction->affiliation
-affinitiy->affinity
-affintiy->affinity
 affirmate->affirmative
 affirmitave->affirmative
 affirmitive->affirmative
@@ -3296,7 +3284,6 @@ aseuxal->asexual
 asexaul->asexual
 ashpalt->asphalt
 asiprin->aspirin
-asisstants->assistants
 asissted->assisted
 asissts->assists
 askreddt->askreddit
@@ -4853,8 +4840,6 @@ challengur->challenger
 challening->challenging
 challneger->challenger
 chambear->chamber
-chambre->chamber
-chambres->chambers
 chameleooon->chameleon
 chameloen->chameleon
 chamiponship->championships
@@ -7219,7 +7204,6 @@ cylcists->cyclists
 cylcone->cyclone
 cylcops->cyclops
 cylidner->cylinder
-cylindre->cylinder
 cylindres->cylinders
 cynaide->cyanide
 cynicisim->cynicism
@@ -9584,8 +9568,6 @@ execptional->exceptional
 exectuing->executing
 exectuioner->executioner
 exectuioners->executioner
-exectuion->execution
-exectuions->executions
 exectuive->executive
 exectuives->executives
 executabil->executable
@@ -14484,7 +14466,6 @@ mechaninc->mechanic
 mechanincs->mechanic
 mechanisim->mechanism
 mechanisims->mechanism
-mechanis->mechanics
 mechanismus->mechanisms
 mechansims->mechanisms
 mechinical->mechanical
@@ -16950,8 +16931,6 @@ persecutin->persecution
 persecutted->persecuted
 persepctives->perspectives
 perservation->preservation
-perserved->preserved
-perserving->preserving
 persets->presets
 persicuted->persecuted
 persicution->persecution
@@ -22614,7 +22593,6 @@ trannsexual->transsexual
 tranpshobic->transphobic
 transaccion->transaction
 transalting->translating
-transaltor->translator
 transaprency->transparency
 transational->transitional
 transcations->transactions
@@ -23855,7 +23833,6 @@ vitrual->virtual
 vitrues->virtues
 vitualization->visualization
 vizualisations->visualization
-vizualization->visualization
 vocabluary->vocabulary
 vocabularily->vocabulary
 vocabularity->vocabulary
@@ -24441,7 +24418,6 @@ aprove->approve
 archieve->achieve
 argentinean->argentinian
 argentinsk->argentinske
-argumets->arguments
 asension->ascension
 attributep->attribute
 badsigature->badsignature
@@ -24458,7 +24434,6 @@ sqashing->squashing
 staf->staff
 stratgy->strategy
 streightforward->straightforward
-stricly->strictly
 strin->string
 submittor->submitter
 suuplied->supplied
@@ -24590,7 +24565,6 @@ geater->greater
 getparamter->getparameter
 granparent->grandparent
 granularit->granularity
-greated->greater
 greately->greatly
 grenlandia->groenlandia
 groupping->grouping
@@ -24771,7 +24745,6 @@ multine->multiline
 multipolyogn->multipolygon
 paragwai->paraguay
 paritcular->particular
-perserves->preserves
 portuges->portuguese
 postgresinstalled->postgresqlinstalled
 pouplar->popular
@@ -26390,7 +26363,6 @@ thost->those
 dreive->drive
 implay->imply
 inpout->input
-iself->itself
 mmedia->media
 pulic->public
 searc->search
@@ -30757,7 +30729,6 @@ charicatoor->caricature
 chedule->schedule
 chieftan->chieftain
 chieve->chive
-childrens->children
 chistmas->christmas
 chnadelier->chandelier
 chnageable->changeable
