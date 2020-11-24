@@ -1731,7 +1731,6 @@ relaim->reclaim
 requets->requests
 sceleton->skeleton
 scondary->secondary
-secton->section
 segmant->segment
 selct->select
 serch->search
@@ -2530,7 +2529,6 @@ aleinated->alienated
 aleinating->alienating
 aleniate->alienate
 algerba->algebra
-algorithmes->algorithms
 algorithmus->algorithms
 algorithum->algorithm
 algorithym->algorithm
@@ -6660,7 +6658,6 @@ conversatiosn->conservation
 conversatism->conservatism
 conversatives->conservatives
 conversatoin->conversations
-convers->converts
 converseley->conversely
 conversie->converse
 conversin->conversions
@@ -9305,7 +9302,6 @@ environmentaly->environmentally
 environmentl->environmentally
 environmently->environmental
 environmetal->environmental
-environmet->environments
 environmnets->environments
 envrionmentally->environmentally
 ephipany->epiphany
@@ -9520,7 +9516,6 @@ exceedinly->exceedingly
 excellenet->excellence
 excellenze->excellence
 excepcional->exceptional
-exceptin->exceptions
 exceptionaly->exceptionally
 exceptionel->exceptional
 excerised->exercised
@@ -9801,7 +9796,6 @@ expolsions->explosions
 expolsive->explosive
 expolsives->explosives
 exponantial->exponential
-exponantially->exponentially
 exponencial->exponential
 exponencially->exponentially
 exponental->exponential
@@ -22288,7 +22282,6 @@ theologia->theological
 theologicial->theological
 theoratically->theoretically
 theoratical->theoretical
-theoreticaly->theoretically
 theoreticly->theoretical
 theoritically->theoretically
 theorits->theorist
@@ -22637,7 +22630,6 @@ transformas->transforms
 transformees->transforms
 transformered->transformed
 transformes->transformers
-transforme->transfer
 transformis->transforms
 transformus->transforms
 transforners->transformers
@@ -24624,7 +24616,6 @@ neitherlands->netherlands
 nodedefintion->nodedefinition
 nullalble->nullable
 occasionnally->occasionally
-onlly->only
 opertor->operator
 optomized->optimized
 orginfile->originfile
@@ -25019,7 +25010,6 @@ adaper->adapter
 adater->adapter
 addad->added
 addittional->additional
-addresse->address
 adjactent->adjacent
 adjudt->adjust
 adjusments->adjustments
@@ -25128,7 +25118,6 @@ attentuation->attenuation
 attepts->attempts
 attmempt->attempt
 attrative->attractive
-attribure->attribute
 attributon->attribution
 attributtes->attributes
 attritbutes->attributes
@@ -25628,7 +25617,6 @@ disctete->discrete
 contnet->content
 kernele->kernel
 changened->changed
-outher->other
 relataive->relative
 droppted->dropped
 drviver->driver
@@ -26208,7 +26196,6 @@ modefied->modified
 mororola->motorola
 multiast->multicast
 multpiple->multiple
-nagative->negative
 nexecuted->executed
 nornally->normally
 numberred->numbered
