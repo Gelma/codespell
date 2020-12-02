@@ -260,7 +260,7 @@ couarpoint->cougarpoint
 councel->council
 counciler->councilor
 counsil->counsel
-cout->count
+#cout->count
 cramugin->curmudgeon
 cratashous->cretaceous
 crowshay->crochet
@@ -1025,7 +1025,6 @@ coipes->copies
 comands->commands
 concatanating->concatenating
 consumpption->consumption
-corss->cross
 corupt->corrupt
 crrupted->corrupted
 decompressiion->decompression
@@ -1192,7 +1191,6 @@ explicte->explicate
 exponentials->exponential
 expres->express
 exteded->extended
-extrat->extract
 factorisation->factorization
 garantie->guarantee
 hundredsof->hundreds_of
@@ -1360,7 +1358,6 @@ scrpit->script
 secondiory->secondary
 sectoin->section
 segault->segfault
-sequentialy->sequentially
 sessoin->session
 simulaneous->simultaneous
 sourcefroge->sourceforge
@@ -1591,7 +1588,6 @@ charsacter->character
 classig->classic
 congfiguration->configuration
 conincidan->coincidan
-cursos->cursor
 destintation->destination
 dfault->default
 encooded->encoded
@@ -1846,7 +1842,6 @@ maintaines->maintains
 undercore->underscore
 aliged->aligned
 horific->horrific
-destroyes->destroys
 muiltiple->multiple
 vaired->varied
 heriarchy->hierarchy
@@ -3083,7 +3078,6 @@ approacing->approaching
 appropirate->appropriate
 appropirately->appropriately
 appropiration->appropriation
-approprate->appropriate
 appropreation->appropriation
 appropriatin->appropriation
 appropriatley->appropriately
@@ -6828,7 +6822,6 @@ corsari->corsair
 corsiar->corsair
 corspes->corpses
 corssfire->crossfire
-corsshair->crosshair
 corsspost->crosspost
 coruching->crouching
 corwbar->crowbar
@@ -7993,7 +7986,6 @@ difenitly->definitely
 differantly->differently
 differenciations->differentiation
 differencies->differences
-differense->differences
 differental->differential
 differentate->differentiate
 differente->difference
@@ -10492,7 +10484,6 @@ fullset->fullest
 fulttershy->fluttershy
 funcitonally->functionally
 functionaliy->functionally
-functionalty->functionality
 functiong->functioning
 fundamendalist->fundamentalist
 fundamendalists->fundamentalists
@@ -10821,7 +10812,6 @@ gradiating->graduating
 gradiation->graduation
 gradification->gratification
 graduacion->graduation
-gradualy->gradually
 graduaste->graduates
 graduatin->graduation
 grafield->garfield
@@ -11034,7 +11024,6 @@ happilly->happily
 happliy->happily
 hardend->hardened
 hardenend->hardened
-hardlinked->hardline
 hardwod->hardwood
 hardwoord->hardwood
 haricut->haircut
@@ -11166,7 +11155,6 @@ hesistate->hesitate
 hesitatin->hesitation
 hesitstion->hesitation
 hestiant->hesitant
-hestiate->hesitate
 hestiation->hesitation
 heteresexual->heterosexual
 heterosexal->heterosexual
@@ -13496,7 +13484,6 @@ kentucy->kentucky
 kenyesian->keynesian
 ketmaine->ketamine
 keyboars->keyboards
-keyborad->keyboard
 keychan->keychain
 keychian->keychain
 keyensian->keynesian
@@ -13915,7 +13902,6 @@ lisenced->silenced
 lispticks->lipsticks
 listend->listened
 listenend->listened
-listeneres->listeners
 listents->listens
 litecion->litecoin
 litecon->litecoin
@@ -16143,7 +16129,6 @@ outnumberd->outnumbered
 outnumbred->outnumbered
 outnunbered->outnumbered
 outpalyed->outplayed
-outperfom->outperform
 outperfoms->outperform
 outperfrom->outperform
 outperfroms->outperform
@@ -16775,7 +16760,6 @@ perfektion->perfection
 perferential->preferential
 perferring->preferring
 perfexcion->perfection
-perfomrance->performances
 perforamnce->performances
 performaces->performances
 performacne->performances
@@ -24637,7 +24621,6 @@ previousy->previously
 prgress->progress
 primry->primary
 procedual->procedural
-provied->provided
 pythont->python
 queris->queries
 realoads->reloads
@@ -24774,7 +24757,6 @@ analyized->analyzed
 anythinh->anything
 appled->applet
 appliations->applications
-approprately->appropriately
 archic->archaic
 ardound->around
 ariund->around
@@ -25525,7 +25507,6 @@ brough->brought
 cahcefile->cachefile
 checkummed->checksummed
 snapshoted->snapshotted
-covert->convert
 cphertext->cyphertext
 crypographically->cryptographically
 datasetss->datasets
@@ -25979,7 +25960,6 @@ fscrypto->fscrypt
 fsycing->fsyncing
 garbaged->garbage
 generice->generic
-hability->ability
 handlder->handler
 happense->happens
 hihghest->highest
@@ -26128,7 +26108,6 @@ unsignd->unsigned
 upcates->updates
 updaing->updating
 updateѕ->updates
-vactors->vectors
 varioues->various
 vergsion->version
 verifer->verifier
@@ -26941,7 +26920,6 @@ increadibly->incredibly
 incrementes->increments
 indoneysiya->indoneeysiya
 informarion->information
-informatio->information
 infprmation->information
 initiailize->initialize
 initialzer->initializer
@@ -27558,7 +27536,6 @@ contins->contains
 corrently->correctly
 couling->coupling
 crerated->created
-curreent->current
 cwertificate->certificate
 deafline->deadline
 debuggng->debugging
@@ -28933,7 +28910,6 @@ testvmss->testvmssx
 tinclude->tincludel
 togather->together
 tooffset->toffset
-turorial->tutorial
 typeparm->typeparam
 uhandled->unhandled
 undefind->undefined
@@ -30214,7 +30190,6 @@ appraent->apparent
 apprent->apparent
 appropiation->appropriation
 appropraition->appropriation
-appropration->appropriation
 appropriaion->appropriation
 appropriaiton->appropriation
 appropriatino->appropriation
@@ -31563,7 +31538,6 @@ feas->fees
 februrary->february
 feeld->field
 feeled->felt
-feets->feet
 feiry->fiery
 fery->ferry
 fesat->feast
@@ -32411,7 +32385,7 @@ liaiso->liaison
 librarean->librarian
 licene->license
 licenes->license
-licens->likens
+licens->license
 licesne->license
 licnese->license
 licnse->license
@@ -32680,7 +32654,6 @@ misspll->misspell
 missspelled->misspelled
 miunscule->minuscule
 miuscule->minuscule
-mixted->mixed
 mlilennium->millennium
 mllennium->millennium
 mlticulturalism->multiculturalism
@@ -34615,7 +34588,6 @@ wraranty->warranty
 wrdpress->wordpress
 wrecklessness->recklessness
 writed->written
-writter->writer
 wrng->wring
 wrodpress->wordpress
 wroten->written
@@ -34997,3 +34969,6 @@ worktress->worktrees
 tress->trees
 inidividual->individual
 mignight->midnight
+collapased->collapsed
+pssible->possible
+btrsf->btrfs
