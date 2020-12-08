@@ -1605,7 +1605,6 @@ reypling->replying
 separatedly->separately
 simluate->simulate
 simpple->simple
-sistem->system
 spead->speed
 sroll->scroll
 ssince->since
@@ -9952,9 +9951,6 @@ fallicious->fallacious
 falmethrower->flamethrower
 falseley->falsely
 falshbacks->flashbacks
-falshed->flashed
-falshes->flashes
-falshing->flashing
 falsley->falsely
 falvored->flavored
 falvors->flavors
@@ -10164,11 +10160,9 @@ firendzoned->friendzoned
 firggin->friggin
 firghtened->frightened
 firghtening->frightening
-firmwear->firmware
 firsbee->frisbee
 firslty->firstly
 firtsly->firstly
-firwmare->firmware
 flacons->falcons
 flaghsip->flagship
 flamethorwer->flamethrower
@@ -10177,7 +10171,6 @@ flanethrower->flamethrower
 flaried->flaired
 flasely->falsely
 flasghip->flagship
-flashig->flashing
 flashligt->flashlight
 flashligth->flashlight
 flaskbacks->flashbacks
@@ -10429,7 +10422,6 @@ frightining->frightening
 frigign->friggin
 frigthened->frightened
 frigthening->frightening
-frimware->firmware
 frinedzoned->friendzoned
 fringeworthy->cringeworthy
 fristly->firstly
@@ -14447,7 +14439,6 @@ mechanincs->mechanic
 mechanisim->mechanism
 mechanisims->mechanism
 mechanismus->mechanisms
-mechansims->mechanisms
 mechinical->mechanical
 mechinisms->mechanisms
 medatite->meditate
@@ -20513,7 +20504,6 @@ similtaneously->simultaneously
 similtaneous->simultaneous
 simliarities->similarities
 simliarity->similarity
-simliarly->similarly
 simliiar->similar
 simluated->simulated
 simluation->simulation
@@ -20602,7 +20592,6 @@ singulator->singular
 sinistre->sinister
 sinlgeplayer->singleplayer
 sinsiter->sinister
-sistematically->systematically
 sitautional->situational
 sitckers->stickers
 sitmuli->stimuli
@@ -25808,7 +25797,6 @@ pcmciai->pcmcia
 peeprom->eeprom
 pexists->exists
 pinter->pointer
-pleace->please
 polocy->policy
 prelog->prolog
 prempt->preempt
@@ -26024,8 +26012,6 @@ pencoder->encoder
 pendling->pending
 performa->perform
 piggest->biggest
-pltform->platform
-pluging->plugging
 pointere->pointer
 pointor->pointer
 premble->preamble
@@ -28139,7 +28125,6 @@ oultine->outline
 ovelray->overlay
 picebus->pciebus
 pirvate->private
-prcoess->process
 proboly->probably
 procted->protected
 proting->porting
@@ -28214,7 +28199,6 @@ wakeing->waking
 convencience->convenience
 cumstom->custom
 domaim->domain
-furute->future
 hugin->huginn
 mindd->mind
 outputtng->outputting
@@ -28507,7 +28491,6 @@ scalin->scaling
 selet->select
 sennd->send
 setupp->setup
-simle->simple
 sorrty->sorry
 squeez->squeeze
 thois->this
@@ -28615,7 +28598,6 @@ callie->callee
 chhdir->chdir
 cleard->cleared
 cosume->consume
-custon->custom
 decryt->decrypt
 dodgey->dodgy
 drived->derived
@@ -34972,3 +34954,5 @@ mignight->midnight
 collapased->collapsed
 pssible->possible
 btrsf->btrfs
+uage->usage
+conctrol->control
