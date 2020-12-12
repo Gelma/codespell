@@ -24652,7 +24652,6 @@ sharability->shareability
 siera->sierra
 abstrass->abstract
 accouncement->announcement
-additionnaly->additionally
 althete->athlete
 ambiguitity->ambiguity
 aorund->around
@@ -34956,3 +34955,4 @@ pssible->possible
 btrsf->btrfs
 uage->usage
 conctrol->control
+trakcing->tracking
