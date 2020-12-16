@@ -27926,7 +27926,6 @@ adanved->advanced
 addesss->address
 ajdust->adjust
 alerady->already
-alinged->aligned
 allreay->already
 anntena->antenna
 beizer->bezier
@@ -29831,7 +29830,6 @@ alhemy->alchemy
 alidity->algidity
 alig->align
 alin->align
-aling->align
 aljbra->algebra
 allagory->allegory
 allee->alee
@@ -32990,7 +32988,6 @@ ote->toe
 oticeable->noticeable
 ousaphone->sousaphone
 outloud->out
-outputted->output
 ovte->vote
 ovyage->voyage
 ownload->download
@@ -34956,3 +34953,6 @@ btrsf->btrfs
 uage->usage
 conctrol->control
 trakcing->tracking
+creae->create
+notifyy->notify
+coulumn->column
