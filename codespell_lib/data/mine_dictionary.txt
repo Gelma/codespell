@@ -1988,7 +1988,6 @@ accedentally->accidentally
 accelarated->accelerated
 accelarating->accelerating
 accelarator->accelerator
-acceleartion->acceleration
 accelerade->accelerated
 acceleraptor->accelerator
 accelerar->accelerator
@@ -28909,7 +28908,6 @@ analyticd->analytics
 anjything->anything
 ansicolor->ansicolors
 anymatchx->anymatch
-aposition->position
 appcanter->appcenter
 appsecret->appsecret
 appsectet->appsecret
@@ -34960,3 +34958,21 @@ drawoage->drawpage
 oage->page
 returno->return
 nothong->nothing
+usrer->user
+usrers->users
+reposiory->repository
+occurance's->occurrence's
+wrriten->written
+finalizatiom->finalization
+incrememtal->incremental
+passprhase->passphrase
+resason->reason
+resasons->reasons
+tyoe->type
+workarond->workaround
+horizontically->orizontally
+responsiility->responsibility
+destorted->distorted
+reapeat->repeat
+reapeats->repeats
+damanging->damaging
