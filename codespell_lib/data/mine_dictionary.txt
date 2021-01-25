@@ -2733,7 +2733,6 @@ anarchsim->anarchism
 anarchsits->anarchists
 anaylse->analyse
 anaylses->analyses
-anaylsis->analysis
 anaylst->analyst
 anaylsts->analysts
 anayltical->analytical
@@ -4854,8 +4853,6 @@ chanlder->chandler
 chanpionship->championship
 chanpionships->championships
 chansellor->chancellor
-charactaristic->characteristic
-charactaristics->characteristics
 charactarization->characterization
 charactarize->characterize
 charactarized->characterized
@@ -10311,7 +10308,6 @@ fortuante->fortunate
 fortuantely->fortunately
 fortunae->fortune
 fortunantly->fortunately
-fortunatelly->fortunately
 fortunatley->fortunately
 fortunetely->fortunately
 fortunte->fortune
@@ -13841,7 +13837,6 @@ lightrom->lightroom
 lightrooom->lightroom
 lightweigth->lightweight
 lightweigt->lightweight
-lightwieght->lightweight
 lightwright->lightweight
 ligitation->litigation
 ligthening->lightening
@@ -17827,8 +17822,6 @@ prevailling->prevailing
 prevalecen->prevalence
 prevalente->prevalence
 prevantative->preventative
-preveiw->preview
-preveiws->previews
 prevencion->prevention
 preventation->presentation
 preventetive->preventative
@@ -19681,9 +19674,6 @@ reveald->revealed
 reveales->reveals
 revealtion->revelations
 revealtions->revelations
-reveiwer->reviewer
-reveiwers->reviewers
-reveiws->reviews
 revelaed->revealed
 revelaing->revealing
 revelaiton->revelations
@@ -21099,7 +21089,6 @@ spwaned->spawned
 spwaning->spawning
 sqaudron->squadron
 sqaurely->squarely
-sqaures->squares
 sqeuaky->squeaky
 sqiurtle->squirtle
 sqiushy->squishy
@@ -21710,7 +21699,6 @@ supplemets->supplements
 supplimental->supplemental
 supporre->supporters
 supportare->supporters
-supportes->supports
 supporteurs->supporters
 supporteur->supporter
 supportied->supported
@@ -22516,7 +22504,6 @@ traileras->trailers
 trailes->trailers
 traines->trainers
 traingles->triangles
-traingle->triangle
 trainig->training
 trainwreak->trainwreck
 trainwrek->trainwreck
@@ -23611,7 +23598,6 @@ veichles->vehicles
 veitnamese->vietnamese
 veitnam->vietnam
 veiwership->viewership
-veiwers->viewers
 veiwpoints->viewpoints
 veiwpoint->viewpoint
 velantine->valentine
@@ -23992,9 +23978,7 @@ widepsread->widespread
 widespred->widespread
 widgest->widgets
 widgetas->widgets
-wieghted->weighted
 wieghtlifting->weightlifting
-wieghts->weights
 wikileakers->wikileaks
 wikileakes->wikileaks
 wilderniss->wilderness
@@ -28152,7 +28136,6 @@ unnkown->unknown
 usullay->usually
 utitily->utility
 variaon->variation
-veiwing->viewing
 verfity->verify
 verifys->verifies
 visibel->visible
@@ -31722,8 +31705,6 @@ guraantee->guarantee
 haarss->harass
 haass->harass
 habet->habit
-habitant->uncommon
-habitants->uncommon
 hadnt->had
 hadphones->headphones
 haedphones->headphones
@@ -34449,7 +34430,6 @@ vcuum->vacuum
 vegitarian->vegetarian
 vehichle->vehicle
 veign->vein
-veiw->view
 venacular->vernacular
 versimilitude->verisimilitude
 versitile->versatile
@@ -34970,9 +34950,19 @@ resason->reason
 resasons->reasons
 tyoe->type
 workarond->workaround
-horizontically->orizontally
+horizontically->horizontally
 responsiility->responsibility
 destorted->distorted
 reapeat->repeat
 reapeats->repeats
 damanging->damaging
+citiation->citation
+drwa->draw
+viusal->visual
+untgrring->untarring
+untgr->untar
+mrker->marker
+childrent->children
+uniciode->unicode
+direcrx->directx
+direcr->direct
