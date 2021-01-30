@@ -34966,3 +34966,4 @@ childrent->children
 uniciode->unicode
 direcrx->directx
 direcr->direct
+agjacent->adjacent
