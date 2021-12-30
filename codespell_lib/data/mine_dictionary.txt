@@ -1002,7 +1002,6 @@ checkso->checks
 coipes->copies
 concatanating->concatenating
 consumpption->consumption
-corupt->corrupt
 crrupted->corrupted
 decompressiion->decompression
 determint->determine
@@ -1036,7 +1035,6 @@ overalpping->overlapping
 overflap->overlap
 paritical->partial
 parsting->parsing
-pathame->pathname
 pinnned->pinned
 possbile->possible
 prfiles->profiles
@@ -1187,7 +1185,6 @@ containined->contained
 convetions->conventions
 correctl->correctly
 corrpt->corrupt
-corupted->corrupted
 countaining->containing
 coveriy->coverity
 customizeable->customizable
@@ -1586,7 +1583,6 @@ capitabl->capital
 conntected->connected
 consisits->consists
 coount->count
-correcponding->corresponding
 creeate->create
 defineition->definition
 demonsration->demonstration
@@ -1659,7 +1655,6 @@ projevt->project
 pupulate->populate
 recomment->recommend
 relaim->reclaim
-requets->requests
 sceleton->skeleton
 scondary->secondary
 segmant->segment
@@ -1709,7 +1704,6 @@ montior->monitor
 parameres->parameters
 precisition->precision
 preipherals->peripherals
-priveledged->privileged
 realizefn->realize
 satruating->saturating
 sbumodule->submodule
@@ -2522,8 +2516,6 @@ alternatr->alternator
 alternatvely->alternately
 alternetly->alternately
 alternitavely->alternatively
-alternitive->alternative
-alternitively->alternatively
 althetes->athletes
 althetic->athletic
 altheticism->athleticism
@@ -2657,14 +2649,10 @@ anarchistes->anarchists
 anarchiszm->anarchism
 anarchsim->anarchism
 anarchsits->anarchists
-anaylse->analyse
-anaylses->analyses
 anaylst->analyst
 anaylsts->analysts
 anayltical->analytical
 anayltics->analytics
-anaylze->analyze
-anaylzed->analyzed
 anaylzing->analyzing
 ancedotal->anecdotal
 ancedotally->anecdotally
@@ -8360,8 +8348,6 @@ distributs->distributors
 distribuye->distribute
 districs->districts
 distriubtion->distributions
-distrobuted->distributed
-distrobutions->distributions
 distrotion->distortion
 distrubance->disturbance
 distrubances->disturbance
@@ -9532,7 +9518,6 @@ expedetion->expedition
 expedicion->expedition
 expeditivo->expedition
 expedito->expedition
-expences->expense
 expendature->expenditure
 expendatures->expenditures
 expendeture->expenditure
@@ -9588,7 +9573,6 @@ explaing->explaining
 explainging->explaining
 explainig->explaining
 explaintory->explanatory
-explanaiton->explanations
 explanatin->explanations
 explanetary->explanatory
 explanetory->explanatory
@@ -19045,9 +19029,6 @@ reminiscant->reminiscent
 reminiscient->reminiscent
 reminiscint->reminiscent
 reminscient->reminiscent
-remmebered->remembered
-remmeber->remember
-remmebers->remembers
 remnans->remnants
 remotelly->remotely
 remotley->remotely
@@ -20788,7 +20769,6 @@ speically->specially
 speicals->specials
 spellign->spelling
 spellig->spelling
-spesifically->specifically
 spesification->specification
 spesifications->specifications
 spetember->september
@@ -22915,7 +22895,6 @@ underminig->undermining
 underminining->undermining
 underminning->undermining
 undernearth->underneath
-underneeth->underneath
 underneight->underweight
 underneith->underneath
 undernieth->underneath
@@ -24344,7 +24323,6 @@ paraguai->paraguay
 paraguei->paraguai
 performend->performed
 permanaent->permanent
-permssions->permissions
 plurlize->pluralize
 possitional->positional
 posteed->posted
@@ -24376,8 +24354,6 @@ relationsips->relationships
 remaped->remapped
 remembeme->rememberme
 representend->represented
-requeted->requested
-requet->request
 requqest->request
 restting->resetting
 retrievies->retrieves
@@ -24602,7 +24578,6 @@ reassemblied->reassembled
 reconstrucated->reconstructed
 registere->registered
 reimplimented->reimplemented
-releae->release
 reloadale->reloadable
 repeate->repeat
 resove->resolve
@@ -25016,7 +24991,6 @@ corigin->origin
 correspondind->corresponding
 corruped->corrupted
 corruptio->corruption
-coruption->corruption
 cotiguous->contiguous
 cotinue->continue
 couinter->counter
@@ -25500,12 +25474,10 @@ pcmciai->pcmcia
 peeprom->eeprom
 pexists->exists
 pinter->pointer
-polocy->policy
 prelog->prolog
 prempt->preempt
 printe->printer
 prioir->prior
-profie->profile
 prrompt->prompt
 prvent->prevent
 pseuo->pseudo
@@ -25937,7 +25909,6 @@ simbolic->symbolic
 snapshod->snapshot
 softwarew->software
 sounbank->soundbank
-specefic->specific
 specifix->specific
 spurilous->spurious
 sripping->stripping
@@ -26713,7 +26684,6 @@ postgesql->postgresql
 procudure->procedure
 protoocol->protocol
 questins->questions
-recalcuate->recalculate
 recoreds->records
 recovey->recovery
 referntial->referential
@@ -27363,7 +27333,6 @@ recompostion->recomposition
 recompostions->recompositions
 rectanglular->rectangular
 redition->rendition
-releaes->releases
 remakrked->remarked
 renamel->rename
 renmove->remove
@@ -27912,7 +27881,6 @@ activing->activating
 adapator->adapter
 adcanved->advanced
 addiding->adding
-anaylsed->analysed
 aparrent->apparent
 barreirs->barriers
 benajmin->benjamin
@@ -28627,7 +28595,6 @@ qualifieid->qualified
 qualilfier->qualifier
 quaranteed->guaranteed
 recaculate->recalculate
-recurssive->recursive
 repporting->reporting
 resouceful->resourceful
 restrected->restricted
@@ -30986,7 +30953,6 @@ expantion->expansion
 expeirence->experience
 expeled->expelled
 expeling->expelling
-expence->expense
 experiece->experience
 experiecne->experience
 experienc->experience
@@ -32883,7 +32849,6 @@ priivlege->privilege
 primarially->primarily
 prision->prison
 privatley->privately
-priveledge->privilege
 priviege->privilege
 privielge->privilege
 privilee->privilege
