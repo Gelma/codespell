@@ -1100,7 +1100,6 @@ addressibility->addressability
 adjustes->adjusts
 alreadh->already
 alsoneeds->also_needs
-aply->apply
 arument->argument
 assignmen->assignment
 avoidpaste->avoid_paste
@@ -1205,7 +1204,6 @@ egain->eagain
 emeregency->emergency
 emory->memory
 enbled->enabled
-endianity->endianness
 epsecially->especially
 erport->report
 experimently->experimentally
@@ -1569,7 +1567,6 @@ delaing->dealing
 varify->verify
 accless->access
 adapative->adaptive
-allocting->allocating
 alowable->allowable
 ambiguousp->ambiguous
 ame->same
@@ -1737,7 +1734,6 @@ finialize->finalize
 anbother->another
 rearrannged->rearranged
 uable->unable
-indrect->indirect
 instantianted->instantiated
 guesssing->guessing
 increamental->incremental
@@ -1767,7 +1763,6 @@ maintaines->maintains
 undercore->underscore
 aliged->aligned
 horific->horrific
-muiltiple->multiple
 vaired->varied
 heriarchy->hierarchy
 perfetch->prefetch
@@ -7453,7 +7448,6 @@ demonstarting->demonstrating
 demonstartion->demonstration
 demonstartions->demonstrations
 demonstate->demonstrate
-demonstates->demonstrates
 demonstrabil->demonstrably
 demonstraby->demonstrably
 demonstraion->demonstration
@@ -9722,7 +9716,6 @@ extravagina->extravagant
 extravegant->extravagant
 extravigant->extravagant
 extravogant->extravagant
-extreemly->extremely
 extreems->extremes
 extremaste->extremes
 extremeley->extremely
@@ -11861,7 +11854,6 @@ independetly->independently
 independetn->independents
 independets->independents
 indepentend->independents
-indepentent->independent
 indepentently->independently
 indepentents->independents
 inderictly->indirectly
@@ -12624,7 +12616,6 @@ intermediete->intermediate
 intermedite->intermediate
 intermettent->intermittent
 intermideate->intermediate
-intermitent->intermittent
 intermittient->intermittent
 intermittment->intermittent
 internacional->international
@@ -15670,7 +15661,6 @@ ocarnia->ocarina
 occaisonally->occasionally
 occaisonal->occasional
 occaisons->occasions
-occasioanlly->occasionally
 occasionals->occasions
 occasionly->occasional
 occasionnal->occasional
@@ -19291,9 +19281,6 @@ resonet->resonate
 resotration->restoration
 resotred->restored
 resourse->resources
-resovled->resolved
-resovle->resolve
-resovles->resolves
 respecatble->respectable
 respectabile->respectable
 respectabil->respectable
@@ -19695,7 +19682,6 @@ salughter->slaughter
 salvery->slavery
 salying->slaying
 samckdown->smackdown
-sampels->samples
 samruai->samurai
 samuari->samurai
 samuria->samurai
@@ -20066,7 +20052,6 @@ separatelly->separately
 separaters->separates
 separatisme->separates
 separatiste->separates
-separatley->separately
 separato->separation
 separatron->separation
 sepcially->specially
@@ -20188,7 +20173,6 @@ shetler->shelter
 shetlers->shelters
 shevles->shelves
 shfiter->shifter
-shfiting->shifting
 shieldd->shielded
 shifitng->shifting
 shifteer->shifter
@@ -24537,7 +24521,6 @@ labrary->library
 lagacy->legacy
 legicy->legacy
 leter->later
-libraray->library
 libtoolt->libtool
 listenadress->listenaddress
 logarithimic->logarithmic
@@ -25121,7 +25104,6 @@ direktlink->directlink
 diring->during
 disaable->disable
 disabed->disabled
-disabing->disabling
 disablee->disabled
 disassember->disassembler
 disassoiciation->disassociation
@@ -25201,7 +25183,6 @@ filsesystem->filesystem
 frequecy->frequency
 furnction->function
 ggc->gcc
-implcitly->implicitly
 imples->implies
 indroduced->introduced
 fource->force
@@ -25429,7 +25410,6 @@ limmit->limit
 linar->linear
 lised->listed
 listeen->listen
-luckly->luckily
 mamimum->maximum
 matach->match
 matech->match
@@ -25464,7 +25444,6 @@ offfset->offset
 offsed->offset
 opaqua->opaque
 opcde->opcode
-opton->option
 oputput->output
 paccept->accept
 pageing->paging
@@ -25473,7 +25452,6 @@ patcked->packed
 pcmciai->pcmcia
 peeprom->eeprom
 pexists->exists
-pinter->pointer
 prelog->prolog
 prempt->preempt
 printe->printer
@@ -25702,7 +25680,6 @@ querired->queried
 readind->reading
 reasults->results
 receivce->receive
-reciver->receiver
 refernt->referent
 reghions->regions
 relesase->release
@@ -26696,7 +26673,6 @@ sentral->central
 serveru->server
 setlocal->setlocale
 shoulfree->shouldfree
-shudown->shutdown
 singnature->signature
 singuar->singular
 snapsot->snapshot
@@ -26716,7 +26692,6 @@ toutine->routine
 transter->transfer
 tructure->structure
 unlabelled->unlabeled
-utitlity->utility
 varants->variants
 variale->variable
 veariable->variable
@@ -27416,7 +27391,6 @@ ydata->xdata
 coints->coins
 newode->newnode
 numeic->numeric
-optons->options
 preety->pretty
 bultins->builtins
 cythonp->cython
@@ -28526,7 +28500,6 @@ analyticsd->analytics
 annnotated->annotated
 appcompatt->appcompat
 aribitrary->arbitrary
-assiciated->associated
 astraction->abstraction
 authograph->autograph
 bananmania->bananamania
@@ -34569,3 +34542,4 @@ soloution->solution
 disbable->disable
 incrase->increase
 spwcified->specified
+crete->create
