@@ -947,7 +947,6 @@ statemnet->statement
 speification->specification
 treading->threading
 tolarances->tolerances
-typdef->typedef
 truthy->true
 varienty->variety
 vsisibility->visibility
@@ -3135,7 +3134,6 @@ articualte->articulate
 articualted->articulated
 articule->articulate
 articulted->articulated
-artifacs->artifacts
 artifactos->artifacts
 artificailly->artificially
 artificialy->artificially
@@ -4757,7 +4755,6 @@ characteristc->characteristics
 characteristcs->characteristics
 characterists->characteristics
 characteristsics->characteristic
-characteritics->characteristic
 characterizarion->characterization
 characterizaton->characterization
 charactersitics->characteristics
@@ -7827,8 +7824,6 @@ dialouge->dialogue
 diarreah->diarrhea
 diarreha->diarrhea
 diarrheoa->diarrhea
-diasble->disable
-diasbling->disabling
 diasspointed->disappointed
 dichomoty->dichotomy
 dichotomoy->dichotomy
@@ -11339,7 +11334,6 @@ identificaton->identification
 identifierad->identified
 identifieras->identifies
 identifikation->identification
-identifiy->identify
 identifyed->identified
 identite->identities
 identitets->identities
@@ -11519,7 +11513,6 @@ impartirla->impartial
 impeccabile->impeccable
 impeccible->impeccable
 impeckable->impeccable
-impelmentation->implementations
 impelments->implements
 imperailist->imperialist
 imperavi->imperative
@@ -15057,7 +15050,6 @@ mulitnational->multinational
 mulitnationals->multinational
 mulitplayer->multiplayer
 mulitples->multiples
-mulitplication->multiplication
 mulitplying->multiplying
 mulittasking->multitasking
 mulitverse->multiverse
@@ -17192,10 +17184,6 @@ pornograpy->pornography
 pornogrophy->pornography
 pornogrpahy->pornography
 pornogrphy->pornography
-porportionally->proportionally
-porportional->proportional
-porportion->proportion
-porportions->proportions
 porpose->propose
 porposes->proposes
 portabel->portable
@@ -19201,8 +19189,6 @@ reputacion->reputation
 reqiuem->requiem
 requeim->requiem
 requerimento->requirement
-requeriment->requirement
-requeriments->requirements
 requierment->requirements
 requierments->requirements
 requiers->requires
@@ -19544,7 +19530,6 @@ ridiculoussness->ridiculousness
 ridiculousy->ridiculously
 ridiculued->ridicule
 ridiculue->ridicule
-ridiculus->ridiculous
 rienforced->reinforced
 rienforcement->reinforcements
 rienforcements->reinforcements
@@ -22555,8 +22540,6 @@ triggereing->triggering
 triggern->triggering
 trilogoy->trilogy
 trimuph->triumph
-trinagles->triangles
-trinagle->triangle
 trinekts->trinkets
 tringale->triangle
 trinitiy->trinity
@@ -24895,7 +24878,6 @@ collaped->collapsed
 collecction->collection
 coller->caller
 collsion->collision
-comandline->commandline
 comapare->compare
 comhy->comphy
 commets->comments
@@ -24932,7 +24914,6 @@ configurarion->configuration
 confiuration->configuration
 confiure->configure
 confiures->configures
-congiguration->configuration
 conigured->configured
 conncected->connected
 conncted->connected
@@ -25199,7 +25180,6 @@ origibnal->original
 persisitent->persistent
 portibility->portability
 precodition->precondition
-codition->condition
 prefeteched->prefetched
 propertes->properties
 prperty->property
@@ -25588,7 +25568,6 @@ failuire->failure
 fainess->fairness
 faspath->fastpath
 finaize->finalize
-finised->finished
 firmwar->firmware
 flipcmd->hflipcmd
 fnction->function
@@ -26260,7 +26239,6 @@ maschine->machine
 meldings->melding
 messageing->messaging
 misaliged->misaligned
-modifiying->modifying
 montoring->monitoring
 mulicasts->multicasts
 mung->munge
@@ -34306,7 +34284,6 @@ descptor->descriptor
 determed->determined
 diagrmas->diagrams
 diagrma->diagram
-diasbled->disabled
 dipsinfo->dispinfo
 directot->directory
 dislabed->disabled
@@ -34543,3 +34520,5 @@ disbable->disable
 incrase->increase
 spwcified->specified
 crete->create
+liblucence->libclucene
+liblucence-core->libclucene-core
