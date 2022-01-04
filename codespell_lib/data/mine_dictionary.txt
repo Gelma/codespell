@@ -965,7 +965,6 @@ fautly->faulty
 existign->existing
 annonce->announce
 architectured->architectures
-componenet->component
 critial->critical
 deve->devel
 devie->device
@@ -1074,7 +1073,6 @@ hihg->high
 lexigraphically->lexicographically
 logicla->logical
 mainatned->maintained
-overwrited->overwritten
 paramameter->parameter
 parititon->partition
 partititions->partitions
@@ -1349,7 +1347,6 @@ canfigured->configured
 casssandra->cassandra
 causew->cause
 cipehr->cipher
-clipboad->clipboard
 clu->cli
 clusermgr->clustermgr
 colliquially->colloquially
@@ -3714,8 +3711,6 @@ befirend->befriend
 befreind->befriend
 befried->befriend
 begginng->begging
-begininng->beginning
-begininngs->beginnings
 beginninng->beginnings
 beginnins->beginnings
 beglian->belgian
@@ -5479,7 +5474,6 @@ compeltes->completes
 compelting->completing
 compemdium->compendium
 compenduim->compendium
-compenents->components
 compenidum->compendium
 compensacion->compensation
 compensante->compensate
@@ -11324,7 +11318,6 @@ idealistc->idealistic
 idealistisch->idealistic
 idealsim->idealism
 idenfity->identify
-idenitfy->identify
 identifible->identifiable
 identificacion->identification
 identificaiton->identification
@@ -22526,8 +22519,6 @@ trianers->trainers
 triangels->triangles
 triangel->triangle
 triangls->triangles
-trianlges->triangles
-trianlge->triangle
 trianwreck->trainwreck
 triators->traitors
 triator->traitor
@@ -25725,7 +25716,6 @@ varioues->various
 vergsion->version
 verifer->verifier
 verlaps->overlaps
-waitting->waiting
 windohs->windows
 wireles->wireless
 wirelss->wireless
@@ -32437,7 +32427,6 @@ parae->parade
 paraed->parade
 paralellogram->parallelogram
 paralelogram->parallelogram
-paralle->parallel
 paralleilsm->parallelism
 paralleism->parallelism
 parallelgoram->parallelogram
@@ -34522,3 +34511,4 @@ spwcified->specified
 crete->create
 liblucence->libclucene
 liblucence-core->libclucene-core
+ouline->outline
