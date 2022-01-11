@@ -24933,7 +24933,6 @@ continuue->continue
 contiugous->contiguous
 contollable->controllable
 contrls->controls
-controlller->controller
 controvesial->controversial
 contunuity->continuity
 contxt->context
@@ -27916,7 +27915,6 @@ reacct->react
 runtme->runtime
 salien->salient
 scalin->scaling
-selet->select
 sennd->send
 setupp->setup
 sorrty->sorry
@@ -34512,3 +34510,6 @@ crete->create
 liblucence->libclucene
 liblucence-core->libclucene-core
 ouline->outline
+a bout->about
+objcts->objcts
+objct->objct
