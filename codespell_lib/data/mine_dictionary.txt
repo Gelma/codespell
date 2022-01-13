@@ -342,7 +342,6 @@ eviserate->eviscerate
 exhilerate->exhilarate
 exhorbitent->exorbitant
 exilerate->exhilarate
-explination->explanation
 exurpt->excerpt
 fane->feign
 farmasudical->pharmaceutical
@@ -11726,7 +11725,6 @@ incognition->incognito
 incoherrent->incoherent
 incohorent->incoherent
 incomfortably->uncomfortably
-incomparible->incompatible
 incompatent->incompetent
 incompatibil->incompatible
 incompetente->incompetence
@@ -16623,7 +16621,6 @@ perordered->preordered
 perorders->preorders
 perosnas->personas
 perpaid->prepaid
-perpandicular->perpendicular
 perparation->preparation
 perpatrated->perpetrated
 perpatrator->perpetrator
@@ -20227,7 +20224,6 @@ silicoln->silicon
 silicoon->silicon
 silimiar->similar
 silohuette->silhouette
-silouhette->silhouette
 simaltaneously->simultaneously
 simaltaneous->simultaneous
 simeltaneously->simultaneously
@@ -23897,7 +23893,6 @@ couod->could
 createlockfie->createlockfile
 currenct->current
 cywin->cygwin
-damanged->damaged
 ddeveloped->developed
 decscriptions->descriptions
 delveloping->developing
@@ -25370,7 +25365,6 @@ janked->yanked
 jprobe->kprobe
 kashkey->hashkey
 ktread->kthread
-lamda->lambda
 langth->length
 lartter->latter
 latert->later
@@ -25705,7 +25699,6 @@ trunning->running
 ucommon->uncommon
 umapped->unmapped
 unknokn->unknown
-unknwown->unknown
 unmaped->unmapped
 unsignd->unsigned
 upcates->updates
@@ -25845,7 +25838,6 @@ safepoin->safepoint
 scenerio->scenario
 scrample->scramble
 sdandard->standard
-seetings->settings
 senasync->sendasync
 sentenge->sentence
 sequeuce->sequence
@@ -27377,7 +27369,6 @@ resoving->resolving
 compexity->complexity
 dfference->difference
 dustutils->distutils
-mouvement->movement
 regnerate->regenerate
 utilitues->utilities
 argumrents->arguments
@@ -34356,7 +34347,6 @@ workarond->workaround
 horizontically->horizontally
 responsiility->responsibility
 destorted->distorted
-damanging->damaging
 citiation->citation
 drwa->draw
 viusal->visual
@@ -34513,3 +34503,4 @@ ouline->outline
 a bout->about
 objcts->objcts
 objct->objct
+begninning->beginning
