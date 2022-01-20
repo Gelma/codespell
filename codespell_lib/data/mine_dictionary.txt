@@ -6465,7 +6465,6 @@ controlelr->controllers
 controleurs->controllers
 controlleras->controllers
 controlles->controls
-controlllers->controllers
 controllore->controllers
 controverial->controversial
 controverisal->controversial
@@ -25115,7 +25114,6 @@ reinterprete->reinterpret
 runable->runnable
 directwhow->directshow
 hellper->helper
-meda->media
 staters->starters
 ageing->aging
 alernate->alternate
@@ -27209,7 +27207,6 @@ numberr->number
 offeres->offers
 oiseq->noised
 opposit->opposite
-optimiztions->optimizations
 optimzed->optimized
 optiobnal->optional
 opttimizations->optimizations
@@ -28228,7 +28225,6 @@ forciong->forcing
 forrests->forests
 freedome->freedom
 generatd->generated
-gradiant->gradient
 handlert->handler
 idendity->identity
 ignoreed->ignored
@@ -31563,7 +31559,6 @@ intellignece->intelligence
 interary->intermarry
 interfearance->interference
 intergral->integral
-intergrate->integrate
 intermural->intramural
 internment->interment
 interogate->interrogate
@@ -33572,7 +33567,6 @@ tirany->tyranny
 tirarchy->diarchy
 tirgonometric->trigonometric
 tirgonometry->trigonometry
-tolerent->tolerant
 tooked->taken
 tookover->took
 topas->topaz
@@ -34504,3 +34498,5 @@ a bout->about
 objcts->objcts
 objct->objct
 begninning->beginning
+emscriptem->emscripten
+emscrypten->emscripten
