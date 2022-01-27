@@ -4754,7 +4754,6 @@ characterizaton->characterization
 charactersitics->characteristics
 characterz->characterize
 charactoristics->characteristics
-charakters->characters
 charasteristic->characteristics
 charatable->charitable
 charcaol->charcoal
@@ -25875,7 +25874,6 @@ tranverse->traverse
 triggred->triggered
 uncludes->includes
 uncommont->uncommon
-underfow->underflow
 undwinder->unwinder
 unespcape->unescape
 unpluged->unplugged
@@ -26241,7 +26239,6 @@ oprations->operations
 optimitic->optimistic
 ourselfves->ourselves
 outine->routine
-overlowed->overflowed
 ownerrship->ownership
 packtetbuf->packetbuf
 parallele->parallel
@@ -34500,3 +34497,4 @@ objct->objct
 begninning->beginning
 emscriptem->emscripten
 emscrypten->emscripten
+stringly->strongly
