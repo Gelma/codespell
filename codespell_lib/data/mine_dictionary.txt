@@ -1679,7 +1679,6 @@ assicated->associated
 assocatiated->associated
 asynchrously->asynchronously
 brdige->bridge
-caclulate->calculate
 clientds->client
 diagnotistic->diagnostic
 dsiables->disables
@@ -1979,7 +1978,6 @@ accpetance->acceptance
 accrediated->accredited
 accreditied->accredited
 accreditted->accredited
-accuarcy->accuracy
 accuastion->accusation
 acculumate->accumulate
 acculumated->accumulated
@@ -4297,7 +4295,6 @@ calculatons->calculations
 calgarry->calgary
 calibartion->calibration
 calibler->calibre
-calibraiton->calibration
 calibratin->calibration
 calibraton->calibration
 calicum->calcium
@@ -5645,7 +5642,6 @@ compositoin->compositions
 compositon->composition
 compositons->compositions
 compositore->composite
-composte->compose
 compostiion->compositions
 compotition->composition
 compots->compost
@@ -15712,7 +15708,6 @@ opartor->operator
 operacional->operational
 operasional->operational
 operatie->operative
-operatings->operations
 operationable->operational
 operationel->operational
 operationnal->operational
@@ -20280,7 +20275,6 @@ simualted->simulated
 simualtor->simulator
 simulacion->simulation
 simulaiton->simulations
-simulatenous->simultaneous
 simulatie->simulate
 simulaties->simulate
 simulatin->simulation
@@ -21672,7 +21666,6 @@ synoynm->synonym
 synposis->synopsis
 syntehsis->synthesis
 syntehtic->synthetic
-syntethic->synthetic
 synthesasia->synthesis
 synthesesia->synthesis
 sypmathetic->sympathetic
@@ -23581,9 +23574,7 @@ watiers->waiters
 watkings->watkins
 wavelegnths->wavelength
 wavelegnth->wavelength
-wavelenghs->wavelength
 wavelenghth->wavelength
-wavelengh->wavelength
 waviers->waivers
 wawrick->warwick
 weakenend->weakened
@@ -24449,7 +24440,6 @@ determiness->determines
 dileterious->deleterious
 disassemblied->disassembled
 disestfinal->digestfinal
-distructor->destructor
 docus->docs
 duplcations->duplications
 duplictes->duplicates
@@ -24861,7 +24851,6 @@ colflicts->conflicts
 collaped->collapsed
 collecction->collection
 coller->caller
-collsion->collision
 comapare->compare
 comhy->comphy
 commets->comments
@@ -25105,7 +25094,6 @@ desendants->descendants
 desendant->descendant
 watermaks->watermarks
 watermak->watermark
-optionnally->optionally
 poast->past
 transferrable->transferable
 conventionnally->conventionally
@@ -25282,7 +25270,6 @@ filte->filter
 flaggs->flags
 foces->forces
 fould->found
-fromt->front
 frone->front
 frrom->from
 fulll->full
