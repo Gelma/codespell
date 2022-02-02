@@ -25445,7 +25445,6 @@ santity->sanity
 satic->static
 secoend->second
 sefely->safely
-sellect->select
 selsect->select
 sesson->session
 sexport->export
@@ -26966,7 +26965,6 @@ fxime->fixme
 indxe->index
 kdbg->kgdb
 maby->maybe
-mdoe->mode
 mepty->empty
 minwg->mingw
 monit->monitor
@@ -31899,7 +31897,6 @@ memranous->membranous
 memrbanous->membranous
 mercernary->mercenary
 metorology->meteorology
-meu->menu
 meun->menu
 mhaogany->mahogany
 mhogany->mahogany
