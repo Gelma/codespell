@@ -1643,7 +1643,6 @@ relaim->reclaim
 sceleton->skeleton
 scondary->secondary
 segmant->segment
-selct->select
 sevirity->severity
 simplicitly->simplicity
 solaries->solaris
@@ -2064,7 +2063,6 @@ acquifer->acquire
 acquinated->acquainted
 acquisation->acquisition
 acquisito->acquisition
-acquisiton->acquisition
 acquried->acquired
 acrlyic->acrylic
 acronmys->acronyms
@@ -19893,7 +19891,6 @@ secretas->secrets
 secretley->secretly
 secretos->secrets
 secrety->secretly
-secuirty->security
 sedentarity->sedentary
 sednetary->sedentary
 seduciton->seduction
@@ -23878,7 +23875,6 @@ eproxycommand->oproxycommand
 excludesa->excludes
 exerimental->experimental
 expanatory->explanatory
-expite->expire
 exponentioal->exponential
 exportreee->exportree
 fiddely->fiddly
@@ -24991,7 +24987,6 @@ descriptorss->descriptors
 descriptots->descriptors
 descriptr->descriptor
 descrtiption->description
-deselct->deselect
 desere->deseret
 desirec->desired
 desirializer->deserializer
@@ -34432,4 +34427,3 @@ objct->objct
 begninning->beginning
 emscriptem->emscripten
 emscrypten->emscripten
-stringly->strongly
