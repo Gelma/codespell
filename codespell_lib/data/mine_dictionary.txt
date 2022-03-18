@@ -1429,7 +1429,6 @@ polcy->policy
 postifx->postfix
 postix->postfix
 precist->precise
-prerequesite->prerequisite
 prililedges->privileges
 priviges->privileges
 privledges->privileges
@@ -13209,7 +13208,6 @@ juggetnaut->juggernaut
 jugglenaut->juggernaut
 juggurnaut->juggernaut
 jugnling->jungling
-juipter->jupiter
 junglig->jungling
 junglign->jungling
 junlging->jungling
@@ -24341,7 +24339,6 @@ paritcular->particular
 portuges->portuguese
 postgresinstalled->postgresqlinstalled
 pouplar->popular
-prequisite->prerequisite
 proxys->proxies
 singapoo->singapore
 siutations->situations
@@ -25673,7 +25670,6 @@ harddware->hardware
 hardeware->hardware
 hastable->hashtable
 hazadous->hazardous
-hearbeat->heartbeat
 heatbeat->heartbeat
 hignbank->highbank
 horribile->horrible
@@ -26952,7 +26948,6 @@ indel->intel
 lowet->lowest
 maily->mainly
 midle->middle
-misue->misuse
 motre->more
 secon->second
 steet->street
