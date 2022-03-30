@@ -27966,7 +27966,6 @@ quries->queries
 recove->recover
 reions->regions
 retern->return
-secons->seconds
 sliace->slice
 slotsx->slots
 stdour->stdout
@@ -28229,7 +28228,6 @@ typeparm->typeparam
 uhandled->unhandled
 undefind->undefined
 unwindws->unwinds
-validtes->validates
 visbible->visible
 vitually->virtually
 warnning->warning
