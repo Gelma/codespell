@@ -19206,8 +19206,6 @@ resistribution->redistribution
 resitsance->resistances
 resmeble->resemble
 resmebles->resembles
-resoltuion->resolutions
-resoltuions->resolutions
 resolucion->resolution
 resolutino->resolutions
 resolutin->resolutions
