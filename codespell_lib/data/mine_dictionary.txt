@@ -1137,7 +1137,6 @@ garantie->guarantee
 hundredsof->hundreds_of
 locla->local
 matris->matrix
-muliple->multiple
 nam->name
 obtaines->obtains
 procesors->processors
@@ -1220,7 +1219,6 @@ fsprosg->fsprogs
 generla->general
 ggroupe->groupe
 ggrupp->grupp
-goups->groups
 gression->regression
 guielines->guidelines
 hueristics->heuristics
@@ -1292,7 +1290,6 @@ salvange->salvage
 scrpit->script
 secondiory->secondary
 sectoin->section
-segault->segfault
 sessoin->session
 simulaneous->simultaneous
 sourcefroge->sourceforge
@@ -1901,7 +1898,6 @@ accelerater->accelerator
 acceleratie->accelerate
 acceleratio->accelerator
 accelerato->acceleration
-acceleraton->acceleration
 acceleread->accelerated
 accelertor->accelerator
 accelorate->accelerate
@@ -2673,7 +2669,6 @@ anestheisa->anesthesia
 anesthetia->anesthesia
 anesthisia->anesthesia
 angirly->angrily
-angluar->angular
 angostic->agnostic
 angosticism->agnosticism
 angrilly->angrily
@@ -4317,8 +4312,6 @@ calroies->calories
 calssification->classification
 calssified->classified
 calssify->classify
-caluclation->calculation
-caluclations->calculations
 caluclators->calculators
 caluiflower->cauliflower
 caluses->clauses
@@ -5560,7 +5553,6 @@ complexers->complexes
 complexety->complexity
 complexitiy->complexity
 complexs->complexes
-complext->complexity
 complexy->complexity
 compliacted->complicate
 compliactions->complication
@@ -9171,7 +9163,6 @@ escavation->escalation
 escpaes->escapes
 esctasy->ecstasy
 esctatic->ecstatic
-esitmation->estimation
 eslewhere->elsewhere
 esoterisch->esoteric
 espeically->especially
@@ -15235,7 +15226,6 @@ navigatin->navigation
 navigato->navigation
 navigatore->navigate
 nazionalists->nationalists
-necessairly->necessarily
 necessairy->necessarily
 necessaties->necessities
 necesseraly->necessarily
@@ -17730,7 +17720,6 @@ produceras->produces
 producerats->producers
 produceres->produces
 producirse->producers
-produciton->production
 producitons->productions
 productie->productive
 producting->production
@@ -19232,7 +19221,6 @@ respectfuly->respectfully
 respectible->respectable
 respectifs->respects
 respection->respecting
-respectivelly->respectively
 respectivily->respectively
 respectons->respects
 respectos->respects
@@ -21923,7 +21911,6 @@ theature->theater
 theisitc->theistic
 theistc->theistic
 themsef->themself
-themselvs->themselves
 themsevles->themselves
 themslef->themself
 themsleves->themselves
@@ -23861,7 +23848,6 @@ difficully->difficulty
 directorie->directories
 directorya->directory
 disavantage->disadvantage
-downoading->downloading
 duoiohandles->dupiohandles
 effecet->effect
 efffect->effect
@@ -23869,7 +23855,6 @@ enctypting->encrypting
 enrypted->encrypted
 eproxycommand->oproxycommand
 excludesa->excludes
-exerimental->experimental
 expanatory->explanatory
 exponentioal->exponential
 exportreee->exportree
@@ -24239,7 +24224,6 @@ prefox->prefix
 prefxed->prefixed
 preprended->prepended
 prety->pretty
-previousy->previously
 prgress->progress
 primry->primary
 procedual->procedural
@@ -24284,7 +24268,6 @@ accouncement->announcement
 althete->athlete
 ambiguitity->ambiguity
 aorund->around
-appliaction->application
 applicatino->application
 cachaeble->cacheable
 caniconical->canonical
@@ -25003,11 +24986,9 @@ diambiguated->disambiguated
 diasabled->disabled
 diconnect->disconnect
 dicontiguous->discontiguous
-diectly->directly
 diferences->differences
 differring->differing
 diictionary->dictionary
-diplacement->displacement
 directlly->directly
 directonality->directionality
 direktlink->directlink
@@ -25806,7 +25787,6 @@ trainning->training
 trancate->truncate
 transfoer->transfer
 transites->transits
-tranverse->traverse
 triggred->triggered
 uncludes->includes
 uncommont->uncommon
@@ -26051,7 +26031,6 @@ ansd->and
 ansii->ansi
 arvhivo->archivo
 attenmpt->attempt
-attrbutes->attributes
 awfull->awful
 becaome->become
 bindning->binding
@@ -26143,7 +26122,6 @@ korrectly->correctly
 latancy->latency
 lement->element
 lighrange->lightrange
-lineary->linearly
 lnvalid->invalid
 maey->may
 mappning->mapping
@@ -26177,7 +26155,6 @@ outine->routine
 ownerrship->ownership
 packtetbuf->packetbuf
 parallele->parallel
-particlar->particular
 pefetches->prefetches
 perations->operations
 percentge->percentage
@@ -26185,7 +26162,6 @@ periphera->peripheral
 permanenet->permanent
 permenent->permanent
 perpheral->peripheral
-persitent->persistent
 pogram->program
 pointet->pointed
 polive->police
@@ -26935,7 +26911,6 @@ waut->wait
 wrte->write
 builf->build
 creen->screen
-diect->direct
 dollr->dollar
 empry->empty
 eturn->return
@@ -27314,7 +27289,6 @@ tehse->these
 generatable->generate
 approvisionned->provisioned
 recommandeded->recommended
-introductionary->introductory
 necceary->necessary
 conververgence->convergence
 abritary->arbitrary
@@ -30464,8 +30438,6 @@ diiomatically->idiomatically
 diiosyncratic->idiosyncratic
 diktate->dictate
 dilineated->delineated
-dilligence->diligence
-dilligent->diligent
 diminuation->diminution
 diminuative->diminutive
 diminuition->diminution
@@ -30511,7 +30483,6 @@ doosy->doozy
 dowlnoad->download
 downloa->download
 downloda->download
-downoad->download
 downolad->download
 drinked->drank
 drumed->drummed
@@ -33196,7 +33167,6 @@ servent->servant
 sevral->several
 sharlaton->charlatan
 shcedule->schedule
-sheeps->sheep
 shelfs->shelves
 shooted->shot
 shrewed->shrewd
