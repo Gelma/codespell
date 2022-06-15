@@ -395,7 +395,6 @@ hankerchif->handkerchief
 idenifier->identifier
 idenitified->identified
 identfication->identification
-identfier->identifier
 identic->identical
 identiifers->identifiers
 identtity->identity
@@ -1228,7 +1227,6 @@ indirecto->indirect
 indoe->inode
 inhance->enhance
 inhert->inherit
-initializaton->initialization
 inlut->input
 inods->inodes
 insatll->install
@@ -1301,7 +1299,6 @@ superblc->superblock
 superbocks->superblocks
 swampped->swapped
 sweedish->swedish
-syntaces->syntaxes
 terrabyte->terabyte
 theosore->theodore
 tidyed->tidied
@@ -1700,7 +1697,6 @@ moutpoint->mountpoint
 connectiontimeout->connecttimeout
 prest->preset
 encoode->encode
-contrains->contains
 scrubbe->scrubber
 santiy->sanity
 courrpted->corrupted
@@ -1734,7 +1730,6 @@ pooname->poolname
 contigeous->contiguous
 adventageous->advantageous
 memry->memory
-emply->empty
 referened->referenced
 immdiate->immediate
 maintaines->maintains
@@ -17549,7 +17544,6 @@ prevert->pervert
 previaling->prevailing
 previal->prevail
 previes->previews
-previoulsy->previously
 previwes->previews
 prevolence->prevalence
 prezidential->presidential
@@ -19300,7 +19294,6 @@ restrittive->restrictive
 restructed->restricted
 restructing->restricting
 restruction->restriction
-resuable->reusable
 resuced->rescued
 resuces->rescues
 resurreccion->resurrection
@@ -20113,7 +20106,6 @@ signfiy->signify
 signifiant->significant
 significane->significance
 significanlty->significantly
-significanly->significantly
 significante->significance
 significanty->significantly
 significatly->significantly
@@ -22678,7 +22670,6 @@ unconvenient->inconvenient
 unconvensional->unconventional
 unconventianal->unconventional
 unconventinal->unconventional
-unconventionnal->unconventional
 uncounciously->unconsciously
 uncouncious->unconscious
 uncousciously->unconsciously
@@ -24045,7 +24036,6 @@ confing->config
 containin->containing
 contentypes->contenttypes
 contettypes->contenttypes
-contrainer->container
 contrim->contrib
 conttenttypes->contenttypes
 coonfig->config
@@ -24316,7 +24306,6 @@ combiniation->combination
 comiler->compiler
 condidate->candidate
 containst->contains
-contrain->constrain
 crimean->crimea
 crytographic->cryptographic
 cussors->cursors
@@ -24352,8 +24341,6 @@ funcction->function
 ghasttable->ghashtable
 hanler->handler
 happans->happens
-identfied->identified
-identfiers->identifiers
 incremntal->incremental
 inerfaces->interfaces
 infamout->infamous
@@ -24905,7 +24892,6 @@ descrtiption->description
 desere->deseret
 desirec->desired
 desirializer->deserializer
-desitable->desiderable
 deslecting->deselecting
 desript->descript
 desscriptors->descriptors
@@ -26124,7 +26110,6 @@ satistied->satisfied
 screipt->script
 scrol->scroll
 seprador->separador
-sesion->session
 sevas->saves
 shoiuld->should
 simila->similar
@@ -26595,7 +26580,6 @@ componenetes->componentes
 configuraions->configurations
 confirmationsi->confirmations
 conflictling->conflicting
-constrainted->constrained
 consutruction->construction
 converstation->conversation
 decyptmessage->decryptmessage
