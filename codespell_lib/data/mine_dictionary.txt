@@ -506,7 +506,6 @@ meerly->merely
 melineum->millennium
 memmick->mimic
 memorys->memories
-memove->memmove
 memwars->memoirs
 mension->mention
 meraj->mirage
@@ -1633,7 +1632,6 @@ sceleton->skeleton
 scondary->secondary
 segmant->segment
 sevirity->severity
-simplicitly->simplicity
 solaries->solaris
 stabalized->stabilized
 synthetized->synthesized
@@ -2289,7 +2287,6 @@ afhganistan->afghanistan
 afircan->african
 afircans->africans
 aforementioend->aforementioned
-aforementiond->aforementioned
 africain->african
 africanas->africans
 africaners->africans
@@ -2467,8 +2464,6 @@ alternador->alternator
 alternar->alternator
 alternater->alternator
 alternatevly->alternately
-alternatie->alternatives
-alternatiely->alternately
 alternatieve->alternative
 alternativelly->alternatively
 alternativets->alternatives
@@ -4251,7 +4246,6 @@ cailbration->calibration
 cailbre->calibre
 cainster->canister
 calagry->calgary
-calbiration->calibration
 calbire->calibre
 calcluations->calculation
 calcluator->calculators
@@ -5536,7 +5530,6 @@ completi->complexity
 completily->complexity
 completin->completion
 completito->completion
-completley->completely
 complets->completes
 complexers->complexes
 complexety->complexity
@@ -5548,8 +5541,6 @@ compliactions->complication
 complianed->compliance
 complians->complains
 compliants->complaints
-compliation->compilation
-compliations->compilation
 complicacion->complication
 complicaed->complicate
 complicaitons->complication
@@ -9492,7 +9483,6 @@ expiremented->experimented
 expirement->experiment
 expirementing->experimenting
 expirements->experiments
-explaind->explained
 explaines->explains
 explaing->explaining
 explainging->explaining
@@ -17684,7 +17674,6 @@ produceres->produces
 producirse->producers
 producitons->productions
 productie->productive
-producting->production
 productino->productions
 productin->productions
 productioin->productions
@@ -21987,7 +21976,6 @@ thubmnails->thumbnails
 thudnerbolt->thunderbolt
 thumbmails->thumbnails
 thumbnailers->thumbnails
-thumbnal->thumbnails
 thunberbolt->thunderbolt
 thunderblot->thunderbolt
 thunderboat->thunderbolt
@@ -24144,7 +24132,6 @@ neitherlands->netherlands
 nodedefintion->nodedefinition
 nullalble->nullable
 occasionnally->occasionally
-opertor->operator
 optomized->optimized
 orginfile->originfile
 paraguai->paraguay
@@ -24755,7 +24742,6 @@ configurarion->configuration
 confiuration->configuration
 confiure->configure
 confiures->configures
-conigured->configured
 conncected->connected
 conncted->connected
 conndection->connection
@@ -28086,7 +28072,6 @@ retrieva->retrieve
 revisted->revisited
 ridirect->redirect
 scandata->scandate
-sementic->semantic
 sercvice->service
 servives->services
 shothand->shorthand
@@ -28225,7 +28210,6 @@ roperties->properties
 sandwitch->sandwich
 screnshot->screenshot
 securituy->security
-sementics->semantics
 sceptical->skeptical
 ssettings->settings
 stablized->stabilized
@@ -28642,7 +28626,6 @@ achiev->achieve
 achiure->achier
 achivee->achieve
 acicdentally->accidentally
-acidentally->accidentally
 acidentaly->accidentally
 acidentlly->accidentally
 acidently->accidentally
@@ -34252,7 +34235,6 @@ moudles->modules
 compbo->combo
 reaking->reaching
 iterata->iterate
-encript->encrypt
 mirrowed->mirrored
 unitzialized->uninitialized
 succefull->successful
