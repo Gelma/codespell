@@ -19024,7 +19024,6 @@ representn->representing
 representstion->representations
 representstive->representatives
 represetnation->representations
-represet->represents
 represnetation->representations
 repressin->repression
 repressivo->repression
@@ -25517,7 +25516,6 @@ ucommon->uncommon
 umapped->unmapped
 unknokn->unknown
 unmaped->unmapped
-unsignd->unsigned
 upcates->updates
 updaing->updating
 updateѕ->updates
@@ -26508,7 +26506,6 @@ relaational->relational
 reoresented->represented
 reorgnizing->reorganizing
 repeatition->repetition
-represeting->representing
 requestiong->requesting
 resolultion->resolution
 restricions->restrictions
@@ -34045,7 +34042,6 @@ excpeted->expected
 execpted->expected
 expceted->expected
 binarary->binary
-represeted->represented
 represete->represente
 modeules->modules
 byes->bytes
