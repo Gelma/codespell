@@ -635,7 +635,6 @@ pharmasudical->pharmaceutical
 pharoh->pharaoh
 phlem->phlegm
 physision->physician
-pice->piece
 picknick->picnic
 pickyune->picayune
 picnicing->picnicking
@@ -936,7 +935,6 @@ securitry->security
 selectged->selected
 shappened->happened
 shufle->shuffle
-somehing->something
 statemnet->statement
 speification->specification
 treading->threading
@@ -1132,7 +1130,6 @@ garantie->guarantee
 hundredsof->hundreds_of
 locla->local
 matris->matrix
-nam->name
 obtaines->obtains
 procesors->processors
 programmes->programmers
@@ -2614,7 +2611,6 @@ anceint->ancient
 anceints->ancients
 ancinets->ancients
 andoirds->androids
-andorid->android
 andorids->androids
 andriod->android
 andriods->androids
@@ -3182,7 +3178,6 @@ assimliated->assimilate
 assimulate->assimilate
 assingments->assignments
 assissinated->assassinated
-assisst->assists
 assistanat->assistants
 assistans->assistants
 assistanse->assistants
@@ -3512,7 +3507,6 @@ backpacing->backpacking
 backpackng->backpacking
 backpacs->backpacks
 backpakcs->backpacks
-backrgound->backgrounds
 backsta->backseat
 backtacking->backpacking
 baclony->balcony
@@ -3988,9 +3982,7 @@ brakethrough->breakthrough
 brakley->barkley
 branier->brainer
 braodband->broadband
-braodcast->broadcast
 braodcasting->broadcasting
-braodcasts->broadcasts
 braoden->broaden
 braoder->broader
 braodly->broadly
@@ -5844,7 +5836,6 @@ confederecy->confederacy
 conferance->conference
 conferances->conferences
 conferedate->confederate
-conferene->conferences
 conferenze->conference
 confererate->confederate
 confermation->confirmation
@@ -6510,9 +6501,7 @@ cooperacion->cooperation
 cooperativo->cooperation
 cooperatve->cooperative
 cooporation->cooperation
-coordenate->coordinate
 coordenated->coordinated
-coordenates->coordinates
 coordenation->coordination
 coordianted->coordinated
 coordiantor->coordinator
@@ -7631,7 +7620,6 @@ destroyeer->destroyers
 destroyr->destroyers
 destruccion->destruction
 destrucion->destruction
-destruciton->destruction
 destrucive->destructive
 destructivo->destruction
 destructo->destruction
@@ -7839,7 +7827,6 @@ dipolmatic->diplomatic
 dirbble->dribble
 direccional->directional
 direcitonal->directional
-directin->directions
 directinla->directional
 directionl->directional
 directionnal->directional
@@ -9048,7 +9035,6 @@ entretained->entertained
 entretaining->entertaining
 entretainment->entertainment
 entropay->entropy
-entrophy->entropy
 enveloppen->envelope
 envinroments->environments
 environemntally->environmentally
@@ -12816,7 +12802,6 @@ inutitive->intuitive
 inutitively->intuitively
 invaderas->invaders
 invaderats->invaders
-invaildate->invalidates
 invairably->invariably
 invaldiate->invalidates
 invaldiates->invalidates
@@ -13819,8 +13804,6 @@ mangetic->magnetic
 mangets->magnets
 mangitude->magnitude
 manglade->mangled
-manifactured->manufactured
-manifactures->manufactures
 manifacturing->manufacturing
 manifastation->manifestation
 manifeso->manifesto
@@ -14966,7 +14949,6 @@ multiplicacion->multiplication
 multiplicaiton->multiplication
 multiplicativo->multiplication
 multiplicaton->multiplication
-multipling->multiplying
 multiplr->multiplier
 multipls->multiples
 multiplyed->multiplied
@@ -15242,7 +15224,6 @@ negotiatiors->negotiations
 negotiative->negotiate
 negotiaton->negotiation
 negotiatons->negotiations
-neigbhorhood->neighborhoods
 neigbhourhood->neighbourhood
 neigbhour->neighbour
 neigbhours->neighbours
@@ -15430,7 +15411,6 @@ nuetron->neutron
 nulcear->nuclear
 nullfiy->nullify
 nullifiy->nullify
-numercial->numerical
 numericable->numerical
 numerious->numerous
 nurtient->nutrient
@@ -15471,8 +15451,6 @@ obilgatory->obligatory
 obilterated->obliterated
 obilvion->oblivion
 obisdian->obsidian
-obivously->obviously
-obivous->obvious
 objecitves->objectives
 objectificaiton->objectification
 objectificaton->objectification
@@ -15539,7 +15517,6 @@ obversation->observation
 obversations->observations
 obvilion->oblivion
 obviosuly->obviously
-obvioulsy->obviously
 obvisouly->obviously
 obvoiusly->obviously
 obvoius->obvious
@@ -19113,7 +19090,6 @@ resitsance->resistances
 resmeble->resemble
 resmebles->resembles
 resolucion->resolution
-resolutino->resolutions
 resolutin->resolutions
 resolutionary->revolutionary
 resolutoin->resolutions
@@ -19884,7 +19860,6 @@ sentris->sentries
 senzationalism->sensationalism
 senzationalist->sensationalist
 separacion->separation
-separatelly->separately
 separaters->separates
 separatisme->separates
 separatiste->separates
@@ -22278,10 +22253,7 @@ tranzitions->transitions
 tranzporter->transporter
 trasncripts->transcripts
 trasncript->transcript
-trasnferred->transferred
 trasnferring->transferring
-trasnfers->transfers
-trasnfer->transfer
 trasnforming->transforming
 trasngendered->transgendered
 trasngender->transgender
@@ -23173,7 +23145,6 @@ verifikation->verification
 verifiyng->verifying
 verifyable->verifiable
 verisions->revisions
-veritcally->vertically
 veritgo->vertigo
 veritiable->verifiable
 vernaculaire->vernacular
@@ -23885,7 +23856,6 @@ amiguity->ambiguity
 andora->andorra
 annonations->annotations
 announe->announce
-aplying->applying
 apper->appear
 applicacion->application
 aprove->approve
@@ -23951,7 +23921,6 @@ webseite->website
 webside->website
 welšsky->velšsky
 oest->west
-whih->which
 ww->www
 yidish->yiddish
 zuric->zurich
@@ -24376,7 +24345,6 @@ varioius->various
 verbosit->verbosity
 versioon->version
 virtualt->virtual
-wuth->with
 zcommit->commit
 accessive->excessive
 explicityl->explicitly
@@ -24491,7 +24459,6 @@ ansent->absent
 antaliased->antialiased
 anythin->anything
 apdapter->adapter
-aplies->applies
 appeas->appears
 appendicies->appendices
 appluication->application
@@ -24566,7 +24533,6 @@ belowe->below
 benfit->benefit
 benter->enter
 bext->best
-beyone->beyond
 beyoned->beyond
 biger->bigger
 bigest->biggest
@@ -25370,7 +25336,6 @@ nuttons->buttons
 objjects->objects
 occpied->occupied
 oflload->offload
-optimial->optimal
 optonal->optional
 osolete->obsolete
 oulined->outlined
@@ -25550,7 +25515,6 @@ prestine->pristine
 princpal->principal
 procdure->procedure
 prootype->prototype
-propoerty->property
 proptects->protects
 quckpath->quickpath
 quiscent->quiescent
@@ -25617,7 +25581,6 @@ therwise->otherwise
 threfore->therefore
 threshod->threshold
 timesamp->timestamp
-toggleing->toggling
 toggline->toggling
 tollerant->tolerant
 trailings->trailing
@@ -26685,7 +26648,6 @@ reserch->research
 changesd->changed
 nondeterminstic->nondeterministic
 oveeride->override
-thouch->touch
 dockefiles->dockerfiles
 dockefile->dockerfile
 polulated->populated
@@ -27190,7 +27152,6 @@ dirung->during
 dpeloy->deploy
 dveice->device
 eerpom->eeprom
-elemts->elements
 evetns->events
 evnets->events
 exepct->expect
@@ -28189,7 +28150,6 @@ declrative->declarative
 definitins->definitions
 dependenct->dependency
 deprecared->deprecated
-destuctors->destructors
 detectiuon->detection
 deveopment->development
 disrectory->directory
@@ -32446,7 +32406,6 @@ predominately->predominantly
 preecde->precede
 preede->precede
 preent->present
-preffer->prefer
 pregancy->pregnancy
 pregnacy->pregnancy
 preided->presided
