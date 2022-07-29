@@ -331,7 +331,6 @@ enormass->enormous
 enthuseastic->enthusiastic
 entrapeneur->entrepreneur
 enuf->enough
-envoke->invoke
 epitamy->epitome
 esthetic->aesthetic
 estuwarry->estuary
@@ -545,7 +544,6 @@ oregeno->oregano
 oricle->oracle
 orientatoin->orientation
 orkid->orchid
-oscilliscope->oscilloscope
 osterage->ostrich
 ostridge->ostrich
 out-of-bound->out-of-band
@@ -1112,7 +1110,6 @@ concurrancy->concurrency
 conherency->coherency
 consisstent->consistent
 containined->contained
-convetions->conventions
 correctl->correctly
 corrpt->corrupt
 countaining->containing
@@ -1339,7 +1336,6 @@ mondodb->mongodb
 monotany->monotony
 mstmp->msmtp
 mysqlttuner->mysqltuner
-naviagte->navigate
 nessicary->necessary
 networding->networking
 newely->newly
@@ -1557,7 +1553,6 @@ oice->voice
 partinal->partial
 pchost->pcihost
 peripherans->peripherals
-phsical->physical
 prefech->prefetch
 pridge->bridge
 primariy->primarily
@@ -1712,7 +1707,6 @@ separe->separate
 cinnom->cinnamon
 selectiion->selection
 wortart->wordart
-onw->own
 abandenment->abandonment
 abandining->abandoning
 abandomnent->abandonment
@@ -1770,7 +1764,6 @@ absitnence->abstinence
 absloutes->absolutes
 absolument->absolute
 absolutelys->absolutes
-absolutey->absolutely
 absolutisme->absolutes
 absolutiste->absolutes
 absoluts->absolutes
@@ -6945,8 +6938,6 @@ darkenss->darkness
 darkets->darkest
 darnkess->darkness
 dashboad->dashboard
-daugther->daughter
-daugthers->daughters
 daulity->duality
 davantage->advantage
 dawrves->dwarves
@@ -7117,7 +7108,6 @@ definety->definitely
 definetyl->definitely
 definicion->definition
 definie->definite
-definietly->definitely
 definig->defining
 definilty->definitely
 defininitely->definitively
@@ -7323,7 +7313,6 @@ demonstrationens->demonstrations
 demonstrativno->demonstrations
 demonstrativo->demonstration
 demonstrativos->demonstrations
-demonstrats->demonstrates
 demonstre->demonstrate
 demonstrerat->demonstrate
 demosntrably->demonstrably
@@ -7476,7 +7465,6 @@ descirbe->describe
 descirbes->describes
 descprition->descriptions
 describiste->describes
-descriminant->discriminant
 descripcion->description
 descripiton->descriptions
 descriptivos->descriptions
@@ -8758,7 +8746,6 @@ emphetamines->amphetamines
 emphisized->emphasized
 emphisizes->emphasizes
 empiers->empires
-empiracally->empirically
 empirialism->imperialism
 empirialist->imperialist
 empited->emptied
@@ -8947,7 +8934,6 @@ enthusigasm->enthusiasm
 enthusisast->enthusiasts
 enthusists->enthusiasts
 enthusuastic->enthusiastic
-entierly->entirely
 entierty->entirety
 entilted->entitled
 entirelly->entirely
@@ -9052,7 +9038,6 @@ esctasy->ecstasy
 esctatic->ecstatic
 eslewhere->elsewhere
 esoterisch->esoteric
-espeically->especially
 esperate->separate
 espianoge->espionage
 espinoage->espionage
@@ -12402,8 +12387,6 @@ interersted->interpreted
 interersting->interpreting
 interesant->interest
 interesat->interest
-interesction->intersection
-interesctions->intersections
 interese->interested
 interesring->interfering
 interestes->interests
@@ -12427,7 +12410,6 @@ interferre->interfere
 interferres->interferes
 interfers->interferes
 intergal->integral
-intergated->integrated
 intergate->integrate
 intergation->integration
 intergity->integrity
@@ -12858,7 +12840,6 @@ involuntarely->involuntary
 involuntarity->involuntary
 involuntarly->involuntary
 invonvenient->inconvenient
-invovling->involving
 invulenrable->invulnerable
 invulernable->invulnerable
 invulnarable->invulnerable
@@ -15090,7 +15071,6 @@ nautiuls->nautilus
 nautlius->nautilus
 nautres->natures
 nautulis->nautilus
-naviagting->navigating
 navigatie->navigate
 navigatin->navigation
 navigato->navigation
@@ -15535,7 +15515,6 @@ onslaugt->onslaught
 onsluaght->onslaught
 ontairo->ontario
 ontraio->ontario
-onwership->ownership
 opartor->operator
 operacional->operational
 operasional->operational
@@ -17132,7 +17111,6 @@ preconcieve->preconceived
 preconveived->preconceived
 precrastination->procrastination
 precuations->precautions
-preculde->preclude
 precurors->precursor
 precurosr->precursor
 precussion->percussion
@@ -19383,7 +19361,6 @@ routeros->routers
 royalites->royalties
 roylaties->royalties
 rudimentery->rudimentary
-rudimentory->rudimentary
 rugters->rutgers
 ruidmentary->rudimentary
 rulebok->rulebook
@@ -21850,7 +21827,6 @@ throtlling->throttling
 throttleing->throttling
 throughiut->throughput
 throughoput->throughput
-throughtout->throughout
 throughtput->throughput
 thrusdays->thursdays
 thrusday->thursday
@@ -24337,7 +24313,6 @@ achknowledge->acknowledge
 ackknowledge->acknowledge
 acknolwledges->acknowledges
 acknowedge->acknowledge
-acknowlegment->acknowledgment
 acounting->accounting
 acquireing->acquiring
 acrosst->across
@@ -24825,7 +24800,6 @@ datasetss->datasets
 datesets->datasets
 dateset->dataset
 denfine->define
-destoy->destroy
 deterimed->determined
 devicd->device
 direectory->directory
@@ -25073,7 +25047,6 @@ modfule->module
 mothod->method
 moule->module
 nable->unable
-nameing->naming
 niumber->number
 noboody->nobody
 nomber->number
@@ -25181,7 +25154,6 @@ theads->threads
 theread->thread
 therof->thereof
 thouugh->though
-thrugh->through
 tickect->ticket
 timeut->timeout
 tirane->tirana
@@ -25322,7 +25294,6 @@ requeest->request
 requewst->request
 reseves->reserves
 resitor->resistor
-retures->returns
 rleased->released
 routinge->routine
 rumtime->runtime
@@ -25525,7 +25496,6 @@ telemtry->telemetry
 therwise->otherwise
 threfore->therefore
 threshod->threshold
-timesamp->timestamp
 toggline->toggling
 tollerant->tolerant
 trailings->trailing
@@ -26207,7 +26177,6 @@ whick->which
 whise->whose
 zerod->zeroed
 handly->handle
-localy->locally
 ncould->could
 noboby->nobody
 onjekt->object
