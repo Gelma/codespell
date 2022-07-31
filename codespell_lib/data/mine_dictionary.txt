@@ -984,7 +984,6 @@ separeate->separate
 skippped->skipped
 smililarly->similarly
 sopies->copies
-specifcally->specifically
 strpie->stripe
 subvolum->subvolume
 subvoolume->subvolume
@@ -1526,7 +1525,6 @@ hotpug->hotplug
 imeplement->implement
 immedaiate->immediate
 immeriately->immediately
-inconsistancies->inconsistencies
 incorporte->incorporate
 incrememnt->increment
 ineffcient->inefficient
@@ -1660,7 +1658,6 @@ pooname->poolname
 contigeous->contiguous
 adventageous->advantageous
 memry->memory
-referened->referenced
 immdiate->immediate
 maintaines->maintains
 undercore->underscore
@@ -3609,8 +3606,6 @@ beginnins->beginnings
 beglian->belgian
 beglium->belgium
 begnals->bengals
-behaivor->behavior
-behaivors->behaviors
 behaivour->behaviour
 behaivours->behaviours
 behaviorial->behavioral
@@ -5865,7 +5860,6 @@ connatation->connotation
 connatations->connotations
 connecitcut->connecticut
 connecs->connects
-connectes->connects
 connecticon->connection
 connecticuit->connecticut
 connecticunts->connecticut
@@ -11582,7 +11576,6 @@ inconsequentional->inconsequential
 inconsequentual->inconsequential
 inconsiderant->inconsiderate
 inconsiquential->inconsequential
-inconsistance->inconsistency
 inconsistecy->inconsistency
 inconsistencias->inconsistencies
 inconsistensies->inconsistencies
@@ -18284,7 +18277,6 @@ raptros->raptors
 raputre->rapture
 rasbperry->raspberry
 raspberrry->raspberry
-raspbery->raspberry
 rathcet->ratchet
 rationalizaiton->rationalization
 rationalizating->rationalization
@@ -19214,7 +19206,6 @@ revelas->reveals
 revelatons->revelations
 revelead->revealed
 revelutionary->revolutionary
-revelution->revelation
 reverals->reversal
 reversably->reversal
 reviere->reviewer
@@ -24098,7 +24089,6 @@ urugwai->uruguay
 whenenever->whenever
 permiison->permission
 numerci->numeric
-destop->desktop
 togged->toggled
 unconditonally->unconditionally
 ragnge->range
@@ -24294,7 +24284,6 @@ absract->abstract
 accasion->occasion
 accellerators->accelerators
 acceptabe->acceptable
-accessability->accessibility
 accessbible->accessible
 accessclassinpackge->accessclassinpackage
 accessess->accesses
@@ -24585,7 +24574,6 @@ conndection->connection
 conneced->connected
 connectctate->connectstate
 connectr->connector
-conneted->connected
 consequenetly->consequently
 consisitent->consistent
 consistecy->consistency
@@ -25229,7 +25217,6 @@ looback->loopback
 lossess->lossless
 mabilbox->mailbox
 manualsx->manuals
-maximnum->maximum
 mdeling->modeling
 meessage->message
 messagem->message
@@ -25375,7 +25362,6 @@ hignbank->highbank
 horribile->horrible
 inclyded->included
 inicated->indicated
-inidicate->indicate
 initamfs->initramfs
 initites->initiates
 interaval->interval
@@ -28992,7 +28978,6 @@ anlytics->analytics
 anlyze->analyze
 anmalous->anomalous
 anmoalous->anomalous
-annd->and
 annhiilate->annihilate
 annhilate->annihilate
 anniersary->anniversary
@@ -34086,7 +34071,6 @@ grupping->grouping
 hanigng->hanging
 haning->hanging
 hodler->holder
-immediately->cbimmediately
 indroduce->introduce
 instantiatable->instantiable
 ispause->ispaused
