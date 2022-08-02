@@ -269,7 +269,6 @@ curage->courage
 curiocity->curiosity
 curios->curious
 curnel->colonel
-curtesy->courtesy
 curteus->courteous
 curvasious->curvaceous
 cushin->cushion
@@ -1192,7 +1191,6 @@ ocotober->october
 optiosn->options
 overrids->overrides
 ownernship->ownership
-packags->packages
 paraemter->parameter
 paralelize->parallelize
 pathnams->pathnames
@@ -1561,7 +1559,6 @@ recomment->recommend
 relaim->reclaim
 sceleton->skeleton
 segmant->segment
-sevirity->severity
 solaries->solaris
 stabalized->stabilized
 synthetized->synthesized
@@ -4468,7 +4465,6 @@ catastrope->catastrophe
 catastrophie->catastrophe
 catastrophies->catastrophe
 catastrophize->catastrophe
-catastropic->catastrophic
 catastrphe->catastrophe
 cataylst->catalyst
 categoricaly->categorically
@@ -5338,7 +5334,6 @@ compasssion->compassion
 compatative->comparative
 compatibil->compatible
 compatibillity->compatibility
-compatibiltiy->compatibility
 compeating->completing
 compede->competed
 compeditive->competitive
@@ -10086,7 +10081,6 @@ fringeworthy->cringeworthy
 fristly->firstly
 frogiven->forgiven
 frointer->frontier
-fromation->formation
 fromatting->formatting
 fromerly->formerly
 fromidable->formidable
@@ -13097,7 +13091,6 @@ kentuckey->kentucky
 kentucy->kentucky
 kenyesian->keynesian
 ketmaine->ketamine
-keyboars->keyboards
 keychan->keychain
 keychian->keychain
 keyensian->keynesian
@@ -14630,7 +14623,6 @@ modificatons->modifications
 modifieras->modifiers
 modifieres->modifiers
 modifikation->modification
-modifires->modifiers
 modivational->motivational
 modualr->modular
 modulair->modular
@@ -20549,8 +20541,6 @@ spotifiy->spotify
 spotifty->spotify
 sprakling->sparkling
 sprayade->sprayed
-spreadsheat->spreadsheet
-spreadsheats->spreadsheets
 spreadsheeds->spreadsheets
 spreadsheeet->spreadsheets
 spreadsheeters->spreadsheets
@@ -21025,7 +21015,6 @@ substantitve->substantive
 substantually->substantially
 substarte->substrate
 substences->substances
-substential->substantial
 substite->substitute
 substitite->substitute
 substitition->substitution
@@ -21712,7 +21701,6 @@ theologicial->theological
 theoratically->theoretically
 theoratical->theoretical
 theoreticly->theoretical
-theoritically->theoretically
 theorits->theorist
 therapautic->therapeutic
 therapetic->therapeutic
@@ -23946,7 +23934,6 @@ interfaace->interface
 involement->involvement
 isse->issue
 itelf->itself
-iteraction->interaction
 kolombia->colombia
 kuba->cuba
 languagues->languages
@@ -24172,7 +24159,6 @@ intrfaces->interfaces
 isomery->isometry
 knowning->knowing
 labrary->library
-lagacy->legacy
 legicy->legacy
 leter->later
 libtoolt->libtool
@@ -24307,7 +24293,6 @@ acquireing->acquiring
 acrosst->across
 actice->active
 actuallly->actually
-actural->actual
 acturator->actuator
 actuve->active
 adaper->adapter
@@ -24374,7 +24359,6 @@ appendicies->appendices
 appluication->application
 appropariate->appropriate
 appropriatelly->appropriately
-appropritate->appropriate
 aproximated->approximated
 arabinc->arabic
 arbritration->arbitration
@@ -24836,7 +24820,6 @@ reprioitization->reprioritization
 prioitization->rioritization
 respsect->respect
 rewied->reviewed
-sanpshot->snapshot
 scurb->scrub
 sever->serve
 severs->serves
@@ -24882,7 +24865,6 @@ dyamic->dynamic
 earilier->earlier
 earliers->earlier
 ebable->enable
-elease->release
 elemennts->elements
 eletrically->electrically
 embeeded->embedded
@@ -25089,7 +25071,6 @@ retyurn->return
 reult->result
 reume->resume
 revice->device
-revist->revisit
 rlease->release
 rotata->rodata
 rusell->russell
@@ -25355,7 +25336,6 @@ graphocs->graphics
 handelers->handlers
 harddware->hardware
 hardeware->hardware
-hastable->hashtable
 hazadous->hazardous
 heatbeat->heartbeat
 hignbank->highbank
@@ -25546,7 +25526,6 @@ enormal->normal
 gglobal->global
 klling->killing
 latecy->latency
-optins->options
 returun->return
 scisor->scissor
 seving->serving
@@ -25849,7 +25828,6 @@ omptimized->optimized
 onboaring->onboarding
 onject->object
 operatiors->operators
-oprations->operations
 optimitic->optimistic
 ourselfves->ourselves
 outine->routine
@@ -26126,7 +26104,6 @@ pesimistic->pessimistic
 polymorhic->polymorphic
 pplication->application
 prepration->preparation
-probablity->probability
 progession->progression
 promisuous->promiscuous
 ranslation->translation
@@ -26456,7 +26433,6 @@ predicatable->predictable
 preriodically->periodically
 probabiltity->probability
 probablility->probability
-probablities->probabilities
 progeressive->progressive
 provissioned->provisioned
 queryinerface->queryinterface
@@ -26508,7 +26484,6 @@ transferrables->transferables
 transimitter->transmitter
 transistioned->transitioned
 travesability->traversability
-unaccessable->unaccessible
 unambiguious->unambiguous
 uncoditionally->unconditionally
 unconditonal->unconditional
@@ -27357,7 +27332,6 @@ licencelink->licenselink
 licencename->licensename
 remotesurls->remoteurls
 risponsible->responsible
-assocciation->association
 filtersclass->filterclass
 defaultgroups->defaultgroup
 displayerrror->displayerror
@@ -27860,7 +27834,6 @@ relaaxed->relaxed
 requestm->request
 resurect->resurrect
 retrieva->retrieve
-revisted->revisited
 ridirect->redirect
 scandata->scandate
 sercvice->service
@@ -30604,7 +30577,6 @@ geoemtric->geometric
 geoetric->geometric
 geoetry->geometry
 geomeric->geometric
-geomertic->geometric
 geometic->geometric
 geometirc->geometric
 geometr->geometry
