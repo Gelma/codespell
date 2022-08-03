@@ -3432,7 +3432,6 @@ backfeild->backfield
 backfied->backfield
 backfiled->backfield
 backgroudn->backgrounds
-backgrouns->backgrounds
 backgruond->backgrounds
 backhacking->backpacking
 backjacking->backpacking
@@ -11433,8 +11432,6 @@ impropre->improper
 improsined->imprisoned
 improsoned->imprisoned
 improsonment->imprisonment
-improtantly->importantly
-improted->imported
 improvemnt->improvement
 improvemnts->improvements
 improvents->improves
@@ -19769,15 +19766,12 @@ separacion->separation
 separaters->separates
 separatisme->separates
 separatiste->separates
-separato->separation
 separatron->separation
 sepcially->specially
 sepculating->speculating
 seplling->spelling
 sepreate->separate
 septmeber->september
-seraches->searches
-seraching->searching
 serbain->serbian
 serenitary->serenity
 serentiy->serenity
@@ -23884,7 +23878,6 @@ excludepattern->excludepatterns
 excludetest->excludetests
 exicode->exitcode
 expore->explore
-exsting->existing
 extennsion->extension
 falase->false
 falss->false
@@ -26595,7 +26588,6 @@ stpre->store
 tasts->tasks
 trhis->this
 tryin->trying
-uffer->buffer
 unlok->unlock
 usinf->using
 widzh->width
@@ -26619,7 +26611,6 @@ audodetected->autodetected
 autgen->autogen
 autodesc->autodesk
 averraged->averaged
-backgroun->background
 beautifull->beautiful
 becausue->because
 beomes->becomes
@@ -26667,7 +26658,6 @@ decodimg->decoding
 decodinf->decoding
 decresed->decreased
 defaulte->default
-defults->defaults
 deinterlaces->deinterlace
 deoding->decoding
 dependes->depends
