@@ -792,7 +792,6 @@ approciate->appropriate
 blocsk->blocks
 compressiability->compressibility
 conflicing->conflicting
-conterpart->counterpart
 differentia->difference
 eailer->earlier
 exclsuive->exclusive
@@ -829,7 +828,6 @@ ling->link
 testdocuemts->testdocuments
 docuemts->documents
 foldnig->folding
-correpsonding->corresponding
 nec->neg
 enlargening->enlarging
 belarussian->belarusian
@@ -877,7 +875,6 @@ seclection->selection
 securitry->security
 selectged->selected
 shappened->happened
-shufle->shuffle
 statemnet->statement
 speification->specification
 treading->threading
@@ -948,7 +945,6 @@ filesystm->filesystem
 flesystem->filesystem
 gettig->getting
 hehavior->behavior
-historgram->histogram
 impossble->impossible
 indefinetelly->indefinitely
 initialzied->initialized
@@ -957,7 +953,6 @@ intrumentation->instrumentation
 logial->logical
 loookup->lookup
 malformated->malformed
-meory->memory
 messagese->messages
 objecitd->objectid
 objecteid->objectid
@@ -1144,7 +1139,6 @@ filesystme->filesystem
 filesystsem->filesystem
 filetyle->filetype
 filspec->filespec
-finallly->finally
 floopies->floppies
 forwever->forever
 fsk->fsck
@@ -1167,7 +1161,6 @@ inlut->input
 inods->inodes
 insatll->install
 interarting->interacting
-interpert->interpret
 intrudced->introduced
 jounal->journal
 leackages->leakages
@@ -1245,7 +1238,6 @@ uperblock->superblock
 whever->whenever
 witih->with
 imag->image
-aagain->again
 ablity->ability
 acitivies->activities
 adjudst->adjust
@@ -1637,7 +1629,6 @@ instantianted->instantiated
 guesssing->guessing
 increamental->incremental
 unprivilaged->unprivileged
-confim->confirm
 freeg->free
 evitable->evictable
 fragmenation->fragmentation
@@ -2500,7 +2491,6 @@ analisys->analysis
 analitycal->analytical
 analitycs->analytics
 analoge->analogue
-analsyt->analyst
 analtyics->analytics
 analyitcal->analytical
 analyitcs->analytics
@@ -2522,9 +2512,6 @@ analystics->analysts
 analysze->analyse
 analyticals->analytics
 analyts->analyst
-analzye->analyze
-analzyed->analyzed
-analzying->analyzing
 anaolgue->analogue
 anarchisim->anarchism
 anarchistes->anarchists
@@ -3084,8 +3071,6 @@ assassinos->assassins
 assassinted->assassinated
 assasssin->assassins
 assaultes->assaults
-assembe->assemble
-assembeld->assembled
 assemblare->assemble
 assembleing->assembling
 assembley->assembly
@@ -3431,7 +3416,6 @@ backerds->backers
 backfeild->backfield
 backfied->backfield
 backfiled->backfield
-backgroudn->backgrounds
 backgruond->backgrounds
 backhacking->backpacking
 backjacking->backpacking
@@ -3634,8 +3618,6 @@ belligerante->belligerent
 belligirent->belligerent
 belssings->blessings
 benagls->bengals
-benchamrk->benchmark
-benchamrks->benchmarks
 benchmakrs->benchmarks
 benchmars->benchmarks
 benedicat->benedict
@@ -4260,7 +4242,6 @@ cancles->cancels
 cancres->cancers
 cancuks->canucks
 candidatas->candidates
-candidats->candidates
 candidatxs->candidates
 candiens->candies
 canides->candies
@@ -6004,7 +5985,6 @@ conspiricy->conspiracy
 conspriacies->conspiracies
 conspriacy->conspiracy
 consqeuences->consequence
-constans->constants
 constanst->constants
 constantins->constants
 constantivs->constants
@@ -6856,7 +6836,6 @@ curisoity->curiosity
 curisve->cursive
 currancies->currencies
 currate->curate
-currecny->currency
 currence->currencies
 currenices->currencies
 currens->currents
@@ -7327,7 +7306,6 @@ denominato->denomination
 denominaton->denomination
 denominatons->denominations
 denomintor->denominator
-denomitator->denominator
 denomonation->denomination
 denomonations->denominations
 denomonator->denominator
@@ -7784,7 +7762,6 @@ disagreemtn->disagreements
 disagremeent->disagreements
 disagres->disagrees
 disallusioned->disillusioned
-disappeard->disappeared
 disappearence->disappearance
 disappearnace->disappearance
 disappearnce->disappearance
@@ -8997,7 +8974,6 @@ equilibriam->equilibrium
 equilibrim->equilibrium
 equilibruim->equilibrium
 equivalants->equivalents
-equivalenet->equivalents
 equivalet->equivalents
 equivallent->equivalent
 equivalnce->equivalence
@@ -9196,7 +9172,6 @@ excludeds->excludes
 exclusie->exclusives
 exclusivas->exclusives
 exclusiveity->exclusivity
-exclusivelly->exclusively
 exclusivety->exclusivity
 exclusivily->exclusivity
 exclusivitiy->exclusivity
@@ -10124,7 +10099,6 @@ fullscreeen->fullscreen
 fullscren->fullscreen
 fullset->fullest
 fulttershy->fluttershy
-funcitonally->functionally
 functionaliy->functionally
 functiong->functioning
 fundamendalist->fundamentalist
@@ -10801,7 +10775,6 @@ hienous->heinous
 hiesman->heisman
 highalnder->highlander
 highlane->highlander
-highlighed->highlighted
 highligthing->highlighting
 highloader->highlander
 highpander->highlander
@@ -10888,7 +10861,6 @@ homogenenous->homogeneous
 homogeneos->homogeneous
 homogenes->homogeneous
 homogeneus->homogeneous
-homogenuous->homogeneous
 homophibia->homophobia
 homophibic->homophobic
 homophobie->homophobe
@@ -12439,11 +12411,6 @@ internts->interns
 internus->interns
 interpersonel->interpersonal
 interpersonnal->interpersonal
-interpertation->interpretation
-interpertations->interpretations
-interperted->interpreted
-interperters->interpreter
-interperting->interpreting
 interpratation->interpretation
 interpratations->interpretations
 interprating->interpreting
@@ -12668,7 +12635,6 @@ introduceres->introduces
 introducion->introduction
 introduciton->introduction
 introductary->introductory
-introducted->introduced
 introductie->introduce
 introducting->introduction
 introductiory->introductory
@@ -12743,7 +12709,6 @@ inventivos->inventions
 invertendo->inverted
 inverterad->inverted
 invertes->inverse
-invertions->inventions
 invervention->intervention
 invesitgate->investigate
 invesitgative->investigative
@@ -13885,7 +13850,6 @@ massachucetts->massachusetts
 massachuestts->massachusetts
 massachusents->massachusetts
 massachusets->massachusetts
-massachusettes->massachusetts
 massachusettians->massachusetts
 massachusites->massachusetts
 massachustts->massachusetts
@@ -14458,9 +14422,6 @@ misimformed->misinformed
 misinfomed->misinformed
 misinterept->misinterpret
 misinterperet->misinterpret
-misinterperted->misinterpreted
-misinterperting->misinterpreting
-misinterpert->misinterpret
 misinterpet->misinterpret
 misinterprate->misinterpret
 misinterprating->misinterpreting
@@ -15281,7 +15242,6 @@ notacible->noticeable
 notario->ontario
 notciable->noticeable
 notebok->notebook
-noteboook->notebook
 noteworhty->noteworthy
 noteworthly->noteworthy
 noteworty->noteworthy
@@ -17493,7 +17453,6 @@ procedureal->procedural
 procedurial->procedural
 procedurile->procedure
 proceededs->proceeds
-proceedes->proceeds
 proceesing->proceeding
 procesd->proceeds
 procesess->processes
@@ -18820,7 +18779,6 @@ repersented->represented
 repersenting->representing
 repersents->represents
 repetation->repetition
-repetetion->repetition
 repeticion->repetition
 repetitivo->repetition
 repharse->rephrase
@@ -19996,7 +19954,6 @@ simplets->simplest
 simplictic->simplistic
 simplicy->simplicity
 simplificacion->simplification
-simplificaiton->simplification
 simplificating->simplification
 simplifiing->simplifying
 simplifing->simplifying
@@ -23578,7 +23535,6 @@ choosebackends->choosebackend
 colonamode->colonmode
 concacenating->concatenating
 confalict->conflict
-conigurable->configurable
 couod->could
 createlockfie->createlockfile
 currenct->current
@@ -23590,7 +23546,6 @@ denined->denied
 dequeuetransfer->dequeuetransfers
 descrioptions->descriptions
 descripotion->description
-detault->default
 difficully->difficulty
 directorie->directories
 directorya->directory
@@ -23830,7 +23785,6 @@ childefinition->childdefinition
 childrend->children
 circumfrence->circumference
 citeria->criteria
-cleares->clears
 clearity->clarity
 slosure->closure
 combied->combined
@@ -23849,7 +23803,6 @@ corecolectors->corecollectors
 corrdinate->coordinate
 corrolate->correlate
 creatd->created
-creteria->criteria
 customzed->customized
 dababase->database
 dateimes->datetimes
@@ -23912,10 +23865,8 @@ imporrt->import
 inblude->include
 incomplert->incomplet
 indermediate->intermediate
-infrastucture->infrastructure
 inheirit->inherit
 initialplace->initialplaces
-inititalize->initialize
 injenction->injection
 insead->instead
 insersection->intersection
@@ -23925,7 +23876,6 @@ instsance->instance
 interable->iterable
 interfaace->interface
 involement->involvement
-isse->issue
 itelf->itself
 kolombia->colombia
 kuba->cuba
@@ -24381,7 +24331,6 @@ assosiative->associative
 assumpitions->assumptions
 asynchromously->asynchronously
 asynchronuously->asynchronously
-ative->active
 atomc->atomic
 atructure->structure
 attemoted->attempted
@@ -24676,7 +24625,6 @@ descriptoers->descriptors
 descriptorss->descriptors
 descriptots->descriptors
 descriptr->descriptor
-descrtiption->description
 desere->deseret
 desirec->desired
 desirializer->deserializer
@@ -24735,8 +24683,6 @@ dricer->driver
 dring->during
 drom->from
 geneartion->generation
-funxtions->functions
-funxtion->function
 flail->fail
 desendants->descendants
 desendant->descendant
@@ -24751,7 +24697,6 @@ directwhow->directshow
 hellper->helper
 staters->starters
 ageing->aging
-alernate->alternate
 alforithm->algorithm
 algrorithm->algorithm
 ample->sample
@@ -24873,7 +24818,6 @@ endable->enable
 endiad->endian
 endpint->endpoint
 endpioint->endpoint
-enfore->enforce
 enocoded->encoded
 enoding->encoding
 enqeue->enqueue
@@ -25254,7 +25198,6 @@ reqrite->rewrite
 requeest->request
 requewst->request
 reseves->reserves
-resitor->resistor
 rleased->released
 routinge->routine
 rumtime->runtime
@@ -25452,7 +25395,6 @@ supplyed->supplied
 supporsts->supports
 surrount->surround
 telemtry->telemetry
-therwise->otherwise
 threfore->therefore
 threshod->threshold
 toggline->toggling
@@ -26718,7 +26660,6 @@ horizotal->horizontal
 igroreaction->ignoreaction
 incompatibilty->incompatibility
 incompatile->incompatible
-infinate->infinite
 ingerprints->fingerprints
 innnovation->innovation
 installaing->installing
@@ -27019,7 +26960,6 @@ dveice->device
 eerpom->eeprom
 evetns->events
 evnets->events
-exepct->expect
 exitss->exists
 expcet->expect
 expoer->export
@@ -29425,7 +29365,6 @@ bscond->abscond
 bsorbent->absorbent
 bsorption->absorption
 bstinence->abstinence
-bu->but
 buger->bugler
 bugrer->burger
 buildng->building
@@ -31984,7 +31923,6 @@ particularyl->particularly
 particulraly->particularly
 particulrly->particularly
 partiuclarly->particularly
-partiularly->particularly
 pasenger->passenger
 pasime->pastime
 pasitme->pastime
@@ -33699,7 +33637,6 @@ subcategroy->subcategory
 amybe->maybe
 praragraph->paragraph
 nubers->numbers
-highligh->highlight
 remvoing->removing
 chercker->checker
 discarged->discharged
