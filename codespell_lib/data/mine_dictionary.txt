@@ -1252,7 +1252,6 @@ ativate->activate
 attriute->attribute
 backtic->backtick
 backtics->backticks
-baed->based
 bottem->bottom
 canfigured->configured
 casssandra->cassandra
@@ -7974,7 +7973,6 @@ dispensory->dispensary
 disperportionate->disproportionate
 dispersa->dispensary
 dispesnary->dispensary
-displacemnt->displacement
 displayfps->displays
 disporportionate->disproportionate
 disporportionately->disproportionately
@@ -8155,8 +8153,6 @@ distrubitions->distributions
 distrubitor->distributor
 distrubitors->distributors
 distrubtes->distrust
-distrubutor->distributor
-distrubutors->distributors
 distructions->distractions
 distrupts->distrust
 distubring->disturbing
@@ -8540,7 +8536,6 @@ ejaculatie->ejaculate
 ejaculatin->ejaculation
 ejaculaton->ejaculation
 ejaculatte->ejaculate
-elasped->elapsed
 elcipse->eclipse
 eldistribution->redistribution
 elecrto->electro
@@ -11833,7 +11828,6 @@ infinie->infinite
 infiniment->infinite
 infinitelly->infinitely
 infinitey->infinity
-infinitie->infinite
 infinitiy->infinity
 infinitley->infinitely
 infintie->infinite
@@ -12015,7 +12009,6 @@ innovatve->innovate
 innvoate->innovate
 innvoation->innovation
 inovker->invoker
-inpection->inception
 inperfections->imperfections
 inpersonating->impersonating
 inplementing->implementing
@@ -16002,9 +15995,6 @@ parmasen->parmesan
 parmenas->parmesan
 parmesaen->parmesan
 parmsean->parmesan
-parntered->partnered
-parntership->partnership
-parnters->partners
 partchett->pratchett
 partecipant->participant
 partecipants->participants
@@ -16838,7 +16828,6 @@ poeples->peoples
 poignat->poignant
 poineer->pioneer
 poingant->poignant
-pointeres->pointers
 pointure->pointer
 poisond->poisoned
 poisones->poisons
@@ -19971,7 +19960,6 @@ simplyifing->simplifying
 simposn->simpson
 simspon->simpson
 simulacion->simulation
-simulaiton->simulations
 simulatie->simulate
 simulaties->simulate
 simulatin->simulation
@@ -22265,7 +22253,6 @@ twilgiht->twilight
 twiligt->twilight
 tyelnol->tylenol
 tylenool->tylenol
-typcially->typically
 tyrannia->tyrannical
 tyrantical->tyrannical
 tyrhard->tryhard
@@ -23582,7 +23569,6 @@ indiviaually->individually
 inheerited->inherited
 innefficiencies->inefficiencies
 innefficiency->inefficiency
-inpractical->impractical
 irretrevably->irretrievably
 isabsulute->isabsolute
 isfulltbqueue->isfulltbmqueue
@@ -24208,7 +24194,6 @@ fromatter->formatted
 ablocks->blocks
 abnorally->abnormally
 abortng->aborting
-abot->about
 absract->abstract
 accasion->occasion
 accellerators->accelerators
@@ -24616,8 +24601,6 @@ derermines->determines
 desabled->disabled
 desable->disable
 descentant->descendant
-descrease->decrease
-descreases->decreases
 descrement->decrement
 descrete->discrete
 descripror->descriptor
@@ -24772,7 +24755,6 @@ supresslinenumbers->suppresslinenumbers
 sylistic->stylistic
 tarversing->traversing
 tarverse->traverse
-teminal->terminal
 transvered->transferred
 tying->trying
 unencryppted->unencrypted
@@ -24822,7 +24804,6 @@ enocoded->encoded
 enoding->encoding
 enqeue->enqueue
 ensable->enable
-enteries->entries
 entetr->enter
 entierely->entirely
 entitny->entity
@@ -25158,7 +25139,6 @@ nuttons->buttons
 objjects->objects
 occpied->occupied
 oflload->offload
-optonal->optional
 osolete->obsolete
 oulined->outlined
 pacmage->package
@@ -25349,8 +25329,6 @@ reeponse->response
 regester->register
 regiseter->register
 regsister->register
-reguired->required
-reguires->requires
 relesing->releasing
 relvative->relative
 reqserved->reserved
@@ -25651,7 +25629,6 @@ becaome->become
 bindning->binding
 boleano->booleano
 bormat->format
-builing->building
 bultibyte->multibyte
 calculte->calculate
 calnceled->canceled
@@ -27888,7 +27865,6 @@ periperal->peripheral
 petabaits->petabytes
 playround->playground
 powershel->powershell
-precesion->precision
 prediates->predicates
 probablye->probably
 propegate->propagate
@@ -32958,7 +32934,6 @@ swimmed->swam
 symbolical->symbolic
 syphillis->syphilis
 syrofoam->styrofoam
-tabl->table
 tabrnacle->tabernacle
 tacker->ticker
 tactict->tactic
@@ -33360,7 +33335,6 @@ warrnty->warranty
 watchs->watches
 wather->wither
 weaher->weather
-weahter->weather
 weakend->weakened
 weared->wore
 weatehr->weather
