@@ -1448,7 +1448,6 @@ instacne->instance
 assignemt->assignment
 delaing->dealing
 accless->access
-adapative->adaptive
 alowable->allowable
 ambiguousp->ambiguous
 ame->same
@@ -4001,7 +4000,6 @@ buhddism->buddhism
 buhddist->buddhist
 buhddists->buddhists
 buidlers->builders
-buidlings->buildings
 buildes->builders
 buildins->buildings
 buisnesses->businesses
@@ -5352,7 +5350,6 @@ compilacion->compilation
 compilance->compliance
 compilare->compiler
 compilato->compilation
-compilcations->complication
 compilr->compiler
 compinsate->compensate
 compinsated->compensated
@@ -7381,8 +7378,6 @@ derogotory->derogatory
 derpatologist->dermatologist
 derpivation->deprivation
 derugulation->deregulation
-derviative->derivative
-derviatives->derivatives
 descandants->descendants
 descendats->descendants
 descendends->descended
@@ -8051,8 +8046,6 @@ distinctie->distinctive
 distinctily->distinctly
 distinctin->distinctions
 distingiushing->distinguishing
-distinguised->distinguished
-distinguise->distinguished
 distinguising->distinguishing
 distingusihing->distinguishing
 distinktion->distinction
@@ -22093,8 +22086,6 @@ trhusters->thrusters
 trialers->trailers
 trialer->trailer
 trianers->trainers
-triangels->triangles
-triangel->triangle
 triangls->triangles
 trianwreck->trainwreck
 triators->traitors
@@ -24861,7 +24852,6 @@ moule->module
 nable->unable
 niumber->number
 noboody->nobody
-nomber->number
 nsyntax->syntax
 numbmer->number
 numbrer->number
@@ -26679,7 +26669,6 @@ slighrly->slightly
 smarcard->smartcard
 sndblock->sendblock
 specifer->specifier
-specifiec->specific
 sqeezes->squeezes
 squeezeed->squeezed
 sreams->streams
