@@ -1032,7 +1032,6 @@ cloure->closure
 compination->combination
 conceptification->conceptualization
 contentionz->contentions
-coverd->covered
 cpecial->special
 deapth->depth
 dentifier->identifier
@@ -3554,8 +3553,6 @@ beginnins->beginnings
 beglian->belgian
 beglium->belgium
 begnals->bengals
-behaivour->behaviour
-behaivours->behaviours
 behaviorial->behavioral
 behaviorly->behavioral
 behavios->behaviours
@@ -4817,7 +4814,6 @@ circimcised->circumcised
 circiuts->circuits
 circkets->crickets
 circlebs->circles
-circluar->circular
 circluating->circulating
 circomference->circumference
 circualtion->circulation
@@ -5247,7 +5243,6 @@ companines->companions
 companis->companions
 comparabil->comparable
 comparabile->comparable
-comparasion->comparison
 comparason->comparison
 comparasons->comparisons
 comparaste->compares
@@ -5255,7 +5250,6 @@ comparatie->comparative
 comparativley->comparatively
 comparativly->comparatively
 compareble->comparable
-comparement->compartment
 comparemos->compares
 comparetive->comparative
 comparetively->comparatively
@@ -7670,7 +7664,6 @@ dipolma->diploma
 dipolmatic->diplomatic
 dirbble->dribble
 direccional->directional
-direcitonal->directional
 directinla->directional
 directionl->directional
 directionnal->directional
@@ -8795,8 +8788,6 @@ enterpreneurs->entrepreneurs
 enterprenuer->entrepreneur
 enterprenuers->entrepreneurs
 enterpreuners->entrepreneurs
-enterprice->enterprise
-enterprices->enterprises
 enterpries->enterprises
 enterprishe->enterprises
 enterprize->enterprise
@@ -11429,7 +11420,6 @@ inchoerent->incoherent
 incidencies->incidence
 incidentaly->incidentally
 incidentes->incidents
-incidential->incidental
 incidentul->incidental
 inclanation->inclination
 inclenation->inclination
@@ -12222,7 +12212,6 @@ intenst->intents
 intentas->intents
 intentinal->intentional
 intentines->intestines
-intentionly->intentional
 intentionnal->intentional
 interaccion->interaction
 interacs->interacts
@@ -12259,8 +12248,6 @@ intercouse->intercourse
 intereaction->intersection
 intereactions->intersections
 intereacts->interfaces
-interected->interacted
-interect->interacted
 interefers->interferes
 interents->internets
 interersted->interpreted
@@ -14740,7 +14727,6 @@ multiplicativo->multiplication
 multiplicaton->multiplication
 multiplr->multiplier
 multipls->multiples
-multiplyed->multiplied
 multiplyer->multiple
 multiplyng->multiplying
 multitaksing->multitasking
@@ -15013,8 +14999,6 @@ negotiative->negotiate
 negotiaton->negotiation
 negotiatons->negotiations
 neigbhourhood->neighbourhood
-neigbhour->neighbour
-neigbhours->neighbours
 neighboorhoud->neighbourhood
 neighbords->neighbours
 neighborehood->neighbourhood
@@ -16992,7 +16976,6 @@ predetermiend->predetermined
 predeterminded->predetermined
 predetermind->predetermined
 predetirmined->predetermined
-predicat->predict
 prediccion->prediction
 predicement->predicament
 predicessor->predecessor
@@ -18745,7 +18728,6 @@ representn->representing
 representstion->representations
 representstive->representatives
 represetnation->representations
-represnetation->representations
 repressin->repression
 repressivo->repression
 represso->repression
@@ -18859,7 +18841,6 @@ resitsance->resistances
 resmeble->resemble
 resmebles->resembles
 resolucion->resolution
-resolutin->resolutions
 resolutionary->revolutionary
 resolutoin->resolutions
 resolutons->resolutions
@@ -21906,8 +21887,6 @@ transitionable->transitional
 transitionals->transitions
 transitiond->transitioned
 transitiong->transitioning
-transitionnal->transitional
-transitionning->transitioning
 transito->transition
 transkription->transcription
 transkript->transcript
@@ -21939,11 +21918,6 @@ transmorfers->transformer
 transmorged->transformed
 transmorgs->transforms
 transmutter->transmitter
-transofrmation->transformation
-transofrmed->transformed
-transofrmers->transformers
-transofrming->transforming
-transofrm->transform
 transohobic->transphobic
 transpalnt->transplants
 transparantie->transparent
@@ -23515,7 +23489,6 @@ repsitories->repositories
 repsitory->repository
 retrievel->retrieval
 retufn->return
-roung->round
 rsunc->rsync
 schedile->schedule
 sefvice->service
@@ -24128,12 +24101,10 @@ alibration->calibration
 aligh->align
 alighment->alignment
 alignent->alignment
-alignmet->alignment
 alk->alt
 alll->all
 allodating->allocating
 allowambigouscommands->allowambiguouscommands
-allowes->allows
 aloocate->allocate
 alreaday->already
 alsog->also
@@ -25143,7 +25114,6 @@ multiast->multicast
 multpiple->multiple
 nexecuted->executed
 nornally->normally
-numberred->numbered
 ohysical->physical
 operatin->operation
 optiimize->optimize
@@ -25221,12 +25191,10 @@ subjectd->subjected
 subsysem->subsystem
 supended->suspended
 supperset->superset
-supplyed->supplied
 supporsts->supports
 surrount->surround
 telemtry->telemetry
 threfore->therefore
-threshod->threshold
 toggline->toggling
 tollerant->tolerant
 trailings->trailing
@@ -25876,7 +25844,6 @@ restictive->restrictive
 restucture->restructure
 ssociative->associative
 successuly->successfully
-techically->technically
 termnation->termination
 touchsreen->touchscreen
 traditonal->traditional
@@ -26528,7 +26495,6 @@ ndimentions->ndimensions
 neasted->nested
 nothinkg->nothing
 notofy->notify
-numberr->number
 offeres->offers
 oiseq->noised
 opposit->opposite
@@ -31448,7 +31414,6 @@ nebor->newborn
 necdote->anecdote
 neghbor->neighbor
 negihbor->neighbor
-neigbhor->neighbor
 neighbo->neighbor
 neighbro->neighbor
 neihbor->neighbor
@@ -32557,7 +32522,6 @@ sergenat->sergeant
 sergon->sermon
 serpenteen->serpentine
 servent->servant
-sevral->several
 sharlaton->charlatan
 shcedule->schedule
 shelfs->shelves
