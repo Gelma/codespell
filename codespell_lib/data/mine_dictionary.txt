@@ -4679,7 +4679,6 @@ chillend->chilled
 chilvary->chivalry
 chimeny->chimney
 chinees->chinese
-chinesse->chinese
 chinmey->chimney
 chipest->chipset
 chirstian->christian
@@ -6875,7 +6874,6 @@ deathamtch->deathmatch
 deathcat->deathmatch
 deathmacth->deathmatch
 deathmath->deathmatch
-deatils->details
 deatlhy->deathly
 debuffes->debuffs
 debufffs->debuffs
@@ -7500,7 +7498,6 @@ determinitic->deterministic
 determinsim->determinism
 determinsitic->deterministic
 determinsm->determinism
-detials->details
 detmatologist->dermatologist
 detorit->detroit
 detramental->detrimental
@@ -16157,8 +16154,6 @@ percetnage->percentages
 percevied->perceived
 percintile->percentile
 percious->precious
-percisely->precisely
-percise->precise
 percission->percussion
 perclude->preclude
 percpetion->perceptions
@@ -16185,7 +16180,6 @@ perfektion->perfection
 perferential->preferential
 perferring->preferring
 perfexcion->perfection
-perforamnce->performances
 performaces->performances
 performacne->performances
 performanes->performances
@@ -24471,7 +24465,6 @@ diambiguated->disambiguated
 diasabled->disabled
 diconnect->disconnect
 dicontiguous->discontiguous
-diferences->differences
 differring->differing
 diictionary->dictionary
 directlly->directly
@@ -29799,7 +29792,6 @@ dicuss->discuss
 dicussion->discussion
 diesal->diesel
 dieu->die
-diference->difference
 digged->dug
 diiomatically->idiomatically
 diiosyncratic->idiosyncratic
