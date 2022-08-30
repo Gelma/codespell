@@ -52,7 +52,6 @@ anticdote->anecdote
 antripanewer->entrepreneur
 anurism->aneurysm
 anwee->ennui
-aparantly->apparently
 aparatus->apparatus
 apartide->apartheid
 apauled->appalled
@@ -890,7 +889,6 @@ restartign->restarting
 biffer->bigger
 fautly->faulty
 existign->existing
-annonce->announce
 architectured->architectures
 critial->critical
 deve->devel
@@ -1170,7 +1168,6 @@ ownernship->ownership
 paraemter->parameter
 paralelize->parallelize
 pathnams->pathnames
-pehaps->perhaps
 percompiled->precompiled
 performanace->performance
 pessessing->possessing
@@ -1246,7 +1243,6 @@ commanda->commands
 communty->community
 configre->configure
 configurde->configure
-confiugred->configured
 conhesive->cohesive
 connectiong->connecting
 costantly->constantly
@@ -1340,7 +1336,6 @@ reposity->repository
 resilent->resilient
 scalabe->scalable
 scalibility->scalability
-scrpt->script
 servehs->serves
 severlimit->serverlimit
 solutiontion->solution
@@ -1529,7 +1524,6 @@ sceleton->skeleton
 segmant->segment
 solaries->solaris
 stabalized->stabilized
-synthetized->synthesized
 telll->tell
 tranfert->transfert
 ulocking->unlocking
@@ -1641,7 +1635,6 @@ represnting->representing
 authenticaion->authentication
 rotateion->rotation
 interfact->interface
-essentally->essentially
 shareffilesets->sharedfilesets
 desacriptors->descriptors
 desacriptor->descriptor
@@ -2761,7 +2754,6 @@ applainces->appliances
 applaudes->applause
 applaued->applaud
 applicabile->applicable
-applicaple->applicable
 applicates->applicants
 applicatins->applicants
 applicato->application
@@ -2775,11 +2767,6 @@ appoitnments->appointments
 apporachable->approachable
 apporximate->approximate
 apporximately->approximately
-appraochable->approachable
-appraoch->approach
-appraoched->approached
-appraoches->approaches
-appraoching->approaching
 apprecaite->appreciate
 apprecaited->appreciated
 apprecaites->appreciates
@@ -3190,8 +3177,6 @@ atrittion->attrition
 atrocitites->atrocities
 atrocoties->atrocities
 atrosities->atrocities
-attachemnt->attachment
-attachemnts->attachments
 attachmet->attachments
 attackeras->attackers
 attackerasu->attackers
@@ -4848,7 +4833,6 @@ circumvrent->circumvent
 circumwent->circumvent
 circuncised->circumcised
 circuncision->circumcision
-circunference->circumference
 circunvent->circumvent
 cirlces->circles
 cirlcing->circling
@@ -7061,7 +7045,6 @@ definstely->definitely
 defintaley->definitely
 defintaly->defiantly
 defintiely->definitely
-defintiion->definitions
 defintily->definitely
 defintley->definitely
 definutely->definitely
@@ -7139,8 +7122,6 @@ deliverately->deliberately
 delivere->deliveries
 deliverees->deliveries
 deliveres->delivers
-deliverying->delivering
-deliverys->delivers
 deliviered->delivered
 deliviring->delivering
 delpeted->depleted
@@ -7454,7 +7435,6 @@ destractions->distractions
 destributors->distributors
 destros->destroys
 destrose->destroyers
-destroyd->destroyed
 destroyeds->destroyers
 destroyeer->destroyers
 destroyr->destroyers
@@ -7526,7 +7506,6 @@ developmant->developmental
 developmenet->developments
 developmently->developmental
 developmentwise->developments
-developmet->developments
 developmetn->developments
 developmnet->developments
 developors->develops
@@ -7627,9 +7606,7 @@ dignitiy->dignity
 dilpoma->diploma
 dimaond->diamond
 dimaonds->diamonds
-dimensinal->dimensional
 dimensionals->dimensions
-dimensiones->dimensions
 dimensionnal->dimensional
 dimensionsal->dimensional
 dimineshes->diminishes
@@ -9430,7 +9407,6 @@ extravigant->extravagant
 extravogant->extravagant
 extreems->extremes
 extremaste->extremes
-extremeley->extremely
 extremers->extremes
 extremests->extremists
 extremised->extremes
@@ -9753,8 +9729,6 @@ flexibillity->flexibility
 flexibiltiy->flexibility
 flimmakers->filmmakers
 flippade->flipped
-flitered->filtered
-fliters->filters
 flordia->florida
 florecen->florence
 florene->florence
@@ -10654,8 +10628,6 @@ helluvva->helluva
 hellvua->helluva
 hemingwary->hemingway
 hemingwavy->hemingway
-hemipshere->hemisphere
-hemipsheres->hemisphere
 hemlets->helmets
 hempishere->hemisphere
 henious->heinous
@@ -13553,8 +13525,6 @@ malyasia->malaysia
 malyasian->malaysian
 manadrin->mandarin
 manafactured->manufactured
-manafacturer->manufacturer
-manafacturers->manufacturers
 manafactures->manufactures
 manafacturing->manufacturing
 manafestation->manifestation
@@ -15056,7 +15026,6 @@ nieghbourhood->neighbourhood
 nieghbourhoods->neighbourhood
 nieghbour->neighbour
 nieghbours->neighbours
-nighlty->nightly
 nightlcub->nightclub
 nightley->nightly
 nightlie->nightlife
@@ -15208,7 +15177,6 @@ obamination->abomination
 obatinable->obtainable
 obdisian->obsidian
 obeidence->obedience
-obejctives->objectives
 obersvant->observant
 obersvation->observation
 obersvations->observations
@@ -15835,7 +15803,6 @@ paralells->parallels
 paralisys->paralysis
 paralleles->parallels
 parallells->parallels
-paralles->parallels
 paralzyed->paralyzed
 paramadics->paramedics
 paramecias->paramedics
@@ -16238,8 +16205,6 @@ perminantly->permanently
 perminently->permanently
 permise->premise
 permises->premises
-permisison->permissions
-permisisons->permissions
 permissble->permissible
 permissiable->permissible
 permissibe->permissible
@@ -16841,7 +16806,6 @@ portugeuse->portuguese
 portuguesse->portuguese
 portuguise->portuguese
 posicional->positional
-posions->poisons
 positevely->positively
 positioing->positioning
 positiond->positioned
@@ -16860,7 +16824,6 @@ positivitiy->positivity
 positiviy->positivity
 positivley->positively
 positivs->positives
-positivy->positivity
 possesess->possesses
 possesives->possessive
 possesse->possessive
@@ -17015,8 +16978,6 @@ preferabbly->preferably
 preferabely->preferable
 preferabley->preferably
 preferablly->preferably
-preferance->preference
-preferances->preferences
 preferantial->preferential
 preferas->prefers
 prefereble->preferable
@@ -17027,7 +16988,6 @@ preferental->preferential
 preferente->preference
 preferentes->preferences
 preferenze->preference
-preferes->prefers
 preferible->preferable
 preferibly->preferably
 preferis->prefers
@@ -18712,7 +18672,6 @@ representationer->representations
 representativas->representatives
 representativo->representation
 representerad->represented
-representes->represents
 representetive->representative
 representetives->representatives
 representitive->representative
@@ -20213,7 +20172,6 @@ specialis->specials
 specialistes->specialists
 specialites->specializes
 specialits->specials
-specializaiton->specialization
 specializare->specialize
 specializate->specialize
 specializaton->specialization
@@ -20464,7 +20422,6 @@ stardardized->standardized
 starightened->straightened
 starighten->straighten
 starightforward->straightforward
-staright->straight
 starined->strained
 starins->strains
 starlted->startled
@@ -22076,8 +22033,6 @@ trustowrthy->trustworthy
 trustwhorty->trustworthy
 trustworhty->trustworthy
 trustworhy->trustworthy
-trustworthly->trustworthy
-trustwothy->trustworthy
 truthfullly->truthfully
 truthfuly->truthfully
 tryahrd->tryhard
@@ -22769,7 +22724,6 @@ vangurad->vanguard
 vanillia->vanilla
 vanillla->vanilla
 vanugard->vanguard
-varaints->variants
 vareity->variety
 varians->variants
 variantes->variants
@@ -23349,7 +23303,6 @@ loadkeyboardlaout->loadkeyboardlayout
 multwindow->multiwindow
 nexted->nested
 picure->picture
-platfoms->platforms
 registrarion->registration
 removep->remove
 retuurn->return
@@ -23655,7 +23608,6 @@ deplying->deploying
 depnding->depending
 deprepcated->deprecated
 deseralize->deserialize
-devisible->divisible
 dfferent->different
 djangorproject->djangoproject
 djanjo->django
@@ -23761,7 +23713,6 @@ recognnized->recognized
 rediriects->redirects
 redundnant->redundant
 refactores->refactors
-referencable->referenceable
 regioin->region
 registter->register
 rejunion->reunion
@@ -23891,7 +23842,6 @@ clannel->channel
 colulmn->column
 combiniation->combination
 comiler->compiler
-condidate->candidate
 containst->contains
 crimean->crimea
 crytographic->cryptographic
@@ -23942,7 +23892,6 @@ legicy->legacy
 leter->later
 libtoolt->libtool
 listenadress->listenaddress
-logarithimic->logarithmic
 lookasize->lookaside
 macchine->machine
 mimimizes->minimizes
@@ -24187,7 +24136,6 @@ becausse->because
 beeak->break
 beelp->beep
 begnning->beginning
-behavor->behavior
 beheviour->behaviour
 belance->balance
 belowe->below
@@ -24269,7 +24217,6 @@ clok->clock
 clonned->cloned
 closesr->closer
 clsss->class
-cmmand->command
 cmpile->compile
 cmpletions->completions
 coalesing->coalescing
@@ -24539,7 +24486,6 @@ explcitly->explicitly
 faction->fraction
 filsesystem->filesystem
 frequecy->frequency
-furnction->function
 ggc->gcc
 imples->implies
 indroduced->introduced
@@ -24650,7 +24596,6 @@ enumrate->enumerate
 eode->code
 equaivalent->equivalent
 equalilty->equality
-equilvalent->equivalent
 equirements->requirements
 ergonmics->ergonomics
 erronenous->erroneous
@@ -24743,7 +24688,6 @@ janked->yanked
 jprobe->kprobe
 kashkey->hashkey
 ktread->kthread
-langth->length
 lartter->latter
 latert->later
 laylout->layout
@@ -24889,7 +24833,6 @@ vaious->various
 validb->valid
 vaulue->value
 vendir->vendor
-volumn->volume
 vrtual->virtual
 waitng->waiting
 warior->warrior
@@ -25217,7 +25160,6 @@ xelsinki->helsinki
 zerro->zero
 elso->also
 seeealso->seealso
-listeneing->listening
 voualue->value
 seealos->seealso
 hred->href
@@ -25237,7 +25179,6 @@ pulic->public
 searc->search
 srict->strict
 ttotal->total
-parant->parent
 peopke->people
 pseuto->pseudo
 recond->record
@@ -26640,7 +26581,6 @@ npurged->purged
 occurrd->occurred
 prvious->previous
 eulidean->euclidean
-eveluate->evaluate
 exponend->exponent
 fionacci->fibonacci
 preorden->preorder
@@ -26750,7 +26690,6 @@ expoer->export
 fabirc->fabric
 fialed->failed
 filaed->failed
-fliter->filter
 ﬂuent->fluent
 forgor->forget
 genirc->generic
@@ -29711,7 +29650,6 @@ defniition->definition
 defnite->definite
 defnition->definition
 defuncted->defunct
-deifne->define
 deifnite->definite
 deifnition->definition
 deinite->definite
@@ -30076,7 +30014,6 @@ escret->secret
 esence->essence
 esparate->separate
 esrgeant->sergeant
-essental->essential
 estalbished->established
 estaurant->restaurant
 estaurateurs->restaurateurs
@@ -33507,7 +33444,6 @@ opperator->operator
 retutn->return
 towar->toward
 itereate->iterate
-obejcts->objects
 benchmarl->benchmark
 indicaing->indicating
 contrbutor->contributor
