@@ -24,7 +24,6 @@ aggenst->against
 aggrivate->aggravate
 agrandize->aggrandize
 ahmond->almond
-allowence->allowance
 alowinserts->allowinserts
 amalgum->amalgam
 amatur->amateur
@@ -392,7 +391,6 @@ hankerchif->handkerchief
 idenifier->identifier
 idenitified->identified
 identfication->identification
-identic->identical
 identiifers->identifiers
 identtity->identity
 ideosincracy->idiosyncrasy
@@ -476,7 +474,6 @@ marshall->marshal
 masstif->mastiff
 mast->must
 memorys->memories
-millimiters->millimeters
 mmaping->mmapping
 modest->modeset
 mongolianlayou->mongolianlayout
@@ -1058,7 +1055,6 @@ recurrency->recurrence
 restire->restore
 seraliz->serializ
 seriliz->serializ
-uless->unless
 valud->valid
 vaues->values
 wellformed->well formed
@@ -1072,7 +1068,6 @@ badding->padding
 bassed->passed
 bblock->block
 bevice->device
-blockes->blocks
 bookkeepping->bookkeeping
 cannoicalize->canonicalize
 characgters->characters
@@ -1163,7 +1158,6 @@ newsly->newly
 noitceably->noticeably
 ocotober->october
 optiosn->options
-overrids->overrides
 ownernship->ownership
 paraemter->parameter
 paralelize->parallelize
@@ -1199,7 +1193,6 @@ simulaneous->simultaneous
 sourcefroge->sourceforge
 sparce->sparc
 ssystems->systems
-strage->storage
 subection->subsection
 subections->subsections
 suitible->suitable
@@ -1650,7 +1643,6 @@ litet->lite
 logfe->logfs
 manufacterer->manufacturer
 mghz->mhz
-requird->required
 revission->revision
 xfcie->xfce
 activies->activities
@@ -3078,8 +3070,6 @@ associaton->association
 associatons->associations
 associsted->associates
 assoications->associations
-assosiation->association
-assosiations->associations
 assotiations->associations
 assoziation->association
 asssasin->assassin
@@ -4102,7 +4092,6 @@ calculador->calculator
 calcular->calculator
 calcularon->calculator
 calculaters->calculators
-calculatin->calculations
 calculationg->calculating
 calculatios->calculators
 calculatoare->calculator
@@ -6528,7 +6517,6 @@ countrywise->countryside
 courcework->coursework
 courching->crouching
 coursefork->coursework
-courtesey->courtesy
 courtesty->courtesy
 courtey->courtesy
 courthosue->courthouse
@@ -7558,8 +7546,6 @@ diarrheoa->diarrhea
 diasspointed->disappointed
 dichomoty->dichotomy
 dichotomoy->dichotomy
-dicitonaries->dictionaries
-dicitonary->dictionary
 dickisch->dickish
 dicksih->dickish
 dictadorship->dictatorship
@@ -10167,7 +10153,6 @@ geogrpahical->geographical
 geogrpahically->geographically
 geogrpahic->geographic
 geogrpahy->geography
-geomtery->geometry
 geopraphically->geographically
 georiga->georgia
 germaniac->germanic
@@ -18236,7 +18221,6 @@ recoves->recovers
 recpetionist->receptionist
 recpetive->receptive
 recpetors->receptors
-recpies->recipes
 recreacional->recreational
 recreacion->recreation
 recreatief->recreate
@@ -19703,7 +19687,6 @@ shortining->shortening
 shotuout->shoutout
 shoudlers->shoulders
 shouldes->shoulders
-shouldnot->shouldn't
 shouldt->shouldn't
 shoulndt->shouldn't
 shoutot->shoutout
@@ -21328,7 +21311,6 @@ tempalrs->templars
 temparament->temperament
 temparatures->temperatures
 temparement->temperament
-tempearture->temperatures
 tempels->temples
 temperamant->temperament
 temperatues->temperatures
@@ -21825,7 +21807,6 @@ transgenres->transgender
 transhpobic->transphobic
 transicional->transitional
 transicion->transition
-transiet->transient
 transilvania->transylvania
 transimssion->transmissions
 transisioned->transitioned
@@ -22940,8 +22921,6 @@ vitirol->vitriol
 vitmains->vitamins
 vitmain->vitamin
 vitroil->vitriol
-vitrually->virtually
-vitrual->virtual
 vitrues->virtues
 vitualization->visualization
 vizualisations->visualization
@@ -23851,7 +23830,6 @@ debuggings->debugging
 defragementpage->defragmentpage
 deplicate->duplicate
 detech->detect
-deteched->detected
 determiness->determines
 dileterious->deleterious
 disassemblied->disassembled
@@ -24103,7 +24081,6 @@ assining->assigning
 assisitive->assistive
 assoceated->associated
 assoiation->association
-assosiative->associative
 assumpitions->assumptions
 asynchromously->asynchronously
 asynchronuously->asynchronously
@@ -24211,7 +24188,6 @@ clalling->calling
 classfication->classification
 classo->class
 clearnings->clearings
-cleaup->cleanup
 clocl->clock
 clok->clock
 clonned->cloned
@@ -24718,7 +24694,6 @@ numbrer->number
 numbrs->numbers
 numric->numeric
 objecct->object
-offfset->offset
 offsed->offset
 opaqua->opaque
 opcde->opcode
@@ -24957,7 +24932,6 @@ selecor->selector
 servioe->service
 setteing->setting
 setttime->settime
-shorcut->shortcut
 sigular->singular
 silbling->sibling
 siletly->silently
@@ -25794,7 +25768,6 @@ videbuffer->videobuffer
 windotitle->windowtitle
 mus->must
 tupe->type
-migh->might
 idend->ident
 sufix->suffix
 thory->theory
@@ -25993,7 +25966,6 @@ aribitrarily->arbitrarily
 asymptopically->asymptotically
 asynchroneous->asynchronous
 autnenticating->authenticating
-caluculation->calculation
 capabiblities->capabilities
 chacksumming->checksumming
 checktinputs->checkinputs
@@ -26718,7 +26690,6 @@ pulbic->public
 quueus->queues
 raplce->replace
 recory->recovery
-recpie->recipe
 regiry->registry
 regual->regular
 resutl->result
@@ -27223,7 +27194,6 @@ dodgey->dodgy
 drived->derived
 ecause->because
 edtion->edition
-examle->example
 faiing->failing
 fallse->falls
 fatest->fastest
@@ -27656,7 +27626,6 @@ astraction->abstraction
 authograph->autograph
 bananmania->bananamania
 bingbakery->bingobakery
-calclulate->calculate
 checkpooint->checkpoint
 cheetsheat->cheatsheet
 cheetsheet->cheatsheet
@@ -30639,7 +30608,6 @@ imschievous->mischievous
 imsspell->misspell
 inact->enact
 inaddition->in
-inapropriate->inappropriate
 incased->obsolete
 inchs->inches
 incinuate->insinuate
@@ -33644,7 +33612,6 @@ giigabyte->gigabyte
 pragraph->paragraph
 commamd->command
 admiistration->administration
-millimiter->millimeter
 aswer->answer
 aswers->answers
 implemnented->implemented
