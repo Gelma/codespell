@@ -2686,7 +2686,6 @@ apartmens->apartments
 apartmet->apartments
 aperutre->aperture
 aplhabet->alphabet
-apllications->applications
 apocalipse->apocalypse
 apocaliptic->apocalyptic
 apocalpyse->apocalypse
@@ -2747,7 +2746,6 @@ applaudes->applause
 applaued->applaud
 applicabile->applicable
 applicates->applicants
-applicatins->applicants
 applicato->application
 applicible->applicable
 appliences->appliances
@@ -23267,7 +23265,6 @@ activety->activity
 addigion->addition
 allocxtstdevice->allocxtestdevice
 altername->alternate
-appliation->application
 autotols->autotools
 candian->canadian
 checkconections->checkconnections
@@ -23803,7 +23800,6 @@ admministration->administration
 analyized->analyzed
 anythinh->anything
 appled->applet
-appliations->applications
 archic->archaic
 ardound->around
 ariund->around
@@ -26003,7 +25999,6 @@ imediaobject->mediaobject
 implementatiion->implementation
 inconventient->inconvenient
 incorrectable->uncorrectable
-incorrrectly->incorrectly
 incrememnted->incremented
 indentificated->identificated
 indentificator->identificator
@@ -33656,3 +33651,22 @@ spnaned->spanned
 supportr->support
 valkud->value
 woul->would
+pdesruptor->pdisruptor
+digrams->diagrams
+blurrred->blurred
+mrsdrtext->mxsdrtext
+pruduct->product
+thiss->this
+rquot->rquote
+rquottoreplace->rquotetoreplace
+bordemnwidth->bordermnwidth
+mhdc->hdc
+pchangeslist->rchangeslist
+whiich->which
+tahtweel->tatweel
+glowradus->glowradius
+footenote->footnote
+glyhps->glyphs
+ressoure->resource
+sypotom->symptom
+unnecessssary->unnecessary
