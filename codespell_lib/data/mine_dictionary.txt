@@ -894,7 +894,6 @@ haveo->have
 incorportated->incorporated
 invertory->inventory
 manageing->managing
-paramenter->parameter
 precisey->precisely
 providew->provide
 recan->rescan
@@ -984,7 +983,6 @@ exiter->exit
 facitily->facility
 granulity->granularity
 hihg->high
-lexigraphically->lexicographically
 logicla->logical
 mainatned->maintained
 parititon->partition
@@ -1009,7 +1007,6 @@ addressibility->addressability
 adjustes->adjusts
 alreadh->already
 alsoneeds->also_needs
-arument->argument
 assignmen->assignment
 avoidpaste->avoid_paste
 avove->above
@@ -1017,11 +1014,7 @@ awrning->warning
 barrer->barrier
 bogous->bogus
 builitn->builtin
-bulitin->builtin
-caleee->callee
-calees->callees
 calll->call
-catagori->categori
 chlids->children
 cloure->closure
 compination->combination
@@ -1039,9 +1032,7 @@ effeect->effect
 empted->emptied
 esily->easily
 explicits->explicit
-explicte->explicate
 exponentials->exponential
-expres->express
 exteded->extended
 factorisation->factorization
 garantie->guarantee
@@ -1055,7 +1046,6 @@ recurrency->recurrence
 restire->restore
 seraliz->serializ
 seriliz->serializ
-valud->valid
 vaues->values
 wellformed->well formed
 abbreivated->abbreviated
@@ -1481,7 +1471,6 @@ immedaiate->immediate
 immeriately->immediately
 incorporte->incorporate
 incrememnt->increment
-ineffcient->inefficient
 infinband->infiniband
 inplement->implement
 instructon->instruction
@@ -1645,7 +1634,6 @@ manufacterer->manufacturer
 mghz->mhz
 revission->revision
 xfcie->xfce
-activies->activities
 befroe->before
 separe->separate
 cinnom->cinnamon
@@ -2341,7 +2329,6 @@ alternatevly->alternately
 alternatieve->alternative
 alternativelly->alternatively
 alternativets->alternatives
-alternativley->alternatively
 alternativos->alternatives
 alternatley->alternately
 alternatly->alternately
@@ -2479,8 +2466,6 @@ anarchsim->anarchism
 anarchsits->anarchists
 anaylst->analyst
 anaylsts->analysts
-anayltical->analytical
-anayltics->analytics
 anaylzing->analyzing
 ancedotal->anecdotal
 ancedotally->anecdotally
@@ -2490,9 +2475,6 @@ anceint->ancient
 anceints->ancients
 ancinets->ancients
 andoirds->androids
-andorids->androids
-andriod->android
-andriods->androids
 androiders->androids
 androides->androids
 androidos->androids
@@ -4866,7 +4848,6 @@ classificato->classification
 classifides->classified
 classifiy->classify
 classis->classics
-classrom->classroom
 classrooom->classroom
 classsic->classics
 clasues->clauses
@@ -5944,7 +5925,6 @@ constnatly->constantly
 constracting->constructing
 constraction->construction
 constracts->constructs
-constrainsts->constraints
 constransi->constraints
 constrat->constraint
 constrating->constraint
@@ -6820,7 +6800,6 @@ dargons->dragons
 darkenss->darkness
 darkets->darkest
 darnkess->darkness
-dashboad->dashboard
 daulity->duality
 davantage->advantage
 dawrves->dwarves
@@ -8834,8 +8813,6 @@ epilepsey->epilepsy
 epilespy->epilepsy
 epiloge->epilogue
 epiphanny->epiphany
-episdoe->episode
-episdoes->episodes
 episonage->espionage
 epitomie->epitome
 epliepsy->epilepsy
@@ -9148,7 +9125,6 @@ exlated->exalted
 exlcamation->exclamation
 exlcuded->excluded
 exlcudes->excludes
-exlcusion->exclusion
 exlcusively->exclusively
 exlcusives->exclusives
 exlcusivity->exclusivity
@@ -10033,7 +10009,6 @@ furstrated->frustrated
 furstrates->frustrates
 furstration->frustration
 furstrations->frustrations
-furthremore->furthermore
 furthurmore->furthermore
 furutistic->futuristic
 futurers->futures
@@ -11443,7 +11418,6 @@ incorporare->incorporate
 incorpore->incorporate
 incorportate->incorporate
 incorproate->incorporated
-incorrecty->incorrectly
 incorretly->incorrectly
 incpetion->inception
 incramental->incremental
@@ -16201,7 +16175,6 @@ permium->premium
 permiums->premiums
 pernamently->permanently
 pernament->permanent
-peroidically->periodically
 perordered->preordered
 perorders->preorders
 perosnas->personas
@@ -16246,8 +16219,6 @@ perposterous->preposterous
 perpretated->perpetrated
 perpretator->perpetrators
 perpretators->perpetrators
-perpsective->perspective
-perpsectives->perspectives
 perputrator->perpetrator
 perputrators->perpetrators
 perputually->perpetually
@@ -16817,7 +16788,6 @@ possessivize->possessive
 possesssion->possessions
 possesss->possesses
 possestions->possessions
-possibiliy->possibility
 possibley->possibly
 possiby->possibly
 possissive->possessive
@@ -18049,7 +18019,6 @@ randumness->randomness
 raoches->roaches
 raosting->roasting
 raphsody->rhapsody
-rapsberry->raspberry
 raptores->raptors
 raptros->raptors
 raputre->rapture
@@ -20173,8 +20142,6 @@ specialzied->specialized
 specialz->specialize
 specias->specials
 speciatly->specialty
-specificaiton->specifications
-specificaitons->specification
 specificatons->specifications
 specificato->specification
 specificies->specifics
@@ -20399,7 +20366,6 @@ standbuy->standby
 standerdized->standardized
 stangant->stagnant
 staoshi->satoshi
-stardardized->standardized
 starightened->straightened
 starighten->straighten
 starightforward->straightforward
@@ -21070,8 +21036,6 @@ switzerand->switzerland
 switzlerand->switzerland
 swizterland->switzerland
 swnasea->swansea
-swtiched->switched
-swtiches->switches
 swtizerland->switzerland
 syarcuse->syracuse
 sycning->syncing
@@ -23576,7 +23540,6 @@ customzed->customized
 dababase->database
 dateimes->datetimes
 desimal->decimal
-deleteable->deletable
 delvering->delivering
 denpendency->dependency
 departaments->departments
@@ -23602,7 +23565,6 @@ expore->explore
 extennsion->extension
 falase->false
 falss->false
-favoured->favored
 fiilter->filter
 filteer->filter
 fixth->sixth
@@ -23753,7 +23715,6 @@ incompatibities->incompatibilities
 inspirated->inspired
 instaciating->instantiating
 intendation->indentation
-intoto->into
 iteratoror->iterator
 keenia->kenya
 kolumbia->colombia
@@ -23815,7 +23776,6 @@ changset->changeset
 ckeckpoint->checkpoint
 clannel->channel
 colulmn->column
-combiniation->combination
 comiler->compiler
 containst->contains
 crimean->crimea
@@ -25173,7 +25133,6 @@ nesed->nested
 functioname->function name
 sourrounds->surrounds
 sourround->surround
-alhpabetically->alphabetically
 interperability->interoperability
 onclude->include
 subment->submenu
@@ -25577,7 +25536,6 @@ equavalent->equivalent
 evalulation->evaluation
 exppression->expression
 flexiblity->flexibility
-formalised->formalized
 heurestics->heuristics
 incomplite->incomplete
 integratad->integrated
@@ -25646,7 +25604,6 @@ sttructure->structure
 submiting->submitting
 succeedded->succeeded
 succeeeded->succeeded
-suffcient->sufficient
 suppoerted->supported
 supporterd->supported
 supsequent->subsequent
@@ -25710,7 +25667,6 @@ incrementes->increments
 indoneysiya->indoneeysiya
 informarion->information
 infprmation->information
-initiailize->initialize
 initialzer->initializer
 initialzers->initializers
 initizalize->initialize
@@ -26418,7 +26374,6 @@ passhrase->passphrase
 passprase->passphrase
 perameters->parameters
 perdiod->period
-permuatation->permutation
 permutaton->permutation
 peserve->preserve
 phanton->phantom
@@ -26652,7 +26607,6 @@ dveice->device
 eerpom->eeprom
 evetns->events
 evnets->events
-exitss->exists
 expoer->export
 fabirc->fabric
 fialed->failed
@@ -26828,7 +26782,6 @@ stciker->sticker
 synatxe->syntax
 textuer->texture
 thgouth->through
-throuhg->through
 timeoff->timeout
 trannig->training
 uniocde->unicode
@@ -26894,7 +26847,6 @@ bullk->bulk
 ckass->class
 ested->nested
 unsip->unzip
-witrh->with
 cearly->clearly
 coton->cotton
 emptes->empties
@@ -26916,7 +26868,6 @@ produst->product
 speific->specific
 tranmit->transmit
 ucraina->ukraina
-dasboard->dashboard
 inreases->increases
 isvalide->isvalid
 methodes->methods
@@ -27588,7 +27539,6 @@ roperties->properties
 sandwitch->sandwich
 screnshot->screenshot
 securituy->security
-sceptical->skeptical
 ssettings->settings
 stablized->stabilized
 standlone->standalone
@@ -29329,7 +29279,6 @@ colonl->colonel
 colonle->colonel
 coloquial->colloquial
 colouration->coloration
-colourless->colorless
 colun->colon
 colunm->column
 comemmorate->commemorate
@@ -30690,7 +30639,6 @@ insident->incident
 insistant->insistent
 insoluable->insoluble
 instilation->installation
-insufficently->insufficiently
 intelilgence->intelligence
 intellgence->intelligence
 intellgience->intelligence
@@ -30896,7 +30844,6 @@ librarean->librarian
 licene->license
 licenes->license
 licens->license
-licesne->license
 licnese->license
 licnse->license
 liecnse->license
@@ -32596,7 +32543,6 @@ suceptible->susceptible
 sueprsede->supersede
 suersede->supersede
 suff->scuff
-suffciently->sufficiently
 suffing->scuffing
 suie->suite
 suiet->suite
@@ -32765,8 +32711,6 @@ triarcy->truancy
 triarcyh->diarchy
 triarhcy->diarchy
 triarhy->trashy
-trignometric->trigonometric
-trignometry->trigonometry
 trignoometric->trigonometric
 trignoometry->trigonometry
 trigonmetric->trigonometric
@@ -33380,7 +33324,6 @@ contller->controller
 contrats->contrast
 contuous->continuous
 convetor->converter
-convient->convenient
 cosntant->constant
 cursopor->cursorpos
 dajusted->adjusted
@@ -33660,7 +33603,6 @@ thiss->this
 rquot->rquote
 rquottoreplace->rquotetoreplace
 bordemnwidth->bordermnwidth
-mhdc->hdc
 pchangeslist->rchangeslist
 whiich->which
 tahtweel->tatweel
@@ -33670,3 +33612,6 @@ glyhps->glyphs
 ressoure->resource
 sypotom->symptom
 unnecessssary->unnecessary
+backointers->backpointers
+backointer->backpointer
+gelma_trap->gelma
