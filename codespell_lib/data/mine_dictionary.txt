@@ -24981,7 +24981,6 @@ multpiple->multiple
 nexecuted->executed
 nornally->normally
 ohysical->physical
-operatin->operation
 optiimize->optimize
 optimizd->optimized
 optomize->optimize
