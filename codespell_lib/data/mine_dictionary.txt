@@ -9015,9 +9015,6 @@ excellenze->excellence
 excepcional->exceptional
 exceptionaly->exceptionally
 exceptionel->exceptional
-excerised->exercised
-excerises->exercises
-excerising->exercising
 excessivley->excessively
 excessivly->excessively
 exceutioner->executioner
@@ -9083,13 +9080,6 @@ exercicing->exercising
 exercide->exercised
 exercies->exercise
 exerciseing->exercising
-exercizes->exercise
-exercizing->exercising
-exersice->exercise
-exersices->exercises
-exersicing->exercising
-exersising->exercising
-exersizing->exercising
 exeuctioner->executioner
 exeuctions->executions
 exhasuted->exhausted
