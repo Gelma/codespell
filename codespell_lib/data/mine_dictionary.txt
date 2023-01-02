@@ -399,7 +399,6 @@ coping->copying
 dellaloc->delalloc
 anobject->an object
 suppplier->supplier
-langiages->languages
 ouf->of
 assumably->assumedly
 eny->any
@@ -741,7 +740,6 @@ resizde->resize
 reubuild->rebuild
 robuest->robust
 salvange->salvage
-scrpit->script
 secondiory->secondary
 sectoin->section
 sessoin->session
@@ -859,7 +857,6 @@ ntpong->ntopng
 ournaling->journaling
 ourside->outside
 owneship->ownership
-pacage->package
 pagepeed->pagespeed
 paravirtualizaion->paravirtualization
 permenatly->permanently
@@ -891,7 +888,6 @@ solutiontion->solution
 stackscritps->stackscripts
 stadards->standards
 sudp->sudo
-sudu->sudo
 taskwarriror->taskwarrior
 terria->terraria
 thursdsay->thursday
@@ -6625,8 +6621,6 @@ deliviered->delivered
 deliviring->delivering
 delpeted->depleted
 delporable->deplorable
-delpoyed->deployed
-delpoying->deploying
 delpoyment->deployment
 delusionnal->delusional
 delutional->delusional
@@ -6785,7 +6779,6 @@ deplorabel->deplorable
 deplorabil->deplorable
 deplorabile->deplorable
 deplorible->deplorable
-deployd->deployed
 deplyoing->deploying
 deplyoment->deployment
 depoisted->deposited
@@ -12212,8 +12205,6 @@ islmaists->islamists
 isloate->isolate
 ismalist->islamist
 isntaller->installer
-isntalling->installing
-isntalls->installs
 isntantly->instantly
 isntructed->instructed
 isntrumental->instrumental
@@ -12523,7 +12514,6 @@ landscaps->landscapes
 landscspe->landscapes
 landshapes->landscapes
 landspaces->landscapes
-languague->language
 lannasters->lannisters
 lannesters->lannisters
 lannistars->lannisters
@@ -18848,8 +18838,6 @@ scroates->socrates
 scrollade->scrolled
 scrolld->scrolled
 scropion->scorpion
-scrpited->scripted
-scrpits->scripts
 scruitny->scrutiny
 scrunity->scrutiny
 scrutiney->scrutiny
@@ -23066,7 +23054,6 @@ involement->involvement
 itelf->itself
 kolombia->colombia
 kuba->cuba
-languagues->languages
 laosi->laos
 lookin->looking
 maintaind->maintained
@@ -23127,7 +23114,6 @@ runnner->runner
 sahra->sahara
 saxara->sahara
 sami->same
-scrit->script
 searaches->searches
 searcg->search
 secified->specified
@@ -23207,7 +23193,6 @@ regersion->regression
 anchof->anchor
 unfortuntately->unfortunately
 unneede->unneeded
-stripts->strips
 i'am->i am
 intrinsincs->intrinsics
 backgrahic->backgraphic
@@ -23232,7 +23217,6 @@ changset->changeset
 ckeckpoint->checkpoint
 clannel->channel
 colulmn->column
-comiler->compiler
 containst->contains
 crimean->crimea
 crytographic->cryptographic
@@ -24794,7 +24778,6 @@ exprected->expected
 extecting->expecting
 extrior->exterior
 exxpected->expected
-faulure->failure
 feadback->feedback
 februaury->february
 finctions->functions
@@ -24952,7 +24935,6 @@ cerificate->certificate
 combnation->combination
 configuredi->configured
 consitions->conditions
-contitions->conditions
 convolunted->convoluted
 cooerative->cooperative
 dispobible->disponible
@@ -25199,8 +25181,6 @@ passsword->password
 persisent->persistent
 pluggin->plugin
 pluggins->plugins
-posgresql->postgresql
-postgesql->postgresql
 procudure->procedure
 protoocol->protocol
 questins->questions
@@ -26132,7 +26112,6 @@ etiopik->etiopian
 etnries->entries
 euforia->euphoria
 extacly->exactly
-faiulre->failure
 featrue->feature
 featuer->feature
 fieldes->filedes
@@ -26842,7 +26821,6 @@ compelted->compeleted
 concerete->concrete
 conformat->conformant
 constexts->contexts
-contition->condition
 coparison->comparison
 cryptseup->cryptsetup
 deeclared->declared
@@ -27610,7 +27588,6 @@ aetshetic->aesthetic
 aeurysm->aneurysm
 affadavit->affidavit
 affidavat->affidavit
-affter->after
 aficoinado->aficionado
 afriad->afraid
 afteraffect->aftereffect
@@ -32552,7 +32529,6 @@ minialencode->minimalencode
 moderegistry->modesregistry
 noisesetting->noisesettings
 normalencode->normalencoder
-notifictions->notifications
 parellelized->parallelized
 predeccessor->predecessor
 preprocssing->preprocessing
