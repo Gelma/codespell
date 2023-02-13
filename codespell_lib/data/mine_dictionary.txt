@@ -6018,8 +6018,6 @@ cutscens->cutscenes
 cutscenses->cutscene
 cutsence->cutscene
 cutsences->cutscenes
-cuztomizable->customizable
-cuztomization->customization
 cyandie->cyanide
 cyclistes->cyclists
 cyclits->cyclist
@@ -19461,8 +19459,6 @@ sprintas->sprints
 sproels->sproles
 sprotsmanship->sportsmanship
 sproutes->sprouts
-spwaned->spawned
-spwaning->spawning
 sqaudron->squadron
 sqaurely->squarely
 sqeuaky->squeaky
@@ -23928,7 +23924,6 @@ homepge->homepage
 humidty->humidity
 ifonfig->ifconfig
 imageing->imaging
-incliude->include
 inctive->inactive
 intenet->internet
 invallid->invalid
@@ -24684,7 +24679,6 @@ regaurding->regarding
 regreesion->regression
 regulaltor->regulator
 releaseing->releasing
-renabling->reenabling
 replacoing->replacing
 reprogramm->reprogram
 requeested->requested
