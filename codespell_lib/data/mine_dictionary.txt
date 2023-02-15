@@ -1710,7 +1710,6 @@ amtheyst->amethyst
 amublance->ambulance
 anachrist->anarchist
 analgoue->analogue
-analisys->analysis
 analitycal->analytical
 analitycs->analytics
 analoge->analogue
@@ -6000,7 +5999,6 @@ cursade->crusade
 cursader->crusader
 cursaders->crusaders
 curtian->curtain
-custamizable->customizable
 custcene->cutscene
 custcenes->cutscenes
 custimizable->customizable
@@ -8455,7 +8453,6 @@ explicatia->explicit
 explicatie->explicit
 explicatif->explicit
 explicatii->explicit
-explicetly->explicitly
 expliciet->explicit
 explinatory->explanatory
 expliotation->exploitation
@@ -14948,7 +14945,6 @@ paradim->paradigm
 paradse->parades
 paradyse->parades
 paragraghs->paragraphs
-paragrah->paragraph
 paragrahps->paragraphs
 paragrapgh->paragraphs
 paragraphes->paragraphs
@@ -23107,7 +23103,6 @@ advetising->advertising
 affeceted->affected
 affetcted->affected
 afjust->adjust
-afrer->after
 aftert->after
 aggregtion->aggregation
 aggrivation->aggravation
@@ -23229,7 +23224,6 @@ broght->brought
 buffereing->buffering
 buiiltin->builtin
 buildin->builtin
-buttin->button
 buttoni->button
 buundle->bundle
 bytebufer->bytebuffer
@@ -23522,7 +23516,6 @@ directwhow->directshow
 hellper->helper
 staters->starters
 ageing->aging
-alforithm->algorithm
 algrorithm->algorithm
 ample->sample
 brough->brought
@@ -23836,7 +23829,6 @@ sharred->shared
 shemes->schemes
 shifs->shifts
 shouuld->should
-sience->since
 signsl->signal
 siince->since
 skritt->script
@@ -25065,7 +25057,6 @@ initilizecount->initializecount
 insertargument->insertarguments
 inspeactheap->inspectheap
 instaniation->instantiation
-instersections->intersections
 instumentation->instrumentation
 inteferences->interferences
 interraction->interaction
@@ -25742,7 +25733,6 @@ inducator->indicator
 somea->some
 somebedy->somebody
 anymroe->anymore
-arraies->arrays
 arrount->around
 athemps->attempts
 atomicy->atomicity
@@ -25858,7 +25848,6 @@ serfver->servers
 shuffel->shuffle
 smasung->samsung
 sorintg->sorting
-splited->split
 stciker->sticker
 synatxe->syntax
 textuer->texture
@@ -29188,7 +29177,6 @@ geometirc->geometric
 geometr->geometry
 geometrci->geometric
 geometri->geometry
-geomteric->geometric
 geomtric->geometric
 geregious->egregious
 gfit->gift
@@ -31649,7 +31637,6 @@ tenture->tenure
 teoticuahan->teotihuacã¡n
 teradactil->pterodactyl
 terier->terrier
-teritory->territory
 terodactil->pterodactyl
 terodactle->pterodactyl
 terodactyl->pterodactyl
@@ -32548,7 +32535,6 @@ sulfolders->subfolders
 tabele->table
 jut->just
 delinquncy->delinquency
-moudles->modules
 compbo->combo
 reaking->reaching
 iterata->iterate
