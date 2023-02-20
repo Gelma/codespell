@@ -361,7 +361,6 @@ correctl->correctly
 corrpt->corrupt
 countaining->containing
 coveriy->coverity
-customizeable->customizable
 daeomn->daemon
 dangerouse->dangerous
 decleared->declared
@@ -3508,9 +3507,6 @@ capsumel->capsule
 captainers->captains
 captais->captains
 capteurs->captures
-captialism->capitalism
-captialist->capitalist
-captialists->capitalists
 captialization->capitalization
 captialize->capitalize
 captialized->capitalized
@@ -4390,7 +4386,6 @@ commericals->commercials
 commiest->commits
 comminicate->communicate
 comminicated->communicated
-comminists->communists
 comminucate->communicate
 commishioned->commissioned
 commishioner->commissioner
@@ -4431,7 +4426,6 @@ communicatin->communications
 communicatoin->communications
 communicatons->communications
 communicted->communicated
-communisim->communism
 communiss->communists
 communistas->communists
 communiste->communities
@@ -4440,7 +4434,6 @@ communit->communist
 communite->communities
 communitites->communities
 communits->communist
-communsim->communism
 communters->commenters
 compadibility->compatibility
 compadible->compatible
@@ -5524,7 +5517,6 @@ convertirme->converter
 convertirte->converter
 convertis->converts
 convertr->converter
-convervation->conservation
 convervatism->conservatism
 converying->converting
 converzation->conservation
@@ -12843,7 +12835,6 @@ marineras->mariners
 marineris->mariners
 marineros->mariners
 maritan->martian
-marixsm->marxism
 mariyln->marilyn
 marjiuana->marijuana
 markede->marketed
@@ -12869,7 +12860,6 @@ martail->martial
 martain->martian
 maruader->marauder
 marvelos->marvelous
-marxisim->marxism
 masacra->mascara
 mascarra->mascara
 masculanity->masculinity
@@ -13980,8 +13970,6 @@ nasueous->nauseous
 nasvhille->nashville
 natievly->natively
 natioanlistic->nationalistic
-natioanlist->nationalist
-natioanlists->nationalists
 nationaal->national
 nationailty->nationality
 nationalesl->nationals
@@ -17484,7 +17472,6 @@ refrigerar->refrigerator
 refrigerater->refrigerator
 refrigirator->refrigerator
 refromed->reformed
-refroms->reforms
 refrubished->refurbished
 refubrished->refurbished
 refurbised->refurbished
@@ -18113,7 +18100,6 @@ revelant->relevant
 revelas->reveals
 revelatons->revelations
 revelead->revealed
-revelutionary->revolutionary
 reverals->reversal
 reversably->reversal
 reviere->reviewer
@@ -18126,17 +18112,10 @@ revisionis->revisions
 revlover->revolver
 revloves->revolves
 revolations->revolutions
-revoltuion->revolution
-revoluiton->revolutions
-revolutin->revolutions
 revolutionair->revolutionary
-revolutionairy->revolutionary
-revolutionay->revolutionary
 revolutionens->revolutions
 revolutioners->revolutions
-revolutionnary->revolutionary
 revolutionos->revolutions
-revolutoin->revolutions
 revolvr->revolver
 revolvs->revolves
 revoultionary->revolutionary
@@ -23005,7 +22984,6 @@ resusable->reusable
 rmling->rmlint
 rotaionality->rotationality
 routinen->routine
-rturn->return
 schred->shred
 sequenial->sequential
 sheduler->scheduler
@@ -23305,7 +23283,6 @@ compiing->compiling
 compilerr->compiler
 compilor->compiler
 compise->comprise
-complection->completion
 complinance->compliance
 complte->complete
 componnent->component
@@ -23715,7 +23692,6 @@ generis->generic
 habana->havana
 hammler->hammer
 handlep->handle
-hasing->hashing
 headaer->header
 helpper->helper
 hermal->thermal
@@ -24174,7 +24150,6 @@ surrount->surround
 telemtry->telemetry
 threfore->therefore
 toggline->toggling
-tollerant->tolerant
 trailings->trailing
 trainning->training
 trancate->truncate
