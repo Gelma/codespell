@@ -581,7 +581,6 @@ paravirtualizaion->paravirtualization
 permenatly->permanently
 personlization->personalization
 picured->pictured
-polcy->policy
 postifx->postfix
 postix->postfix
 precist->precise
@@ -22909,7 +22908,6 @@ disassemblied->disassembled
 disestfinal->digestfinal
 docus->docs
 duplcations->duplications
-duplictes->duplicates
 echoe->echo
 enlargable->enlargeable
 entact->intact
