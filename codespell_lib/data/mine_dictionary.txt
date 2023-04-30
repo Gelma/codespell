@@ -1075,7 +1075,6 @@ accomplishent->accomplishment
 accomplishents->accomplishes
 accomplishs->accomplishes
 accompliss->accomplishes
-accomponied->accompanied
 acconplishment->accomplishment
 accostumed->accustomed
 accountabillity->accountability
@@ -3746,7 +3745,6 @@ challengr->challenger
 challengs->challenges
 challengue->challenger
 challengur->challenger
-challening->challenging
 challneger->challenger
 chambear->chamber
 chameleooon->chameleon
@@ -5798,7 +5796,6 @@ creativily->creatively
 creativley->creatively
 creatue->creature
 credencials->credentials
-credentails->credentials
 credentaisl->credentials
 credibillity->credibility
 credibilty->credibility
@@ -6797,8 +6794,6 @@ diganosis->diagnosis
 diganostic->diagnostic
 dignitiy->dignity
 dilpoma->diploma
-dimaond->diamond
-dimaonds->diamonds
 dimensionals->dimensions
 dimensionnal->dimensional
 dimensionsal->dimensional
@@ -8066,7 +8061,6 @@ equilibrim->equilibrium
 equilibruim->equilibrium
 equivalants->equivalents
 equivalet->equivalents
-equivallent->equivalent
 equivalnce->equivalence
 equivalnet->equivalents
 equivelance->equivalence
@@ -10733,7 +10727,6 @@ indistingusihable->indistinguishable
 indistinquishable->indistinguishable
 indistructible->indestructible
 indistuingishable->indistinguishable
-individiual->individual
 individuais->individuals
 individuales->individuals
 individuallity->individuality
@@ -14408,7 +14401,6 @@ occasionnal->occasional
 occulation->occupation
 occupaiton->occupation
 occupato->occupation
-occurrencies->occurrences
 ocotber->october
 ocotpus->octopus
 ocraina->ocarina
@@ -15248,7 +15240,6 @@ percantile->percentile
 percaution->precaution
 percautions->precautions
 perceded->preceded
-percenatge->percentages
 percentagens->percentages
 percente->percentile
 percential->percentile
@@ -16673,7 +16664,6 @@ promptus->prompts
 prompty->promptly
 promsicuous->promiscuous
 promtply->promptly
-promtps->prompts
 pronography->pornography
 pronouciation->pronunciation
 pronoucned->pronounced
@@ -17193,7 +17183,6 @@ raphsody->rhapsody
 raptores->raptors
 raptros->raptors
 raputre->rapture
-rasbperry->raspberry
 raspberrry->raspberry
 rathcet->ratchet
 rationalizaiton->rationalization
@@ -17587,8 +17576,6 @@ relaibly->reliably
 relaised->realised
 relaise->realise
 relaitonship->relationships
-relaoded->reloaded
-relaoding->reloading
 relapes->relapse
 relasped->relapsed
 relaspe->relapse
@@ -19939,7 +19926,6 @@ summones->summoners
 summonr->summoner
 summore->summoner
 summorized->summarized
-summurized->summarized
 sunconsciously->subconsciously
 sunconscious->subconscious
 sunderlad->sunderland
@@ -22651,7 +22637,6 @@ compils->compiles
 compler->compiler
 comtributor->contributor
 condiction->condition
-containin->containing
 contentypes->contenttypes
 contettypes->contenttypes
 contrim->contrib
@@ -23602,7 +23587,6 @@ encrypytion->encryption
 encryt->encrypt
 endable->enable
 endiad->endian
-endpint->endpoint
 endpioint->endpoint
 enocoded->encoded
 enoding->encoding
@@ -24573,7 +24557,6 @@ themeing->theming
 thouched->touched
 throughs->through
 troncated->truncated
-tweek->tweak
 unabled->unable
 unckecked->unchecked
 unneeed->unneeded
@@ -24942,7 +24925,6 @@ simplfistic->simplistic
 snapshoting->snapshotting
 soliciation->solicitation
 structurees->structures
-subcription->subscription
 subseqently->subsequently
 subseqeuent->subsequent
 subsequenet->subsequent
@@ -25680,7 +25662,6 @@ optuin->option
 otehyr->other
 pacekt->packet
 prinkt->printk
-promtp->prompt
 proxie->proxy
 pulbic->public
 quueus->queues
@@ -25875,7 +25856,6 @@ mindd->mind
 outputtng->outputting
 specidies->specifies
 startig->starting
-tweeks->tweaks
 ubundu->ubuntu
 updatedd->updated
 utilsa->utils
