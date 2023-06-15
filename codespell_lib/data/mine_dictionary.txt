@@ -13809,7 +13809,6 @@ mulitnational->multinational
 mulitnationals->multinational
 mulitplayer->multiplayer
 mulitples->multiples
-mulitplying->multiplying
 mulittasking->multitasking
 mulitverse->multiverse
 mulsims->muslims
@@ -13877,8 +13876,6 @@ mutliation->mutilation
 mutlinational->multinational
 mutlinationals->multinational
 mutliplayer->multiplayer
-mutliplied->multiplied
-mutliplying->multiplying
 mutlitasking->multitasking
 mutlitude->multitude
 mutliverse->multiverse
@@ -22570,7 +22567,6 @@ specalist->specialist
 staf->staff
 stratgy->strategy
 streightforward->straightforward
-strin->string
 submittor->submitter
 suuplied->supplied
 symmentrical->symmetrical
