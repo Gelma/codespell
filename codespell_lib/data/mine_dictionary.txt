@@ -1057,7 +1057,6 @@ accideny->accidentally
 accidnetly->accidentally
 acclamied->acclaimed
 accliamed->acclaimed
-accommadation->accommodation
 accommidate->accommodate
 accommidation->accommodation
 accomondate->accommodate
@@ -7381,7 +7380,6 @@ downloadbel->downloadable
 downloadbig->downloading
 downloadble->downloadable
 downloadeble->downloadable
-downloades->downloads
 downloas->downloads
 downovted->downvoted
 downovting->downvoting
@@ -21697,7 +21695,6 @@ unwrittern->unwritten
 upgrads->upgrades
 uplfiting->uplifting
 uplifitng->uplifting
-uploades->uploads
 upstaris->upstairs
 upstiars->upstairs
 urainum->uranium
@@ -23103,7 +23100,6 @@ appendicies->appendices
 appluication->application
 appropariate->appropriate
 appropriatelly->appropriately
-aproximated->approximated
 arabinc->arabic
 arbritration->arbitration
 arbritrator->arbitrator
@@ -27005,7 +27001,6 @@ acnowledging->acknowledging
 acnowledgment->acknowledgment
 acocmmodate->accommodate
 acolade->accolade
-acomodation->accommodate
 acomodete->accommodate
 acompish->accomplish
 acor->acorn
