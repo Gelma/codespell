@@ -154,7 +154,6 @@ nad->and
 otherwiese->otherwise
 breaked->broken
 accessiblility->accessibility
-accessble->accessible
 initialitation->initialization
 batter->better
 buts->but
@@ -251,7 +250,6 @@ filesystm->filesystem
 flesystem->filesystem
 gettig->getting
 hehavior->behavior
-impossble->impossible
 indefinetelly->indefinitely
 initialzied->initialized
 initlized->initialized
@@ -4102,7 +4100,6 @@ classicus->classics
 classificaiton->classification
 classificato->classification
 classifides->classified
-classifiy->classify
 classis->classics
 classrooom->classroom
 classsic->classics
@@ -10479,7 +10476,6 @@ imtimidating->intimidating
 imtimidation->intimidation
 inaccesibles->inaccessible
 inaccessbile->inaccessible
-inaccessble->inaccessible
 inaccessibile->inaccessible
 inaccruate->inaccurate
 inaccuraces->inaccuracies
@@ -15331,7 +15327,6 @@ perminantly->permanently
 perminently->permanently
 permise->premise
 permises->premises
-permissble->permissible
 permissiable->permissible
 permissibe->permissible
 permissie->permissible
@@ -17082,14 +17077,12 @@ qualifiies->qualifiers
 qualifiing->qualifying
 qualifikation->qualification
 qualifires->qualifiers
-qualifiy->qualify
 qualifyers->qualifiers
 qualitying->qualifying
 qualtitative->quantitative
 quanitfy->quantify
 quanitites->quantities
 quantatitive->quantitative
-quantifiy->quantify
 quantitaive->quantitative
 quantitatve->quantitative
 quantite->quantities
@@ -18338,7 +18331,6 @@ satasfaction->satisfaction
 satasfactory->satisfactory
 satellie->satellites
 satellitte->satellites
-satifsying->satisfying
 satisfaccion->satisfaction
 satisfacion->satisfaction
 satisfacory->satisfactory
@@ -18348,8 +18340,6 @@ satisfactorilly->satisfactory
 satisfactorly->satisfactory
 satisfcation->satisfaction
 satisfiction->satisfaction
-satisfiy->satisfy
-satisifes->satisfies
 satistactory->satisfactory
 satisy->satisfy
 satruday->saturday
@@ -18816,7 +18806,6 @@ significante->significance
 significanty->significantly
 significato->significant
 signifikant->significant
-signifiy->signify
 signigns->signings
 signins->signings
 signitures->signatures
@@ -18877,7 +18866,6 @@ simplisity->simplicity
 simplistes->simplest
 simplistisch->simplistic
 simplivity->simplicity
-simplyfied->simplified
 simplyifing->simplifying
 simposn->simpson
 simspon->simpson
@@ -23249,7 +23237,6 @@ comapare->compare
 comhy->comphy
 compactiing->compacting
 compactnes->compactness
-compatble->compatible
 compatibiity->compatibility
 compelete->complete
 compeletion->completion
@@ -24520,7 +24507,6 @@ routinues->routines
 samper->sampler
 sanitiy->sanity
 sarch->search
-satistied->satisfied
 screipt->script
 scrol->scroll
 seprador->separador
@@ -24981,7 +24967,6 @@ hnotification->notification
 hotplaggable->hotpluggable
 identificaion->identification
 identifieres->identifiers
-identifiying->identifying
 idetification->identification
 iinitialization->initialization
 imediaobject->mediaobject
@@ -26762,8 +26747,6 @@ abndoned->abandoned
 abnudance->abundance
 abnudant->abundant
 abondance->abundance
-aborbent->absorbent
-aborption->absorption
 abosrbent->absorbent
 abrbeviate->abbreviate
 abriviated->abbreviated
@@ -27157,7 +27140,6 @@ adlescent->adolescent
 adloescent->adolescent
 administratoin->administration
 admision->admission
-admiting->admit
 admitt->admit
 adoelscent->adolescent
 adoescent->adolescent
@@ -27509,7 +27491,6 @@ anlyze->analyze
 anmalous->anomalous
 anmoalous->anomalous
 annhiilate->annihilate
-annhilate->annihilate
 anniersary->anniversary
 annievrsary->anniversary
 annihialte->annihilate
@@ -28798,9 +28779,7 @@ eletion->elation
 elevant->elegant
 elgiible->eligible
 elieve->believe
-eligability->eligibility
 eligbile->eligible
-eligble->eligible
 eligibe->eligible
 eligibel->eligible
 eligibl->eligible
