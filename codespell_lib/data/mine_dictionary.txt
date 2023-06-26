@@ -4618,7 +4618,6 @@ complimentory->complimentary
 complimentry->complimentary
 complimenty->complimentary
 complination->complication
-complition->completion
 complusion->compulsion
 complusions->compulsion
 complusive->compulsive
@@ -8521,7 +8520,6 @@ exsitance->existence
 exsitent->existent
 extendes->extends
 extendos->extends
-extenion->extension
 extensie->extensive
 extensis->extensions
 extensivelly->extensively
@@ -11001,7 +10999,6 @@ initalisers->initialisers
 initalism->initialism
 initalisms->initialisms
 initalizable->initializable
-initalizations->initializations
 initalled->initialled
 initalling->initialling
 initalness->initialness
@@ -11389,8 +11386,6 @@ interferisse->interferes
 interferre->interfere
 interferres->interferes
 intergal->integral
-intergate->integrate
-intergation->integration
 intergity->integrity
 interioara->interior
 interioare->interior
@@ -11680,8 +11675,6 @@ introvertie->introverted
 introvertis->introverts
 introveted->introverted
 introvet->introvert
-intruduces->introduces
-intruduction->introduction
 intruductory->introductory
 intruiged->intrigued
 intruige->intrigue
@@ -17295,7 +17288,6 @@ recognision->recognition
 recogniton->recognition
 recognizible->recognizable
 recolleciton->recollection
-recommandations->recommendations
 recommande->recommend
 recommandes->recommends
 recommendeds->recommends
@@ -20839,7 +20831,6 @@ transferrring->transferring
 transferrs->transfers
 transfersom->transforms
 transferts->transfers
-transfomers->transforms
 transfored->transformed
 transformacion->transformation
 transformarea->transformer
@@ -22950,7 +22941,6 @@ rotaionality->rotationality
 routinen->routine
 schred->shred
 sequenial->sequential
-sheduler->scheduler
 sideof->sizeof
 soeed->speed
 sqlit->sqlite
@@ -23029,7 +23019,6 @@ acrosst->across
 actuallly->actually
 acturator->actuator
 actuve->active
-adaper->adapter
 adater->adapter
 addad->added
 addittional->additional
@@ -23474,7 +23463,6 @@ encounded->encoded
 espected->expected
 evenutally->eventually
 expecteed->expected
-explcitly->explicitly
 faction->fraction
 filsesystem->filesystem
 frequecy->frequency
@@ -24005,7 +23993,6 @@ initites->initiates
 interaval->interval
 interfac->interface
 interrpt->interrupt
-intiated->initiated
 intiator->initiator
 invision->envision
 itereated->iterated
@@ -24112,7 +24099,6 @@ telemtry->telemetry
 threfore->therefore
 toggline->toggling
 trailings->trailing
-trainning->training
 trancate->truncate
 transfoer->transfer
 transites->transits
@@ -24315,7 +24301,6 @@ instrusive->intrusive
 intefaces->interfaces
 intergrity->integrity
 interrpts->interrupts
-intiating->initiating
 intrinscs->intrinsics
 ipwireles->ipwireless
 knowledege->knowledge
@@ -24734,7 +24719,6 @@ touchsreen->touchscreen
 traditonal->traditional
 tranformer->transformer
 transciver->transceiver
-trasmitted->transmitted
 unallocted->unallocated
 unegisters->unregisters
 unsubcribe->unsubscribe
@@ -24956,7 +24940,6 @@ exclaimation->exclamation
 filedesecriptor->filedescriptor
 fontdirecory->fontdirectory
 funcationality->functionality
-funcionalities->functionalities
 functionalites->functionalities
 functionalitis->functionalities
 getlastmodifed->getlastmodified
@@ -25324,7 +25307,6 @@ ingerprints->fingerprints
 innnovation->innovation
 installaing->installing
 interlacied->interlaced
-intruduce->introduce
 invstigation->investigation
 ionformation->information
 joinly->jointly
@@ -25393,7 +25375,6 @@ plannar->planar
 postprocessng->postprocessing
 preapare->prepare
 precalclate->precalculate
-preceedes->precedes
 predicctor->predictor
 predicion->prediction
 predicition->prediction
@@ -27646,7 +27627,6 @@ appartmant->apartment
 appologize->apologize
 appopriation->appropriation
 appparent->apparent
-apprent->apparent
 appropiation->appropriation
 appropraition->appropriation
 appropriaion->appropriation
@@ -30844,7 +30824,6 @@ proclamtion->proclamation
 proclmaation->proclamation
 proclmation->proclamation
 programe->program
-programer->programmer
 prolamation->proclamation
 prolcamation->proclamation
 prominate->prominent
@@ -31365,7 +31344,6 @@ socre->score
 soicopath->sociopath
 soiopath->sociopath
 solider->soldier
-somone->someone
 sonwman->snowman
 soosaphone->sousaphone
 soptter->spotter
@@ -31622,7 +31600,6 @@ trancend->transcend
 trancended->transcended
 trancendental->transcendental
 trangle->triangle
-traning->training
 tranlator->translator
 tranlsator->translator
 tranny->tyranny
@@ -32306,7 +32283,6 @@ forbedden->forbidden
 interpredted->interpreted
 leadung->leading
 methof->method
-preceede->precede
 psersistent->persistent
 sepatrated->separated
 solders->olders
