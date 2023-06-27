@@ -505,7 +505,6 @@ comf->conf
 comfigured->configured
 commanda->commands
 communty->community
-configre->configure
 configurde->configure
 conhesive->cohesive
 connectiong->connecting
@@ -543,7 +542,6 @@ interctive->interactive
 interent->internet
 iptabes->iptables
 iptop->iotop
-istalled->installed
 janaury->january
 keepalives->keepalive
 latestet->latest
@@ -833,7 +831,6 @@ contribuated->contributed
 launnched->launched
 openshop->openshot
 thunbnail->thumbnail
-duplciates->duplicates
 anmiated->animated
 cilps->clips
 moutpoint->mountpoint
@@ -1983,7 +1980,6 @@ apparenty->apparently
 appearane->appearances
 appeard->appeared
 appearnace->appearances
-apperantly->apparently
 apperciate->appreciate
 apperciated->appreciated
 apperciates->appreciates
@@ -4389,7 +4385,6 @@ commissionned->commissioned
 commissionner->commissioner
 commissionor->commissioner
 commissons->commissions
-commisssion->commissions
 commitd->committed
 commiteed->committed
 commiteted->committed
@@ -16157,7 +16152,6 @@ premilinary->preliminary
 premines->premise
 premire->premier
 premissible->permissible
-premissions->permissions
 premius->premiums
 premuim->premium
 premuims->premiums
@@ -17302,12 +17296,7 @@ recommondations->recommendations
 reconcider->reconsider
 reconcilled->reconcile
 reconcille->reconcile
-recongised->recognised
-recongise->recognise
-recongition->recognition
 recongizable->recognizable
-recongizes->recognizes
-recongizing->recognizing
 reconicle->reconcile
 reconisder->reconsider
 reconnet->reconnect
@@ -20592,7 +20581,6 @@ thorttling->throttling
 thorughout->throughout
 thoruim->thorium
 thoughs->thoughts
-thougths->thoughts
 thouroghly->thoroughly
 thourogh->thorough
 threadd->threaded
@@ -22442,8 +22430,6 @@ prefferred->preferred
 prefiler->prefilter
 prelinklines->prelinkline
 privatly->privately
-propigated->propagated
-propigates->propagates
 pubey->pubkey
 qivi->quvi
 quviparam->quviparams
@@ -22864,7 +22850,6 @@ dileterious->deleterious
 disassemblied->disassembled
 disestfinal->digestfinal
 docus->docs
-duplcations->duplications
 echoe->echo
 enlargable->enlargeable
 entact->intact
@@ -22934,7 +22919,6 @@ registere->registered
 reimplimented->reimplemented
 reloadale->reloadable
 repeate->repeat
-resove->resolve
 resusable->reusable
 rmling->rmlint
 rotaionality->rotationality
@@ -23016,7 +23000,6 @@ acknowedge->acknowledge
 acounting->accounting
 acquireing->acquiring
 acrosst->across
-actuallly->actually
 acturator->actuator
 actuve->active
 adater->adapter
@@ -23235,7 +23218,6 @@ compilerr->compiler
 compilor->compiler
 compise->comprise
 complinance->compliance
-complte->complete
 componnent->component
 compositiing->compositing
 comptibility->compatibility
@@ -23533,7 +23515,6 @@ dublex->duplex
 dablin->dublin
 duing->during
 dunctions->functions
-duplcation->duplication
 duplx->duplex
 duratinon->duration
 durind->during
@@ -24379,7 +24360,6 @@ distored->distorted
 distroy->destroy
 domps->dumps
 dtermines->determines
-duplcated->duplicated
 dynamaic->dynamic
 earier->earlier
 emmulated->emulated
@@ -24776,7 +24756,6 @@ interuption->interruption
 intevention->intervention
 introdution->introduction
 inxtruction->instruction
-istallation->installation
 managemnt->management
 minimim->minimum
 montonic->monotonic
@@ -24934,7 +24913,6 @@ consutruction->construction
 converstation->conversation
 decyptmessage->decryptmessage
 derefferenced->dereferenced
-docuementation->documentation
 eperspective->perspective
 exclaimation->exclamation
 filedesecriptor->filedescriptor
@@ -25495,7 +25473,6 @@ exponend->exponent
 fionacci->fibonacci
 preorden->preorder
 punicode->pyunicode
-resoving->resolving
 compexity->complexity
 dfference->difference
 dustutils->distutils
@@ -25788,7 +25765,6 @@ alogn->align
 alterning->altering
 boolian->boolean
 capabilitites->capabilities
-compltes->completes
 configrable->configurable
 ftrase->ftrace
 initiaize->initialize
@@ -25865,7 +25841,6 @@ querybuss->querybus
 rendrered->rendered
 resonsive->responsive
 safeouput->safeoutput
-transator->translator
 vourchers->vouchers
 cusomlangs->customlangs
 equatoriaal->equatorial
