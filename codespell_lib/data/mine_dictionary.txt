@@ -797,7 +797,6 @@ vmmmouse->vmmouse
 workding->working
 ymaha->yamaha
 abolsute->absolute
-accpeted->accepted
 assocatiated->associated
 asynchrously->asynchronously
 brdige->bridge
@@ -867,7 +866,6 @@ quiesing->quiescing
 checkfuncs->checkfunc
 pooname->poolname
 contigeous->contiguous
-adventageous->advantageous
 memry->memory
 immdiate->immediate
 maintaines->maintains
@@ -1079,7 +1077,6 @@ accountatns->accountants
 accountent->accountant
 accountents->accountants
 accountt->accountant
-accpetable->acceptable
 accpetance->acceptance
 accrediated->accredited
 accreditied->accredited
@@ -1196,7 +1193,6 @@ activateing->activating
 activaters->activates
 activatin->activation
 activelly->actively
-activiates->activist
 activiites->activist
 activisim->activism
 activisiom->activism
@@ -1233,7 +1229,6 @@ adbomen->abdomen
 adbominal->abdominal
 adbucted->abducted
 addcits->addicts
-adderss->address
 addicitons->addictions
 addictes->addicts
 addictin->addictions
@@ -2239,8 +2234,6 @@ aseuxal->asexual
 asexaul->asexual
 ashpalt->asphalt
 asiprin->aspirin
-asissted->assisted
-asissts->assists
 askreddt->askreddit
 aspahlt->asphalt
 aspectos->aspects
@@ -2289,7 +2282,6 @@ assimiliate->assimilate
 assimliate->assimilate
 assimliated->assimilate
 assimulate->assimilate
-assingments->assignments
 assissinated->assassinated
 assistanat->assistants
 assistans->assistants
@@ -2775,9 +2767,6 @@ begnals->bengals
 behaviorial->behavioral
 behaviorly->behavioral
 behavios->behaviours
-behavoiral->behavioral
-behavoiur->behaviour
-behavoiurs->behaviours
 behavorial->behavioral
 behngazi->benghazi
 behtesda->bethesda
@@ -3305,8 +3294,6 @@ cabniet->cabinet
 cabniets->cabinets
 cacausian->caucasian
 caclium->calcium
-caclulator->calculator
-caclulators->calculators
 caclulus->calculus
 cacuasian->caucasian
 cafeteira->cafeteria
@@ -3324,9 +3311,6 @@ cailbre->calibre
 cainster->canister
 calagry->calgary
 calbire->calibre
-calcluations->calculation
-calcluator->calculators
-calcualtors->calculators
 calcuim->calcium
 calculador->calculator
 calcular->calculator
@@ -3372,7 +3356,6 @@ calroies->calories
 calssification->classification
 calssified->classified
 calssify->classify
-caluclators->calculators
 caluiflower->cauliflower
 caluses->clauses
 calymore->claymore
@@ -3727,7 +3710,6 @@ cesspoool->cesspool
 cetlics->celtics
 chairmain->chairman
 chairtable->charitable
-challanging->challenging
 challegner->challenger
 challender->challenger
 challeneged->challenged
@@ -3848,7 +3830,6 @@ cheetoos->cheetos
 cheezeburger->cheeseburger
 cheezeburgers->cheeseburgers
 cheezecake->cheesecake
-chekcer->checker
 chekcmate->checkmate
 chelsae->chelsea
 chemisty->chemistry
@@ -22508,7 +22489,6 @@ aggretates->aggregates
 ameria->america
 amiguity->ambiguity
 andora->andorra
-annonations->annotations
 announe->announce
 apper->appear
 applicacion->application
@@ -22750,7 +22730,6 @@ applicatino->application
 cachaeble->cacheable
 caniconical->canonical
 carinthia->carinzia
-chcks->check
 checkbock->checkbox
 cimbabue->zimbabwe
 contirb->contrib
@@ -23007,9 +22986,7 @@ addad->added
 addittional->additional
 adjactent->adjacent
 adjudt->adjust
-adjusments->adjustments
 adjustementevent->adjustmentevent
-administators->administrators
 adoptation->adaptation
 adusting->adjusting
 advanct->advance
@@ -23025,7 +23002,6 @@ aignment->alignment
 aithmetic->arithmetic
 alibration->calibration
 aligh->align
-alighment->alignment
 alignent->alignment
 alk->alt
 alll->all
@@ -23091,7 +23067,6 @@ atomc->atomic
 atructure->structure
 attemoted->attempted
 attemptimg->attempting
-attepts->attempts
 attmempt->attempt
 attrative->attractive
 attributon->attribution
@@ -23144,7 +23119,6 @@ bytebufers->bytebuffers
 cabable->capable
 cacellation->cancellation
 caibration->calibration
-calclate->calculate
 calculat->calculate
 calculayte->calculate
 calibtration->calibration
@@ -23169,9 +23143,7 @@ cconfigure->configure
 ceirtain->certain
 chanenel->channel
 channell->channel
-charateristics->characteristics
 chartset->charset
-chcked->checked
 cheatting->cheating
 checken->chicken
 childlen->children
@@ -24322,10 +24294,8 @@ bindning->binding
 boleano->booleano
 bormat->format
 bultibyte->multibyte
-calculte->calculate
 calnceled->canceled
 calsulate->calculate
-captue->capture
 captureing->capturing
 centyry->century
 chainging->changing
@@ -24523,7 +24493,6 @@ averything->everything
 battributes->attributes
 capitilise->capitalise
 cattegories->categories
-cerificate->certificate
 combnation->combination
 configuredi->configured
 consitions->conditions
@@ -27006,10 +26975,8 @@ acto->actor
 actr->actor
 actro->actor
 actulaly->actually
-actvities->activities
 acuaintance->acquaintance
 acuiesce->acquiesce
-acuire->acquire
 acuit->acuity
 acuostic->acoustic
 acuqaintance->acquaintance
@@ -27081,8 +27048,6 @@ adjcaent->adjacent
 adjcency->adjacency
 adjion->adjoin
 adjstment->adjustment
-adjsut->adjust
-adjsutment->adjustment
 adjusmtent->adjustment
 adjustemnt->adjustment
 adjustent->adjustment
@@ -27251,8 +27216,6 @@ ajoin->adjoin
 ajoining->adjoin
 akcnowledging->acknowledging
 akcnowledgment->acknowledgment
-aknowledging->acknowledging
-aknowledgment->acknowledgment
 alae->aloe
 alage->algae
 alaxandrite->alexandrite
@@ -27571,8 +27534,6 @@ aparthei->apartheid
 aparthid->apartheid
 apatheid->apartheid
 apatrheid->apartheid
-apearance->appearance
-apearing->appear
 aphalt->asphalt
 aple->apple
 aplogize->apologize
@@ -28074,7 +28035,6 @@ chadelier->chandelier
 chadnelier->chandelier
 chageable->changeable
 chagneable->changeable
-challanger->challenger
 chandeier->chandelier
 chandeiler->chandelier
 chandeleir->chandelier
@@ -32342,7 +32302,6 @@ diffrer->differ
 qulatity->quality
 rounduing->rounding
 runninig->running
-catergory->category
 compatibe->compatible
 conneting->connecting
 definively->definitively
