@@ -350,7 +350,6 @@ cirmcustances->circumstances
 cirucmstances->circumstances
 clena->clean
 commutted->committed
-compeltely->completely
 concicse->concise
 concurrancy->concurrency
 conherency->coherency
@@ -508,7 +507,6 @@ communty->community
 configurde->configure
 conhesive->cohesive
 connectiong->connecting
-costantly->constantly
 csr->crt
 curcumvent->circumvent
 deaemons->daemons
@@ -4142,7 +4140,6 @@ clutchign->clutching
 cluthcing->clutching
 clyamore->claymore
 clyinder->cylinder
-coalese->coalesce
 cockaroches->cockroaches
 cockatils->cocktails
 cockraoches->cockroaches
@@ -4259,9 +4256,6 @@ columbina->columbia
 columnas->columns
 comadres->comrades
 comapnions->companions
-comaprable->comparable
-comapres->compares
-comaprisons->comparisons
 comarde->comrade
 combatabts->combatants
 combatans->combatants
@@ -4294,7 +4288,6 @@ comestics->cosmetics
 comfertable->comfortable
 comfertably->comfortably
 comferting->comforting
-comfirmation->confirmation
 comforming->comforting
 comfortabel->comfortably
 comfortabil->comfortably
@@ -4455,8 +4448,6 @@ compednium->compendium
 compeeting->completing
 compeittion->competitions
 compelation->compilation
-compeltes->completes
-compelting->completing
 compemdium->compendium
 compenduim->compendium
 compenidum->compendium
@@ -4580,7 +4571,6 @@ complicite->complicate
 complictaed->complicate
 complict->complicit
 complicted->complicated
-complilation->complication
 complilations->complications
 complimate->complicate
 complimation->complication
@@ -5000,7 +4990,6 @@ consciense->conscience
 consciouly->consciously
 consciouslly->consciously
 conscioussness->consciousness
-consdieration->considerations
 consectuive->consecutive
 consecuence->consequence
 consecuences->consequences
@@ -5165,8 +5154,6 @@ construde->construed
 construint->constraint
 construits->constructs
 construted->constructed
-consturcted->constructed
-consturction->construction
 constured->construed
 consueling->consulting
 consuelling->counselling
@@ -22286,7 +22273,6 @@ altername->alternate
 autotols->autotools
 candian->canadian
 checkconections->checkconnections
-contiuously->continuously
 deterines->determines
 disipline->discipline
 dusplicatemode->duplicatemode
@@ -22329,7 +22315,6 @@ concacenating->concatenating
 confalict->conflict
 couod->could
 createlockfie->createlockfile
-currenct->current
 cywin->cygwin
 ddeveloped->developed
 decscriptions->descriptions
@@ -22570,7 +22555,6 @@ citeria->criteria
 clearity->clarity
 slosure->closure
 combied->combined
-comparrison->comparison
 compils->compiles
 compler->compiler
 comtributor->contributor
@@ -23167,7 +23151,6 @@ closesr->closer
 clsss->class
 cmpile->compile
 cmpletions->completions
-coalesing->coalescing
 coce->code
 coealesce->coalesce
 coelesced->coalesced
@@ -23177,25 +23160,19 @@ colflicts->conflicts
 collaped->collapsed
 collecction->collection
 coller->caller
-comapare->compare
 comhy->comphy
 compactiing->compacting
 compactnes->compactness
 compatibiity->compatibility
-compelete->complete
-compeletion->completion
 compesate->compensate
 compiing->compiling
 compilerr->compiler
 compilor->compiler
 compise->comprise
 complinance->compliance
-componnent->component
 compositiing->compositing
-comptibility->compatibility
 compuate->compute
 compuations->computations
-comunicating->communicating
 concolidate->consolidate
 concrurrent->concurrent
 condidions->conditions
@@ -23265,7 +23242,6 @@ crytal->crystal
 ctructure->structure
 curbersome->cumbersome
 currernt->current
-cuurent->current
 dactivate->deactivate
 dalay->delay
 dataheet->datasheet
@@ -25167,7 +25143,6 @@ chanes->changes
 chanmge->change
 channells->channels
 chrominace->chrominance
-clenup->cleanup
 cliped->clipped
 coeffecient->coefficient
 coeffecients->coefficients
@@ -25442,7 +25417,6 @@ exponend->exponent
 fionacci->fibonacci
 preorden->preorder
 punicode->pyunicode
-compexity->complexity
 dfference->difference
 dustutils->distutils
 regnerate->regenerate
@@ -25625,7 +25599,6 @@ conuter->counter
 coolign->cooling
 cotnext->context
 coutned->counted
-creaets->creates
 cyrpess->cypress
 darkent->darknet
 davinic->davinci
@@ -25878,11 +25851,9 @@ checkusm->checksum
 chidlren->children
 coccured->occurred
 cohernet->coherent
-comapred->compared
 comemnts->comments
 compents->components
 conexnat->conexant
-consdier->consider
 constnat->constant
 appytokind->applytokind
 cson->json
@@ -26361,7 +26332,6 @@ attriutes->attributes
 caprtures->captures
 comipiler->compiler
 compating->comparing
-compelted->compeleted
 concerete->concrete
 conformat->conformant
 constexts->contexts
@@ -28308,7 +28278,6 @@ cosncious->conscious
 cosnensus->consensus
 cotaminate->contaminate
 cotnaminate->contaminate
-coulmn->column
 coumn->column
 countrys->countries
 courrier->courier
@@ -32303,7 +32272,6 @@ qulatity->quality
 rounduing->rounding
 runninig->running
 compatibe->compatible
-conneting->connecting
 definively->definitively
 immediateley->immediately
 inteleaved->interleaved
@@ -32359,8 +32327,6 @@ emergnecy->emergency
 emergengy->emergency
 mutliservice->multiservice
 trasnformations->transformations
-correpsonds->corresponds
-correpsond->correspond
 synatx->syntax
 boll->bool
 correspondint->corresponding
@@ -32461,8 +32427,6 @@ anyomre->anymore
 bleding->blending
 characterseteci->characterset
 clampiing->clamping
-comared->compared
-contiuous->continuous
 copmplete->complete
 cpntainer->container
 creaes->creates
