@@ -158,7 +158,6 @@ initialitation->initialization
 batter->better
 buts->but
 formalar->formular
-fuctional->functional
 functionlity->functionality
 generete->generate
 geomeztry->geometry
@@ -379,13 +378,11 @@ erport->report
 experimently->experimentally
 facilited->facilitated
 fck->fsck
-feautres->features
 fedore->fedora
 figgure->figure
 filestype->filetype
 filesysmte->filesystem
 filesystes->filesystems
-filesystme->filesystem
 filesystsem->filesystem
 filetyle->filetype
 filspec->filespec
@@ -6201,7 +6198,6 @@ definotely->definitely
 definstely->definitely
 defintaley->definitely
 defintaly->defiantly
-defintiely->definitely
 defintily->definitely
 defintley->definitely
 definutely->definitely
@@ -6281,7 +6277,6 @@ deliviered->delivered
 deliviring->delivering
 delpeted->depleted
 delporable->deplorable
-delpoyment->deployment
 delusionnal->delusional
 delutional->delusional
 delyaing->delaying
@@ -6342,7 +6337,6 @@ demonstartes->demonstrates
 demonstarting->demonstrating
 demonstartion->demonstration
 demonstartions->demonstrations
-demonstate->demonstrate
 demonstrabil->demonstrably
 demonstraby->demonstrably
 demonstraion->demonstration
@@ -6501,8 +6495,6 @@ descentants->descendants
 descenting->descending
 descerning->descending
 descipable->despicable
-descirbe->describe
-descirbes->describes
 descprition->descriptions
 describiste->describes
 descripcion->description
@@ -6800,7 +6792,6 @@ dirfting->drifting
 dirvers->drivers
 disaapoint->disappoint
 disaapointed->disappointed
-disabeld->disabled
 disadvandage->disadvantaged
 disadvandages->disadvantaged
 disadvanteged->disadvantaged
@@ -7220,7 +7211,6 @@ disturbence->disturbance
 disturben->disturbance
 disturping->disrupting
 distustingly->disgustingly
-disucssing->discussing
 disupted->disputed
 disuptes->disputes
 disurption->disruption
@@ -8004,8 +7994,6 @@ epsionage->espionage
 epsorts->esports
 epsresso->espresso
 eptiome->epitome
-eqaution->equation
-eqautions->equations
 equailty->equality
 equiavlent->equivalents
 equilavent->equivalent
@@ -8179,8 +8167,6 @@ exahusting->exhausting
 exahustion->exhaustion
 examind->examined
 examinerad->examined
-exapnds->expands
-exapnsions->expansions
 exapnsive->expansive
 exarcebated->exacerbated
 exatled->exalted
@@ -8291,8 +8277,6 @@ existet->existent
 existnace->existence
 exlated->exalted
 exlcamation->exclamation
-exlcuded->excluded
-exlcudes->excludes
 exlcusively->exclusively
 exlcusives->exclusives
 exlcusivity->exclusivity
@@ -8491,7 +8475,6 @@ exterioara->exterior
 exterioare->exterior
 exteriour->exterior
 extermally->externally
-extermely->extremely
 extermism->extremism
 extoics->exotics
 extortin->extortion
@@ -9073,7 +9056,6 @@ fringeworthy->cringeworthy
 fristly->firstly
 frogiven->forgiven
 frointer->frontier
-fromatting->formatting
 fromerly->formerly
 fromidable->formidable
 fronkenstein->frankenstein
@@ -9106,7 +9088,6 @@ frustrato->frustration
 frustrats->frustrates
 frustrsted->frustrates
 frutcose->fructose
-fucntionally->functionally
 fulfillling->fulfilling
 fulfulling->fulfilling
 fulfullment->fulfillment
@@ -22574,7 +22555,6 @@ desimal->decimal
 delvering->delivering
 denpendency->dependency
 departaments->departments
-deplying->deploying
 depnding->depending
 deprepcated->deprecated
 deseralize->deserialize
@@ -22736,7 +22716,6 @@ foriegnkey->foreignkey
 frans->france
 fromerror->formerror
 fuild->fluid
-functinoal->functional
 impliclty->implicitly
 incompatibities->incompatibilities
 inspirated->inspired
@@ -22824,7 +22803,6 @@ escription->description
 excapt->except
 executabled->executables
 existss->exists
-expriments->experiments
 feelind->feeling
 flushiung->flushing
 ftrunate->ftruncate
@@ -22934,7 +22912,6 @@ sqilte->sqlite
 sqltie->sqlite
 subrpocess->subprocess
 accidenly->accidentally
-fromatter->formatted
 ablocks->blocks
 abnorally->abnormally
 abortng->aborting
@@ -23273,7 +23250,6 @@ defaultis->defaults
 defaulval->defaultval
 defere->defer
 deferement->deferment
-definetively->definitively
 definitnions->definitions
 definning->defining
 defragement->defragment
@@ -23293,7 +23269,6 @@ deoptimizaation->deoptimization
 deoptimze->deoptimize
 deparature->departure
 depeendencies->dependencies
-dependece->dependence
 dependenties->dependencies
 dequeud->dequeued
 derefereced->dereferenced
@@ -23319,7 +23294,6 @@ destrution->destruction
 detacted->detected
 determies->determines
 detructive->destructive
-dettached->detached
 devault->default
 devictree->devicetree
 diambiguated->disambiguated
@@ -23471,7 +23445,6 @@ earilier->earlier
 earliers->earlier
 ebable->enable
 elemennts->elements
-eletrically->electrically
 embeeded->embedded
 emplemented->implemented
 enalbled->enabled
@@ -23546,7 +23519,6 @@ whule->while
 zoro->zero
 highllight->highlight
 evvents->events
-exapand->expand
 execess->excess
 existis->exists
 extants->extents
@@ -23748,7 +23720,6 @@ exammple->example
 exceedes->exceeds
 exdecute->execute
 exdended->extended
-exeeded->exceeded
 externa->external
 extnends->extends
 failuire->failure
@@ -24144,7 +24115,6 @@ firldname->fieldname
 freeacale->freescale
 freqnency->frequency
 freqyency->frequency
-funktions->functions
 governers->governors
 greenwish->greenwich
 grettings->greetings
@@ -24303,7 +24273,6 @@ disalowed->disallowed
 disclamed->disclaimed
 discretly->discretely
 distored->distorted
-distroy->destroy
 domps->dumps
 dtermines->determines
 dynamaic->dynamic
@@ -24320,7 +24289,6 @@ extrior->exterior
 exxpected->expected
 feadback->feedback
 februaury->february
-finctions->functions
 forders->folders
 forign->foreign
 franlin->franklin
@@ -24862,7 +24830,6 @@ eperspective->perspective
 exclaimation->exclamation
 filedesecriptor->filedescriptor
 fontdirecory->fontdirectory
-funcationality->functionality
 functionalites->functionalities
 functionalitis->functionalities
 getlastmodifed->getlastmodified
@@ -25516,7 +25483,6 @@ evetns->events
 evnets->events
 expoer->export
 fabirc->fabric
-fialed->failed
 filaed->failed
 ﬂuent->fluent
 forgor->forget
@@ -25619,7 +25585,6 @@ deubgfs->debugfs
 deufult->default
 diaplsy->display
 digialt->digital
-disabel->disable
 dsicuss->discuss
 dymanic->dynamic
 ecpoint->point
@@ -26032,7 +25997,6 @@ dodgey->dodgy
 drived->derived
 ecause->because
 edtion->edition
-faiing->failing
 fallse->falls
 fatest->fastest
 fleged->fledged
@@ -26467,7 +26431,6 @@ deprecared->deprecated
 detectiuon->detection
 deveopment->development
 disrectory->directory
-documeting->documenting
 duscovered->discovered
 encapsulte->encapsulate
 equivalend->equivalent
@@ -28396,7 +28359,6 @@ decembur->december
 decrepid->decrepit
 deel->deal
 defencive->defensive
-deffinite->definite
 defie->defied
 defiinte->definite
 defiintion->definition
@@ -28406,13 +28368,10 @@ definiet->definite
 definiion->definition
 definiiton->definition
 definitino->definition
-defintie->definite
 defne->define
 defnie->define
 defniite->definite
 defniition->definition
-defnite->definite
-defnition->definition
 defuncted->defunct
 deifnite->definite
 deifnition->definition
@@ -28477,7 +28436,6 @@ devestate->devastate
 devestation->devastation
 devistate->devastate
 devistation->devastation
-devolopment->development
 devolopped->developed
 dfeine->define
 dfeinite->definite
@@ -32085,7 +32043,6 @@ euqal->equal
 gradeint->gradient
 dostinguish->distinguish
 ifx->fix
-fitered->filtered
 propertei->propertie
 quoation->quotation
 aggregration->aggregation
@@ -32182,7 +32139,6 @@ approximisation->approximation
 boundariess->boundaries
 exanding->expanding
 exprsession->expression
-finction->function
 forbedden->forbidden
 interpredted->interpreted
 leadung->leading
