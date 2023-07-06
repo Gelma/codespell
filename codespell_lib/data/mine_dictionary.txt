@@ -159,7 +159,6 @@ batter->better
 buts->but
 formalar->formular
 functionlity->functionality
-generete->generate
 geomeztry->geometry
 geristers->registers
 glean->clean
@@ -730,7 +729,6 @@ fload->float
 frramework->framework
 galilleo->galileo
 gemu->qemu
-genarations->generations
 hardwared->hardwired
 haredware->hardware
 hetergeneous->heterogeneous
@@ -9223,10 +9221,8 @@ generationens->generations
 generationers->generations
 generationnal->generational
 generatios->generators
-generatons->generators
 generatore->generate
 generatos->generators
-generats->generates
 generelization->generalization
 generelize->generalize
 generelizing->generalizing
@@ -23333,7 +23329,6 @@ donlink->downlink
 dricer->driver
 dring->during
 drom->from
-geneartion->generation
 flail->fail
 desendants->descendants
 desendant->descendant
@@ -25178,7 +25173,6 @@ fraktal->fractal
 framep->frames
 framless->frameless
 fraqmework->framework
-generaion->generation
 giiven->given
 glogal->global
 gremove->remove
@@ -26064,7 +26058,6 @@ correc->correct
 cosmodb->cosmosdb
 darwing->darwin
 dieable->disable
-distict->distinct
 durtion->duration
 exampes->examples
 excuded->excluded
@@ -26195,7 +26188,6 @@ finilize->finalize
 forciong->forcing
 forrests->forests
 freedome->freedom
-generatd->generated
 handlert->handler
 idendity->identity
 ignoreed->ignored
@@ -28930,7 +28922,6 @@ gavey->gave
 gavy->gravy
 geeotine->gee tine
 gemoetric->geometric
-genaral->general
 geniouses->geniuses
 genuis->genius
 geoemtric->geometric
