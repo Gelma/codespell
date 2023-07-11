@@ -532,7 +532,6 @@ iptop->iotop
 janaury->january
 keepalives->keepalive
 latestet->latest
-limt->limit
 lindoes->linodes
 linodee->linode
 linpde->linode
@@ -12050,7 +12049,6 @@ liqiuds->liquids
 liquidas->liquids
 liquides->liquids
 liquidos->liquids
-lisenced->silenced
 lispticks->lipsticks
 listend->listened
 listenend->listened
@@ -23528,7 +23526,6 @@ invision->envision
 itereated->iterated
 keayboard->keyboard
 languagez->language
-lifcycle->lifecycle
 looopback->loopback
 loopbcck->loopback
 managine->managing
@@ -25826,7 +25823,6 @@ keyworda->keyword
 kineteic->kinetic
 lebanese->libanese
 lifeimes->lifetimes
-liftimes->lifetimes
 linnkers->linkers
 listenet->listener
 listenng->listening
@@ -29246,7 +29242,6 @@ licnese->license
 licnse->license
 liecnse->license
 liense->license
-lighning->lightning
 lighs->lights
 lighst->lights
 lightinng->lighting
