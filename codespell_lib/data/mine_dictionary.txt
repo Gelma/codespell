@@ -63,7 +63,6 @@ lambast->lambaste
 licenced->licensed
 likable->likeable
 mailinglist->mailing list
-mananged->managed
 manikin->mannequin
 marshall->marshal
 masstif->mastiff
@@ -13086,7 +13085,6 @@ missorui->missouri
 missourri->missouri
 misspeeling->misspelling
 misspeld->misspelled
-misspeling->misspelling
 misspelld->misspelled
 misspellled->misspelled
 misspellling->misspelling
@@ -13191,7 +13189,6 @@ momentaraly->momentarily
 momentarilly->momentarily
 momentarly->momentarily
 momenterily->momentarily
-momentos->moments
 momentus->moments
 momment->moment
 monagomous->monogamous
@@ -13372,7 +13369,6 @@ mulitated->mutilated
 mulitation->mutilation
 mulitnational->multinational
 mulitnationals->multinational
-mulitplayer->multiplayer
 mulitples->multiples
 mulittasking->multitasking
 mulitverse->multiverse
@@ -13396,7 +13392,6 @@ multiplicativo->multiplication
 multiplicaton->multiplication
 multiplr->multiplier
 multipls->multiples
-multiplyer->multiple
 multiplyng->multiplying
 multitaksing->multitasking
 multitaskng->multitasking
@@ -13440,7 +13435,6 @@ mutliated->mutilated
 mutliation->mutilation
 mutlinational->multinational
 mutlinationals->multinational
-mutliplayer->multiplayer
 mutlitasking->multitasking
 mutlitude->multitude
 mutliverse->multiverse
@@ -13463,8 +13457,6 @@ nacionalistic->nationalistic
 nacionalists->nationalists
 nacrotics->narcotics
 naferious->nefarious
-nagivate->navigate
-nagivating->navigating
 nahsville->nashville
 naopleon->napoleon
 napcakes->pancakes
@@ -13569,7 +13561,6 @@ natique->antique
 nativelly->natively
 nativey->natively
 nativley->natively
-natrually->naturally
 natuilus->nautilus
 naturels->natures
 naturens->natures
@@ -22254,7 +22245,6 @@ kuba->cuba
 laosi->laos
 lookin->looking
 maintaind->maintained
-mananging->managing
 mepped->mapped
 messeages->messages
 middlewaare->middleware
@@ -22534,7 +22524,6 @@ explicityl->explicitly
 identitities->identities
 inititially->initially
 interagate->interrogate
-modication->modification
 popluates->populates
 probablilty->probability
 progreenss->progress
@@ -23205,7 +23194,6 @@ matech->match
 maximu->maximum
 maxmum->maximum
 maynila->manila
-mebers->members
 messsge->message
 methord->method
 michel->michael
@@ -29328,7 +29316,6 @@ maintennace->maintenance
 maintennce->maintenance
 maintnance->maintenance
 maintneance->maintenance
-maitenance->maintenance
 maitnenance->maintenance
 majiscule->majuscule
 malacite->malachite
@@ -29494,7 +29481,6 @@ missepll->misspell
 missfortune->misfortune
 missplel->misspell
 misspll->misspell
-missspelled->misspelled
 miunscule->minuscule
 miuscule->minuscule
 mlilennium->millennium
@@ -31573,7 +31559,6 @@ comfusion->confusion
 gett->get
 etest->test
 lamba->lambda
-namesspace->namespace
 priniting->printing
 radious->radius
 coollapsed->collapsed
@@ -31615,7 +31600,6 @@ prviously->previously
 subcategroy->subcategory
 amybe->maybe
 praragraph->paragraph
-nubers->numbers
 remvoing->removing
 chercker->checker
 discarged->discharged
