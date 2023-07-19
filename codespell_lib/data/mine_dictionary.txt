@@ -649,7 +649,6 @@ insensivity->insensitivity
 itemzied->itemized
 matchig->matching
 pritnf->printf
-reqiures->requires
 reuquired->required
 reypling->replying
 simluate->simulate
@@ -880,7 +879,6 @@ mghz->mhz
 revission->revision
 xfcie->xfce
 befroe->before
-separe->separate
 cinnom->cinnamon
 selectiion->selection
 wortart->wordart
@@ -17321,9 +17319,6 @@ reputacion->reputation
 reqiuem->requiem
 requeim->requiem
 requerimento->requirement
-requierment->requirements
-requierments->requirements
-requiers->requires
 requieum->requiem
 requilme->requiem
 requime->requiem
@@ -17426,10 +17421,7 @@ respondendo->responded
 respondis->responds
 respondus->responds
 responed->respond
-responisbilities->responsibilities
-responisbility->responsibility
 responisbly->responsibly
-responisve->responsive
 responsabile->responsible
 responsably->responsibly
 responsaveis->responsive
@@ -17510,8 +17502,6 @@ restriktion->restriction
 restriktive->restrictive
 restrittive->restrictive
 restruction->restriction
-resuced->rescued
-resuces->rescues
 resurreccion->resurrection
 resurrecion->resurrection
 resurrektion->resurrection
@@ -17824,7 +17814,6 @@ sasuages->sausages
 satasfaction->satisfaction
 satasfactory->satisfactory
 satellie->satellites
-satellitte->satellites
 satisfaccion->satisfaction
 satisfacion->satisfaction
 satisfacory->satisfactory
@@ -22417,7 +22406,6 @@ registere->registered
 reimplimented->reimplemented
 reloadale->reloadable
 repeate->repeat
-resusable->reusable
 rmling->rmlint
 rotaionality->rotationality
 routinen->routine
@@ -23373,9 +23361,7 @@ scather->scatter
 scrable->scramble
 secrity->security
 securit->security
-selecor->selector
 servioe->service
-setteing->setting
 setttime->settime
 sigular->singular
 silbling->sibling
@@ -23513,7 +23499,6 @@ rersource->resource
 rererved->reserved
 reservied->reserved
 resourece->resource
-resuting->resulting
 reversly->reversely
 revesion->revision
 routeines->routines
@@ -23921,7 +23906,6 @@ relitive->relative
 reorderd->reordered
 repalace->replace
 returened->returned
-reveived->received
 routinues->routines
 samper->sampler
 sanitiy->sanity
@@ -24036,7 +24020,6 @@ satuation->saturation
 scheduline->scheduling
 semanthics->semantics
 semptember->september
-sepatation->separation
 signarture->signature
 simplfied->simplified
 somewehere->somewhere
@@ -24141,7 +24124,6 @@ progession->progression
 promisuous->promiscuous
 ranslation->translation
 reistering->registering
-restiction->restriction
 restucture->restructure
 ssociative->associative
 successuly->successfully
@@ -24585,7 +24567,6 @@ lowet->lowest
 maily->mainly
 midle->middle
 motre->more
-secon->second
 steet->street
 stpre->store
 tasts->tasks
@@ -25266,7 +25247,6 @@ insreased->increased
 prstashop->prestashop
 querybuss->querybus
 rendrered->rendered
-resonsive->responsive
 safeouput->safeoutput
 vourchers->vouchers
 cusomlangs->customlangs
@@ -25288,7 +25268,6 @@ displayerrror->displayerror
 hookdispacher->hookdispatcher
 resposivemenu->responsivemenu
 quanityt->quantity
-reuqired->required
 hookdisptacher->hookdispatcher
 defnies->defines
 avaiblestock->availablestock
@@ -25637,7 +25616,6 @@ remeote->remote
 repeatd->repeated
 requert->request
 rngstep->rngstepp
-romoved->removed
 samplin->sampling
 sapache->apache
 sayingt->saying
@@ -30436,7 +30414,6 @@ resaturateurs->restaurateurs
 resaurateurs->restaurateurs
 reservor->reservoir
 residance->residence
-responibility->responsibility
 restarateurs->restaurateurs
 restaruateurs->restaurateurs
 restauant->restaurant
@@ -30465,7 +30442,6 @@ resurgance->resurgence
 retaner->retainer
 retaurant->restaurant
 retaurateurs->restaurateurs
-retruning->returning
 retsaurant->restaurant
 retsaurateurs->restaurateurs
 reublican->republican
@@ -30547,7 +30523,6 @@ rydar->radar
 ryhme->rhyme
 ryhthm->rhythm
 ryme->rime
-rythym->rhythm
 sabestos->asbestos
 sabotour->saboteur
 sacry->scary
@@ -31727,7 +31702,6 @@ exponentiaton->exponentiation
 delclare->declare
 accesssed->accessed
 documentatation->documentation
-retangle->rectangle
 unfortulately->unfortunately
 legay->legacy
 ininialize->initialize
@@ -31872,7 +31846,6 @@ pixls->pixels
 positin->position
 preparedstatment->preparedstatement
 releasd->released
-santitize->sanitize
 silmilar->similar
 thoght->thought
 toleranzes->tolerances
