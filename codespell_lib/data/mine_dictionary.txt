@@ -654,7 +654,6 @@ reypling->replying
 simluate->simulate
 simpple->simple
 spead->speed
-sroll->scroll
 ssince->since
 stuffes->stuffs
 subeject->subject
@@ -754,7 +753,6 @@ relaim->reclaim
 sceleton->skeleton
 segmant->segment
 solaries->solaris
-stabalized->stabilized
 telll->tell
 tranfert->transfert
 ulocking->unlocking
@@ -18322,7 +18320,6 @@ similiraties->similarities
 similir->similar
 similtaneously->simultaneously
 simliarities->similarities
-simliarity->similarity
 simliiar->similar
 simluated->simulated
 simluation->simulation
@@ -18369,7 +18366,6 @@ simultainously->simultaneously
 simultaneoulsy->simultaneously
 simultaneuos->simultaneous
 simultaneuous->simultaneous
-simultaneus->simultaneous
 simulteanously->simultaneously
 simulteneous->simultaneous
 sinagpore->singapore
@@ -18467,7 +18463,6 @@ slayign->slaying
 sldiers->sliders
 slefies->selfies
 slefishness->selfishness
-slienced->silenced
 slipperies->slippers
 slipperly->slippery
 slippes->slippers
@@ -18742,7 +18737,6 @@ specias->specials
 speciatly->specialty
 specificatons->specifications
 specificato->specification
-specifiing->specifying
 specifikation->specification
 specifiyng->specifying
 specilaized->specialize
@@ -18789,8 +18783,6 @@ speically->specially
 speicals->specials
 spellign->spelling
 spellig->spelling
-spesification->specification
-spesifications->specifications
 spetember->september
 sphagetti->spaghetti
 sphereos->spheres
@@ -19108,8 +19100,6 @@ straightner->straighten
 straightn->straighten
 straigntened->straightened
 straignt->straighten
-straigthened->straightened
-straigthforward->straightforward
 straind->strained
 straings->strains
 straitforward->straightforward
@@ -19194,7 +19184,6 @@ stroyline->storyline
 stroytelling->storytelling
 structurels->structures
 structurel->structural
-strucutral->structural
 struggeld->struggled
 strugglebus->struggles
 struggleing->struggling
@@ -21824,7 +21813,6 @@ throrugh->through
 xcalibrare->xcalibrate
 calibrare->calibrate
 ansiotropic->anisotropic
-sturct->struct
 tirgger->trigger
 toggleling->toggling
 adpator->adapter
@@ -21955,7 +21943,6 @@ shitelisted->whitelisted
 sigill->sigkill
 sizeunown->sizeunkown
 ssinput->sshinput
-stabalizes->stabilizes
 statupscan->startupscan
 subconcious->subconscious
 subirs->subdirs
@@ -22416,7 +22403,6 @@ soeed->speed
 sqlit->sqlite
 sqllite->sqlite
 sqlote->sqlite
-stablizes->stabilizes
 statisics->statistics
 strint->string
 stupied->stupid
@@ -23192,8 +23178,6 @@ sexport->export
 shaber->shaper
 shapped->shaped
 sharred->shared
-shemes->schemes
-shifs->shifts
 shouuld->should
 signsl->signal
 siince->since
@@ -24021,7 +24005,6 @@ scheduline->scheduling
 semanthics->semantics
 semptember->september
 signarture->signature
-simplfied->simplified
 somewehere->somewhere
 specefying->specifying
 specifined->specified
@@ -24031,9 +24014,7 @@ statcally->statically
 statesment->statement
 statisticd->statistics
 strucrture->structure
-structires->structures
 structurre->structure
-strutures->structures
 sttructure->structure
 succeedded->succeeded
 suppoerted->supported
@@ -24431,10 +24412,8 @@ restransmission->retransmission
 reuseability->reusability
 sentiseconds->centiseconds
 setorderaray->setorderarray
-signifigance->significance
 simulteneously->simultaneously
 sopisticated->sophisticated
-specifiation->specification
 spectulatively->speculatively
 substransactions->subtransactions
 succeessfully->successfully
@@ -24816,7 +24795,6 @@ singnalstats->signalstats
 slighrly->slightly
 smarcard->smartcard
 sndblock->sendblock
-specifer->specifier
 sqeezes->squeezes
 squeezeed->squeezed
 sreams->streams
@@ -25749,7 +25727,6 @@ simplity->simplify
 simulaor->simulator
 soething->something
 sometome->sometime
-specifcy->specify
 ssession->session
 startved->starved
 synonymn->synonym
@@ -25872,7 +25849,6 @@ sandwitch->sandwich
 screnshot->screenshot
 securituy->security
 ssettings->settings
-stablized->stabilized
 startwith->startswith
 sttribute->attribute
 subfolers->subfolders
@@ -30628,7 +30604,6 @@ sigee->siege
 signiture->signature
 silimar->similar
 simapthy->sympathy
-simmilarly->similarly
 simular->similar
 simulcasted->simulcast
 sinegog->singeing
@@ -30672,8 +30647,6 @@ sories->series
 sosaphone->sousaphone
 soshiopath->sociopath
 sosuaphone->sousaphone
-sotre->store
-sotres->stores
 sotries->sorties
 sotter->setter
 souaphone->sousaphone
@@ -31687,7 +31660,6 @@ multivew->multiview
 perrmissions->permissions
 perrmission->permission
 prototol->protocol
-shifed->shifted
 asynchonrous->asynchronous
 presendation->presentation
 reocord->record
@@ -31897,8 +31869,6 @@ patttern->pattern
 reodering->reordering
 reseti->reset
 sompath->somepath
-stanalone->standalone
-stongest->strongest
 thinnest->thinest
 typcache->typecache
 unconvertable->unconvertible
