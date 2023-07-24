@@ -19371,9 +19371,7 @@ suggestons->suggests
 sumbarines->submarines
 sumbarine->submarine
 sumberged->submerged
-sumbissions->submissions
 sumbissive->submissive
-sumbitting->submitting
 summenors->summoners
 summenor->summoner
 summoenrs->summoners
@@ -19476,7 +19474,6 @@ supposdely->supposedly
 supposebly->supposedly
 supposidely->supposedly
 supposidly->supposedly
-suppreses->suppress
 suppresors->suppressor
 suppressin->suppression
 suppressio->suppressor
@@ -19507,7 +19504,6 @@ surpeme->supreme
 surprisinly->surprisingly
 surrenderd->surrendered
 surrenderred->surrendered
-surroud->surround
 surroundes->surrounds
 surroundign->surroundings
 surroundigs->surrounds
@@ -19536,7 +19532,6 @@ survivavility->survivability
 survivebility->survivability
 survivours->survivor
 survivour->survivor
-susbcribe->subscribe
 susbtantially->substantially
 susbtantial->substantial
 susbtantive->substantive
@@ -23198,7 +23193,6 @@ ststus->status
 sttats->stats
 subnod->subnode
 subtley->subtly
-suppply->supply
 switcy->switch
 sycall->syscall
 takset->taskset
@@ -23361,7 +23355,6 @@ stimate->estimate
 succsss->success
 suceeed->succeed
 supporet->support
-suppors->supports
 symbolsg->symbols
 sysadddr->sysaddr
 takover->takeover
@@ -24017,7 +24010,6 @@ strucrture->structure
 structurre->structure
 sttructure->structure
 succeedded->succeeded
-suppoerted->supported
 supporterd->supported
 supsequent->subsequent
 susbscribe->subscribe
@@ -24416,7 +24408,6 @@ simulteneously->simultaneously
 sopisticated->sophisticated
 spectulatively->speculatively
 substransactions->subtransactions
-succeessfully->successfully
 succesffully->successfully
 successfulle->successfully
 succuessfully->successfully
@@ -25854,7 +25845,6 @@ sttribute->attribute
 subfolers->subfolders
 successfu->successful
 sufficies->suffices
-suggetion->suggestion
 terminaor->terminator
 testruner->testrunner
 testsuits->testsuites
@@ -25944,7 +25934,6 @@ sellecting->selecting
 serielized->serialized
 signiicant->significant
 stelemetry->telemetry
-surronding->surrounding
 suspicuous->suspicious
 suspsended->suspended
 telemeetry->telemetry
@@ -30777,7 +30766,6 @@ supesrede->supersede
 suplement->supplement
 suply->supply
 supposably->supposedly
-supposted->supposed
 supremist->supremacist
 supresede->supersede
 suprsede->supersede
