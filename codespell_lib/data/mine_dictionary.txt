@@ -458,7 +458,6 @@ sweedish->swedish
 terrabyte->terabyte
 theosore->theodore
 tidyed->tidied
-transalate->translate
 transanction->transaction
 unfortuntaely->unfortunately
 unpappable->unmappable
@@ -594,7 +593,6 @@ umame->uname
 unecrypted->unencrypted
 versatilte->versatile
 viop->voip
-wihin->within
 withj->with
 yourcomain->yourdomain
 aeg->arg
@@ -13360,7 +13358,6 @@ mulitated->mutilated
 mulitation->mutilation
 mulitnational->multinational
 mulitnationals->multinational
-mulitples->multiples
 mulittasking->multitasking
 mulitverse->multiverse
 mulsims->muslims
@@ -19788,8 +19785,6 @@ teaspooon->teaspoon
 techanically->mechanically
 techeis->techies
 techincality->technicality
-techincians->technicians
-techincian->technician
 techinican->technician
 techmological->technological
 techncially->technically
@@ -19805,7 +19800,6 @@ techniciens->technicians
 technicien->technician
 technicion->technician
 techniqe->technique
-technitians->technicians
 technoligically->technologically
 technoligical->technological
 technologial->technological
@@ -19842,14 +19836,12 @@ temafight->teamfight
 temepst->tempest
 tempalrs->templars
 temparament->temperament
-temparatures->temperatures
 temparement->temperament
 tempels->temples
 temperamant->temperament
 temperatues->temperatures
 temperatue->temperature
 temperaturas->temperatures
-temperaturs->temperatures
 temperatuur->temperature
 temperement->temperament
 tempermeant->temperament
@@ -19862,7 +19854,6 @@ templas->templars
 templats->templates
 templeos->temples
 templers->temples
-temporaily->temporarily
 temporairly->temporarily
 temporali->temporarily
 temporaraly->temporarily
@@ -19870,7 +19861,6 @@ temporarity->temporarily
 tempset->tempest
 temptating->temptation
 temptetion->temptation
-tempuratures->temperatures
 tenacitiy->tenacity
 tenactiy->tenacity
 tencaity->tenacity
@@ -20092,7 +20082,6 @@ throtlling->throttling
 throttleing->throttling
 throughiut->throughput
 throughoput->throughput
-throughtput->throughput
 thrusdays->thursdays
 thrusday->thursday
 thryoid->thyroid
@@ -20265,15 +20254,11 @@ tranditional->transitional
 tranditions->transitions
 tranistional->transitional
 tranlastion->translations
-tranlsated->translated
-tranlsate->translate
-tranlsating->translating
 tranluscent->translucent
 tranmsission->transmissions
 trannsexual->transsexual
 tranpshobic->transphobic
 transaccion->transaction
-transalting->translating
 transaprency->transparency
 transational->transitional
 transcations->transactions
@@ -20432,10 +20417,6 @@ trasnferring->transferring
 trasnforming->transforming
 trasngendered->transgendered
 trasngender->transgender
-trasnlator->translator
-trasnmission->transmissions
-trasnmitted->transmitted
-trasnmitter->transmitter
 trasnphobic->transphobic
 trasnplant->transplant
 trasnportation->transportation
@@ -20726,7 +20707,6 @@ uncomftorably->uncomfortably
 uncomited->uncommitted
 unconcsiously->unconsciously
 unconcsious->unconscious
-unconditinal->unconditional
 unconditionable->unconditional
 unconfortable->uncomfortable
 unconfortably->uncomfortably
@@ -21136,9 +21116,6 @@ unusualy->unusually
 unvelievable->unbelievable
 unvelievably->unbelievably
 unviersally->universally
-unvierses->universes
-unvierse->universe
-unviersities->universities
 unvulnerable->invulnerable
 unwirtten->unwritten
 unworhty->unworthy
@@ -21188,9 +21165,7 @@ vacestomy->vasectomy
 vageuly->vaguely
 vaguelly->vaguely
 vaguley->vaguely
-vaiation->aviation
 vaibility->viability
-vaildated->validated
 vaklyrie->valkyrie
 valdiated->validated
 valenca->valencia
@@ -21232,7 +21207,6 @@ vanillia->vanilla
 vanillla->vanilla
 vanugard->vanguard
 vareity->variety
-varians->variants
 variantes->variants
 varisty->varsity
 varitey->variety
@@ -21419,7 +21393,6 @@ virigns->virgins
 virtiol->vitriol
 virtuels->virtues
 virtuose->virtues
-virualization->visualization
 virutes->virtues
 visbily->visibly
 viscreal->visceral
@@ -21427,7 +21400,6 @@ visercal->visceral
 visibillity->visibility
 visibiltiy->visibility
 visibley->visibly
-visiblly->visibly
 visualizacion->visualization
 visualizating->visualization
 vitailty->vitality
@@ -21443,7 +21415,6 @@ vitmains->vitamins
 vitmain->vitamin
 vitroil->vitriol
 vitrues->virtues
-vitualization->visualization
 vizualisations->visualization
 vocabluary->vocabulary
 vocabularily->vocabulary
@@ -21486,7 +21457,6 @@ vriament->vraiment
 vriginity->virginity
 vrigins->virgins
 vulberability->vulnerability
-vulnarable->vulnerable
 vulnerabile->vulnerable
 vulnerabiltiy->vulnerability
 vulnerabil->vulnerable
@@ -21500,7 +21470,6 @@ vurnerabilities->vulnerabilities
 vurnerability->vulnerability
 waclott->walcott
 wacther->watcher
-wahtever->whatever
 waitres->waiters
 waktins->watkins
 wallpapaers->wallpapers
@@ -22023,10 +21992,8 @@ temporarilyy->temporarily
 textare->textarea
 thais->thai
 themselved->themselves
-thottled->throttled
 thtem->them
 timeouot->timeout
-timzone->timezone
 tokem->token
 topppings->toppings
 toyata->toyota
@@ -22037,7 +22004,6 @@ unitttest->unittest
 unknkown->unknown
 unknowningly->unknowingly
 unluky->unlucky
-unnnecessarily->unnecessarily
 unpickleable->unpicklable
 unsatisified->unsatisfied
 uploadded->uploaded
@@ -22371,7 +22337,6 @@ paraentheses->parentheses
 pasphrase->passphrase
 permantent->permanent
 pivileges->privileges
-poiners->pointers
 possiblye->possibly
 praga->pragma
 prerelase->prerelease
@@ -22942,8 +22907,6 @@ tying->trying
 unencryppted->unencrypted
 uupdated->updated
 veriy->verify
-wrapppers->wrappers
-wrappper->wrapper
 auotmatically->automatically
 sinced->since
 collectable->collectible
@@ -23372,7 +23335,6 @@ upcates->updates
 updateѕ->updates
 varioues->various
 vergsion->version
-verifer->verifier
 verlaps->overlaps
 windohs->windows
 wireles->wireless
@@ -23591,7 +23553,6 @@ sstring->string
 sybolic->symbolic
 targetss->targets
 toolbart->toolbar
-verifes->verifies
 priperty->property
 prococol->protocol
 clasname->classname
@@ -23933,7 +23894,6 @@ wrond->wrong
 abiguities->ambiguities
 alloccation->allocation
 anonimized->anonymized
-associateed->associated
 averything->everything
 battributes->attributes
 capitilise->capitalise
@@ -24015,10 +23975,8 @@ supsequent->subsequent
 susbscribe->subscribe
 synhronic->synchronic
 tabsstopps->tabstops
-techology->technology
 tepmplates->templates
 termiated->terminated
-thoughput->throughput
 threefisch->threefish
 threshould->threshold
 thresolds->thresholds
@@ -24103,7 +24061,6 @@ successuly->successfully
 termnation->termination
 touchsreen->touchscreen
 traditonal->traditional
-tranformer->transformer
 transciver->transceiver
 unallocted->unallocated
 unegisters->unregisters
@@ -24114,7 +24071,6 @@ upgradeble->upgradeable
 videbuffer->videobuffer
 windotitle->windowtitle
 mus->must
-tupe->type
 idend->ident
 sufix->suffix
 thory->theory
@@ -24204,7 +24160,6 @@ toutine->routine
 transter->transfer
 tructure->structure
 unlabelled->unlabeled
-varants->variants
 variale->variable
 veariable->variable
 volation->violation
@@ -24275,14 +24230,12 @@ synchronzed->synchronized
 tabelespace->tablespace
 tansitional->transitional
 tansmission->transmission
-technolgies->technologies
 themseleves->themselves
 thoroughout->throughout
 throtteling->throttling
 toombstones->tombstones
 tranfertype->transfertype
 tranlucency->translucency
-tranparency->transparency
 transcedent->transcendent
 translarion->translation
 undocmented->undocumented
@@ -24510,7 +24463,6 @@ picth->pitch
 proir->prior
 satet->state
 taotl->total
-uesr->user
 wati->wait
 wdith->width
 woah->whoa
@@ -24548,7 +24500,6 @@ widzh->width
 wioth->with
 witgh->with
 woulf->would
-wthin->within
 abslute->absolute
 adescription->description
 adjustmens->adjustments
@@ -24585,7 +24536,6 @@ chanes->changes
 chanmge->change
 channells->channels
 chrominace->chrominance
-cliped->clipped
 coeffecient->coefficient
 coeffecients->coefficients
 coeffitients->coefficients
@@ -24809,7 +24759,6 @@ timestampe->timestamps
 timsstamps->timestamps
 trabceiver->transceiver
 tranceive->transceive
-tranlators->translators
 ttailing->tailing
 tyranslators->translators
 unacelerated->unaccelerated
@@ -24876,7 +24825,6 @@ destionationset->destinationset
 lexicographycally->lexicographically
 shous->should
 tarck->track
-tehse->these
 generatable->generate
 approvisionned->provisioned
 recommandeded->recommended
@@ -25128,7 +25076,6 @@ verfity->verify
 verifys->verifies
 visibel->visible
 winedgb->winedbg
-winodws->windows
 encomapssing->encompassing
 maont->mount
 tocuh->touch
@@ -25506,14 +25453,12 @@ valuee->value
 wheree->where
 witnin->within
 worrid->worried
-wthout->without
 yieled->yielded
 allowen->allowed
 apacket->packet
 arounds->around
 arrage->arrange
 asseted->asserted
-asssets->assets
 becaise->because
 blofish->blowfish
 bufferd->buffered
@@ -25599,7 +25544,6 @@ tennant->tenant
 timieng->timing
 unfoldr->unfold
 updateg->update
-upports->supports
 valuese->values
 verskip->verbskip
 whethet->whether
@@ -25731,7 +25675,6 @@ uhandled->unhandled
 undefind->undefined
 unwindws->unwinds
 visbible->visible
-vitually->virtually
 warnning->warning
 wholsome->wholesome
 addaptive->adaptive
@@ -29441,7 +29384,6 @@ municipalties->municipalities
 municipalty->municipality
 muticulturalism->multiculturalism
 mutilingualism->multilingualism
-mutiplication->multiplication
 mutliculturalism->multiculturalism
 mutlilingualism->multilingualism
 naalytics->analytics
@@ -30799,7 +30741,6 @@ tcehnician->technician
 tchnician->technician
 teachs->teaches
 teamate->teammate
-techinician->technician
 techncian->technician
 technciian->technician
 technican->technician
@@ -30809,12 +30750,9 @@ technicina->technician
 techniian->technician
 techniican->technician
 tecnhician->technician
-tecnology->technology
 tehcnician->technician
-tehnician->technician
 televize->televise
 telfth->twelfth
-tempermental->temperamental
 tenous->tenuous
 tenture->tenure
 teoticuahan->teotihuacã¡n
@@ -30849,7 +30787,6 @@ tiangle->triangle
 tiarchy->diarchy
 tigonometric->trigonometric
 tigonometry->trigonometry
-tipical->typical
 tiranny->tyranny
 tirany->tyranny
 tirarchy->diarchy
@@ -30882,8 +30819,6 @@ trancend->transcend
 trancended->transcended
 trancendental->transcendental
 trangle->triangle
-tranlator->translator
-tranlsator->translator
 tranny->tyranny
 translaor->translator
 translaotr->translator
@@ -31082,10 +31017,7 @@ vactaion->vacation
 vaction->vacation
 vacumu->vacuum
 vacuu->vacuum
-vaidity->avidity
-vaildity->validity
 valdiity->validity
-valdity->validity
 valey->valley
 validit->validity
 validiy->validity
@@ -31596,7 +31528,6 @@ responsiility->responsibility
 destorted->distorted
 citiation->citation
 drwa->draw
-viusal->visual
 untgrring->untarring
 untgr->untar
 mrker->marker
@@ -31696,7 +31627,6 @@ synatx->syntax
 boll->bool
 correspondint->corresponding
 sulfolders->subfolders
-tabele->table
 jut->just
 delinquncy->delinquency
 compbo->combo
@@ -31860,7 +31790,6 @@ sompath->somepath
 thinnest->thinest
 typcache->typecache
 unconvertable->unconvertible
-unncessarily->unnecessarily
 validatior->validator
 cosntitutes->constitutes
 deconnection->disconnection
