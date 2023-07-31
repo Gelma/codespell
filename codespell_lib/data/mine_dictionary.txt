@@ -469,9 +469,6 @@ acitivies->activities
 adjudst->adjust
 administratos->administrators
 adminsitrative->administrative
-adminster->administer
-advenced->advanced
-alisases->aliases
 apha->alpha
 asas->as
 ativate->activate
@@ -914,7 +911,6 @@ administed->administered
 administerd->administered
 administored->administer
 administr->administer
-administraion->administration
 administrar->administrator
 administraron->administrator
 administrater->administrator
@@ -959,7 +955,6 @@ adorbale->adorable
 adovcacy->advocacy
 adovcated->advocated
 adovcates->advocates
-adpatation->adaptation
 adreanline->adrenaline
 adrelanine->adrenaline
 adreneline->adrenaline
@@ -1074,7 +1069,6 @@ afterthougt->afterthought
 afterthougth->afterthought
 afwully->awfully
 aggegrate->aggregate
-aggragating->aggravating
 aggravanti->aggravating
 aggraveted->aggravated
 aggregatore->aggregate
@@ -1210,7 +1204,6 @@ almigthy->almighty
 alocholic->alcoholic
 alocholics->alcoholics
 alocholism->alcoholism
-alpahbet->alphabet
 alphabeast->alphabet
 alphabeat->alphabet
 alphabt->alphabet
@@ -1230,7 +1223,6 @@ alterantive->alternative
 alterantively->alternatively
 alterantives->alternatives
 alterarion->alteration
-alterating->alteration
 alterato->alteration
 alternador->alternator
 alternar->alternator
@@ -1243,7 +1235,6 @@ alternativos->alternatives
 alternatley->alternately
 alternatly->alternately
 alternatr->alternator
-alternatvely->alternately
 alternetly->alternately
 alternitavely->alternatively
 althetes->athletes
@@ -1355,7 +1346,6 @@ analyseles->analyses
 analysens->analyses
 analyseras->analyses
 analyseres->analyses
-analysie->analyse
 analysise->analyses
 analysised->analyses
 analysises->analyses
@@ -1373,9 +1363,6 @@ anarchistes->anarchists
 anarchiszm->anarchism
 anarchsim->anarchism
 anarchsits->anarchists
-anaylst->analyst
-anaylsts->analysts
-anaylzing->analyzing
 ancedotal->anecdotal
 ancedotally->anecdotally
 ancedote->anecdote
@@ -1420,7 +1407,6 @@ angrilly->angrily
 angualr->angular
 anicent->ancient
 anicents->ancients
-animatie->animate
 animatte->animate
 animostiy->animosity
 aninteresting->uninteresting
@@ -1475,7 +1461,6 @@ annoyingy->annoyingly
 annoymously->anonymously
 annoynace->annoyance
 anntenas->antennas
-annyoance->annoyance
 anoerxia->anorexia
 anoerxic->anorexic
 anomisity->animosity
@@ -22258,7 +22243,6 @@ backgrahic->backgraphic
 abormally->abnormally
 abscure->obscure
 admministration->administration
-analyized->analyzed
 anythinh->anything
 appled->applet
 archic->archaic
@@ -22420,7 +22404,6 @@ accourding->according
 accssed->accessed
 accumumlating->accumulating
 aceess->access
-acelerometers->accelerometers
 achieveing->achieving
 achknowledge->acknowledge
 ackknowledge->acknowledge
@@ -22438,7 +22421,6 @@ adjactent->adjacent
 adjudt->adjust
 adjustementevent->adjustmentevent
 adoptation->adaptation
-adusting->adjusting
 advanct->advance
 advetising->advertising
 affeceted->affected
@@ -22470,8 +22452,6 @@ amplrifier->amplifier
 anciliary->ancillary
 andeas->andreas
 anligned->aligned
-annnotation->annotation
-annoations->annotations
 annoationwithparameterdump->annotationwithparameterdump
 annoationwithvoidreturndump->annotationwithvoidreturndump
 annotationn->annotation
@@ -25085,7 +25065,6 @@ standred->standard
 pointres->pointers
 metatada->metadata
 amdpgu->amdgpu
-alogn->align
 alterning->altering
 boolian->boolean
 capabilitites->capabilities
@@ -25549,7 +25528,6 @@ verskip->verbskip
 whethet->whether
 xxhasha->xxhash
 zamarin->xamarin
-abiguous->ambiguous
 accoutid->accountid
 accuraty->accurate
 adaotive->adaptive
@@ -25677,8 +25655,6 @@ unwindws->unwinds
 visbible->visible
 warnning->warning
 wholsome->wholesome
-addaptive->adaptive
-aggrgator->aggregator
 allocdecs->allocdescs
 allreport->allreports
 alwaysend->alwayssend
@@ -25804,7 +25780,6 @@ visiility->visibility
 whatsover->whatsoever
 ambiguiuty->ambiguity
 analyticsd->analytics
-annnotated->annotated
 appcompatt->appcompat
 astraction->abstraction
 authograph->autograph
@@ -26066,12 +26041,10 @@ abysma->abysmal
 abysml->abysmal
 abysmla->abysmal
 acadamec->academic
-acadamic->academic
 academ->academe
 acadey->academy
 acadeym->academy
 acadmey->academy
-acadmy->academy
 acappell->carpel
 acapplla->scapula
 acaroni->macaroni
@@ -26082,8 +26055,6 @@ accdientally->accidentally
 accedentaly->accidentally
 accepably->acceptably
 accepance->acceptance
-accepatbly->acceptably
-accepatnce->acceptance
 acceptabl->acceptable
 acceptaby->acceptably
 acceptabyl->acceptably
@@ -26147,10 +26118,6 @@ accomodte->accommodate
 accomomdate->accommodate
 accordoin->accordion
 accostic->acoustic
-accpetably->acceptably
-accptable->acceptable
-accptably->acceptably
-accptance->acceptance
 accredet->accredit
 accreditate->accredit
 accsed->accessed
@@ -26162,11 +26129,7 @@ acecptable->acceptable
 acecptably->acceptably
 acecptance->acceptance
 acecssible->accessible
-acedemy->academy
-acelerate->accelerate
 acelrate->accelerate
-aceptably->acceptably
-aceptance->acceptance
 acertain->ascertain
 acesory->accessory
 acession->accession
@@ -26178,7 +26141,6 @@ achemy->alchemy
 acheve->achieve
 achiee->achieve
 achieev->achieve
-achiev->achieve
 achiure->achier
 achivee->achieve
 acicdentally->accidentally
@@ -26315,7 +26277,6 @@ adar->afar
 adavntageous->advantageous
 adavntageus->advantageous
 addequate->adequate
-addministration->administration
 adehsive->adhesive
 adeiu->adieu
 adeqate->adequate
@@ -26345,7 +26306,6 @@ adiquiri->daiquiri
 adiu->adieu
 adiue->adieu
 adius->adios
-adjacant->adjacent
 adjacecny->adjacency
 adjacecy->adjacency
 adjacen->adjacent
@@ -26379,7 +26339,6 @@ adjutsment->adjustment
 adlescent->adolescent
 adloescent->adolescent
 administratoin->administration
-admision->admission
 admitt->admit
 adoelscent->adolescent
 adoescent->adolescent
@@ -26462,7 +26421,6 @@ aggravaet->aggravate
 aggravat->aggravate
 aggravtae->aggravate
 aggravte->aggravate
-aggree->agree
 aggreive->aggrieve
 aggrement->agreement
 aggresion->aggression
@@ -26592,8 +26550,6 @@ allrigt->allergist
 allrigth->albright
 allrihgt->albright
 allriht->albright
-allwance->allowance
-allwoance->allowance
 alminium->aluminum
 almnd->almond
 almnod->almond
@@ -26724,8 +26680,6 @@ anitdemocratic->antidemocratic
 ankel->ankle
 anlayze->analyze
 anle->angle
-anlytics->analytics
-anlyze->analyze
 anmalous->anomalous
 anmoalous->anomalous
 annhiilate->annihilate
@@ -31392,7 +31346,6 @@ dostinguish->distinguish
 ifx->fix
 propertei->propertie
 quoation->quotation
-aggregration->aggregation
 conistency->consistency
 decvice->device
 optione->option
@@ -31591,7 +31544,6 @@ gethub->github
 appliing->applying
 exponentiaton->exponentiation
 delclare->declare
-accesssed->accessed
 documentatation->documentation
 unfortulately->unfortunately
 legay->legacy
@@ -31739,7 +31691,6 @@ releasd->released
 silmilar->similar
 thoght->thought
 toleranzes->tolerances
-alues->values
 asynched->asynced
 basicieditor->basiceditor
 bcachfes->bcachefs
