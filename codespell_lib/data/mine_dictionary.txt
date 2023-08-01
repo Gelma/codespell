@@ -1599,8 +1599,6 @@ apostrophied->apostrophe
 appaluse->applause
 apparantely->apparently
 appareal->apparel
-appareance->appearance
-appareances->appearances
 appareil->apparel
 apparentely->apparently
 apparenty->apparently
@@ -21946,7 +21944,6 @@ andora->andorra
 announe->announce
 apper->appear
 applicacion->application
-aprove->approve
 argentinean->argentinian
 argentinsk->argentinske
 asension->ascension
@@ -23622,7 +23619,6 @@ actucally->actually
 balanacers->balancers
 filterting->filtering
 framesyncc->framesync
-frational->fractional
 guaranntee->guarantee
 handhakes->handshakes
 tnis->this
@@ -24488,7 +24484,6 @@ advanded->advanced
 algorithjm->algorithm
 alphanummeric->alphanumeric
 anough->enough
-appply->apply
 assming->assuming
 asssignments->assignments
 assumet->assumed
@@ -26826,7 +26821,6 @@ apotrophe->apostrophe
 apotsrophe->apostrophe
 appaent->apparent
 appaernt->apparent
-apparen->apparent
 apparentt->apparent
 apparet->apparent
 apparetn->apparent
@@ -26835,7 +26829,6 @@ apparnt->apparent
 appartmant->apartment
 appologize->apologize
 appopriation->appropriation
-appparent->apparent
 appropiation->appropriation
 appropraition->appropriation
 appropriaion->appropriation
@@ -31223,7 +31216,6 @@ actionconfig->actionsconfig
 addparmeters->addparameters
 addseperator->addseparator
 applicaation->application
-appllication->application
 asycronously->asychronously
 asynchronour->asynchronous
 athorization->authorization
@@ -31251,7 +31243,6 @@ editoroption->editoroptions
 encounterred->encountered
 equivalvents->equivalents
 excpectation->expectation
-explanantion->explanation
 importanntly->importantly
 ineffiecient->inefficient
 infaithfully->unfaithfully
