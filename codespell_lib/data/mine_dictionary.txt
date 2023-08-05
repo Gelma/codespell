@@ -1726,19 +1726,15 @@ archeytpes->archetypes
 architechs->architects
 architechural->architectural
 architechure->architecture
-architecs->architects
 architecte->architecture
 architectes->architects
 architectrual->architectural
 architectureal->architectural
 architecturial->architectural
 architectuur->architecture
-architecutral->architectural
-architet->architect
 architexts->architects
 architexture->architecture
 architypes->archetypes
-archtiects->architects
 archytypes->archetypes
 arcitechture->architecture
 arcylic->acrylic
@@ -1895,7 +1891,6 @@ assembley->assembly
 assemblie->assemble
 assemblying->assembling
 assempling->assembling
-assersions->assertions
 assertin->assertions
 assesement->assessment
 assestment->assessment
@@ -1920,15 +1915,10 @@ assistante->assistance
 assistantes->assistants
 assistat->assistants
 assistendo->assisted
-assistents->assistants
 assistsnt->assistants
 assmebled->assembled
 assnage->assange
-assocaites->associates
-assocaition->associations
 associaiton->associations
-associatie->associated
-associaties->associates
 associatin->associations
 associationg->associating
 associationthis->associations
@@ -1936,9 +1926,6 @@ associato->association
 associaton->association
 associatons->associations
 associsted->associates
-assoications->associations
-assotiations->associations
-assoziation->association
 asssasin->assassin
 asssasins->assassins
 asssits->assists
@@ -2042,8 +2029,6 @@ attactment->attachment
 attactments->attachments
 attidute->attitude
 attirtion->attrition
-attmepted->attempted
-attmepting->attempting
 attracs->attracts
 attracters->attracts
 attractes->attracts
@@ -2070,7 +2055,6 @@ audioboook->audiobook
 audioboooks->audiobook
 audioboost->audiobooks
 audomoderator->automoderator
-auhtenticate->authenticate
 auidobook->audiobook
 auidobooks->audiobooks
 auotattack->autoattack
@@ -2102,7 +2086,6 @@ authenticor->authenticator
 authenticty->authenticity
 authenticy->authenticity
 authentisity->authenticity
-autherized->authorized
 authoratitive->authoritative
 authoritate->authoritative
 authoritatian->authoritarian
@@ -2171,7 +2154,6 @@ auttoatack->autoattack
 avacodos->avocados
 availabiliy->availability
 avaition->aviation
-avaliability->availability
 avataras->avatars
 avatards->avatars
 avatares->avatars
@@ -2180,7 +2162,6 @@ averageadi->averaged
 avergaed->averaged
 avergaes->averages
 aviaiton->aviation
-avialability->availability
 avnegers->avengers
 avodacos->avocados
 avtaars->avatars
@@ -21772,9 +21753,7 @@ alwerts->alerts
 anazon->amazon
 anction->action
 androidsplices->androidsplice
-asssumed->assumed
 assustant->assistant
-atomatic->automatic
 backenda->backend
 beheavior->behavior
 brannch->branch
@@ -22466,7 +22445,6 @@ appropriatelly->appropriately
 arabinc->arabic
 arbritration->arbitration
 arbritrator->arbitrator
-architectually->architecturally
 arithetic->arithmetic
 arracopy->arraycopy
 arrata->errata
@@ -22477,18 +22455,14 @@ artificically->artificially
 arugument->argument
 asdded->added
 asddress->address
-assciate->associate
 asseert->assert
 assertiing->asserting
 assetion->assertion
 assignents->assignments
 assignmnent->assignment
-assining->assigning
 assisitive->assistive
 assoceated->associated
-assoiation->association
 assumpitions->assumptions
-asynchromously->asynchronously
 asynchronuously->asynchronously
 atomc->atomic
 atructure->structure
@@ -22499,7 +22473,6 @@ attrative->attractive
 attributon->attribution
 attributtes->attributes
 attritbutes->attributes
-atttribution->attribution
 audiorvol->audiolvol
 aurhenticator->auhenticator
 authour->author
@@ -22884,7 +22857,6 @@ tying->trying
 unencryppted->unencrypted
 uupdated->updated
 veriy->verify
-auotmatically->automatically
 sinced->since
 collectable->collectible
 globle->global
@@ -23518,7 +23490,6 @@ interperability->interoperability
 onclude->include
 subment->submenu
 wrappee->wrapper
-atttempt->attempt
 behaior->behavior
 controlo->control
 disinct->distinct
@@ -24225,7 +24196,6 @@ activateable->activatable
 appliccation->application
 aquiresemaphore->acquiresemaphore
 asymptopically->asymptotically
-asynchroneous->asynchronous
 autnenticating->authenticating
 capabiblities->capabilities
 chacksumming->checksumming
@@ -24485,7 +24455,6 @@ algorithjm->algorithm
 alphanummeric->alphanumeric
 anough->enough
 assming->assuming
-asssignments->assignments
 assumet->assumed
 audodetected->autodetected
 autgen->autogen
@@ -25431,7 +25400,6 @@ yieled->yielded
 allowen->allowed
 apacket->packet
 arounds->around
-arrage->arrange
 asseted->asserted
 becaise->because
 blofish->blowfish
@@ -25533,9 +25501,7 @@ arifacts->artifacts
 artfacts->artifacts
 assemply->assembly
 assoumed->assumed
-astrisks->asterisks
 attempte->attempt
-attmpted->attempted
 authtoke->authtoken
 becauase->because
 becuause->because
@@ -25663,7 +25629,6 @@ appcanter->appcenter
 appsecret->appsecret
 appsectet->appsecret
 arthmetic->arithmetic
-asssigned->assigned
 atomicand->atomicadd
 attriutes->attributes
 caprtures->captures
@@ -26886,8 +26851,6 @@ areator->aerator
 areial->aerial
 argmuent->argument
 argonomy->agronomy
-arguent->argument
-argumen->argument
 arhaeology->archaeology
 arhcaeology->archaeology
 arleady->already
@@ -26957,7 +26920,6 @@ assimiliated->assimilated
 assimiltae->assimilate
 assimilte->assimilate
 assimlate->assimilate
-assisstance->assistance
 assmiilate->assimilate
 assmilate->assimilate
 asterick->asterisk
@@ -27022,7 +26984,6 @@ auxiliray->auxiliary
 auxiliry->auxiliary
 auxliary->auxiliary
 auxliiary->auxiliary
-avantageous->advantageous
 avcation->vacation
 avcuum->vacuum
 avdantageous->advantageous
@@ -31216,7 +31177,6 @@ actionconfig->actionsconfig
 addparmeters->addparameters
 addseperator->addseparator
 applicaation->application
-asycronously->asychronously
 asynchronour->asynchronous
 athorization->authorization
 cancallation->cancellation
