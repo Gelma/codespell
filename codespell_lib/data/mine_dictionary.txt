@@ -363,7 +363,6 @@ eanbled->enabled
 egain->eagain
 emeregency->emergency
 emory->memory
-enbled->enabled
 epsecially->especially
 erport->report
 experimently->experimentally
