@@ -468,7 +468,6 @@ ablity->ability
 acitivies->activities
 adjudst->adjust
 administratos->administrators
-adminsitrative->administrative
 apha->alpha
 asas->as
 ativate->activate
@@ -662,7 +661,6 @@ valididy->validity
 wherin->wherein
 althopugh->although
 currentley->currently
-chossing->choosing
 fuuny->funny
 layouot->layout
 prinsection->printsection
@@ -679,7 +677,6 @@ attomic->atomic
 axplicit->explicit
 ayuthentication->authentication
 caclculate->calculate
-capbabilities->capabilities
 capitabl->capital
 conntected->connected
 consisits->consists
@@ -913,8 +910,6 @@ administored->administer
 administr->administer
 administrar->administrator
 administraron->administrator
-administrater->administrator
-administraters->administrators
 administratief->administrative
 administratiei->administrative
 administratieve->administrative
@@ -930,11 +925,6 @@ administrer->administer
 administres->administer
 administrez->administer
 administro->administer
-adminsiter->administer
-adminsitered->administered
-adminsitration->administration
-adminsitrator->administrator
-adminsitrators->administrators
 admiraal->admiral
 admittadely->admittedly
 admittadly->admittedly
@@ -2371,17 +2361,14 @@ befreind->befriend
 befried->befriend
 begginng->begging
 beginninng->beginnings
-beginnins->beginnings
 beglian->belgian
 beglium->belgium
 begnals->bengals
 behaviorial->behavioral
 behaviorly->behavioral
-behavios->behaviours
 behavorial->behavioral
 behngazi->benghazi
 behtesda->bethesda
-behvaiours->behaviours
 bejiing->beijing
 beleifs->beliefs
 beleiver->believer
@@ -2496,7 +2483,6 @@ biologiskt->biologist
 bioplar->bipolar
 biploar->bipolar
 birdamn->birdman
-birdges->bridges
 birgade->brigade
 birgading->brigading
 birhtday->birthday
@@ -2724,12 +2710,9 @@ bridman->birdman
 brielfy->briefly
 brigaged->brigade
 brigated->brigade
-brigdes->bridges
 brightern->brighten
 brightn->brighten
 brightoner->brighten
-brigthen->brighten
-brigthest->brightest
 brillaince->brilliance
 brillaintly->brilliantly
 brilliante->brilliance
@@ -2809,17 +2792,13 @@ buglaria->bulgaria
 buhddism->buddhism
 buhddist->buddhist
 buhddists->buddhists
-buidlers->builders
 buildes->builders
 buildins->buildings
-buisnesses->businesses
 buisnessmen->businessmen
 bulagria->bulgaria
 bulgaira->bulgaria
 bulgara->bulgaria
 bulgariska->bulgaria
-buliders->builders
-bulidings->buildings
 bullerproof->bulletproof
 bullest->bullets
 bulletbroof->bulletproof
@@ -2913,7 +2892,6 @@ cafetiera->cafeteria
 caffeen->caffeine
 caffeinne->caffeine
 caffinee->caffeine
-cahched->cached
 cahotic->chaotic
 cahsier->cashier
 cahsiers->cashiers
@@ -2926,7 +2904,6 @@ calcuim->calcium
 calculador->calculator
 calcular->calculator
 calcularon->calculator
-calculaters->calculators
 calculationg->calculating
 calculatios->calculators
 calculatoare->calculator
@@ -2964,9 +2941,6 @@ calrifying->clarifying
 calrity->clarity
 calrkson->clarkson
 calroies->calories
-calssification->classification
-calssified->classified
-calssify->classify
 caluiflower->cauliflower
 caluses->clauses
 calymore->claymore
@@ -3003,12 +2977,10 @@ canadias->canadians
 cananbis->cannabis
 cancelas->cancels
 cancellato->cancellation
-cancells->cancels
 canceltation->cancellation
 canceres->cancers
 cancerns->cancers
 cancerus->cancers
-cancles->cancels
 cancres->cancers
 cancuks->canucks
 candidatas->candidates
@@ -3128,7 +3100,6 @@ cardiovasuclar->cardiovascular
 cardnial->cardinal
 cardnials->cardinals
 careflly->carefully
-carefullly->carefully
 cariacture->caricature
 cariactures->caricature
 caricate->caricature
@@ -3197,7 +3168,6 @@ cataclysim->cataclysm
 cataclysym->cataclysm
 catacylsm->cataclysm
 catacyslm->cataclysm
-catagorically->categorically
 catalcysm->cataclysm
 catalgoue->catalogue
 cataloge->catalogue
@@ -3219,7 +3189,6 @@ categoried->categorized
 categoriei->categorize
 categoriezed->categorized
 categroized->categorized
-cateogrize->categorized
 caterogized->categorized
 catestrophic->catastrophic
 cathderal->cathedral
@@ -3362,7 +3331,6 @@ charactarization->characterization
 charactarize->characterize
 charactarized->characterized
 characterazation->characterization
-charactere->characterize
 characterisitc->characteristics
 characterisitcs->characteristics
 characteristc->characteristics
@@ -3405,15 +3373,11 @@ chatoic->chaotic
 chatolic->catholic
 chatolics->catholics
 chcukles->chuckles
-chechpoint->checkpoint
 checkare->checker
 checkear->checker
 checkmeat->checkmate
 checkpiont->checkpoint
-checkpoins->checkpoints
 checkpointusa->checkpoints
-checkpoit->checkpoints
-checkponts->checkpoints
 cheeots->cheetos
 cheerleadra->cheerleader
 cheerlearder->cheerleader
@@ -3644,8 +3608,6 @@ circumvrent->circumvent
 circumwent->circumvent
 circuncised->circumcised
 circuncision->circumcision
-circunvent->circumvent
-cirlces->circles
 cirlcing->circling
 cirruculum->curriculum
 cirticise->criticise
@@ -5988,7 +5950,6 @@ denominacion->denomination
 denominador->denominator
 denominar->denominator
 denominaron->denominator
-denominater->denominator
 denominationals->denominations
 denominatior->denominator
 denominato->denomination
@@ -9996,8 +9957,6 @@ impropre->improper
 improsined->imprisoned
 improsoned->imprisoned
 improsonment->imprisonment
-improvemnt->improvement
-improvemnts->improvements
 improvents->improves
 improvie->improvised
 improviserad->improvised
@@ -10754,8 +10713,6 @@ instramental->instrumental
 instrament->instrument
 instraments->instruments
 instrcutor->instructors
-instructer->instructor
-instructers->instructors
 instructie->instructed
 instructior->instructor
 instructios->instructors
@@ -14862,8 +14819,6 @@ perpetrador->perpetrator
 perpetraitor->perpetrator
 perpetraron->perpetrator
 perpetrar->perpetrator
-perpetrater->perpetrator
-perpetraters->perpetrators
 perpetuaded->perpetuated
 perpetuae->perpetuate
 perpetualy->perpetually
@@ -16912,7 +16867,6 @@ refriderator->refrigerator
 refrigarator->refrigerator
 refrigerador->refrigerator
 refrigerar->refrigerator
-refrigerater->refrigerator
 refrigirator->refrigerator
 refromed->reformed
 refrubished->refurbished
@@ -16963,7 +16917,6 @@ regularis->regulars
 regularlas->regulars
 regularlos->regulars
 regulas->regulars
-regulaters->regulators
 regulatin->regulations
 regulationg->regulating
 regulatiors->regulators
@@ -18070,7 +18023,6 @@ sentris->sentries
 senzationalism->sensationalism
 senzationalist->sensationalist
 separacion->separation
-separaters->separates
 separatisme->separates
 separatiste->separates
 separatron->separation
@@ -21989,11 +21941,9 @@ cenral->central
 chacheable->cacheable
 chafield->charfield
 changedn->changed
-chechsum->checksum
 childefinition->childdefinition
 childrend->children
 circumfrence->circumference
-citeria->criteria
 clearity->clarity
 slosure->closure
 combied->combined
@@ -22233,7 +22183,6 @@ biunaries->binaries
 boder->border
 cchecksum->checksum
 changset->changeset
-ckeckpoint->checkpoint
 clannel->channel
 colulmn->column
 containst->contains
@@ -22366,7 +22315,6 @@ abnorally->abnormally
 abortng->aborting
 absract->abstract
 accasion->occasion
-accellerators->accelerators
 acceptabe->acceptable
 accessbible->accessible
 accessclassinpackge->accessclassinpackage
@@ -22504,7 +22452,6 @@ bioss->bioses
 blooks->blocks
 bluethooth->bluetooth
 boardp->board
-booloader->bootloader
 boundardy->boundary
 bpostprocessing->postprocessing
 broardcom->broadcom
@@ -22517,7 +22464,6 @@ buundle->bundle
 bytebufer->bytebuffer
 bytebufers->bytebuffers
 cabable->capable
-cacellation->cancellation
 caibration->calibration
 calculat->calculate
 calculayte->calculate
@@ -22534,7 +22480,6 @@ capbilities->capabilities
 capbility->capability
 casea->case
 casem->case
-catagorize->categorize
 catastrophy->catastrophe
 cayonlands->canyonlands
 ccommon->common
@@ -22554,8 +22499,6 @@ cinnergy->cinergy
 cipeher->cipher
 circuting->circuiting
 cirrius->cirrus
-ckeckbox->checkbox
-ckecks->checks
 clalling->calling
 classfication->classification
 classo->class
@@ -23569,7 +23512,6 @@ uridecide->uridecode
 valiables->variables
 accepable->acceptable
 bittorent->bittorrent
-checkoint->checkpoint
 comoponent->component
 compileres->compilers
 cumulateed->cumulated
@@ -23585,7 +23527,6 @@ exteremely->extremely
 flib->flip
 cofig->config
 nyimes->nytimes
-emulater->emulator
 actucally->actually
 balanacers->balancers
 filterting->filtering
@@ -23656,9 +23597,7 @@ calnceled->canceled
 calsulate->calculate
 captureing->capturing
 centyry->century
-chainging->changing
 cheanged->changed
-ckecking->checking
 clse->close
 colos->colors
 coluimns->columns
@@ -24813,7 +24752,6 @@ anntena->antenna
 beizer->bezier
 beofre->before
 betean->beaten
-birdge->bridge
 blinkg->blinking
 blting->blitting
 buffre->buffer
@@ -25080,7 +25018,6 @@ onclic->onclick
 pagees->pages
 reated->related
 sabing->saving
-ckecked->checked
 commece->commerce
 curency->currency
 feedack->feedback
@@ -25344,7 +25281,6 @@ vmext->vmexit
 vtodo->todo
 winbg->windbg
 advnce->advance
-bulder->builder
 bytest->bytes
 callie->callee
 chhdir->chdir
@@ -25407,7 +25343,6 @@ bufferd->buffered
 cammand->command
 capacit->capacity
 chldren->children
-chosses->chooses
 claning->cleaning
 coercin->coercion
 coercon->coercion
@@ -25508,8 +25443,6 @@ becuause->because
 bitwiter->bitwriter
 blocwise->blockwise
 briefuly->briefly
-calandar->calendar
-capicity->capacity
 capsuble->capsule
 chilcren->children
 clusterm->cluster
@@ -27009,7 +26942,6 @@ baandoned->abandoned
 baanna->banana
 babreviate->abbreviate
 babys->babies
-bacame->became
 backpeddle->backpedal
 bacuum->vacuum
 ballest->ballast
@@ -27061,7 +26993,6 @@ binog->bingo
 bited->bit
 bleeded->bled
 bleieve->believe
-blieve->believe
 bloger->blogger
 bloo->bolo
 blooger->blogger
@@ -27149,7 +27080,6 @@ caculus->calculus
 cademy->academy
 caegory->category
 caelndar->calendar
-caendar->calendar
 caetgory->category
 caffiene->caffeine
 cahieve->achieve
@@ -27228,7 +27158,6 @@ carpetry->carpentry
 carpnetry->carpentry
 carpntry->carpentry
 carraige->carriage
-carrer->career
 carylic->acrylic
 casted->cast
 catalist->catalyst
@@ -27283,7 +27212,6 @@ changealbe->changeable
 changeale->changeable
 changebale->changeable
 charicatoor->caricature
-chedule->schedule
 chieftan->chieftain
 chieve->chive
 chistmas->christmas
@@ -27713,7 +27641,6 @@ destned->destined
 destnied->destined
 detachement->detachment
 detatchment->detachment
-detecter->detector
 deterance->deterrence
 deterence->deterrence
 deterent->deterrent
@@ -27780,7 +27707,6 @@ dissapointment->disappointment
 dissappointment->disappointment
 dissoluted->dissolved
 distilation->distillation
-distributer->distributor
 ditology->ideology
 divesture->divestiture
 djacency->adjacency
@@ -31279,7 +31205,6 @@ prviously->previously
 subcategroy->subcategory
 amybe->maybe
 praragraph->paragraph
-chercker->checker
 discarged->discharged
 despites->despite
 evenmore->even more
@@ -31541,7 +31466,6 @@ succefull->successful
 fremium->freemium
 iunput->input
 reaplce->replace
-biuld->build
 staight->straight
 comaprate->compare
 hprizontal->horizontal
