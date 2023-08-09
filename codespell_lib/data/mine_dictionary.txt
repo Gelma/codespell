@@ -3629,9 +3629,6 @@ civilizatons->civilizations
 civilziation->civilizations
 civizilation->civilizations
 clacium->calcium
-claculations->calculations
-claculator->calculator
-claculators->calculators
 clagary->calgary
 claibre->calibre
 clairfy->clarify
@@ -3651,7 +3648,6 @@ classificato->classification
 classifides->classified
 classis->classics
 classrooom->classroom
-classsic->classics
 clasues->clauses
 clausens->clauses
 claymer->claymore
@@ -3704,7 +3700,6 @@ clitorios->clitoris
 clitorious->clitoris
 clitorius->clitoris
 clitors->clitoris
-cloesly->closely
 closeley->closely
 closley->closely
 cluases->clauses
@@ -23524,7 +23519,6 @@ exprssion->expression
 exractors->extractors
 exteremely->extremely
 flib->flip
-cofig->config
 nyimes->nytimes
 actucally->actually
 balanacers->balancers
@@ -27264,7 +27258,6 @@ claculi->calculi
 claculus->calculus
 cladded->clad
 claded->clad
-claendar->calendar
 clamour->clamor
 clangour->clangor
 claustraphobia->claustrophobia
@@ -27306,7 +27299,6 @@ codnenses->condenses
 coerse->coerce
 cognicscent->cognoscenti
 coi->coy
-colapse->collapse
 collum->column
 colmun->column
 colnel->colonel
@@ -31624,3 +31616,4 @@ publicatoin->publication
 selecvitity->selectivity
 sgements->segments
 updatabable->updatable
+juts->just
