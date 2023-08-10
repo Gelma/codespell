@@ -481,7 +481,6 @@ clu->cli
 clusermgr->clustermgr
 colliquially->colloquially
 comf->conf
-comfigured->configured
 commanda->commands
 communty->community
 configurde->configure
@@ -3833,11 +3832,9 @@ combiens->combines
 combinacion->combination
 combinaison->combinations
 combinaiton->combinations
-combinatin->combinations
 combinatino->combinations
 combinato->combination
 combinig->combining
-combinining->combining
 combins->combines
 combonation->combination
 combonations->combinations
@@ -3932,7 +3929,6 @@ commitd->committed
 commiteed->committed
 commiteted->committed
 commitmet->commitments
-committs->commits
 commitus->commits
 commodites->commodities
 commoditites->commodities
@@ -4045,10 +4041,6 @@ competenet->competence
 competense->competence
 competenze->competence
 competeted->competed
-competetion->competition
-competetions->competitions
-competetor->competitor
-competetors->competitors
 competidor->competitor
 competiors->competitors
 competitavely->competitively
@@ -4098,10 +4090,8 @@ complciations->complication
 complecate->complicate
 complecated->complicated
 complecations->complications
-compleet->complete
 completaste->completes
 completeds->completes
-completeing->completing
 completelys->completes
 completen->complement
 completenes->completes
@@ -4111,7 +4101,6 @@ completi->complexity
 completily->complexity
 completin->completion
 completito->completion
-complets->completes
 complexers->complexes
 complexety->complexity
 complexitiy->complexity
@@ -4221,7 +4210,6 @@ compteting->completing
 comptetion->completion
 compteurs->computers
 comptown->compton
-comptuers->computers
 compulisve->compulsive
 compulosry->compulsory
 compulsing->compulsion
@@ -21940,7 +21928,6 @@ childrend->children
 circumfrence->circumference
 clearity->clarity
 slosure->closure
-combied->combined
 compils->compiles
 compler->compiler
 comtributor->contributor
@@ -23536,7 +23523,6 @@ paojects->projects
 instanbul->istanbul
 shareabe->shareable
 basbranch->basebranch
-comercial->commercial
 hieararchy->hierarchy
 histograpm->histogram
 identiacal->identical
@@ -24422,7 +24408,6 @@ commznd->command
 compesation->compensation
 compier->compiler
 compreesion->compression
-comuting->computing
 congtainer->container
 considereing->considering
 constats->constants
@@ -27313,7 +27298,6 @@ colun->colon
 colunm->column
 comemmorate->commemorate
 comencement->commencement
-comerce->commerce
 comimtted->committed
 commerate->commemorate
 commerating->commemorating
@@ -31152,7 +31136,6 @@ renderinmg->rendering
 institutn->institution
 deonotes->denotes
 deonote->denote
-comfusion->confusion
 gett->get
 etest->test
 lamba->lambda
