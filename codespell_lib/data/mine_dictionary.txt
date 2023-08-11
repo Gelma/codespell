@@ -4305,10 +4305,6 @@ conceviable->conceivable
 conceviably->conceivably
 concevied->conceived
 concibes->concise
-conciderable->considerable
-conciderably->considerably
-concideration->consideration
-conciderations->considerations
 concides->concise
 concioussness->consciousness
 concission->concession
@@ -4457,7 +4453,6 @@ conflciting->conflicting
 conflcits->conflicts
 conflics->conflicts
 conflictos->conflicts
-confliting->conflating
 confrentational->confrontational
 confrentation->confrontation
 confrontacional->confrontational
@@ -4466,7 +4461,6 @@ confrontaion->confrontation
 confrontating->confrontation
 confrontativo->confrontation
 confrontato->confrontation
-confugurations->configurations
 confussion->confession
 confussions->confessions
 congegration->congregation
@@ -4498,14 +4492,12 @@ conicide->coincide
 conicidence->coincidence
 conicidental->coincidental
 conicidentally->coincidentally
-conifgurations->configurations
 conisderation->considerations
 conjucntion->conjunction
 conjuncting->conjunction
 connatation->connotation
 connatations->connotations
 connecitcut->connecticut
-connecs->connects
 connecticon->connection
 connecticuit->connecticut
 connecticunts->connecticut
@@ -4661,7 +4653,6 @@ constanty->constantly
 constasnt->constants
 constast->constants
 constatnly->constantly
-constently->constantly
 constillation->constellation
 constititional->constitutional
 constitition->constitution
@@ -4760,7 +4751,6 @@ contaminen->containment
 contaminent->containment
 contaminents->containment
 contaminted->contaminated
-contancting->contracting
 contanimate->contaminated
 contanimated->contaminated
 contanimation->contamination
@@ -4769,7 +4759,6 @@ contanti->contacting
 contanting->contacting
 contection->contention
 contectual->contextual
-conteiners->contenders
 contempate->contemplate
 contemperary->contemporary
 contemplare->contemplate
@@ -4856,7 +4845,6 @@ continuativo->continuation
 continuato->continuation
 continuemos->continues
 continuent->contingent
-continueous->continuous
 continuety->continuity
 continuining->continuing
 continuious->continuous
@@ -4866,7 +4854,6 @@ continuning->continuing
 continunity->continuity
 continuons->continuous
 continut->continuity
-continute->continue
 continutity->continuity
 continutiy->continuity
 continuu->continuous
@@ -4882,7 +4869,6 @@ contiunally->continually
 contiunation->continuation
 contiuning->containing
 contiunity->continuity
-contorller->controllers
 contrabution->contribution
 contraccion->contraction
 contraceptie->contraceptives
@@ -4914,7 +4900,6 @@ contradictons->contradicts
 contradtion->contraction
 contraticted->contradicted
 contraticting->contradicting
-contraversial->controversial
 contreception->contraception
 contredict->contradict
 contreversial->controversial
@@ -4960,7 +4945,6 @@ controdicting->contradicting
 controdiction->contradiction
 controdictions->contradictions
 controlas->controls
-controlelr->controllers
 controleurs->controllers
 controlleras->controllers
 controlles->controls
@@ -5148,7 +5132,6 @@ correlaties->correlates
 correlato->correlation
 correlatos->correlates
 correnti->correcting
-correspend->correspond
 correspondece->correspondence
 correspondense->correspondence
 correspondente->correspondence
@@ -5156,10 +5139,6 @@ corresponders->corresponds
 corrilated->correlated
 corrilates->correlates
 corrilation->correlation
-corrospond->correspond
-corrospondence->correspondence
-corrosponding->corresponding
-corrosponds->corresponds
 corrpution->corruption
 corrulates->correlates
 corrupcion->corruption
@@ -22516,37 +22495,28 @@ compuations->computations
 concolidate->consolidate
 concrurrent->concurrent
 condidions->conditions
-confg->config
 confgigures->configures
-confif->config
 configfure->configure
-configuable->configurable
 configurarion->configuration
 confiuration->configuration
 confiure->configure
 confiures->configures
 conncected->connected
-conncted->connected
 conndection->connection
-conneced->connected
 connectctate->connectstate
 connectr->connector
 consequenetly->consequently
 consisitent->consistent
 consistecy->consistency
 consle->console
-consructed->constructed
 consteallation->constellation
-constratint->constraint
 constrcuctor->constructor
 constructorr->constructor
 consumt->consume
 containerlistner->containerlistener
 contaings->contains
-contatined->contained
 contigously->contiguously
 contiguosly->contiguously
-continuted->continued
 continuue->continue
 contiugous->contiguous
 contollable->controllable
@@ -23765,7 +23735,6 @@ capitilise->capitalise
 cattegories->categories
 combnation->combination
 configuredi->configured
-consitions->conditions
 convolunted->convoluted
 cooerative->cooperative
 dispobible->disponible
@@ -24121,11 +24090,9 @@ checktinputs->checkinputs
 communiction->communication
 communictions->communications
 componenetes->componentes
-configuraions->configurations
 confirmationsi->confirmations
 conflictling->conflicting
 consutruction->construction
-converstation->conversation
 decyptmessage->decryptmessage
 derefferenced->dereferenced
 eperspective->perspective
@@ -24745,7 +24712,6 @@ chukns->chunks
 cihper->cipher
 clards->clears
 cofnig->config
-conifg->config
 cplete->complete
 decive->device
 dected->detected
@@ -24948,7 +24914,6 @@ amdpgu->amdgpu
 alterning->altering
 boolian->boolean
 capabilitites->capabilities
-configrable->configurable
 ftrase->ftrace
 initiaize->initialize
 managerss->managers
@@ -24965,7 +24930,6 @@ resheduled->rescheduled
 sscratch->scratch
 themi->them
 wakeing->waking
-convencience->convenience
 cumstom->custom
 domaim->domain
 hugin->huginn
@@ -25661,7 +25625,6 @@ cheetsheat->cheatsheet
 cheetsheet->cheatsheet
 cococapods->cocoapods
 commandlin->commandline
-conficting->conflicting
 conlicting->conflicting
 continiues->continues
 cryptswtup->cryptsetup
@@ -27347,7 +27310,6 @@ condnses->condenses
 conduits->conduit
 conednses->condenses
 conenses->condenses
-conensus->consensus
 conentrate->concentrate
 conesnsus->consensus
 conevnience->convenience
@@ -27403,7 +27365,6 @@ continuom->continuum
 continuty->continuity
 contmainate->contaminate
 contminate->contaminate
-contolled->controlled
 conveience->convenience
 convenence->convenience
 conveniecne->convenience
@@ -27412,7 +27373,6 @@ conveniene->convenience
 convenienec->convenience
 conveninece->convenience
 conventry->coventry
-convetional->conventional
 convneience->convenience
 convnience->convenience
 conyism->cronyism
@@ -31010,9 +30970,7 @@ smuge->smudge
 asserraises->assertraises
 collectiong->collection
 contenttile->contenttitle
-contibution->contribution
 controllber->controller
-corrrespond->correspond
 dectementby->decrementby
 derferenced->dereferenced
 desecendant->descendant
@@ -31084,7 +31042,6 @@ cancallation->cancellation
 concistently->consistently
 conservatice->conservative
 contibuously->continuously
-contrbutions->contributions
 contrubution->contribution
 coordingator->coordinator
 coorrelation->correlation
@@ -31233,7 +31190,6 @@ evebn->even
 resuem->resume
 realloctions->reallocations
 realloction->reallocation
-coreesponding->corresponding
 decreaed->decreased
 documemts->documents
 possibel->possible
@@ -31272,7 +31228,6 @@ towar->toward
 itereate->iterate
 benchmarl->benchmark
 indicaing->indicating
-contrbutor->contributor
 shrared->shared
 allocatated->allocated
 paragrephs->paragraphs
@@ -31473,7 +31428,6 @@ objct->objct
 begninning->beginning
 emscriptem->emscripten
 emscrypten->emscripten
-continutation->continuation
 ectend->extend
 emulatated->emulated
 esecution->execution
