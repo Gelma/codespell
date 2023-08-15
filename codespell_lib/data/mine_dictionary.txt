@@ -679,7 +679,6 @@ capitabl->capital
 conntected->connected
 consisits->consists
 coount->count
-creeate->create
 defineition->definition
 demonsration->demonstration
 diagnosiic->diagnostic
@@ -1803,8 +1802,6 @@ artemius->artemis
 arthimetic->arithmetic
 arthirtis->arthritis
 arthrits->arthritis
-articifial->artificial
-articifially->artificially
 articluate->articulate
 articluated->articulated
 articualte->articulate
@@ -5157,11 +5154,6 @@ cosmeticas->cosmetics
 cosmeticos->cosmetics
 costomizable->customizable
 costomization->customization
-costumise->costumes
-costumizable->customizable
-costumization->customization
-costumizations->customization
-costumized->customized
 cosutmes->costumes
 coudlnt->couldn't
 couldnot->couldn't
@@ -5488,8 +5480,6 @@ custimized->customized
 customizabe->customizable
 customizble->customizable
 customizible->customizable
-custumizable->customizable
-custumization->customization
 cutsceen->cutscene
 cutsceens->cutscenes
 cutscence->cutscene
@@ -5508,7 +5498,6 @@ cylcists->cyclists
 cylcone->cyclone
 cylcops->cyclops
 cylidner->cylinder
-cylindres->cylinders
 cynaide->cyanide
 cynicisim->cynicism
 cynisicm->cynicism
@@ -6215,7 +6204,6 @@ diagnoes->diagnose
 diagnosi->diagnostic
 diagnosied->diagnose
 diagnosies->diagnosis
-diagnositcs->diagnostic
 diagnositic->diagnostic
 diagnossed->diagnose
 diagnosted->diagnose
@@ -7607,7 +7595,6 @@ estoniya->estonia
 ethcially->ethically
 etherael->ethereal
 etherel->ethereal
-etherent->ethernet
 ethicallity->ethically
 ethicallly->ethically
 ethicaly->ethically
@@ -21917,7 +21904,6 @@ contrim->contrib
 conttenttypes->contenttypes
 coonfig->config
 corecolectors->corecollectors
-corrolate->correlate
 creatd->created
 customzed->customized
 dababase->database
@@ -22147,7 +22133,6 @@ clannel->channel
 colulmn->column
 containst->contains
 crimean->crimea
-crytographic->cryptographic
 cussors->cursors
 dallocation->deallocation
 debuggings->debugging
@@ -23553,7 +23538,6 @@ coluimns->columns
 conceeded->conceded
 concernes->concerns
 concluson->conclusion
-coppying->copying
 copyrignt->copyright
 coule->could
 coun->count
@@ -24961,7 +24945,6 @@ pagees->pages
 reated->related
 sabing->saving
 commece->commerce
-curency->currency
 feedack->feedback
 htacess->htaccess
 produst->product
@@ -25227,7 +25210,6 @@ bytest->bytes
 callie->callee
 chhdir->chdir
 cleard->cleared
-cosume->consume
 decryt->decrypt
 dodgey->dodgy
 drived->derived
@@ -25291,7 +25273,6 @@ coercon->coercion
 coerece->coerce
 colunmn->column
 comform->conform
-correc->correct
 cosmodb->cosmosdb
 darwing->darwin
 dieable->disable
@@ -25344,7 +25325,6 @@ prunued->pruned
 ptional->optional
 punlock->unlock
 redploy->redeploy
-referesh->refresh
 remeote->remote
 repeatd->repeated
 requert->request
@@ -25392,7 +25372,6 @@ condider->consider
 contibue->continue
 coretest->coretests
 croperty->property
-cusomize->customize
 databade->database
 dbstorag->dbstorage
 decaring->declaring
@@ -27382,7 +27361,6 @@ coonel->colonel
 copepr->copper
 coper->copper
 coperation->cooperation
-coporation->corporation
 coppe->cope
 coppr->copper
 coppre->copper
@@ -27402,7 +27380,6 @@ coumn->column
 countrys->countries
 courrier->courier
 coustic->caustic
-covenience->convenience
 covnenience->convenience
 cpoper->copper
 cpper->copper
@@ -31543,7 +31520,6 @@ reseti->reset
 sompath->somepath
 thinnest->thinest
 typcache->typecache
-unconvertable->unconvertible
 validatior->validator
 cosntitutes->constitutes
 deconnection->disconnection
