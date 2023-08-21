@@ -491,7 +491,6 @@ curcumvent->circumvent
 deaemons->daemons
 dedicatd->dedicated
 defautldev->defaultdev
-delcaration->declaration
 denided->denied
 desidered->desired
 dhcpcd->dhcpd
@@ -5544,10 +5543,6 @@ deathmath->deathmatch
 deatlhy->deathly
 debuffes->debuffs
 debufffs->debuffs
-decalred->declared
-decalre->declare
-decalres->declares
-decalring->declaring
 decembeard->december
 decembre->december
 decensitized->desensitized
@@ -5689,7 +5684,6 @@ definicion->definition
 definie->definite
 definig->defining
 definilty->definitely
-defininitely->definitively
 definitaley->definitely
 definitaly->definitely
 definitavely->definitively
@@ -5717,7 +5711,6 @@ definitlry->definitely
 definitlty->definitely
 definito->definition
 definitv->definitive
-definitve->definite
 definityl->definitely
 definjtely->definitely
 definltely->definitely
@@ -5777,7 +5770,6 @@ deisgnated->designated
 deivant->deviant
 delaership->dealership
 delaerships->dealerships
-delcaring->declaring
 delcining->declining
 delearship->dealership
 delearships->dealerships
@@ -22555,14 +22547,12 @@ deceision->decision
 dechipher->decipher
 declarartion->declaration
 declate->declare
-declrations->declarations
 decremtnt->decrement
 decripted->decrypted
 dectivated->deactivated
 decyption->decryption
 dedupication->deduplication
 deemphatize->deemphasize
-defails->details
 defaultd->defaults
 defaultis->defaults
 defaulval->defaultval
@@ -22579,7 +22569,6 @@ deleguate->delegate
 deley->delay
 delicated->dedicated
 delimites->delimiters
-delimitter->delimiter
 dellalloc->delalloc
 deltavalue->deltavaluez
 dentryp->dentry
@@ -25608,7 +25597,6 @@ conlicting->conflicting
 continiues->continues
 cryptswtup->cryptsetup
 datapoiint->datapoint
-declrative->declarative
 definitins->definitions
 dependenct->dependency
 deprecared->deprecated
@@ -27498,7 +27486,6 @@ defiinte->definite
 defiintion->definition
 defiite->definite
 defiition->definition
-definiet->definite
 definiion->definition
 definiiton->definition
 definitino->definition
