@@ -5934,13 +5934,11 @@ dependandt->dependent
 dependat->dependent
 dependd->depended
 dependencias->dependencies
-dependends->depended
 dependened->depended
 dependenices->dependencies
 dependensies->dependencies
 dependenta->dependent
 dependente->dependence
-deperecation->deprecation
 depicitng->depicting
 depiciton->depiction
 depicitons->depictions
@@ -5975,7 +5973,6 @@ depressin->depression
 depresso->depression
 depresssion->depression
 deprevation->deprivation
-deprication->deprivation
 deprivating->deprivation
 deprivaton->deprivation
 deprivition->deprivation
@@ -21904,7 +21901,6 @@ desimal->decimal
 delvering->delivering
 denpendency->dependency
 departaments->departments
-depnding->depending
 deprepcated->deprecated
 deseralize->deserialize
 dfferent->different
