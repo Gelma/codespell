@@ -684,7 +684,6 @@ diagnosiic->diagnostic
 differentr->different
 dirst->first
 downstram->downstream
-dumplication->duplication
 emualated->emulated
 emuilated->emulated
 emulatior->emulator
@@ -6018,7 +6017,6 @@ descripiton->descriptions
 descriptivos->descriptions
 descrise->describes
 descrpition->descriptions
-desctiptions->descriptions
 desencitized->desensitized
 desensatized->desensitized
 desensitied->desensitized
@@ -6091,7 +6089,6 @@ destoryer->destroyer
 destoryers->destroyers
 destraction->destruction
 destractions->distractions
-destributors->distributors
 destros->destroys
 destrose->destroyers
 destroyeds->destroyers
@@ -6202,7 +6199,6 @@ diagonse->diagnose
 diagonsis->diagnosis
 diagonstic->diagnostic
 diagonstics->diagnostic
-diagramms->diagrams
 diahrrea->diarrhea
 dialecs->dialects
 dialectes->dialects
@@ -6230,7 +6226,6 @@ dictionairy->dictionary
 dictionare->dictionaries
 didsapointed->disappointed
 difenitly->definitely
-differantly->differently
 differenciations->differentiation
 differental->differential
 differentate->differentiate
@@ -6652,11 +6647,9 @@ distinctie->distinctive
 distinctily->distinctly
 distinctin->distinctions
 distingiushing->distinguishing
-distinguising->distinguishing
 distingusihing->distinguishing
 distinktion->distinction
 distintcly->distinctly
-distint->distinct
 distirbance->disturbance
 distirbutor->distributor
 distiungished->distinguished
@@ -6712,7 +6705,6 @@ distrubition->distribution
 distrubitions->distributions
 distrubitor->distributor
 distrubitors->distributors
-distrubtes->distrust
 distructions->distractions
 distrupts->distrust
 distubring->disturbing
@@ -6805,8 +6797,6 @@ dominno->dominion
 dominoin->dominion
 domisticated->domesticated
 donesticated->domesticated
-donwgraded->downgraded
-donwgrade->downgrade
 donwloadable->downloadable
 donwsides->downsides
 donwvoted->downvoted
@@ -6907,7 +6897,6 @@ duaghter->daughter
 duaghters->daughters
 duailty->duality
 dualtiy->duality
-dublications->publications
 dubsetp->dubstep
 duetschland->deutschland
 dulaity->duality
@@ -6941,7 +6930,6 @@ dusgustingly->disgustingly
 dustification->justification
 dwarvens->dwarves
 dyamically->dynamically
-dyanmics->dynamics
 dyanmite->dynamite
 dyansty->dynasty
 dymanically->dynamically
@@ -22576,21 +22564,16 @@ dependenties->dependencies
 dequeud->dequeued
 derefereced->dereferenced
 derermines->determines
-desabled->disabled
-desable->disable
 descentant->descendant
 descrement->decrement
 descripror->descriptor
 descriptoers->descriptors
 descriptorss->descriptors
-descriptots->descriptors
 descriptr->descriptor
 desere->deseret
 desirec->desired
 desirializer->deserializer
-deslecting->deselecting
 desript->descript
-desscriptors->descriptors
 destinaltion->destination
 destrot->destroy
 destrution->destruction
@@ -22601,7 +22584,6 @@ devault->default
 devictree->devicetree
 diambiguated->disambiguated
 diasabled->disabled
-diconnect->disconnect
 dicontiguous->discontiguous
 differring->differing
 diictionary->dictionary
@@ -22620,7 +22602,6 @@ discouvery->discovery
 discrimintor->discriminator
 disl->disk
 displached->displaced
-distince->distinct
 distinguisable->distinguishable
 distrbutors->distributors
 ditherd->dithered
@@ -22724,7 +22705,6 @@ veriy->verify
 sinced->since
 collectable->collectible
 globle->global
-disctinct->distinct
 disctete->discrete
 contnet->content
 kernele->kernel
@@ -23536,7 +23516,6 @@ decreses->decreases
 defauting->defaulting
 dephth->depth
 deptth->depth
-destoying->destroying
 dirtifing->dirtifying
 disalowed->disallowed
 disclamed->disclaimed
@@ -24690,7 +24669,6 @@ deﬁned->defined
 depned->depend
 deviec->device
 dirung->during
-dpeloy->deploy
 dveice->device
 eerpom->eeprom
 evetns->events
@@ -25597,7 +25575,6 @@ definitins->definitions
 dependenct->dependency
 deprecared->deprecated
 detectiuon->detection
-deveopment->development
 disrectory->directory
 duscovered->discovered
 encapsulte->encapsulate
@@ -25676,7 +25653,6 @@ mobilelocaleseperator->mobilelocaleseparator
 tooptip->tooltip
 jgoups->jgroups
 credentia->credential
-deveoper->developer
 ftom->from
 aabndon->abandon
 aabndoned->abandoned
@@ -27518,7 +27494,6 @@ desginate->designate
 desimination->dissemination
 desined->designed
 desirible->desirable
-despatched->dispatched
 despearte->desperate
 despeate->desperate
 desperae->desperate
@@ -27547,7 +27522,6 @@ detrement->detriment
 detsined->destined
 develepment->development
 developemet->development
-deveop->develop
 devestate->devastate
 devestation->devastation
 devistate->devastate
@@ -27564,8 +27538,6 @@ dialation->dilation
 diaquiri->daiquiri
 diciple->disciple
 dicsipline->discipline
-dicuss->discuss
-dicussion->discussion
 diesal->diesel
 dieu->die
 digged->dug
@@ -27599,7 +27571,6 @@ disolution->dissolution
 disorientated->disoriented
 disperate->desperate
 dissapointment->disappointment
-dissappointment->disappointment
 dissoluted->dissolved
 distilation->distillation
 ditology->ideology
@@ -31151,7 +31122,6 @@ resuem->resume
 realloctions->reallocations
 realloction->reallocation
 decreaed->decreased
-documemts->documents
 possibel->possible
 erdvinis->erdviniai
 escudowo->escudo
