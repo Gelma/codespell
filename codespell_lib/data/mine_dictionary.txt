@@ -359,7 +359,6 @@ determinthe->determine
 devncie->device
 directoryt->directory
 durings->during
-eanbled->enabled
 egain->eagain
 emeregency->emergency
 emory->memory
@@ -7027,7 +7026,6 @@ effectionate->affectionate
 effectivelly->effectively
 effectivenss->effectiveness
 effectivley->effectively
-effectivly->effectively
 efficeincy->efficiency
 efficeint->efficient
 efficeintly->efficiently
@@ -7275,7 +7273,6 @@ encarcerated->incarcerated
 encarceration->incarceration
 enceclopedia->encyclopedia
 enchamtment->enchantment
-enchancing->enchanting
 enchancment->enchantment
 enchancments->enchantments
 enchanct->enchant
@@ -7304,7 +7301,6 @@ encorporated->incorporated
 encounteres->encounters
 encountred->encountered
 encourageing->encouraging
-encoutnered->encountered
 encrpyted->encrypted
 encrpyt->encrypt
 encrpytion->encryption
@@ -7351,7 +7347,6 @@ engagemnet->engagements
 engagemnts->engagements
 engeries->energies
 engineed->engineered
-engineeer->engineer
 engineerd->engineered
 enginereed->engineered
 enginer->engineer
@@ -7364,7 +7359,6 @@ enhacning->enhancing
 enhanceds->enhances
 enhanse->enhances
 enigneer->engineer
-enitrely->entirely
 enivitable->inevitable
 enivronmentally->environmentally
 enlcave->enclave
@@ -7478,8 +7472,6 @@ environmentals->environments
 environmentaly->environmentally
 environmentl->environmentally
 environmently->environmental
-environmetal->environmental
-environmnets->environments
 envrionmentally->environmentally
 ephipany->epiphany
 epihpany->epiphany
@@ -7492,7 +7484,6 @@ epitomie->epitome
 epliepsy->epilepsy
 epliogue->epilogue
 epscially->specially
-epsiodes->episodes
 epsionage->espionage
 epsorts->esports
 epsresso->espresso
@@ -7510,11 +7501,6 @@ equilibruim->equilibrium
 equivalet->equivalents
 equivalnce->equivalence
 equivalnet->equivalents
-equivelance->equivalence
-equivelants->equivalents
-equivilants->equivalents
-equivilence->equivalence
-equivilents->equivalents
 equivlaent->equivalents
 equivlanets->equivalents
 equivolence->equivalence
@@ -7529,10 +7515,8 @@ escalative->escalate
 escalato->escalation
 escapse->escapes
 escavation->escalation
-escpaes->escapes
 esctasy->ecstasy
 esctatic->ecstatic
-eslewhere->elsewhere
 esoterisch->esoteric
 esperate->separate
 espianoge->espionage
@@ -7546,7 +7530,6 @@ espressino->espresso
 espression->espresso
 espressso->espresso
 esprots->esports
-essencially->essentially
 essencials->essentials
 essensials->essentials
 essentails->essentials
@@ -7719,7 +7702,6 @@ exculsivity->exclusivity
 excurciating->excruciating
 execitioner->executioner
 execptional->exceptional
-exectuing->executing
 exectuioner->executioner
 exectuioners->executioner
 exectuive->executive
@@ -7793,9 +7775,6 @@ exorbirant->exorbitant
 exorbitent->exorbitant
 exoticas->exotics
 exoticos->exotics
-expalined->explained
-expalining->explaining
-expalins->explains
 expandas->expands
 expandes->expands
 expanisons->expansions
@@ -7854,7 +7833,6 @@ expertos->experts
 expextancy->expectancy
 expidentures->expenditures
 expidetion->expedition
-expierencing->experiencing
 expiers->expires
 expination->expiration
 expireds->expires
@@ -7874,7 +7852,6 @@ explanetary->explanatory
 explanetory->explanatory
 explanitary->explanatory
 explanotory->explanatory
-explenations->explanations
 explenatory->explanatory
 explicatia->explicit
 explicatie->explicit
@@ -7980,7 +7957,6 @@ extermism->extremism
 extoics->exotics
 extortin->extortion
 extraccion->extraction
-extractin->extraction
 extractivo->extraction
 extractnow->extraction
 extracto->extraction
@@ -21656,7 +21632,6 @@ duoiohandles->dupiohandles
 effecet->effect
 efffect->effect
 enctypting->encrypting
-enrypted->encrypted
 eproxycommand->oproxycommand
 excludesa->excludes
 expanatory->explanatory
@@ -21905,7 +21880,6 @@ excludepattern->excludepatterns
 excludetest->excludetests
 exicode->exitcode
 expore->explore
-extennsion->extension
 falase->false
 falss->false
 fiilter->filter
@@ -22647,7 +22621,6 @@ direectory->directory
 ecryption->encryption
 enclousure->enclosure
 encounded->encoded
-espected->expected
 evenutally->eventually
 expecteed->expected
 faction->fraction
@@ -22731,7 +22704,6 @@ encapulation->encapsulation
 encasulation->encapsulation
 encding->encoding
 encrypytion->encryption
-encryt->encrypt
 endable->enable
 endiad->endian
 endpioint->endpoint
@@ -22753,7 +22725,6 @@ enumrate->enumerate
 eode->code
 equaivalent->equivalent
 equalilty->equality
-equirements->requirements
 ergonmics->ergonomics
 erronenous->erroneous
 erronious->erroneous
@@ -23136,7 +23107,6 @@ worying->worrying
 writesq->writesql
 writteh->written
 exhasted->exhausted
-expecing->expecting
 extecuted->executed
 failuires->failures
 fireware->firmware
@@ -23369,7 +23339,6 @@ anonynous->anonymous
 degugging->debugging
 determive->determine
 evergreem->evergreen
-exclusing->excluding
 extensing->extending
 finilized->finalized
 firldname->fieldname
@@ -23418,13 +23387,10 @@ compileres->compilers
 cumulateed->cumulated
 dochshells->docshells
 evalueator->evaluator
-exausting->exhausting
 excepption->exception
 execessive->excessive
 expandsion->expansion
 exprssion->expression
-exractors->extractors
-exteremely->extremely
 flib->flip
 nyimes->nytimes
 actucally->actually
@@ -23527,7 +23493,6 @@ dynamaic->dynamic
 earier->earlier
 emmulated->emulated
 endoded->encoded
-enryption->encryption
 eternet->ethernet
 expontent->exponent
 exppect->expect
@@ -23688,8 +23653,6 @@ cooerative->cooperative
 dispobible->disponible
 dispoition->disposition
 enexpected->unexpected
-equavalent->equivalent
-evalulation->evaluation
 exppression->expression
 heurestics->heuristics
 incomplite->incomplete
@@ -23791,7 +23754,6 @@ computernam->computername
 concatanate->concatenate
 createthrad->createthread
 dissortions->distortions
-epression->expression
 explanitory->explanatory
 formatering->formattering
 furtunately->fortunately
@@ -24783,9 +24745,7 @@ ecpoint->point
 editign->editing
 emssage->message
 emunset->enumset
-enabeld->enabled
 encolse->enclose
-enumate->enumerate
 etiopik->etiopian
 etnries->entries
 euforia->euphoria
@@ -25352,7 +25312,6 @@ epsilone->epsilon
 foontote->footnote
 ergnomic->ergonomic
 expectin->expecting
-exucutes->executes
 fallable->fallible
 finilize->finalize
 forciong->forcing
@@ -25470,8 +25429,6 @@ enclusing->enclosing
 ependency->dependency
 epiration->expiration
 evaluaate->evaluate
-exceeeded->exceeded
-expaneded->expanded
 exploitet->exploited
 expresson->expression
 exsessive->excessive
@@ -25577,7 +25534,6 @@ deprecared->deprecated
 detectiuon->detection
 disrectory->directory
 duscovered->discovered
-encapsulte->encapsulate
 equivalend->equivalent
 especified->specified
 eventsouce->eventsource
@@ -27651,7 +27607,6 @@ eeks->ekes
 eelction->election
 eexcutive->executive
 efast->feast
-eference->deference
 eferred->deferred
 efine->define
 efinite->definite
@@ -27727,7 +27682,6 @@ emmbranous->membranous
 emmense->immense
 emmento->memento
 emmigrant->emigrant
-emmission->emission
 emnu->menu
 emocrat->democrat
 empahsis->emphasis
@@ -27744,7 +27698,6 @@ encrease->increase
 endeaver->endeavor
 endevor->endeavor
 endurace->endurance
-engineeering->engineering
 enighbor->neighbor
 enivoriment->environment
 enjined->enjoined
@@ -27762,7 +27715,6 @@ enrole->enroll
 entited->entitled
 entrende->entrance
 entrepeneurial->entrepreneurial
-envolve->involve
 eometric->geometric
 eometry->geometry
 eparate->separate
@@ -27788,7 +27740,6 @@ equipmetn->equipment
 equipmnet->equipment
 equipmnt->equipment
 equpiment->equipment
-equpment->equipment
 eraphones->earphones
 erator->orator
 eregious->egregious
@@ -27850,7 +27801,6 @@ executve->executive
 executvie->executive
 exeprience->experience
 exercice->exercise
-exerience->experience
 exeuctive->executive
 exeutive->executive
 exhalt->exalt
@@ -31169,7 +31119,6 @@ purpuse->purpose
 namepspace->namespace
 approximisation->approximation
 boundariess->boundaries
-exanding->expanding
 exprsession->expression
 forbedden->forbidden
 interpredted->interpreted
@@ -31180,7 +31129,6 @@ sepatrated->separated
 solders->olders
 whitepaces->whitespace
 aleardy->already
-exanded->expanded
 shew->skew
 supperposing->superposing
 dekay->delay
