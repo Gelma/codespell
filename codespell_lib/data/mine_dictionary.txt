@@ -53,9 +53,7 @@ ftranspareny->ftransparency
 fugly->ugly
 funtionkeys->functionkeys
 girdcols->gridcols
-idenifier->identifier
 identiifers->identifiers
-identtity->identity
 imager->image
 juunit->junit
 koject->kobject
@@ -126,8 +124,6 @@ stared->started
 onéy->only
 hiorizontal->horizontal
 informm->inform
-inidicator->indicator
-inidcator->indicator
 langueg->language
 respoitory->repository
 ling->link
@@ -383,7 +379,6 @@ ggroupe->groupe
 ggrupp->grupp
 gression->regression
 guielines->guidelines
-hueristics->heuristics
 hugarian->hungarian
 hypthens->hyphens
 incomat->incompat
@@ -807,7 +802,6 @@ rearrannged->rearranged
 uable->unable
 instantianted->instantiated
 guesssing->guessing
-increamental->incremental
 unprivilaged->unprivileged
 freeg->free
 evitable->evictable
@@ -834,8 +828,6 @@ heriarchy->hierarchy
 perfetch->prefetch
 accruate->accurate
 exerciesd->exercised
-intiailization->initialization
-maintianed->maintained
 conumsers->consumers
 beahvior->behavior
 comprar->comparar
@@ -6828,7 +6820,6 @@ doulbelift->doublelift
 downlaodable->downloadable
 downloaad->download
 downloadas->downloads
-downloadbale->downloadable
 downloadbel->downloadable
 downloadbig->downloading
 downloadble->downloadable
@@ -9174,7 +9165,6 @@ hegdehog->hedgehog
 heighted->heightened
 heightend->heightened
 heigthened->heightened
-heigths->heights
 heistant->hesitant
 heistate->hesitate
 heistation->hesitation
@@ -10009,9 +9999,6 @@ inconvienenced->inconvenience
 inconvienence->inconvenience
 inconvienent->inconvenient
 incoroprate->incorporate
-incorparated->incorporated
-incorparate->incorporate
-incorparating->incorporating
 incorporare->incorporate
 incorpore->incorporate
 incorportate->incorporate
@@ -10376,7 +10363,6 @@ inheriet->inherit
 inherint->inherit
 inherintly->inherently
 inhernetly->inherently
-inhertied->inherited
 inhumaan->inhuman
 inhumain->inhuman
 inidans->indians
@@ -10387,14 +10373,9 @@ inintelligent->unintelligent
 ininterested->uninterested
 ininteresting->uninteresting
 inisghts->insights
-initaite->initiate
-initaition->initiation
-initaitives->initiatives
 initaled->initialed
 initalese->initialese
 initaling->initializing
-initalisations->initialisations
-initalisers->initialisers
 initalism->initialism
 initalisms->initialisms
 initalizable->initializable
@@ -10595,7 +10576,6 @@ institucionalized->institutionalized
 institucion->institution
 instituded->instituted
 institude->instituted
-instituion->institution
 institutiei->institute
 institutie->institute
 institutionale->institutionalized
@@ -10627,10 +10607,6 @@ instrumenal->instrumental
 instrumentos->instruments
 instrumentul->instrumental
 instrumetal->instrumental
-insturcted->instructed
-insturction->instruction
-insturctor->instructor
-insturctors->instructors
 insturmentals->instrumental
 instutitional->institutional
 instutitionalized->institutionalized
@@ -10766,7 +10742,6 @@ interewbs->interwebs
 interfacce->interfaces
 interfase->interfaces
 interfce->interface
-interfears->interferes
 interfeer->interfere
 interfeers->interferes
 interferce->interferes
@@ -10777,7 +10752,6 @@ interferisce->interferes
 interferisse->interferes
 interferre->interfere
 interferres->interferes
-intergal->integral
 intergity->integrity
 interioara->interior
 interioare->interior
@@ -10932,7 +10906,6 @@ inticracies->intricacies
 inticrate->intricate
 intidimate->intimidate
 intidimation->intimidation
-intiials->initials
 intillectual->intellectual
 intillectually->intellectually
 intillectuals->intellectuals
@@ -11516,7 +11489,6 @@ knowledgeble->knowledgeable
 knowledgebly->knowledgable
 knowledgible->knowledgable
 knowlegdable->knowledgable
-knowlegdeable->knowledgeable
 knuckel->knuckle
 knuckels->knuckles
 knwoledgable->knowledgable
@@ -11592,10 +11564,7 @@ lannesters->lannisters
 lannistars->lannisters
 lannsiters->lannisters
 lantren->lantern
-lanucher->launcher
-lanuchers->launchers
 laodouts->loadouts
-laready->already
 laregly->largely
 largley->largely
 larington->arlington
@@ -11862,7 +11831,6 @@ liquidos->liquids
 lispticks->lipsticks
 listend->listened
 listenend->listened
-listents->listens
 litecion->litecoin
 litecon->litecoin
 liteicon->litecoin
@@ -12011,8 +11979,6 @@ mainstrem->mainstream
 maintainig->maintaining
 maintainted->maintained
 maintenaince->maintenance
-maintianing->maintaining
-maintian->maintain
 maintinance->maintenance
 maintinence->maintenance
 mairjuana->marijuana
@@ -12160,7 +12126,6 @@ manufacutrers->manufactures
 manufacutres->manufactures
 manufcaturers->manufactures
 manupilated->manipulated
-manupilating->manipulating
 manupulative->manipulative
 maraconi->macaroni
 maradeur->marauder
@@ -21918,7 +21883,6 @@ injenction->injection
 insersection->intersection
 inspet->inspect
 instanace->instance
-instsance->instance
 interable->iterable
 interfaace->interface
 itelf->itself
@@ -22109,14 +22073,11 @@ flushiung->flushing
 ftrunate->ftruncate
 funcction->function
 ghasttable->ghashtable
-hanler->handler
 incremntal->incremental
 inerfaces->interfaces
 infamout->infamous
 inforbar->infobar
 initializd->initialized
-intereface->interface
-intrfaces->interfaces
 isomery->isometry
 knowning->knowing
 labrary->library
@@ -22125,7 +22086,6 @@ leter->later
 libtoolt->libtool
 listenadress->listenaddress
 lookasize->lookaside
-macchine->machine
 mimimizes->minimizes
 mminimum->minimum
 modifis->modifies
@@ -22195,7 +22155,6 @@ zcommit->commit
 accessive->excessive
 explicityl->explicitly
 identitities->identities
-inititially->initially
 interagate->interrogate
 popluates->populates
 probablilty->probability
@@ -22308,7 +22267,6 @@ assoceated->associated
 assumpitions->assumptions
 asynchronuously->asynchronously
 atomc->atomic
-atructure->structure
 attemoted->attempted
 attemptimg->attempting
 attmempt->attempt
@@ -22998,7 +22956,6 @@ lossess->lossless
 mabilbox->mailbox
 manualsx->manuals
 mdeling->modeling
-meessage->message
 messagem->message
 messasge->message
 metaath->metapath
@@ -23113,7 +23070,6 @@ fireware->firmware
 firwware->firmware
 flallback->fallback
 formarly->formerly
-formware->firmware
 fragents->fragments
 freecale->freescale
 gonolulu->honolulu
@@ -23133,7 +23089,6 @@ interaval->interval
 interfac->interface
 interrpt->interrupt
 invision->envision
-itereated->iterated
 keayboard->keyboard
 languagez->language
 looopback->loopback
@@ -23355,7 +23310,6 @@ incorrest->incorrect
 indidates->indicates
 interting->inserting
 intervace->interface
-machanics->mechanics
 manditory->mandatory
 meadphone->headphone
 occording->according
@@ -23509,21 +23463,17 @@ funally->finally
 gemetric->geometric
 generrate->generate
 glourious->glorious
-hadle->handle
 hase->has
 havet->have
 havve->have
 horizonta->horizontal
 humbers->numbers
-impicit->implicit
 inavalid->invalid
 inimated->animated
 inmutable->immutable
 inncorrect->incorrect
 insipired->inspired
 interaface->interface
-intrface->interface
-iterest->interest
 itfself->itself
 korrectly->correctly
 latancy->latency
@@ -23757,12 +23707,10 @@ dissortions->distortions
 explanitory->explanatory
 formatering->formattering
 furtunately->fortunately
-hierarcies->hierarchies
 horitzontal->horizontal
 horizontial->horizontal
 hotplugable->hotpluggable
 identifyng->identifying
-idependent->independent
 immutablity->immutability
 implelented->implemented
 implmentors->implementors
@@ -23772,7 +23720,6 @@ incrementes->increments
 indoneysiya->indoneeysiya
 informarion->information
 infprmation->information
-initialzers->initializers
 initizalize->initialize
 insenitive->insensitive
 instaniate->instantiate
@@ -23844,11 +23791,8 @@ explicitgly->explicitly
 guaranteees->guarantees
 heayweight->heavyweight
 identitied->identified
-imporantly->importantly
-indvidually->individually
 inprecise->imprecise
 installaton->installation
-instroduced->introduced
 insupported->unsupported
 interconnet->interconnect
 interfactes->interfaces
@@ -24019,7 +23963,6 @@ hnotification->notification
 hotplaggable->hotpluggable
 identificaion->identification
 identifieres->identifiers
-idetification->identification
 iinitialization->initialization
 imediaobject->mediaobject
 implementatiion->implementation
@@ -24335,7 +24278,6 @@ filterning->filtering
 flaxible->flexible
 fliping->flipping
 formward->forward
-forwward->forward
 fractionnal->fractional
 fraktal->fractal
 framep->frames
@@ -24757,7 +24699,6 @@ fintech->fintek
 fiwmare->firmware
 hisotry->history
 igonred->ignored
-iniator->initiator
 inniate->initiate
 invld->invalid
 karakas->caracas
@@ -24822,7 +24763,6 @@ alterning->altering
 boolian->boolean
 capabilitites->capabilities
 ftrase->ftrace
-initiaize->initialize
 managerss->managers
 monitarily->monetarily
 nthis->this
@@ -24876,7 +24816,6 @@ tranmit->transmit
 ucraina->ukraina
 inreases->increases
 isvalide->isvalid
-methodes->methods
 payement->payment
 requesat->request
 scenarii->scenario
@@ -25324,7 +25263,6 @@ imutable->immutable
 inherant->inherent
 innermst->innermost
 inquries->inquiries
-insaller->installer
 instamce->instance
 insteaad->instead
 intramfs->initramfs
@@ -25543,14 +25481,12 @@ exceptionn->exception
 exceptiont->exception
 extracflags->extraflags
 finishiing->finishing
-forwareded->forwarded
 guaranteet->guaranteed
 indiccated->indicated
 ineractive->interactive
 influecence->influcence
 inntermost->innermost
 inseration->insertion
-insterting->inserting
 instrement->instrument
 interprter->interpreter
 intrinstic->intrinsic
@@ -27977,7 +27913,6 @@ geometirc->geometric
 geometr->geometry
 geometrci->geometric
 geometri->geometry
-geomtric->geometric
 geregious->egregious
 gfit->gift
 gft->gift
@@ -27996,10 +27931,6 @@ glactic->galactic
 gmae->game
 gme->gem
 gnorance->ignorance
-goemetric->geometric
-goemetry->geometry
-gometric->geometric
-gometry->geometry
 governement->government
 graduat->graduate
 graeful->graceful
@@ -28228,7 +28159,6 @@ hrticulturalist->horticulturalist
 hrvest->harvest
 hryme->rhyme
 hrythm->rhythm
-hsitory->history
 htreshold->threshold
 humoorus->humorous
 humoous->humorous
@@ -28280,7 +28210,6 @@ icnnamon->cinnamon
 icrcumference->circumference
 idealy->ideally
 idefinable->indefinable
-idenify->identify
 identicaly->identically
 ider->idler
 idiat->idiot
@@ -28456,7 +28385,6 @@ iniciate->initiate
 inidspensable->indispensable
 inisible->invisible
 inispensable->indispensable
-initative->initiative
 inititive->initiative
 inivsible->invisible
 injurys->injuries
@@ -28793,7 +28721,6 @@ masonary->masonry
 masonery->masonry
 matareals->materials
 mateur->amateur
-mathmatics->mathematics
 mbidextrous->ambidextrous
 mcaaroni->macaroni
 mcaroni->macaroni
@@ -31105,7 +31032,6 @@ byes->bytes
 whoch->which
 retutn->return
 towar->toward
-itereate->iterate
 benchmarl->benchmark
 indicaing->indicating
 shrared->shared
