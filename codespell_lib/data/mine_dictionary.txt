@@ -840,7 +840,6 @@ rotateion->rotation
 shareffilesets->sharedfilesets
 desacriptors->descriptors
 desacriptor->descriptor
-opitmized->optimized
 bebugging->debugging
 brizen->bryzen
 conflcting->conflicting
@@ -12800,7 +12799,6 @@ misintrepreting->misinterpreting
 misintrepret->misinterpret
 misisonaries->missionaries
 misisonary->missionary
-misison->mission
 misnadry->misandry
 misoganistic->misogynistic
 misoganist->misogynist
@@ -12975,7 +12973,6 @@ monetizare->monetize
 monglos->mongols
 mongoles->mongols
 mongolos->mongols
-monitering->monitoring
 monitord->monitored
 monitoreada->monitored
 monitoreado->monitored
@@ -13533,15 +13530,11 @@ nonsene->nonsense
 nonsenscial->nonsensical
 nonsensicle->nonsensical
 nonsesne->nonsense
-noramlly->normally
-noramls->normals
 norhteast->northeast
 norhtern->northern
 norhtwestern->northwestern
 norhtwest->northwest
 normalis->normals
-normallized->normalized
-normalls->normals
 normalos->normals
 normanday->normandy
 normany->normandy
@@ -13602,11 +13595,9 @@ nucelus->nucleus
 nuclean->unclean
 nuclues->nucleus
 nuerological->neurological
-nuerons->neurons
 nueroscience->neuroscience
 nuetered->neutered
 nuetrality->neutrality
-nuetral->neutral
 nuetron->neutron
 nulcear->nuclear
 nullfiy->nullify
@@ -13796,7 +13787,6 @@ operativos->operations
 opiniones->opinions
 opinoins->opinions
 opitcal->optical
-opitmal->optimal
 opponenet->opponent
 opponenets->opponent
 opponet->opponent
@@ -13819,7 +13809,6 @@ optimizacion->optimization
 optimizare->optimize
 optimizate->optimize
 optimizating->optimization
-optimizied->optimize
 oracels->oracles
 oragnered->orangered
 oragnes->oranges
@@ -13929,7 +13918,6 @@ orientacion->orientation
 orientarla->oriental
 orientarlo->oriental
 orientato->orientation
-origianlly->originally
 originales->originals
 originalet->originated
 originalis->originals
@@ -14159,7 +14147,6 @@ ownders->wonders
 owuldve->wouldve
 oylmpic->olympic
 oylmpics->olympics
-pacakged->packaged
 pacificts->pacifist
 pacifit->pacifist
 packade->packaged
@@ -14592,7 +14579,6 @@ perfektion->perfection
 perferential->preferential
 perferring->preferring
 perfexcion->perfection
-performaces->performances
 performacne->performances
 performanes->performances
 performanse->performances
@@ -14783,8 +14769,6 @@ perusaded->persuaded
 pervailing->prevailing
 pervail->prevail
 pervalence->prevalence
-pervention->prevention
-pervents->prevents
 perversley->perverse
 perverst->pervert
 pervertes->perverse
@@ -15117,7 +15101,6 @@ pligrim->pilgrim
 ploarized->polarized
 ploretariat->proletariat
 ploygamy->polygamy
-ploygon->polygon
 ploymer->polymer
 pnatheon->pantheon
 podemso->podemos
@@ -22086,7 +22069,6 @@ leter->later
 libtoolt->libtool
 listenadress->listenaddress
 lookasize->lookaside
-mimimizes->minimizes
 mminimum->minimum
 modifis->modifies
 ncorrect->incorrect
@@ -22597,7 +22579,6 @@ nestedd->nested
 nonexisiting->nonexisting
 olderst->oldest
 origibnal->original
-persisitent->persistent
 portibility->portability
 precodition->precondition
 prefeteched->prefetched
@@ -22797,7 +22778,6 @@ noboody->nobody
 nsyntax->syntax
 numbmer->number
 numbrer->number
-numbrs->numbers
 numric->numeric
 objecct->object
 offsed->offset
@@ -22978,7 +22958,6 @@ objjects->objects
 occpied->occupied
 oflload->offload
 osolete->obsolete
-oulined->outlined
 pacmage->package
 painfull->painful
 pchannel->channel
@@ -23812,7 +23791,6 @@ optioms->options
 oroginal->original
 overritten->overwritten
 passiong->passing
-passsword->password
 persisent->persistent
 pluggin->plugin
 pluggins->plugins
@@ -23870,10 +23848,8 @@ opportinity->opportunity
 ordnernamen->ordnername
 originaally->originally
 overcloking->overclocking
-parrameters->parameters
 perodically->periodically
 persistancy->persistency
-polimorphic->polymorphic
 poplulation->population
 possitility->possibility
 prefechable->prefetchable
@@ -24004,7 +23980,6 @@ multipliciation->multiplication
 multiverioning->multiversioning
 navgational->navigational
 needremainder->needreminder
-nomalization->normalization
 noncontinous->noncontinuous
 notificatisons->notifications
 notifocation->notification
@@ -24595,7 +24570,6 @@ mentod->method
 meomry->memory
 metada->metadata
 metodi->methods
-minize->minimize
 nmuber->number
 noitfy->notify
 optuin->option
@@ -24960,7 +24934,6 @@ macoc->macos
 makig->making
 mobie->mobile
 mosly->mostly
-needes->needs
 noizy->noisy
 nteger->integer
 pylit->pylint
@@ -25176,7 +25149,6 @@ ncustom->custom
 noasset->noassert
 oppened->opened
 optionb->option
-ougoing->outgoing
 passwor->password
 patterh->pattern
 phtooey->phooey
@@ -25412,7 +25384,6 @@ obligaton->obligation
 occinelle->coccinelle
 opttional->optional
 ourselbes->ourselves
-oveloaded->overloaded
 petabaits->petabytes
 playround->playground
 powershel->powershell
@@ -25499,7 +25470,6 @@ nencessary->necessary
 occuurence->occurrence
 ooperation->operation
 operationg->operation
-oveloading->overloading
 passhrases->passphrases
 pictorally->pictorially
 pollutting->polluting
@@ -29145,7 +29115,6 @@ odouriferous->odoriferous
 odourous->odorous
 odwnload->download
 oel->oil
-oepn->open
 offshot->offshoot
 ofod->food
 ofotball->football
@@ -29254,7 +29223,6 @@ paraed->parade
 paralellogram->parallelogram
 paralelogram->parallelogram
 paralleilsm->parallelism
-paralleism->parallelism
 parallelgoram->parallelogram
 parallelgram->parallelogram
 parallelim->parallelism
@@ -29358,7 +29326,6 @@ persaded->persuaded
 persay->per
 perseerance->perseverance
 perseevrance->perseverance
-persent->present
 perserverence->perseverance
 perseveance->perseverance
 persevearnce->perseverance
@@ -30816,7 +30783,6 @@ orchstrates->orchestrates
 overrloaded->overloaded
 parameterss->parameters
 perfcentage->percentage
-ponctuation->punctuation
 prospensity->propensity
 reecryption->reencryption
 refercences->references
@@ -30890,7 +30856,6 @@ minialencode->minimalencode
 moderegistry->modesregistry
 noisesetting->noisesettings
 normalencode->normalencoder
-parellelized->parallelized
 predeccessor->predecessor
 preprocssing->preprocessing
 recaluculate->recalculate
@@ -31225,7 +31190,6 @@ spwcified->specified
 crete->create
 liblucence->libclucene
 liblucence-core->libclucene-core
-ouline->outline
 a bout->about
 objcts->objcts
 objct->objct
@@ -31340,7 +31304,6 @@ needef->needed
 ordeding->ordering
 orderred->ordered
 oveall->overall
-passses->passes
 patttern->pattern
 reodering->reordering
 reseti->reset
