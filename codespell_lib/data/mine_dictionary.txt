@@ -255,7 +255,6 @@ overflap->overlap
 paritical->partial
 parsting->parsing
 pinnned->pinned
-prfiles->profiles
 profided->provided
 rbree->rtbree
 referrening->referencing
@@ -548,7 +547,6 @@ postix->postfix
 precist->precise
 prililedges->privileges
 priviges->privileges
-privledges->privileges
 protocoal->protocol
 pyintotify->pyinotify
 qualifed->qualified
@@ -728,7 +726,6 @@ peripherans->peripherals
 prefech->prefetch
 pridge->bridge
 primariy->primarily
-priniciples->principles
 projevt->project
 relaim->reclaim
 sceleton->skeleton
@@ -15305,7 +15302,6 @@ precedeed->preceded
 precedense->precedence
 precedessors->predecessors
 preceived->perceived
-precentages->percentages
 preciesly->precisely
 preciselly->precisely
 precisie->precise
@@ -15410,7 +15406,6 @@ pregnanices->pregnancies
 pregnanies->pregnancies
 pregnencies->pregnancies
 pregorative->prerogative
-pregressively->progressively
 preimere->premiere
 preimer->premier
 preimeter->perimeter
@@ -15535,7 +15530,6 @@ preservato->preservation
 preserverd->preserved
 preservered->preserved
 presest->presets
-presicely->precisely
 presidancy->presidency
 presidante->presidents
 presidencey->presidency
@@ -15552,12 +15546,10 @@ presitigous->prestigious
 presnetation->presentations
 presomption->presumption
 presonalized->personalized
-presonally->personally
 presonas->personas
 presonhood->personhood
 prespectives->perspectives
 presrciption->prescriptions
-pressuming->pressuring
 pressureing->pressuring
 prestegious->prestigious
 prestes->presets
@@ -15680,7 +15672,6 @@ privilegs->privileges
 privitazed->privatized
 privitized->privatized
 proactivley->proactive
-probabe->probable
 probabiliste->probabilities
 probabilite->probabilities
 probabiliy->probability
@@ -16295,7 +16286,6 @@ punsihable->punishable
 punsiher->punisher
 punsihes->punishes
 punsihments->punishments
-puplications->publications
 puragtory->purgatory
 purcahsed->purchased
 purcahses->purchases
@@ -21899,7 +21889,6 @@ prefixd->prefixed
 prefox->prefix
 prefxed->prefixed
 prety->pretty
-prgress->progress
 primry->primary
 procedual->procedural
 pythont->python
@@ -22975,7 +22964,6 @@ premble->preamble
 prepapre->prepare
 prepres->prepares
 prioity->priority
-proects->projects
 prointer->pointer
 prrempt->preempt
 prtocol->protocol
@@ -23105,7 +23093,6 @@ prechage->precharge
 preparted->prepared
 prestine->pristine
 princpal->principal
-procdure->procedure
 prootype->prototype
 proptects->protects
 quckpath->quickpath
@@ -29535,7 +29522,6 @@ precdee->precede
 precee->precede
 preceive->perceive
 preception->perception
-precident->precedent
 predjudice->prejudice
 predominately->predominantly
 preecde->precede
@@ -29567,9 +29553,7 @@ presiedd->presided
 presiednt->president
 presient->president
 presnet->present
-presnt->present
 presonnel->personnel
-presure->pressure
 prevale->prevail
 priilege->privilege
 priivlege->privilege
@@ -29653,7 +29637,6 @@ prtagonist->protagonist
 prticularly->particularly
 prtoagonist->protagonist
 prviilege->privilege
-prvilege->privilege
 psanish->spanish
 psatime->pastime
 psell->spell
@@ -31314,7 +31297,6 @@ validatior->validator
 cosntitutes->constitutes
 deconnection->disconnection
 includeded->included
-proejcts->projects
 publicatoin->publication
 selecvitity->selectivity
 sgements->segments
