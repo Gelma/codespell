@@ -830,7 +830,6 @@ beahvior->behavior
 comprar->comparar
 fazer->faz
 checkinunique->checkingunique
-relvant->relevant
 represnting->representing
 authenticaion->authentication
 rotateion->rotation
@@ -7967,7 +7966,6 @@ extrapalate->extrapolate
 extraploate->extrapolate
 extrapolant->extrapolate
 extrapolare->extrapolate
-extrapole->extrapolate
 extrapolerat->extrapolate
 extrapolite->extrapolate
 extrapoloate->extrapolate
@@ -16461,7 +16459,6 @@ reactionair->reactionary
 reactionairy->reactionary
 reactionnary->reactionary
 reactiony->reactionary
-reagrds->regards
 realibility->reliability
 realible->reliable
 realibly->reliably
@@ -16643,7 +16640,6 @@ redmeption->redemption
 redneckers->rednecks
 redneckese->rednecks
 redneckest->rednecks
-redners->renders
 reduncancy->redundancy
 redundantcy->redundancy
 redundany->redundancy
@@ -16672,7 +16668,6 @@ referemdum->referendum
 referenceing->referencing
 referendim->referendum
 referendom->referendum
-referening->referencing
 referens->references
 referentes->references
 referere->referee
@@ -16967,7 +16962,6 @@ repersentations->representations
 repersented->represented
 repersenting->representing
 repersents->represents
-repetation->repetition
 repeticion->repetition
 repetitivo->repetition
 repharse->rephrase
@@ -17162,11 +17156,7 @@ respiratiory->respiratory
 respiratoy->respiratory
 respiritory->respiratory
 respitatory->respiratory
-responcibilities->responsibilities
-responcibility->responsibility
-responcible->responsible
 responcibly->responsibly
-responcive->responsive
 respondas->responds
 respondendo->responded
 respondis->responds
@@ -17187,7 +17177,6 @@ responsibiliy->responsibility
 responsibillities->responsibilities
 responsibillity->responsibility
 responsibil->responsibly
-responsibilties->responsibilities
 responsibily->responsibility
 responsibley->responsibly
 responsibliy->responsibly
@@ -17292,7 +17281,6 @@ retrocatively->retroactively
 retrosepct->retrospect
 retrospekt->retrospect
 retrubution->retribution
-retunred->returned
 reuasble->reusable
 reuinon->reunion
 reuptable->reputable
@@ -17886,7 +17874,6 @@ serveillance->surveillance
 serviceble->serviceable
 serviciable->serviceable
 seskatchewan->saskatchewan
-sesnors->sensors
 settelment->settlement
 settelments->settlements
 settlemens->settlements
@@ -21644,7 +21631,6 @@ recykey->recvkey
 reository->repository
 reparing->preparing
 repoitories->repositories
-repositries->repositories
 repsitories->repositories
 repsitory->repository
 retrievel->retrieval
@@ -21693,7 +21679,6 @@ fianlizer->finalizer
 grcypt->gcrypt
 occupys->occupies
 permanatly->permanently
-rembering->remembering
 reogranisation->reorganisation
 retreivekeyfile->retrievekeyfile
 transferr->transfer
@@ -21894,7 +21879,6 @@ procedual->procedural
 pythont->python
 queris->queries
 realoads->reloads
-receiever->receiver
 receriverkey->receiverkey
 recognnized->recognized
 rediriects->redirects
@@ -22085,7 +22069,6 @@ realtimes->realtime
 reassemblied->reassembled
 reconstrucated->reconstructed
 registere->registered
-reimplimented->reimplemented
 reloadale->reloadable
 repeate->repeat
 rmling->rmlint
@@ -22799,7 +22782,6 @@ readyn->ready
 reallly->really
 reanges->ranges
 rearch->reach
-redme->readme
 rendom->random
 reolve->resolve
 reresh->refresh
@@ -22813,7 +22795,6 @@ retyurn->return
 reult->result
 reume->resume
 revice->device
-rlease->release
 rotata->rodata
 rusell->russell
 rwsume->resume
@@ -22979,8 +22960,6 @@ relesase->release
 repoted->reported
 requeest->request
 requewst->request
-reseves->reserves
-rleased->released
 routinge->routine
 rumtime->runtime
 samaung->samsung
@@ -23114,7 +23093,6 @@ relvative->relative
 reqserved->reserved
 requeing->requeuing
 requered->required
-requesed->requested
 requestss->requests
 requireds->requires
 requiried->required
@@ -23596,7 +23574,6 @@ quantinies->quantities
 quantites->quantities
 quiesecent->quiescent
 rasterizer->rasterized
-reaonable->reasonable
 reassemby->reassembly
 recharing->recharging
 reciprical->reciprocal
@@ -23712,7 +23689,6 @@ progession->progression
 promisuous->promiscuous
 ranslation->translation
 reistering->registering
-restucture->restructure
 ssociative->associative
 successuly->successfully
 termnation->termination
@@ -23852,7 +23828,6 @@ protoptypes->prototypes
 pubslishers->publishers
 recoverying->recovering
 referenting->referencing
-regardeless->regardless
 registeredd->registered
 registgered->registered
 relaational->relational
@@ -25263,7 +25238,6 @@ reecrypt->reencrypt
 regulard->regular
 relaaxed->relaxed
 requestm->request
-resurect->resurrect
 retrieva->retrieve
 ridirect->redirect
 scandata->scandate
@@ -25379,7 +25353,6 @@ probablye->probably
 propegate->propagate
 qualifers->qualifiers
 refaactor->refactor
-refferral->referral
 repeading->repeating
 requeusts->requests
 respsonse->response
@@ -29770,10 +29743,8 @@ recepted->received
 reconciliate->reconcile
 recoupe->recoup
 recouperate->recuperate
-recquire->require
 recruted->recruited
 recurr->recur
-recurrant->recurrent
 redicule->ridicule
 reefrence->reference
 reefrred->referred
@@ -29874,7 +29845,6 @@ restuarateurs->restaurateurs
 resturateurs->restaurateurs
 resurgance->resurgence
 retaner->retainer
-retaurant->restaurant
 retaurateurs->restaurateurs
 retsaurant->restaurant
 retsaurateurs->restaurateurs
@@ -30978,7 +30948,6 @@ represete->represente
 modeules->modules
 byes->bytes
 whoch->which
-retutn->return
 towar->toward
 benchmarl->benchmark
 indicaing->indicating
@@ -31259,7 +31228,6 @@ mononotically->monotonically
 occurancy->occurrence
 reabable->readable
 relplacenumrule->replacenumrule
-rutime->runtime
 subdirecctory->subdirectory
 subvolme->subvolume
 suchn->such
