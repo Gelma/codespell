@@ -789,7 +789,6 @@ encoode->encode
 scrubbe->scrubber
 santiy->sanity
 courrpted->corrupted
-sequenze->sequence
 contanis->contains
 fragmetation->fragmentation
 culmulative->cumulative
@@ -21904,7 +21903,6 @@ saxara->sahara
 sami->same
 searaches->searches
 searcg->search
-secified->specified
 senegali->senegal
 separatad->separated
 sharability->shareability
@@ -25242,7 +25240,6 @@ retrieva->retrieve
 ridirect->redirect
 scandata->scandate
 sercvice->service
-servives->services
 shothand->shorthand
 simplity->simplify
 simulaor->simulator
@@ -29942,7 +29939,6 @@ sapnish->spanish
 sary->sari
 sasimilate->assimilate
 sathma->asthma
-satistic->statistic
 sattistic->statistic
 sbestos->asbestos
 scapgoat->scapegoat
