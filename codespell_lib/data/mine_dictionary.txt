@@ -806,7 +806,6 @@ communitate->communicate
 healty->healthy
 compresseed->compressed
 requirenments->requirements
-subracting->subtracting
 maintin->maintain
 adjustmnt->adjustment
 unfortunetely->unfortunately
@@ -18111,7 +18110,6 @@ sincereley->sincerely
 sincerelly->sincerely
 singelplayer->singleplayer
 singels->singles
-singificantly->significantly
 singify->signify
 singlepalyer->singleplayer
 singlers->singles
@@ -18473,7 +18471,6 @@ specialzied->specialized
 specialz->specialize
 specias->specials
 speciatly->specialty
-specificatons->specifications
 specificato->specification
 specifikation->specification
 specifiyng->specifying
@@ -18899,7 +18896,6 @@ strengthes->strengths
 strengthining->strengthening
 strengthin->strengthen
 strengthn->strengthen
-strengts->strengths
 strentghs->strengths
 streoid->steroid
 stressade->stressed
@@ -18922,7 +18918,6 @@ stroyline->storyline
 stroytelling->storytelling
 structurels->structures
 structurel->structural
-struggeld->struggled
 strugglebus->struggles
 struggleing->struggling
 strugglign->struggling
@@ -19193,7 +19188,6 @@ supervisores->supervisors
 superviso->supervision
 supervsior->supervisors
 supirsed->surprised
-supllemental->supplemental
 supperssor->suppressor
 supplamental->supplemental
 supplaments->supplements
@@ -19201,7 +19195,6 @@ supplament->supplement
 supplemant->supplemental
 supplemetal->supplemental
 supplemets->supplements
-supplimental->supplemental
 supporre->supporters
 supportare->supporters
 supporteurs->supporters
@@ -19228,13 +19221,8 @@ suprisd->surprised
 suprsied->surprised
 supscriptions->subscriptions
 supscription->subscription
-supsects->suspects
 supsense->suspense
 supsension->suspension
-supsicions->suspicions
-supsicion->suspicion
-supsiciously->suspiciously
-supsicious->suspicious
 surbuban->suburban
 surpases->surpass
 surpemacist->supremacist
@@ -19429,14 +19417,11 @@ synonynous->synonymous
 synopsies->synopsis
 synoynms->synonyms
 synoynm->synonym
-syntehsis->synthesis
-syntehtic->synthetic
 synthesasia->synthesis
 synthesesia->synthesis
 sypmathetic->sympathetic
 sypmathize->sympathize
 sypmathy->sympathy
-sypmtom->symptom
 sypnosis->synopsis
 syracue->syracuse
 syracusae->syracuse
@@ -19592,7 +19577,6 @@ templares->templars
 templarios->templars
 templarius->templars
 templas->templars
-templats->templates
 templeos->temples
 templers->temples
 temporairly->temporarily
@@ -19626,8 +19610,6 @@ termanator->terminator
 termanology->terminology
 termendously->tremendously
 termendous->tremendous
-termianls->terminals
-termiantor->terminator
 termigator->terminator
 terminacion->termination
 terminaison->termination
@@ -19795,7 +19777,6 @@ thorats->throats
 thornes->thrones
 thoroughy->thoroughly
 thorttling->throttling
-thorughout->throughout
 thoruim->thorium
 thoughs->thoughts
 thouroghly->thoroughly
@@ -21650,7 +21631,6 @@ subirs->subdirs
 submodulea->submodule
 sucommand->subcommand
 suely->surely
-supplimenting->supplementing
 sycremotes->syncremotes
 telelhash->telehash
 tempolate->template
@@ -22806,7 +22786,6 @@ sexport->export
 shaber->shaper
 shapped->shaped
 sharred->shared
-shouuld->should
 signsl->signal
 siince->since
 skritt->script
@@ -22814,7 +22793,6 @@ slength->length
 snscanf->sscanf
 socken->socket
 spinx->sphinx
-sruct->struct
 sssue->issue
 stablep->stable
 statick->static
@@ -22834,7 +22812,6 @@ tartget->target
 taskes->tasks
 terget->target
 tesult->result
-theread->thread
 therof->thereof
 thouugh->though
 tickect->ticket
@@ -22969,7 +22946,6 @@ secrity->security
 securit->security
 servioe->service
 setttime->settime
-sigular->singular
 silbling->sibling
 siletly->silently
 similer->similar
@@ -23109,7 +23085,6 @@ senasync->sendasync
 sentenge->sentence
 sequeuce->sequence
 settlink->settling
-simbolic->symbolic
 snapshod->snapshot
 softwarew->software
 sounbank->soundbank
@@ -23126,7 +23101,6 @@ supperset->superset
 supporsts->supports
 surrount->surround
 telemtry->telemetry
-threfore->therefore
 toggline->toggling
 trailings->trailing
 trancate->truncate
@@ -23195,8 +23169,6 @@ invalic->invalid
 exseptions->exceptions
 nesed->nested
 functioname->function name
-sourrounds->surrounds
-sourround->surround
 interperability->interoperability
 onclude->include
 subment->submenu
@@ -23209,7 +23181,6 @@ iternal->internal
 methoids->methods
 sstrings->strings
 sstring->string
-sybolic->symbolic
 targetss->targets
 toolbart->toolbar
 priperty->property
@@ -23509,7 +23480,6 @@ systemm->system
 tablepc->tabletpc
 tabstopps->tabstops
 taked->taken
-tansform->transform
 tble->table
 thease->these
 themeing->theming
@@ -23612,10 +23582,8 @@ susbscribe->subscribe
 synhronic->synchronic
 tabsstopps->tabstops
 tepmplates->templates
-termiated->terminated
 threefisch->threefish
 threshould->threshold
-thresolds->thresholds
 transitio->transition
 treturning->returning
 trucation->truncation
@@ -23770,7 +23738,6 @@ sentral->central
 serveru->server
 setlocal->setlocale
 shoulfree->shouldfree
-singnature->signature
 singuar->singular
 snapsot->snapshot
 sockect->socket
@@ -23847,8 +23814,6 @@ structurees->structures
 subseqently->subsequently
 subseqeuent->subsequent
 subsequenet->subsequent
-subsription->subscription
-suplemental->supplemental
 supliedname->suppliedname
 synchronzed->synchronized
 tabelespace->tablespace
@@ -23985,7 +23950,6 @@ successfulle->successfully
 succuessfully->successfully
 superflously->superfluously
 supprisingly->surprisingly
-synchonously->synchronously
 synchroniation->synchronization
 synchronizarion->synchronization
 synchronzation->synchronization
@@ -23998,7 +23962,6 @@ techncically->technically
 temperarture->temperature
 terminatinon->termination
 terminationc->termination
-terminiation->termination
 testnavagation->testnavigation
 tramopolines->trampolines
 tranclucency->translucency
@@ -24346,7 +24309,6 @@ setpointsize->setpointsizef
 signaturess->signatures
 signaures->signatures
 silense->silence
-simuation->simulation
 singnalstats->signalstats
 slighrly->slightly
 smarcard->smartcard
@@ -24368,7 +24330,6 @@ teporal->temporal
 terminala->terminal
 terminanted->terminated
 textinfo->texinfo
-thhere->there
 timesbase->timebase
 timestampe->timestamps
 timsstamps->timestamps
@@ -24548,7 +24509,6 @@ rotuer->router
 rspnse->response
 simlpy->simply
 srtoke->stroke
-stroes->stores
 survor->survivor
 symble->symbol
 terset->reset
@@ -25040,7 +25000,6 @@ stdour->stdout
 synxax->syntax
 takeks->takes
 tedius->tedious
-thrads->threads
 timesi->timesix
 traint->trait
 treaks->treats
@@ -30198,8 +30157,6 @@ supersdee->supersede
 supersee->supersede
 supesede->supersede
 supesrede->supersede
-suplement->supplement
-suply->supply
 supposably->supposedly
 supremist->supremacist
 supresede->supersede
@@ -30274,7 +30231,6 @@ threshlod->threshold
 threshodl->threshold
 thresohld->threshold
 thrsehold->threshold
-thrshold->threshold
 thrusted->thrust
 tiangle->triangle
 tiarchy->diarchy
@@ -30745,7 +30701,6 @@ sepparately->separately
 sequencible->sequencable
 sporadially->sporadically
 stylesnames->stylenames
-surpisingly->surprisingly
 testoubject->testsubject
 transmation->translation
 uniformised->uniformized
@@ -31227,7 +31182,6 @@ relplacenumrule->replacenumrule
 subdirecctory->subdirectory
 subvolme->subvolume
 suchn->such
-sychronizing->synchronizing
 tranmsformed->transformed
 transacton->transaction
 utiility->utility
