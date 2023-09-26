@@ -19982,7 +19982,6 @@ trannsexual->transsexual
 tranpshobic->transphobic
 transaccion->transaction
 transaprency->transparency
-transational->transitional
 transcations->transactions
 transciprt->transcripts
 transcirpt->transcripts
@@ -20029,7 +20028,6 @@ transforners->transformers
 transfors->transforms
 transforums->transforms
 transfos->transforms
-transfromers->transformers
 transgeder->transgender
 transgemder->transgender
 transgended->transgendered
@@ -20071,13 +20069,11 @@ translusent->translucent
 translyvanian->transylvania
 translyvania->transylvania
 transmatter->transmitter
-transmisions->transmission
 transmisisons->transmissions
 transmisison->transmission
 transmissin->transmissions
 transmissons->transmissions
 transmisson->transmission
-transmisssion->transmissions
 transmitirte->transmitter
 transmitor->transistor
 transmittor->transmitter
@@ -20136,7 +20132,6 @@ tranzporter->transporter
 trasncripts->transcripts
 trasncript->transcript
 trasnferring->transferring
-trasnforming->transforming
 trasngendered->transgendered
 trasngender->transgender
 trasnphobic->transphobic
@@ -23586,7 +23581,6 @@ threefisch->threefish
 threshould->threshold
 transitio->transition
 treturning->returning
-trucation->truncation
 ubounding->unbounding
 uexpected->unexpected
 umodified->unmodified
@@ -23751,7 +23745,6 @@ suupplied->supplied
 temrorary->temporary
 therefoere->therefore
 toutine->routine
-transter->transfer
 tructure->structure
 unlabelled->unlabeled
 variale->variable
@@ -24706,7 +24699,6 @@ feedack->feedback
 htacess->htaccess
 produst->product
 speific->specific
-tranmit->transmit
 ucraina->ukraina
 inreases->increases
 isvalide->isvalid
@@ -30267,7 +30259,6 @@ trakcer->tracker
 trancend->transcend
 trancended->transcended
 trancendental->transcendental
-trangle->triangle
 tranny->tyranny
 translaor->translator
 translaotr->translator
@@ -30278,7 +30269,6 @@ transltaor->translator
 transltor->translator
 transmitt->transmit
 trarchy->starchy
-traslator->translator
 trcak->track
 trcaker->tracker
 trck->trick
@@ -30338,7 +30328,6 @@ trionometry->trigonometry
 trirachy->diarchy
 trirchy->tricky
 trkey->turkey
-trnaslator->translator
 trnslator->translator
 trukey->turkey
 truley->truly
