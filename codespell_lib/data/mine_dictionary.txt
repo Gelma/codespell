@@ -572,10 +572,8 @@ thursdsay->thursday
 truew->true
 tunneblick->tunnelblick
 ucomplicated->uncomplicated
-uers->users
 uing->using
 umame->uname
-unecrypted->unencrypted
 versatilte->versatile
 viop->voip
 withj->with
@@ -795,7 +793,6 @@ culmulative->cumulative
 finialize->finalize
 anbother->another
 rearrannged->rearranged
-uable->unable
 instantianted->instantiated
 guesssing->guessing
 unprivilaged->unprivileged
@@ -20448,7 +20445,6 @@ uncontrollablly->uncontrollably
 uncontrollaby->uncontrollably
 unconvectional->unconventional
 unconvencional->unconventional
-unconvenient->inconvenient
 unconvensional->unconventional
 unconventianal->unconventional
 unconventinal->unconventional
@@ -20954,7 +20950,6 @@ vegetarianos->vegetarians
 vegetarin->vegetarians
 vegetatians->vegetarians
 vegetatian->vegetarian
-vegeterians->vegetarians
 vehciles->vehicles
 vehemantly->vehemently
 vehementely->vehemently
@@ -21132,7 +21127,6 @@ vitmains->vitamins
 vitmain->vitamin
 vitroil->vitriol
 vitrues->virtues
-vizualisations->visualization
 vocabluary->vocabulary
 vocabularily->vocabulary
 vocabularity->vocabulary
@@ -22824,7 +22818,6 @@ unble->unable
 updata->update
 usaged->usage
 ustream->stream
-vaious->various
 validb->valid
 vaulue->value
 vendir->vendor
@@ -23102,7 +23095,6 @@ trancate->truncate
 transfoer->transfer
 transites->transits
 triggred->triggered
-uncludes->includes
 uncommont->uncommon
 undwinder->unwinder
 unespcape->unescape
@@ -23158,7 +23150,6 @@ latecy->latency
 returun->return
 scisor->scissor
 seving->serving
-unseful->useful
 defauit->default
 invalic->invalid
 exseptions->exceptions
@@ -23239,9 +23230,7 @@ tachnique->technique
 tolarance->tolerance
 triggeret->triggered
 unescqped->unescaped
-untuitive->intuitive
 uridecide->uridecode
-valiables->variables
 accepable->acceptable
 bittorent->bittorrent
 comoponent->component
@@ -24050,7 +24039,6 @@ hwckock->hwclock
 thye->the
 typs->types
 waut->wait
-wrte->write
 builf->build
 creen->screen
 dollr->dollar
@@ -24948,7 +24936,6 @@ treee->tree
 tthey->they
 unlnk->unlink
 usafe->usage
-vacum->vacuum
 vmext->vmexit
 vtodo->todo
 winbg->windbg
@@ -30384,7 +30371,6 @@ uality->quality
 uarantee->guarantee
 uatonomous->autonomous
 uaxiliary->auxiliary
-ublicly->publicly
 ubrger->burger
 ucchini->zucchini
 ucmulative->cumulative
@@ -30578,7 +30564,6 @@ wlalet->wallet
 wllet->wallet
 wordprss->wordpress
 worldpress->wordpress
-worlwide->worldwide
 worpress->wordpress
 worsten->worsen
 worstening->worsening
@@ -30931,8 +30916,6 @@ drawoage->drawpage
 oage->page
 returno->return
 nothong->nothing
-usrer->user
-usrers->users
 reposiory->repository
 occurance's->occurrence's
 wrriten->written
