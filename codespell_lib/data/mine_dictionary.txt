@@ -96,7 +96,6 @@ prifles->profiles
 approciate->appropriate
 blocsk->blocks
 compressiability->compressibility
-conflicing->conflicting
 differentia->difference
 eailer->earlier
 exclsuive->exclusive
@@ -193,7 +192,6 @@ biffer->bigger
 fautly->faulty
 existign->existing
 architectured->architectures
-critial->critical
 deve->devel
 devie->device
 haveo->have
@@ -230,7 +228,6 @@ crrupted->corrupted
 decompressiion->decompression
 determint->determine
 differemt->different
-dismatch->mismatch
 drammatically->dramatically
 enahced->enhanced
 filesyste->filesystem
@@ -343,7 +340,6 @@ countaining->containing
 coveriy->coverity
 daeomn->daemon
 dangerouse->dangerous
-decleared->declared
 dellocate->deallocate
 derferences->dereferences
 descriptros->descriptors
@@ -469,10 +465,8 @@ clusermgr->clustermgr
 colliquially->colloquially
 comf->conf
 commanda->commands
-communty->community
 configurde->configure
 conhesive->cohesive
-connectiong->connecting
 csr->crt
 curcumvent->circumvent
 deaemons->daemons
@@ -612,7 +606,6 @@ auxiallary->auxiliary
 caugh->caught
 charsacter->character
 classig->classic
-congfiguration->configuration
 conincidan->coincidan
 dfault->default
 encooded->encoded
@@ -659,7 +652,6 @@ axplicit->explicit
 ayuthentication->authentication
 caclculate->calculate
 capitabl->capital
-conntected->connected
 consisits->consists
 coount->count
 defineition->definition
@@ -783,7 +775,6 @@ santiy->sanity
 courrpted->corrupted
 contanis->contains
 fragmetation->fragmentation
-culmulative->cumulative
 finialize->finalize
 anbother->another
 rearrannged->rearranged
@@ -3777,7 +3768,6 @@ comestics->cosmetics
 comfertable->comfortable
 comfertably->comfortably
 comferting->comforting
-comforming->comforting
 comfortabel->comfortably
 comfortabil->comfortably
 comfortablely->comfortably
@@ -3987,7 +3977,6 @@ competitons->competitors
 competitve->competitive
 competution->computation
 compilacion->compilation
-compilance->compliance
 compilare->compiler
 compilato->compilation
 compilr->compiler
@@ -4000,7 +3989,6 @@ compitation->computation
 compitetion->competitions
 complacant->complacent
 complacient->complacent
-complaince->compliance
 complaind->complained
 complaines->complaints
 complainging->complaining
@@ -4019,7 +4007,6 @@ completelys->completes
 completen->complement
 completenes->completes
 completent->complement
-completey->completely
 completi->complexity
 completily->complexity
 completin->completion
@@ -4082,7 +4069,6 @@ composet->compost
 composicion->composition
 composiiton->compositions
 composision->compositions
-composistion->compositions
 compositae->composite
 compositie->composite
 compositied->composite
@@ -4251,7 +4237,6 @@ conclutions->conclusions
 concnetration->concentrations
 concorrent->concurrent
 concreet->concrete
-concret->concert
 concsience->conscience
 concsious->conscious
 concsiously->consciously
@@ -4365,16 +4350,9 @@ configuracion->configuration
 configurare->configure
 configurate->configure
 configurato->configuration
-confilct->conflict
-confilcting->conflicting
-confilcts->conflicts
 confins->confines
 confise->confines
 confisgated->confiscated
-conflcit->conflict
-conflciting->conflicting
-conflcits->conflicts
-conflics->conflicts
 conflictos->conflicts
 confrentational->confrontational
 confrentation->confrontation
@@ -4384,21 +4362,15 @@ confrontaion->confrontation
 confrontating->confrontation
 confrontativo->confrontation
 confrontato->confrontation
-confussion->confession
-confussions->confessions
 congegration->congregation
 congergation->congregation
 congitive->cognitive
 conglaturation->congratulations
 conglaturations->congratulations
-congradulate->congratulate
 congragation->congregation
 congragulate->congratulate
 congragulations->congratulations
 congrassman->congressman
-congratualte->congratulate
-congratualted->congratulate
-congratualtions->congratulations
 congratuate->congratulate
 congratulatons->congratulations
 congratule->congratulate
@@ -4426,7 +4398,6 @@ connecticuit->connecticut
 connecticunts->connecticut
 connecties->connects
 connectit->connecticut
-connectivety->connectivity
 connectivitiy->connectivity
 connectivy->connectivity
 connectos->connectors
@@ -4542,7 +4513,6 @@ consiquently->consequently
 consistance->consistency
 consistencey->consistency
 consistens->consists
-consistensy->consistency
 consistentcy->consistently
 consistenty->consistently
 consitutents->constituents
@@ -4783,9 +4753,6 @@ continuu->continuous
 continuuing->continuing
 continuuity->continuity
 continuuum->continuum
-contirbuted->contributed
-contirbution->contribution
-contirbutors->contributors
 contitnent->contingent
 contiunal->continual
 contiunally->continually
@@ -4828,12 +4795,9 @@ contredict->contradict
 contreversial->controversial
 contreversy->controversy
 contribucion->contribution
-contribue->contribute
-contribued->contributed
 contribuem->contribute
 contribuent->contribute
 contribuer->contribute
-contribues->contributes
 contribuie->contribute
 contribuit->contribute
 contribuito->contribution
@@ -4841,11 +4805,9 @@ contribuitor->contributor
 contribuo->contributor
 contributeurs->contributes
 contributie->contribute
-contributin->contribution
 contributiors->contributors
 contributivo->contribution
 contributo->contribution
-contributons->contributors
 contributos->contributors
 contributs->contributes
 contribuye->contribute
@@ -4924,8 +4886,6 @@ conversino->conversions
 conversiones->conversions
 conversley->conversely
 converstaional->conversational
-converstaion->conversation
-converstaions->conversations
 convertiable->convertible
 convertibile->convertible
 convertie->convertible
@@ -4962,7 +4922,6 @@ convorsations->conversations
 convoulted->convoluted
 convseration->conservation
 convulated->convoluted
-convuluted->convoluted
 cooldows->cooldowns
 cooldwons->cooldowns
 cooperacion->cooperation
@@ -5346,7 +5305,6 @@ cuddels->cuddles
 cuddleys->cuddles
 cuestionable->questionable
 culitvate->cultivate
-culprint->culprit
 culrpit->culprit
 culterally->culturally
 cultivative->cultivate
@@ -5388,7 +5346,6 @@ currens->currents
 currentfps->currents
 currentlys->currents
 currentusa->currents
-curreny->currency
 currest->currents
 curriculim->curriculum
 curricullum->curriculum
@@ -5430,7 +5387,6 @@ cynisicm->cynicism
 cyrptic->cryptic
 dabilitating->debilitating
 dagners->dangers
-dahsboard->dashboard
 daimond->diamond
 daimonds->diamonds
 dangeros->dangers
@@ -5614,7 +5570,6 @@ definilty->definitely
 definitaley->definitely
 definitaly->definitely
 definitavely->definitively
-definitelly->definitely
 definitevely->definitively
 definitevly->definitively
 definiteyl->definitely
@@ -5632,7 +5587,6 @@ definitivo->definition
 definitivos->definitions
 definitlely->definitely
 definitlety->definitely
-definitley->definitely
 definitlly->definitely
 definitlry->definitely
 definitlty->definitely
@@ -5862,7 +5816,6 @@ dependat->dependent
 dependd->depended
 dependencias->dependencies
 dependened->depended
-dependenices->dependencies
 dependensies->dependencies
 dependenta->dependent
 dependente->dependence
@@ -5877,12 +5830,7 @@ deplorabel->deplorable
 deplorabil->deplorable
 deplorabile->deplorable
 deplorible->deplorable
-deplyoing->deploying
-deplyoment->deployment
 depoisted->deposited
-depolyed->deployed
-depolying->deploying
-depolyment->deployment
 depositas->deposits
 depositd->deposited
 depositers->deposits
@@ -5990,7 +5938,6 @@ desperatedly->desperately
 desperatelly->desperately
 desperating->desperation
 desperatley->desperately
-desperatly->desperately
 desperato->desperation
 desperetly->desperately
 despicaple->despicable
@@ -6011,8 +5958,6 @@ destinction->destination
 destinctions->destinations
 destiney->destiny
 destinty->destiny
-destkop->desktop
-destkops->desktops
 destoryer->destroyer
 destoryers->destroyers
 destraction->destruction
@@ -6054,13 +5999,11 @@ determinig->determining
 determinisic->deterministic
 determinisim->determinism
 determinisitc->deterministic
-determinisitic->deterministic
 deterministc->deterministic
 deterministisch->deterministic
 deterministische->deterministic
 determinitic->deterministic
 determinsim->determinism
-determinsitic->deterministic
 determinsm->determinism
 detmatologist->dermatologist
 detorit->detroit
@@ -6085,7 +6028,6 @@ devasteted->devastated
 develepmont->developments
 develepors->developers
 develoeprs->developers
-developemnt->developments
 developmant->developmental
 developmenet->developments
 developmently->developmental
@@ -6095,8 +6037,6 @@ developmnet->developments
 developors->develops
 developres->develops
 developrs->develops
-develpoment->developments
-develpoments->developments
 deveploment->developments
 devialet->deviate
 deviatie->deviate
@@ -6168,14 +6108,10 @@ differintiate->differentiate
 differnetial->differential
 difficulites->difficulties
 difficulte->difficulties
-difficultes->difficulties
 difficuly->difficulty
 difficut->difficulty
 difficutlies->difficulties
 diffirentiate->differentiate
-diffucult->difficult
-diffuculties->difficulties
-diffuculty->difficulty
 diganosed->diagnosed
 diganose->diagnose
 diganosis->diagnosis
@@ -6331,7 +6267,6 @@ discources->discourse
 discoure->discourse
 discourgae->discourages
 discourges->discourages
-discoverd->discovered
 discovere->discoveries
 discoveres->discovers
 discoveryd->discovered
@@ -6368,7 +6303,6 @@ discualified->disqualified
 discusison->discussions
 discussin->discussion
 discussiong->discussing
-discusssion->discussions
 discustingly->disgustingly
 disengenuous->disingenuous
 disenginuous->disingenuous
@@ -6761,7 +6695,6 @@ downloadbel->downloadable
 downloadbig->downloading
 downloadble->downloadable
 downloadeble->downloadable
-downloas->downloads
 downovted->downvoted
 downovting->downvoting
 downroaded->downgraded
@@ -6856,11 +6789,8 @@ dusfunctional->dysfunctional
 dusgustingly->disgustingly
 dustification->justification
 dwarvens->dwarves
-dyamically->dynamically
 dyanmite->dynamite
 dyansty->dynasty
-dymanically->dynamically
-dymanics->dynamics
 dymanite->dynamite
 dynamicallly->dynamically
 dynamicdns->dynamics
@@ -21459,7 +21389,6 @@ cywin->cygwin
 ddeveloped->developed
 decscriptions->descriptions
 delveloping->developing
-denined->denied
 dequeuetransfer->dequeuetransfers
 descrioptions->descriptions
 descripotion->description
@@ -21682,24 +21611,19 @@ slosure->closure
 compils->compiles
 compler->compiler
 comtributor->contributor
-condiction->condition
 contentypes->contenttypes
 contettypes->contenttypes
 contrim->contrib
 conttenttypes->contenttypes
 coonfig->config
 corecolectors->corecollectors
-creatd->created
 customzed->customized
 dababase->database
 dateimes->datetimes
 desimal->decimal
 delvering->delivering
-denpendency->dependency
 departaments->departments
 deprepcated->deprecated
-deseralize->deserialize
-dfferent->different
 djangorproject->djangoproject
 djanjo->django
 djano->django
@@ -21830,7 +21754,6 @@ carinthia->carinzia
 checkbock->checkbox
 cimbabue->zimbabwe
 contirb->contrib
-contirbute->contribute
 contsruct->construct
 coordites->coordinates
 customing->customizing
@@ -21839,7 +21762,6 @@ cvsfileloader->csvfileloader
 deinstall->uninstall
 denmaki->denmark
 djagno->django
-djanog->django
 eixst->exist
 environnemnt->environment
 exbit->exhibit
@@ -21915,7 +21837,6 @@ cussors->cursors
 dallocation->deallocation
 debuggings->debugging
 defragementpage->defragmentpage
-deplicate->duplicate
 determiness->determines
 dileterious->deleterious
 disassemblied->disassembled
@@ -22225,7 +22146,6 @@ coller->caller
 comhy->comphy
 compactiing->compacting
 compactnes->compactness
-compatibiity->compatibility
 compesate->compensate
 compiing->compiling
 compilerr->compiler
@@ -22241,9 +22161,6 @@ condidions->conditions
 confgigures->configures
 configfure->configure
 configurarion->configuration
-confiuration->configuration
-confiure->configure
-confiures->configures
 conncected->connected
 conndection->connection
 connectctate->connectstate
@@ -22251,7 +22168,6 @@ connectr->connector
 consequenetly->consequently
 consisitent->consistent
 consistecy->consistency
-consle->console
 consteallation->constellation
 constrcuctor->constructor
 constructorr->constructor
@@ -22273,7 +22189,6 @@ copmpiled->compiled
 copyies->copies
 copyrifht->copyright
 corigin->origin
-correspondind->corresponding
 corruped->corrupted
 corruptio->corruption
 cotiguous->contiguous
@@ -22286,7 +22201,6 @@ cpriority->priority
 cpufrq->cpufreq
 crahing->crashing
 creataed->created
-crendentials->credentials
 crierion->criterion
 crittical->critical
 cryptogaphic->cryptographic
@@ -22362,14 +22276,11 @@ destrution->destruction
 detacted->detected
 determies->determines
 detructive->destructive
-devault->default
 devictree->devicetree
 diambiguated->disambiguated
-diasabled->disabled
 dicontiguous->discontiguous
 differring->differing
 diictionary->dictionary
-directlly->directly
 directonality->directionality
 direktlink->directlink
 diring->during
@@ -22484,7 +22395,6 @@ sinced->since
 collectable->collectible
 globle->global
 disctete->discrete
-contnet->content
 kernele->kernel
 changened->changed
 droppted->dropped
@@ -22496,7 +22406,6 @@ dunctions->functions
 duplx->duplex
 duratinon->duration
 durind->during
-dyamic->dynamic
 earilier->earlier
 earliers->earlier
 ebable->enable
@@ -23913,7 +23822,6 @@ changesd->changed
 nondeterminstic->nondeterministic
 oveeride->override
 dockefiles->dockerfiles
-dockefile->dockerfile
 unmmaped->unmapped
 canocalize->canonicalize
 postocpy->postcopy
@@ -23963,7 +23871,6 @@ thye->the
 typs->types
 waut->wait
 builf->build
-creen->screen
 dollr->dollar
 empry->empty
 eturn->return
@@ -24046,7 +23953,6 @@ deinterlaces->deinterlace
 deoding->decoding
 dependes->depends
 dequantizaton->dequantization
-descroption->description
 destrooy->destroy
 directky->directly
 directted->directed
@@ -24284,7 +24190,6 @@ exponend->exponent
 fionacci->fibonacci
 preorden->preorder
 punicode->pyunicode
-dfference->difference
 dustutils->distutils
 regnerate->regenerate
 utilitues->utilities
@@ -24456,14 +24361,12 @@ conuter->counter
 coolign->cooling
 cotnext->context
 coutned->counted
-cyrpess->cypress
 darkent->darknet
 davinic->davinci
 dealyed->delayed
 debgufs->debugfs
 decread->decreased
 decrytp->decrypt
-dection->detection
 deepnds->depends
 defhand->defend
 deletia->deletion
@@ -24477,7 +24380,6 @@ deufult->default
 diaplsy->display
 digialt->digital
 dsicuss->discuss
-dymanic->dynamic
 ecpoint->point
 editign->editing
 emssage->message
@@ -24692,7 +24594,6 @@ checkusm->checksum
 chidlren->children
 coccured->occurred
 cohernet->coherent
-comemnts->comments
 compents->components
 conexnat->conexant
 constnat->constant
@@ -24865,7 +24766,6 @@ chhdir->chdir
 cleard->cleared
 decryt->decrypt
 dodgey->dodgy
-drived->derived
 ecause->because
 edtion->edition
 fallse->falls
@@ -24923,7 +24823,6 @@ coercin->coercion
 coercon->coercion
 coerece->coerce
 colunmn->column
-comform->conform
 cosmodb->cosmosdb
 darwing->darwin
 dieable->disable
@@ -25144,7 +25043,6 @@ deprcated->deprecated
 desuaring->desugaring
 desugered->desugared
 disablees->disables
-downsteam->downstream
 draginfly->dragonfly
 enclosinb->enclosing
 enclusing->enclosing
@@ -26830,7 +26728,6 @@ codnenses->condenses
 coerse->coerce
 cognicscent->cognoscenti
 coi->coy
-collum->column
 colmun->column
 colnel->colonel
 colnoel->colonel
@@ -26841,7 +26738,6 @@ colonl->colonel
 colonle->colonel
 coloquial->colloquial
 colun->colon
-colunm->column
 comemmorate->commemorate
 comencement->commencement
 comimtted->committed
@@ -26855,7 +26751,6 @@ committde->committed
 committies->committees
 compeet->compete
 competor->competitor
-compilate->compile
 comprimize->compromise
 comraderie->camaraderie
 conaminate->contaminate
@@ -26981,7 +26876,6 @@ cosnensus->consensus
 cotaminate->contaminate
 cotnaminate->contaminate
 coumn->column
-countrys->countries
 courrier->courier
 coustic->caustic
 covnenience->convenience
@@ -27112,8 +27006,6 @@ defniition->definition
 defuncted->defunct
 deifnite->definite
 deifnition->definition
-deinite->definite
-deinition->definition
 demcorat->democrat
 demcrat->democrat
 deminish->diminish
@@ -27142,7 +27034,6 @@ despearte->desperate
 despeate->desperate
 desperae->desperate
 desperaet->desperate
-desperat->desperate
 despertae->desperate
 desperte->desperate
 desprate->desperate
@@ -27229,7 +27120,6 @@ dolescent->adolescent
 donload->download
 doosy->doozy
 dowlnoad->download
-downloa->download
 downloda->download
 downolad->download
 drinked->drank
@@ -30592,8 +30482,6 @@ deletecashe->deletecache
 deocorations->decorations
 desstructors->destructors
 diagnositics->diagnostics
-docmentation->documentation
-documntation->documentation
 dyncamically->dynamically
 editoroption->editoroptions
 encounterred->encountered
@@ -30795,7 +30683,6 @@ btrsf->btrfs
 uage->usage
 conctrol->control
 trakcing->tracking
-creae->create
 notifyy->notify
 drawoages->drawpages
 drawoage->drawpage
@@ -30857,7 +30744,6 @@ diffrer->differ
 qulatity->quality
 rounduing->rounding
 runninig->running
-compatibe->compatible
 definively->definitively
 immediateley->immediately
 inteleaved->interleaved
@@ -30931,7 +30817,6 @@ hprizontal->horizontal
 allocatied->allocated
 prargraph->paragraph
 missong->missing
-comemnt->comment
 configutaions->configurations
 configutaion->configuration
 giigabytes->gigabytes
@@ -31006,7 +30891,6 @@ characterseteci->characterset
 clampiing->clamping
 copmplete->complete
 cpntainer->container
-creaes->creates
 decomnposed->decomposed
 folbder->folder
 gereralized->generalized
