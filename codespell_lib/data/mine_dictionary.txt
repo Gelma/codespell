@@ -147,7 +147,6 @@ initialitation->initialization
 batter->better
 buts->but
 formalar->formular
-functionlity->functionality
 geomeztry->geometry
 geristers->registers
 glean->clean
@@ -179,7 +178,6 @@ truthy->true
 varienty->variety
 vsisibility->visibility
 vsiualisation->visualisation
-whit->with
 accissible->accessible
 libatomic-ops->libatomic_ops
 msexcell->msexcel
@@ -230,10 +228,8 @@ determint->determine
 differemt->different
 drammatically->dramatically
 enahced->enhanced
-filesyste->filesystem
 filesystm->filesystem
 flesystem->filesystem
-gettig->getting
 hehavior->behavior
 indefinetelly->indefinitely
 initialzied->initialized
@@ -357,10 +353,8 @@ experimently->experimentally
 facilited->facilitated
 fck->fsck
 fedore->fedora
-figgure->figure
 filestype->filetype
 filesysmte->filesystem
-filesystes->filesystems
 filesystsem->filesystem
 filetyle->filetype
 filspec->filespec
@@ -609,9 +603,6 @@ classig->classic
 conincidan->coincidan
 dfault->default
 encooded->encoded
-escpecially->especially
-especiall->especially
-habbits->habits
 incremete->increment
 insensivity->insensitivity
 itemzied->itemized
@@ -775,7 +766,6 @@ santiy->sanity
 courrpted->corrupted
 contanis->contains
 fragmetation->fragmentation
-finialize->finalize
 anbother->another
 rearrannged->rearranged
 instantianted->instantiated
@@ -785,7 +775,6 @@ freeg->free
 evitable->evictable
 fragmenation->fragmentation
 communitate->communicate
-healty->healthy
 compresseed->compressed
 requirenments->requirements
 maintin->maintain
@@ -803,7 +792,6 @@ horific->horrific
 vaired->varied
 heriarchy->hierarchy
 perfetch->prefetch
-exerciesd->exercised
 conumsers->consumers
 comprar->comparar
 fazer->faz
@@ -6827,7 +6815,6 @@ eachotehr->eachother
 eachtoher->eachother
 earhtbound->earthbound
 earhtquakes->earthquakes
-earilest->earliest
 earliet->earliest
 earpluggs->earplugs
 earplus->earplugs
@@ -6881,7 +6868,6 @@ editores->editors
 educacional->educational
 educationnal->educational
 effectionate->affectionate
-effectivelly->effectively
 effectivenss->effectiveness
 effectivley->effectively
 efficeincy->efficiency
@@ -7096,10 +7082,6 @@ emphatized->emphasized
 emphatize->empathize
 emphatizes->emphasizes
 emphatizing->emphasizing
-emphazised->emphasized
-emphazise->emphasize
-emphazises->emphasizes
-emphazising->emphasizing
 emphesized->emphasized
 emphesizes->emphasizes
 emphesizing->emphasizing
@@ -7155,13 +7137,9 @@ encomapsses->encompasses
 encompase->encompass
 encompasess->encompasses
 encompesses->encompasses
-encorporated->incorporated
 encounteres->encounters
 encountred->encountered
 encourageing->encouraging
-encrpyted->encrypted
-encrpyt->encrypt
-encrpytion->encryption
 encyclapedia->encyclopedia
 encyclepedia->encyclopedia
 encyclopadia->encyclopedia
@@ -7366,7 +7344,6 @@ equivolent->equivalent
 equivolents->equivalents
 ermington->remington
 erroenous->erroneous
-erroneos->erroneous
 escalatie->escalate
 escalatin->escalation
 escalative->escalate
@@ -7582,10 +7559,7 @@ exeggerating->exaggerating
 exeggeration->exaggeration
 exepmtion->exemption
 exepmtions->exemptions
-exercices->exercise
-exercicing->exercising
 exercide->exercised
-exercies->exercise
 exerciseing->exercising
 exhasuted->exhausted
 exhasut->exhaust
@@ -7664,8 +7638,6 @@ expensve->expense
 expentancy->expectancy
 expentiture->expenditure
 expentitures->expenditures
-experieced->experienced
-experieces->experiences
 experiemntal->experimental
 experiemnted->experimented
 experiemnt->experiment
@@ -7694,14 +7666,7 @@ expidetion->expedition
 expiers->expires
 expination->expiration
 expireds->expires
-expiremental->experimental
-expirementation->experimentation
-expiremented->experimented
-expirement->experiment
-expirementing->experimenting
-expirements->experiments
 explaines->explains
-explaing->explaining
 explainging->explaining
 explainig->explaining
 explaintory->explanatory
@@ -7785,7 +7750,6 @@ exposito->exposition
 exposse->exposes
 expotition->exposition
 exprensive->expressive
-expresison->expressions
 expresscoin->expression
 expresse->expressive
 expressens->expresses
@@ -7913,7 +7877,6 @@ faggotts->faggots
 faggotus->faggots
 fahernheit->fahrenheit
 fahrenhiet->fahrenheit
-failurs->failures
 faincee->fiancee
 falcones->falcons
 falesly->falsely
@@ -8126,7 +8089,6 @@ firefigter->firefighter
 firefigther->firefighters
 firefigthers->firefighters
 firendlies->friendlies
-firendly->friendly
 firendzoned->friendzoned
 firggin->friggin
 firghtened->frightened
@@ -8158,7 +8120,6 @@ flavous->flavours
 flawleslly->flawlessly
 flawlessely->flawlessly
 flawlessley->flawlessly
-flawlessy->flawlessly
 flciker->flicker
 flechter->fletcher
 flecther->fletcher
@@ -8205,9 +8166,6 @@ foreamrs->forearms
 forearmes->forearms
 forecfully->forcefully
 forefit->forfeit
-foreginer->foreigner
-foreginers->foreigners
-foregin->foreign
 foregorund->foreground
 foregroud->foreground
 foreignese->foreigners
@@ -8350,7 +8308,6 @@ freedos->freedoms
 freestlye->freestyle
 freesytle->freestyle
 freindlies->friendlies
-freinds->friends
 freindship->friendship
 freindships->friendships
 freindzoned->friendzoned
@@ -8551,7 +8508,6 @@ generas->generals
 generaste->generates
 generatie->generate
 generaties->generate
-generatin->generations
 generationals->generations
 generationens->generations
 generationers->generations
@@ -8586,7 +8542,6 @@ gentlemn->gentlemen
 genuienly->genuinely
 genuinelly->genuinely
 genuinley->genuinely
-genuises->geniuses
 geograhpical->geographical
 geographacilly->geographically
 geographia->geographical
@@ -8828,10 +8783,6 @@ grizzlay->grizzly
 grizzley->grizzly
 groubdbreaking->groundbreaking
 groudnbreaking->groundbreaking
-grpahical->graphical
-grpahically->graphically
-grpahic->graphic
-grpahics->graphics
 grpahite->graphite
 gruseome->gruesome
 guanatanmo->guantanamo
@@ -8954,8 +8905,6 @@ hanuted->haunted
 haorder->hoarder
 haording->hoarding
 hapmshire->hampshire
-happenend->happened
-happenes->happens
 happliy->happily
 hardend->hardened
 hardenend->hardened
@@ -9215,18 +9164,13 @@ hopsitals->hospitals
 horader->hoarder
 horading->hoarding
 horishima->hiroshima
-horisontal->horizontal
-horisontally->horizontally
 horizantal->horizontal
 horizantally->horizontally
 horizonatal->horizontal
 horizones->horizons
 horizontaal->horizontal
-horizontallly->horizontally
-horizontaly->horizontally
 horizontes->horizons
 horizonts->horizons
-horozontally->horizontally
 horrendeous->horrendous
 horrendeus->horrendous
 horrendious->horrendous
@@ -9324,7 +9268,6 @@ husbandos->husbands
 husbans->husbands
 hutnsman->huntsman
 hweaton->wheaton
-hybirds->hybrids
 hybrides->hybrids
 hybridus->hybrids
 hydorgen->hydrogen
@@ -21398,7 +21341,6 @@ directorya->directory
 disavantage->disadvantage
 duoiohandles->dupiohandles
 effecet->effect
-efffect->effect
 enctypting->encrypting
 eproxycommand->oproxycommand
 excludesa->excludes
@@ -21406,7 +21348,6 @@ expanatory->explanatory
 exponentioal->exponential
 exportreee->exportree
 fiddely->fiddly
-filder->folder
 filesystemencofing->filesystemencoding
 flagschange->flagchange
 folter->folder
@@ -21414,7 +21355,6 @@ fromskey->fromikey
 ggcrypt->gcrypt
 gitolie->gitolite
 gitp->git
-goole->google
 hakell->haskell
 heiristic->heuristic
 hpiperead->piperead
@@ -21636,7 +21576,6 @@ exceede->exceed
 excludepattern->excludepatterns
 excludetest->excludetests
 exicode->exitcode
-expore->explore
 falase->false
 falss->false
 fiilter->filter
@@ -21650,7 +21589,6 @@ geater->greater
 getparamter->getparameter
 granparent->grandparent
 granularit->granularity
-greately->greatly
 grenlandia->groenlandia
 gtthub->github
 guadalupa->guadalupe
@@ -21658,8 +21596,6 @@ gwatemala->guatemala
 hacen->have
 haggins->hagins
 heigght->height
-hombrew->homebrew
-htacces->htaccess
 htpp->http
 httpfoudation->httpfoundation
 nhttps->https
@@ -22343,7 +22279,6 @@ evenutally->eventually
 expecteed->expected
 faction->fraction
 filsesystem->filesystem
-frequecy->frequency
 ggc->gcc
 imples->implies
 indroduced->introduced
@@ -22437,7 +22372,6 @@ enumberating->enumerating
 enumelation->enumeration
 enumrate->enumerate
 eode->code
-equaivalent->equivalent
 equalilty->equality
 ergonmics->ergonomics
 erronenous->erroneous
@@ -22453,13 +22387,9 @@ filds->fields
 filte->filter
 flaggs->flags
 foces->forces
-fould->found
 frone->front
-frrom->from
-fulll->full
 geamma->gamma
 htmll->html
-htts->https
 infro->info
 llist->list
 maain->main
@@ -22489,12 +22419,10 @@ facrory->factory
 fadvice->fadvise
 failedi->failed
 failted->failed
-failur->failure
 faiuled->failed
 familty->family
 fconfig->config
 fiealds->fields
-fireing->firing
 fotmat->format
 fronzen->frozen
 frozed->frozen
@@ -22678,7 +22606,6 @@ failuire->failure
 fainess->fairness
 faspath->fastpath
 finaize->finalize
-firmwar->firmware
 flipcmd->hflipcmd
 freetyp->freetype
 frmware->firmware
@@ -22822,7 +22749,6 @@ handelers->handlers
 harddware->hardware
 hardeware->hardware
 hazadous->hazardous
-heatbeat->heartbeat
 hignbank->highbank
 horribile->horrible
 inclyded->included
@@ -23030,7 +22956,6 @@ degugging->debugging
 determive->determine
 evergreem->evergreen
 extensing->extending
-finilized->finalized
 firldname->fieldname
 freeacale->freescale
 freqnency->frequency
@@ -23174,13 +23099,11 @@ distored->distorted
 domps->dumps
 dtermines->determines
 dynamaic->dynamic
-earier->earlier
 emmulated->emulated
 endoded->encoded
 eternet->ethernet
 expontent->exponent
 exppect->expect
-exprected->expected
 extecting->expecting
 extrior->exterior
 exxpected->expected
@@ -23428,7 +23351,6 @@ computernam->computername
 concatanate->concatenate
 createthrad->createthread
 dissortions->distortions
-explanitory->explanatory
 formatering->formattering
 furtunately->fortunately
 horitzontal->horizontal
@@ -23665,11 +23587,8 @@ consutruction->construction
 decyptmessage->decryptmessage
 derefferenced->dereferenced
 eperspective->perspective
-exclaimation->exclamation
 filedesecriptor->filedescriptor
 fontdirecory->fontdirectory
-functionalites->functionalities
-functionalitis->functionalities
 getlastmodifed->getlastmodified
 grandularity->granularity
 hardcodeable->hardcodable
@@ -23968,7 +23887,6 @@ enccoder->encoder
 encironment->environment
 enexpectedly->unexpectedly
 enorgous->enormous
-envents->events
 eoither->either
 equinvalent->equivalent
 errneous->erroneous
@@ -23984,7 +23902,6 @@ fauiled->failed
 fieldss->fields
 filterning->filtering
 flaxible->flexible
-fliping->flipping
 formward->forward
 fractionnal->fractional
 fraktal->fractal
@@ -24287,7 +24204,6 @@ forgor->forget
 genirc->generic
 gourps->groups
 hpatic->haptic
-hybird->hybrid
 inling->inlining
 laywer->lawyer
 lcoate->locate
@@ -24389,8 +24305,6 @@ etiopik->etiopian
 etnries->entries
 euforia->euphoria
 extacly->exactly
-featrue->feature
-featuer->feature
 fieldes->filedes
 fintech->fintek
 fiwmare->firmware
@@ -24506,7 +24420,6 @@ reated->related
 sabing->saving
 commece->commerce
 feedack->feedback
-htacess->htaccess
 produst->product
 speific->specific
 ucraina->ukraina
@@ -24633,16 +24546,11 @@ compue->compute
 diarm->disarm
 drark->dark
 dure->sure
-emojii->emoji
 empt->empty
 entryt->entry
 eports->reports
-errpr->error
 exceet->exceed
-execte->execute
 fisson->fission
-fiture->future
-fliped->flipped
 forrth->forth
 indec->index
 latext->latex
@@ -24733,7 +24641,6 @@ exter->extern
 flagb->flags
 frsh->fresh
 gfrom->from
-gitub->github
 inird->initrd
 insie->inside
 juste->just
@@ -24767,13 +24674,10 @@ cleard->cleared
 decryt->decrypt
 dodgey->dodgy
 ecause->because
-edtion->edition
 fallse->falls
 fatest->fastest
 fleged->fledged
 glimps->glimpse
-hiting->hitting
-horray->hooray
 inamod->insmod
 inlune->inline
 innner->inner
@@ -24827,7 +24731,6 @@ cosmodb->cosmosdb
 darwing->darwin
 dieable->disable
 durtion->duration
-exampes->examples
 excuded->excluded
 exlipse->eclipse
 extifmt->extfmt
@@ -24930,15 +24833,12 @@ divering->diverging
 downgrad->downgrade
 ebibytes->exbibytes
 editiion->edition
-encoeded->encoded
 enlessly->endlessly
 entimate->estimate
 epsilone->epsilon
 foontote->footnote
-ergnomic->ergonomic
 expectin->expecting
 fallable->fallible
-finilize->finalize
 forciong->forcing
 forrests->forests
 freedome->freedom
@@ -25050,7 +24950,6 @@ ependency->dependency
 epiration->expiration
 evaluaate->evaluate
 exploitet->exploited
-expresson->expression
 exsessive->excessive
 fedgetype->edgetype
 ffunction->function
@@ -27156,7 +27055,6 @@ earphonse->earphones
 earpohnes->earphones
 earpones->earphones
 easthetic->aesthetic
-eather->either
 ebate->abate
 eblieve->believe
 ecahother->each other
@@ -27175,7 +27073,6 @@ edieval->medieval
 edmocrat->democrat
 edsperate->desperate
 edstined->destined
-eduction->education
 eductional->educational
 eection->ejection
 eecutive->executive
@@ -27186,15 +27083,9 @@ eelction->election
 eexcutive->executive
 efast->feast
 eferred->deferred
-efine->define
-efinite->definite
-efinition->definition
-efort->effort
 egegious->egregious
 egergious->egregious
 egis->egos
-egister->register
-egistered->registered
 egometric->geometric
 egometry->geometry
 egragious->egregious
@@ -27271,7 +27162,6 @@ empoundment->impoundment
 enamured->enamored
 enbankment->embankment
 encorperate->incorporate
-encorporate->incorporate
 encrease->increase
 endeaver->endeavor
 endevor->endeavor
@@ -27363,7 +27253,6 @@ evitate->levitate
 ewather->weather
 ewelry->jewelry
 ewird->weird
-exactlly->exactly
 exasparated->exasperated
 excee->exceed
 excelrate->accelerate
@@ -27378,12 +27267,10 @@ executiv->executive
 executve->executive
 executvie->executive
 exeprience->experience
-exercice->exercise
 exeuctive->executive
 exeutive->executive
 exhalt->exalt
 exhorbitant->exorbitant
-exibit->exhibit
 exisence->existence
 exisetnce->existence
 existece->existence
@@ -27399,12 +27286,10 @@ expantion->expansion
 expeirence->experience
 expeled->expelled
 expeling->expelling
-experiece->experience
 experiecne->experience
 experienc->experience
 experiene->experience
 experienec->experience
-experince->experience
 exploitate->exploit
 expreience->experience
 exsistance->existence
@@ -27416,7 +27301,6 @@ facinate->fascinate
 facination->fascination
 faest->feast
 fairwell->farewell
-falled->fallen
 falw->flaw
 familys->families
 famouse->famous
@@ -27425,13 +27309,11 @@ fasinate->fascinate
 faulter->falter
 faw->few
 feas->fees
-februrary->february
 feeld->field
 feeled->felt
 feiry->fiery
 fery->ferry
 fesat->feast
-fianl->final
 ficitional->fictional
 fictonal->fictional
 fier->fire
@@ -27440,7 +27322,6 @@ fiesty->feisty
 fiey->fiery
 fieyr->fiery
 fighted->fought
-firend->friend
 firy->firry
 fla->flay
 fli->fly
@@ -27466,7 +27347,6 @@ footblal->football
 footbll->football
 foots->feet
 footware->footwear
-forbidded->forbade
 forbode->forebode
 forclose->foreclose
 forebad->forbad
@@ -27494,15 +27374,11 @@ forgoing->foregoing
 formall->formal
 forrest->forest
 forrunner->forerunner
-forsee->foresee
-forseen->foreseen
 forshadow->foreshadow
 forsight->foresight
 forstall->forestall
 fortell->foretell
-forthe->for
 forwarn->forewarn
-forword->foreword
 fotball->football
 fotoball->football
 fragel->fragile
@@ -27523,14 +27399,12 @@ funn->fun
 gaem->game
 gagravate->aggravate
 gagressive->aggressive
-gague->gauge
 gaitate->agitate
 galactik->galactic
 gallactic->galactic
 gam->game
 gaph->graph
 garonomy->agronomy
-garph->graph
 garrision->garrison
 garrisson->garrison
 garteful->grateful
@@ -27545,7 +27419,6 @@ gavy->gravy
 geeotine->gee tine
 gemoetric->geometric
 geniouses->geniuses
-genuis->genius
 geoemtric->geometric
 geoetric->geometric
 geoetry->geometry
@@ -27604,7 +27477,6 @@ gregious->egregious
 gren->green
 gronomy->agronomy
 growed->grew
-grpah->graph
 grph->graph
 grtaeful->grateful
 grteful->grateful
@@ -27624,7 +27496,6 @@ guraantee->guarantee
 haarss->harass
 haass->harass
 habet->habit
-hadnt->had
 hadphones->headphones
 haedphones->headphones
 halloeen->halloween
@@ -27703,7 +27574,6 @@ histoy->history
 histoyr->history
 hite->hate
 hitsory->history
-hitted->hit
 hlaloween->halloween
 hliday->holiday
 hlloween->halloween
@@ -30412,7 +30282,6 @@ docmenttype->documenttype
 environmant->environment
 equivalvent->equivalent
 explicitnes->explicitness
-expressios->expressions
 frameoworks->frameworks
 genealizing->generalizing
 imformation->information
@@ -30571,8 +30440,6 @@ scub->scrub
 specificaion->specification
 speetest->speedtest
 unsynched->unsynced
-funcition->function
-euqal->equal
 gradeint->gradient
 dostinguish->distinguish
 ifx->fix
@@ -30605,7 +30472,6 @@ resivlering->resilvering
 abored->aborted
 dereferecen->dereference
 referecen->reference
-gettings->settings
 dito->ditto
 caes->case
 neext->next
