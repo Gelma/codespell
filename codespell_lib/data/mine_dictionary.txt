@@ -193,7 +193,6 @@ architectured->architectures
 deve->devel
 devie->device
 haveo->have
-incorportated->incorporated
 invertory->inventory
 manageing->managing
 precisey->precisely
@@ -375,7 +374,6 @@ indoe->inode
 inhance->enhance
 inlut->input
 inods->inodes
-insatll->install
 interarting->interacting
 intrudced->introduced
 leackages->leakages
@@ -488,7 +486,6 @@ idstrubutions->distributions
 indesx->index
 initiatize->initialize
 interctive->interactive
-interent->internet
 iptabes->iptables
 iptop->iotop
 janaury->january
@@ -9504,7 +9501,6 @@ immboile->immobile
 immedeatly->immediately
 immediantly->immediately
 immedietely->immediately
-immedietly->immediately
 immenint->imminent
 immenseley->immensely
 immensley->immensely
@@ -9512,7 +9508,6 @@ immerisve->immersive
 immersie->immerse
 immersve->immerse
 immesnely->immensely
-immideately->immediately
 immigraiton->immigration
 immigrantes->immigrants
 immigranti->immigration
@@ -9611,9 +9606,6 @@ imporper->improper
 importantce->importance
 importanty->importantly
 importas->imports
-importence->importance
-importend->imported
-importently->importantly
 importerad->imported
 importes->imports
 imporvised->improvised
@@ -9622,7 +9614,6 @@ impossbily->impossibly
 impossibal->impossibly
 impossibe->impossible
 impossibel->impossibly
-impossibile->impossible
 impossibillity->impossibility
 impossibilty->impossibility
 impossibily->impossibly
@@ -9657,7 +9648,6 @@ impropre->improper
 improsined->imprisoned
 improsoned->imprisoned
 improsonment->imprisonment
-improvents->improves
 improvie->improvised
 improviserad->improvised
 improvished->improvised
@@ -9670,12 +9660,6 @@ impulsivley->impulsive
 impusle->impulse
 impusles->impulses
 impuslive->impulsive
-imrpoved->improved
-imrpove->improve
-imrpovement->improvement
-imrpovements->improvements
-imrpoves->improves
-imrpoving->improving
 imrpovised->improvised
 imtimidating->intimidating
 imtimidation->intimidation
@@ -9799,9 +9783,7 @@ inconstitutional->unconstitutional
 incontrollably->uncontrollably
 inconveinence->inconvenience
 inconveinent->inconvenient
-inconveniece->inconvenience
 inconveniente->inconvenience
-inconveniet->inconvenient
 inconvenince->inconvenience
 inconventional->unconventional
 inconvienenced->inconvenience
@@ -9810,7 +9792,6 @@ inconvienent->inconvenient
 incoroprate->incorporate
 incorporare->incorporate
 incorpore->incorporate
-incorportate->incorporate
 incorproate->incorporated
 incpetion->inception
 incramental->incremental
@@ -9839,8 +9820,6 @@ incrompehensible->incomprehensible
 indains->indians
 indavertently->inadvertently
 indefenite->indefinite
-indefinete->indefinite
-indefinetely->indefinitely
 indefininte->indefinite
 indefinitelly->indefinitely
 indefinitive->indefinite
@@ -9948,7 +9927,6 @@ indonesien->indonesian
 indonesion->indonesian
 indonisian->indonesian
 indonistan->indonesian
-indroduction->introduction
 indroductory->introductory
 indugle->indulge
 industiral->industrial
@@ -10123,7 +10101,6 @@ informis->informs
 informitive->informative
 infornt->infront
 infraread->infrared
-infrastracture->infrastructure
 infrastructre->infrastructure
 infrastructuur->infrastructure
 infrastrucure->infrastructure
@@ -10193,8 +10170,6 @@ initalness->initialness
 initiaitve->initiatives
 initiatin->initiation
 initiativs->initiatives
-initiatve->initiate
-initiatves->initiatives
 initiavite->initiatives
 initisl->initials
 inititaive->initiatives
@@ -10241,8 +10216,6 @@ inpossibility->impossibility
 inpoverished->impoverished
 inpredictable->unpredictable
 inproductive->unproductive
-inpsect->inspect
-inpsector->inspector
 inpsiration->inspiration
 inpsired->inspired
 inpsire->inspire
@@ -10348,17 +10321,14 @@ instabilty->instability
 instalaltion->installations
 instalement->installment
 installatin->installations
-installatons->installations
 installatron->installation
 installeer->installer
 installeert->installer
 installemnt->installment
 installent->installment
 installesd->installs
-installling->installing
 installmant->installment
 installus->installs
-instanse->instances
 instantaenous->instantaneous
 instantaneos->instantaneous
 instantaneoulsy->instantaneous
@@ -10452,8 +10422,6 @@ inteferring->interfering
 integirty->integrity
 integraal->integral
 integracion->integration
-integraded->integrated
-integrade->integrated
 integrarla->integral
 integrarlo->integral
 integratie->integrated
@@ -10498,7 +10466,6 @@ intenst->intents
 intentas->intents
 intentinal->intentional
 intentines->intestines
-intentionnal->intentional
 interaccion->interaction
 interacs->interacts
 interacte->interactive
@@ -10547,7 +10514,6 @@ interestigly->interestingly
 interestinly->interestingly
 interet->interest
 interewbs->interwebs
-interfacce->interfaces
 interfase->interfaces
 interfce->interface
 interfeer->interfere
@@ -10598,7 +10564,6 @@ internettes->internets
 internetts->internets
 internetus->internets
 internilized->internalized
-internt->internet
 internts->interns
 internus->interns
 interpersonel->interpersonal
@@ -10618,7 +10583,6 @@ interpretarem->interpreter
 interpretares->interpreter
 interpretarse->interpreter
 interpretarte->interpreter
-interpretating->interpretation
 interpretatin->interpretations
 interpretationen->interpretations
 interpretato->interpretation
@@ -10760,11 +10724,6 @@ intolorance->intolerance
 intolorant->intolerant
 intolorence->intolerance
 intolorent->intolerant
-intorduced->introduced
-intorduce->introduce
-intorduces->introduces
-intorducing->introducing
-intorduction->introduction
 intorductory->introductory
 intorverted->introverted
 intorvert->introvert
@@ -10811,7 +10770,6 @@ intrinsicaly->intrinsically
 intrinsinc->intrinsic
 intrinsisch->intrinsic
 intriquing->intriguing
-intrisincally->intrinsically
 intrisnic->intrinsic
 intristically->intrinsically
 intriuged->intrigued
@@ -10826,7 +10784,6 @@ introducion->introduction
 introduciton->introduction
 introductary->introductory
 introductie->introduce
-introducting->introduction
 introductiory->introductory
 introductury->introductory
 introduktion->introduction
@@ -10909,7 +10866,6 @@ investegating->investigating
 investegator->investigator
 investegators->investigators
 investemnt->investments
-investiage->investigate
 investiagte->investigate
 investiagtion->investigation
 investiagtions->investigations
@@ -11007,7 +10963,6 @@ irrationatly->irrationally
 irrationel->irrational
 irrationella->irrational
 irrationnal->irrational
-irrelavant->irrelevant
 irrelivant->irrelevant
 irrelivent->irrelevant
 irrespecitve->irrespective
@@ -11018,7 +10973,6 @@ irresponsbile->irresponsible
 irresponsble->irresponsible
 irresponsibe->irresponsible
 irresponsibile->irresponsible
-irrevelant->irrelevant
 irreverant->irrelevant
 irreverisble->irreversible
 irreversebly->irreversible
@@ -21611,7 +21565,6 @@ injenction->injection
 insersection->intersection
 inspet->inspect
 instanace->instance
-interable->iterable
 interfaace->interface
 itelf->itself
 kolombia->colombia
@@ -21711,7 +21664,6 @@ impliclty->implicitly
 incompatibities->incompatibilities
 inspirated->inspired
 instaciating->instantiating
-intendation->indentation
 iteratoror->iterator
 keenia->kenya
 kolumbia->colombia
@@ -22281,7 +22233,6 @@ faction->fraction
 filsesystem->filesystem
 ggc->gcc
 imples->implies
-indroduced->introduced
 fource->force
 initialing->initializing
 initizized->initialized
@@ -22448,7 +22399,6 @@ insode->inside
 inused->unused
 invked->invoked
 invoed->invoked
-invove->involve
 iterat->iterate
 iwlwif->iwlwifi
 janked->yanked
@@ -22621,7 +22571,6 @@ humidty->humidity
 ifonfig->ifconfig
 imageing->imaging
 inctive->inactive
-intenet->internet
 invallid->invalid
 invialid->invalid
 ispeaker->speaker
@@ -22756,7 +22705,6 @@ inicated->indicated
 initamfs->initramfs
 initites->initiates
 interaval->interval
-interfac->interface
 interrpt->interrupt
 invision->envision
 keayboard->keyboard
@@ -23016,7 +22964,6 @@ conmmit->commit
 deetect->detect
 passess->passes
 paojects->projects
-instanbul->istanbul
 shareabe->shareable
 basbranch->basebranch
 hieararchy->hierarchy
@@ -23123,7 +23070,6 @@ horizonta->horizontal
 humbers->numbers
 inavalid->invalid
 inimated->animated
-inmutable->immutable
 inncorrect->incorrect
 insipired->inspired
 interaface->interface
@@ -23437,7 +23383,6 @@ guaranteees->guarantees
 heayweight->heavyweight
 identitied->identified
 inprecise->imprecise
-installaton->installation
 insupported->unsupported
 interconnet->interconnect
 interfactes->interfaces
@@ -23445,7 +23390,6 @@ interfatces->interfaces
 internls->internals
 interrtupts->interrupts
 intersction->intersection
-interuption->interruption
 intevention->intervention
 inxtruction->instruction
 managemnt->management
@@ -23610,7 +23554,6 @@ informration->information
 inftrastructure->infrastructure
 inheiritance->inheritance
 initializaion->initialization
-initializtion->initialization
 initiatization->initialization
 initilizecount->initializecount
 insertargument->insertarguments
@@ -23919,7 +23862,6 @@ hexadecmal->hexadecimal
 hiowever->however
 horizotal->horizontal
 igroreaction->ignoreaction
-incompatibilty->incompatibility
 incompatile->incompatible
 ingerprints->fingerprints
 innnovation->innovation
@@ -24682,7 +24624,6 @@ inamod->insmod
 inlune->inline
 innner->inner
 innter->inner
-instea->instead
 keylot->keyslot
 liteal->literal
 loanss->loans
@@ -24747,7 +24688,6 @@ ineline->inline
 inserte->insert
 insinde->inside
 ioption->option
-issuses->issues
 ittself->itself
 lablled->labelled
 launcch->launch
@@ -24850,9 +24790,7 @@ inherant->inherent
 innermst->innermost
 inquries->inquiries
 instamce->instance
-insteaad->instead
 intramfs->initramfs
-intrisic->intrinsic
 intution->intuition
 invernal->internal
 itertion->iteration
@@ -24970,7 +24908,6 @@ inlininig->inlining
 insertien->insertion
 instalurl->installurl
 integtity->integrity
-intendend->intended
 intertion->insertion
 introdces->introduces
 intrprets->interprets
@@ -27720,7 +27657,6 @@ icense->incense
 icieng->icing
 icnnamon->cinnamon
 icrcumference->circumference
-idealy->ideally
 idefinable->indefinable
 identicaly->identically
 ider->idler
@@ -27813,7 +27749,6 @@ immagination->imagination
 immdeiate->immediate
 immediae->immediate
 immediaet->immediate
-immediat->immediate
 immeditae->immediate
 immedite->immediate
 immeiate->immediate
@@ -27824,7 +27759,6 @@ imnuscule->minuscule
 impass->impasse
 imperic->empiric
 imporatnt->important
-importan->important
 imscellaneous->miscellaneous
 imschievous->mischievous
 imsspell->misspell
@@ -27888,7 +27822,6 @@ inerrogate->interrogate
 inetlligence->intelligence
 inetrrogate->interrogate
 infanty->infantry
-infront->in
 inght->night
 inhabitate->inhabit
 inherrent->inherent
@@ -27897,7 +27830,6 @@ iniciate->initiate
 inidspensable->indispensable
 inisible->invisible
 inispensable->indispensable
-inititive->initiative
 inivsible->invisible
 injurys->injuries
 innamon->cinnamon
@@ -27935,7 +27867,6 @@ internment->interment
 interogate->interrogate
 interor->interior
 interorgate->interrogate
-interpretate->interpret
 interrgate->interrogate
 interrgoate->interrogate
 interrigate->interrogate
@@ -27949,7 +27880,6 @@ interrogte->interrogate
 interseted->interested
 intertube->inner
 intice->entice
-intital->initial
 intleligence->intelligence
 intlligence->intelligence
 intrerogate->interrogate
@@ -30284,7 +30214,6 @@ equivalvent->equivalent
 explicitnes->explicitness
 frameoworks->frameworks
 genealizing->generalizing
-imformation->information
 implilcitly->implicitly
 inaccrurate->inaccurate
 infalliable->infallible
@@ -30453,7 +30382,6 @@ sice->since
 unlinke->unlink
 siutaions->situations
 siutaion->situation
-increate->increase
 snifs->sniffs
 gurrent->current
 comboxbox->combobox
@@ -30695,7 +30623,6 @@ necessasy->necessary
 decoractive->decorative
 soloution->solution
 disbable->disable
-incrase->increase
 spwcified->specified
 crete->create
 liblucence->libclucene
@@ -30715,7 +30642,6 @@ grupping->grouping
 hanigng->hanging
 haning->hanging
 hodler->holder
-indroduce->introduce
 instantiatable->instantiable
 ispause->ispaused
 misscalculate->miscalculate
