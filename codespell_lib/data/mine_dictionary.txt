@@ -384,9 +384,7 @@ loadsers->loaders
 mdoule->module
 megabites->megabytes
 mesasage->message
-migate->migrate
 minimimum->minimum
-missunderstanding->misunderstanding
 mnultiply->multiply
 modo->nodo
 mouinted->mounted
@@ -496,22 +494,18 @@ linodee->linode
 linpde->linode
 liode->linode
 lionde->linode
-lolipop->lollipop
 longiew->longview
 longivew->longview
 lookback->loopback
 maillbox->mailbox
 mmanage->manage
 modeule->module
-mondodb->mongodb
 monotany->monotony
 mstmp->msmtp
 mysqlttuner->mysqltuner
 nessicary->necessary
 networding->networking
 newely->newly
-ngix->nginx
-ngnix->nginx
 nodesm->nodes
 ntpong->ntopng
 ournaling->journaling
@@ -734,7 +728,6 @@ inejct->inject
 initofy->inotify
 microblazeel->microblaze
 mittle->middle
-montior->monitor
 parameres->parameters
 precisition->precision
 preipherals->peripherals
@@ -807,7 +800,6 @@ globalss->globals
 goooglecode->googlecode
 litet->lite
 logfe->logfs
-manufacterer->manufacturer
 mghz->mhz
 revission->revision
 xfcie->xfce
@@ -11424,7 +11416,6 @@ legoins->legions
 leigons->legions
 leiutenant->lieutenant
 lengedaries->legendaries
-lengthly->lengthy
 lenoard->leonard
 lentiles->lentils
 lentills->lentils
@@ -11699,7 +11690,6 @@ lunatis->lunatics
 mabyelline->maybelline
 macarino->macaroni
 macaronni->macaroni
-machiens->machines
 machins->machines
 maclolm->malcolm
 macthup->matchup
@@ -11732,14 +11722,10 @@ magnitudine->magnitude
 magnitue->magnitude
 maidson->madison
 mainfestation->manifestation
-mainfest->manifest
-mainfesto->manifesto
-mainfests->manifests
 mainpulate->manipulate
 mainstreem->mainstream
 mainstrem->mainstream
 maintainig->maintaining
-maintainted->maintained
 maintenaince->maintenance
 maintinance->maintenance
 maintinence->maintenance
@@ -11791,9 +11777,6 @@ maneuveurs->maneuver
 maneveur->maneuver
 maneveurs->maneuvers
 manevuer->maneuver
-manfiest->manifest
-manfiesto->manifesto
-manfiests->manifests
 manfuacturers->manufactures
 mangeld->mangled
 mangesium->magnesium
@@ -11831,7 +11814,6 @@ manipulant->manipulate
 manipulare->manipulate
 manipulatie->manipulative
 manipulationg->manipulating
-manipule->manipulate
 manipulitive->manipulative
 manipulted->manipulated
 maniuplative->manipulative
@@ -11845,12 +11827,7 @@ manslaugter->manslaughter
 manslaugther->manslaughter
 mansluaghter->manslaughter
 manuales->manuals
-manufactered->manufactured
-manufacterers->manufacturers
 manufacteres->manufactures
-manufactering->manufacturing
-manufacter->manufacture
-manufacters->manufactures
 manufacterurs->manufactures
 manufacteur->manufactures
 manufacteurs->manufactures
@@ -12295,7 +12272,6 @@ metophorical->metaphorical
 metorpolitan->metropolitan
 metrapolis->metropolis
 metricas->metrics
-metrices->metrics
 metrololitan->metropolitan
 metrolopis->metropolis
 metropilis->metropolis
@@ -12551,7 +12527,6 @@ misinterpretated->misinterpreted
 misinterpretating->misinterpreting
 misinterpretion->misinterpreting
 misinterpretions->misinterpreting
-misinterpretting->misinterpreting
 misinterpriting->misinterpreting
 misinterprit->misinterpreting
 misinterprted->misinterpret
@@ -12687,8 +12662,6 @@ moderatorin->moderation
 moderatorn->moderation
 moderats->moderates
 modificacion->modification
-modificaiton->modification
-modificaitons->modifications
 modificato->modification
 modifieras->modifiers
 modifieres->modifiers
@@ -12727,7 +12700,6 @@ momentarilly->momentarily
 momentarly->momentarily
 momenterily->momentarily
 momentus->moments
-momment->moment
 monagomous->monogamous
 monagomy->monogamy
 monarcy->monarchy
@@ -12790,8 +12762,6 @@ montanya->montana
 montaran->montana
 monteize->monetize
 monteral->montreal
-montioring->monitoring
-montiors->monitors
 montrel->montreal
 monumentaal->monumental
 monumentais->monuments
@@ -13115,7 +13085,6 @@ navigatin->navigation
 navigato->navigation
 navigatore->navigate
 nazionalists->nationalists
-necessairy->necessarily
 necessaties->necessities
 necesseraly->necessarily
 necessiates->necessities
@@ -13258,9 +13227,6 @@ nightmears->nightmares
 nightmeres->nightmares
 nigthclub->nightclub
 nigthlife->nightlife
-nigthly->nightly
-nigthmare->nightmare
-nigthmares->nightmares
 nihilim->nihilism
 nihilisim->nihilism
 nihilsim->nihilism
@@ -13329,7 +13295,6 @@ notablly->notably
 notacible->noticeable
 notario->ontario
 notciable->noticeable
-notebok->notebook
 noteworhty->noteworthy
 noteworthly->noteworthy
 noteworty->noteworthy
@@ -13366,7 +13331,6 @@ nulcear->nuclear
 nullfiy->nullify
 nullifiy->nullify
 numericable->numerical
-numerious->numerous
 nurtient->nutrient
 nurtients->nutrients
 nurtitional->nutritional
@@ -13469,10 +13433,6 @@ obtianable->obtainable
 obversation->observation
 obversations->observations
 obvilion->oblivion
-obviosuly->obviously
-obvisouly->obviously
-obvoiusly->obviously
-obvoius->obvious
 ocarnia->ocarina
 occasionals->occasions
 occasionly->occasional
@@ -13554,9 +13514,7 @@ opponenet->opponent
 opponenets->opponent
 opponet->opponent
 opportuniste->opportunities
-opportunites->opportunities
 opposiste->opposites
-opposits->opposites
 opposties->opposites
 oppressin->oppression
 oppressiun->oppressing
@@ -13901,7 +13859,6 @@ overwhleming->overwhelming
 overwhlem->overwhelm
 overwieght->overweight
 overwritted->overwrite
-overwritte->overwrite
 overwtach->overwatch
 overyhped->overhyped
 owernship->ownership
@@ -21251,7 +21208,6 @@ freamebuffer->framebuffer
 inclrease->increase
 loadkeyboardlaout->loadkeyboardlayout
 multwindow->multiwindow
-nexted->nested
 picure->picture
 registrarion->registration
 removep->remove
@@ -21330,13 +21286,11 @@ jsonoption->jsonoptions
 jusr->just
 kbye->kbyte
 laffs->lafs
-lambas->lambdas
 leeds->leads
 ligghc->libghc
 llegal->illegal
 mant->many
 mapm->map
-maually->manually
 mised->mixed
 ncis->nsis
 netmessagesinboxes->netmessagerinboxes
@@ -21570,7 +21524,6 @@ itelf->itself
 kolombia->colombia
 kuba->cuba
 laosi->laos
-lookin->looking
 maintaind->maintained
 mepped->mapped
 messeages->messages
@@ -21584,7 +21537,6 @@ neitherlands->netherlands
 nodedefintion->nodedefinition
 nullalble->nullable
 occasionnally->occasionally
-optomized->optimized
 orginfile->originfile
 paraguai->paraguay
 paraguei->paraguai
@@ -21752,7 +21704,6 @@ infamout->infamous
 inforbar->infobar
 initializd->initialized
 isomery->isometry
-knowning->knowing
 labrary->library
 legicy->legacy
 leter->later
@@ -21768,7 +21719,6 @@ nowdelay->nodelay
 obseletes->obsoletes
 onlice->online
 othertise->otherwise
-ource->source
 paraentheses->parentheses
 pasphrase->passphrase
 permantent->permanent
@@ -22238,7 +22188,6 @@ initialing->initializing
 initizized->initialized
 monunted->mounted
 mountpont->mountpoint
-multuple->multiple
 nestedd->nested
 nonexisiting->nonexisting
 olderst->oldest
@@ -22423,7 +22372,6 @@ michel->michael
 mmeson->meson
 modele->module
 modfule->module
-mothod->method
 moule->module
 nable->unable
 niumber->number
@@ -22576,16 +22524,12 @@ invialid->invalid
 ispeaker->speaker
 keycopde->keycode
 liitreid->liitrid
-lincense->license
 lossess->lossless
 mabilbox->mailbox
 manualsx->manuals
 mdeling->modeling
 messagem->message
-messasge->message
 metaath->metapath
-metadat->metadata
-metadta->metadata
 metatags->metatag
 minimuum->minimum
 modrobe->modprobe
@@ -22712,14 +22656,12 @@ languagez->language
 looopback->loopback
 loopbcck->loopback
 managine->managing
-manifiest->manifest
 mehanism->mechanism
 memacess->memaccess
 micocode->microcode
 microcod->microcode
 mirocode->microcode
 misactch->mismatch
-modefied->modified
 mororola->motorola
 multiast->multicast
 multpiple->multiple
@@ -22728,7 +22670,6 @@ nornally->normally
 ohysical->physical
 optiimize->optimize
 optimizd->optimized
-optomize->optimize
 orangeds->orangefs
 overrsize->oversize
 paiewise->pairwise
@@ -22918,7 +22859,6 @@ incorrest->incorrect
 indidates->indicates
 interting->inserting
 intervace->interface
-manditory->mandatory
 meadphone->headphone
 occording->according
 pertitent->pertinent
@@ -22991,8 +22931,6 @@ an user->a user
 an userspace->a userspace
 an one->a one
 devidce->device
-meesages->messages
-meesage->message
 namespase->namespace
 optimsation->optimization
 anhything->anything
@@ -23076,16 +23014,13 @@ interaface->interface
 itfself->itself
 korrectly->correctly
 latancy->latency
-lement->element
 lighrange->lightrange
 lnvalid->invalid
 maey->may
 mappning->mapping
-maschine->machine
 meldings->melding
 messageing->messaging
 misaliged->misaligned
-montoring->monitoring
 mulicasts->multicasts
 mung->munge
 namber->number
@@ -23394,7 +23329,6 @@ intevention->intervention
 inxtruction->instruction
 managemnt->management
 montonic->monotonic
-necesssary->necessary
 numberings->numbering
 objectes->objects
 optioms->options
@@ -23440,7 +23374,6 @@ volation->violation
 zauthor->author
 hyphenyation->hyphenation
 manufacured->manufactured
-measureable->measurable
 menufacture->manufacture
 micoseconds->microseconds
 modificatin->modification
@@ -23563,7 +23496,6 @@ inteferences->interferences
 ipersistence->persistence
 kenelversion->kernelversion
 kernelrelase->kernelrelease
-maintainters->maintainers
 managability->manageability
 managebility->manageability
 manipilation->manipulation
@@ -23588,7 +23520,6 @@ nreconfiguring->reconfiguring
 obsolescense->obsolescence
 occcurrences->occurrences
 optimnization->optimization
-optomizations->optimizations
 orchastrator->orchestrator
 originalamout->originalamount
 ouitstanding->outstanding
@@ -23742,7 +23673,6 @@ hacve->have
 indel->intel
 lowet->lowest
 maily->mainly
-midle->middle
 motre->more
 steet->street
 stpre->store
@@ -23904,13 +23834,11 @@ nothinkg->nothing
 notofy->notify
 offeres->offers
 oiseq->noised
-opposit->opposite
 optiobnal->optional
 opttimizations->optimizations
 ordening->ordering
 ordery->order
 osfuzz->ossfuzz
-othervise->otherwise
 otherwiss->otherwise
 ouputfile->outputfile
 oustream->outstream
@@ -24256,7 +24184,6 @@ inniate->initiate
 invld->invalid
 karakas->caracas
 lokcing->locking
-machien->machine
 macints->macintosh
 madivse->madvise
 meassge->message
@@ -24310,7 +24237,6 @@ resdicovered->rediscovered
 pointre->pointer
 standred->standard
 pointres->pointers
-metatada->metadata
 amdpgu->amdgpu
 alterning->altering
 boolian->boolean
@@ -24505,7 +24431,6 @@ makig->making
 mobie->mobile
 mosly->mostly
 noizy->noisy
-nteger->integer
 pylit->pylint
 ranage->range
 randn->rand
@@ -24696,7 +24621,6 @@ lisener->listener
 lodking->looking
 machibe->machine
 maneged->managed
-manfest->manifest
 maverik->maverick
 methodo->method
 missied->missed
@@ -24705,7 +24629,6 @@ mondule->module
 nameles->nameless
 ncustom->custom
 noasset->noassert
-oppened->opened
 optionb->option
 passwor->password
 patterh->pattern
@@ -24804,7 +24727,6 @@ listenng->listening
 metadate->metadata
 modulesu->modules
 mulibyte->multibyte
-mutatble->mutable
 neareast->nearest
 netrwork->network
 nkeeping->keeping
@@ -24913,7 +24835,6 @@ introdces->introduces
 intrprets->interprets
 iterarion->iteration
 libphrase->libphrases
-lincensed->licensed
 lobraries->libraries
 logmanger->logmanager
 maainline->mainline
@@ -24921,7 +24842,6 @@ messagees->messages
 mulptiple->multiple
 multiplle->multiple
 mutabilty->mutability
-navigaton->navigation
 necessory->necessary
 nontrival->nontrivial
 normmally->normally
@@ -25009,11 +24929,9 @@ intutition->intuition
 isvisisble->isvisible
 memterster->memtester
 memterst->memtest
-missplaced->misplaced
 nencessary->necessary
 occuurence->occurrence
 ooperation->operation
-operationg->operation
 passhrases->passphrases
 pictorally->pictorially
 pollutting->polluting
@@ -27929,7 +27847,6 @@ ivsit->visit
 japanesse->japanese
 japanis->japanese
 japanise->japanese
-japanse->japanese
 japense->japanese
 japnes->japanese
 jeelry->jewelry
@@ -28075,7 +27992,6 @@ lindek->linkedin
 lindken->linkedin
 linedin->linkedin
 linkd->linkedin
-linkdin->linkedin
 linkedn->linkedin
 linkin->linkedin
 lisure->leisure
@@ -28086,7 +28002,6 @@ llright->plight
 lmond->almond
 loat->loath
 locamotive->locomotive
-loction->location
 loseing->losing
 losr->loser
 lovley->lovely
@@ -28100,7 +28015,6 @@ maacroni->macaroni
 maaroni->macaroni
 maateur->amateur
 maazon->amazon
-mabey->maybe
 mabidextrous->ambidextrous
 macaoni->macaroni
 macaorni->macaroni
@@ -28133,7 +28047,6 @@ maintenacne->maintenance
 maintenanc->maintenance
 maintenane->maintenance
 maintenanec->maintenance
-maintence->maintenance
 maintennace->maintenance
 maintennce->maintenance
 maintnance->maintenance
@@ -28256,7 +28169,6 @@ minning->mining
 minscule->minuscule
 minsucule->minuscule
 mintenance->maintenance
-mintues->minutes
 minucsule->minuscule
 minucule->minuscule
 minusclue->minuscule
@@ -28459,9 +28371,7 @@ nel->nil
 neol->noel
 nesance->nuisance
 nessacary->necessary
-nethertheless->nevertheless
 neurysm->aneurysm
-newletter->newsletter
 newsance->nuisance
 nght->night
 ngiht->night
@@ -28471,7 +28381,6 @@ nidependent->independent
 nidispensable->indispensable
 niebuhr->ninebark
 nigt->night
-nigth->night
 nihgt->night
 niht->night
 nisance->nuisance
@@ -28626,7 +28535,6 @@ ootball->football
 ope->open
 opmegranate->pomegranate
 opn->open
-oppening->opening
 opper->upper
 oppulation->population
 opssession->possession
@@ -28634,7 +28542,6 @@ optato->potato
 optatoes->potatoes
 opthomologist->ophthalmologist
 optomist->optimist
-optomistic->optimistic
 opulation->population
 oreign->foreign
 orientate->orient
@@ -28650,10 +28557,8 @@ otatoes->potatoes
 ote->toe
 oticeable->noticeable
 ousaphone->sousaphone
-outloud->out
 ovte->vote
 ovyage->voyage
-ownload->download
 owrd->word
 oxde->oxide
 oxdie->oxide
@@ -30318,7 +30223,6 @@ deonotes->denotes
 deonote->denote
 gett->get
 etest->test
-lamba->lambda
 priniting->printing
 radious->radius
 coollapsed->collapsed
@@ -30386,7 +30290,6 @@ snifs->sniffs
 gurrent->current
 comboxbox->combobox
 paleete->palette
-multilple->multiple
 exludelist->excludelist
 intsnace->instance
 symmtetric->symmetric
@@ -30628,8 +30531,6 @@ crete->create
 liblucence->libclucene
 liblucence-core->libclucene-core
 a bout->about
-objcts->objcts
-objct->objct
 begninning->beginning
 emscriptem->emscripten
 emscrypten->emscripten
@@ -30645,7 +30546,6 @@ hodler->holder
 instantiatable->instantiable
 ispause->ispaused
 misscalculate->miscalculate
-notbook->notebook
 ooxlm->ooxml
 remembeer->remember
 representataion->representation
