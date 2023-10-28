@@ -400,7 +400,6 @@ percompiled->precompiled
 performanace->performance
 pessessing->possessing
 phiscal->physical
-platorms->platforms
 poteintial->potential
 preparataion->preparation
 prepratory->preparatory
@@ -13876,16 +13875,10 @@ pactivity->captivity
 paficist->pacifist
 pahntom->phantom
 pahtfinder->pathfinder
-painfullly->painfully
-painfuly->painfully
 painkilers->painkillers
 painkilllers->painkillers
 painkills->painkillers
 pairlament->parliament
-paitence->patience
-paitently->patiently
-paitent->patient
-paitents->patients
 pakistain->pakistani
 pakistanais->pakistani
 pakistanezi->pakistani
@@ -14108,7 +14101,6 @@ passivs->passives
 passporters->passports
 passpost->passports
 passvies->passives
-passwors->passwords
 pasuing->pausing
 pateince->patience
 pateintly->patiently
@@ -14300,14 +14292,12 @@ perferential->preferential
 perferring->preferring
 perfexcion->perfection
 performacne->performances
-performanes->performances
 performanse->performances
 performans->performances
 performantes->performances
 performas->performs
 performens->performers
 performous->performs
-perfromances->performances
 perfromer->performer
 perfromers->performers
 perhiperal->peripheral
@@ -14371,7 +14361,6 @@ perordered->preordered
 perorders->preorders
 perosnas->personas
 perpaid->prepaid
-perparation->preparation
 perpatrated->perpetrated
 perpatrator->perpetrator
 perpatrators->perpetrators
@@ -14788,7 +14777,6 @@ playaround->playground
 playbody->playboy
 playersare->playerbase
 playgorund->playground
-playgroud->playground
 playhtrough->playthrough
 playhtroughs->playthroughs
 playofs->playoffs
@@ -14880,7 +14868,6 @@ popularest->populate
 popularily->popularity
 populary->popularity
 populaties->populate
-populatin->populations
 populationes->populations
 populatiry->popularity
 populative->populate
@@ -15066,10 +15053,6 @@ predicessor->predecessor
 predicessors->predecessors
 prediceted->predicated
 prediciment->predicament
-predicited->predicated
-predicitng->predicting
-prediciton->prediction
-predicitve->predictive
 predickted->predicated
 predictave->predictive
 predicte->predictive
@@ -15371,7 +15354,6 @@ prioretize->prioritize
 prioritice->prioritize
 prioritied->prioritize
 prioritie->prioritize
-prioritse->priorities
 prioroties->priorities
 priorotize->prioritize
 prisitne->pristine
@@ -15401,7 +15383,6 @@ probabiliy->probability
 probabillity->probability
 probablies->probable
 probablybe->probable
-probleem->problem
 problemas->problems
 problematisch->problematic
 problemita->problematic
@@ -15434,8 +15415,6 @@ proclam->proclaim
 procliamed->proclaimed
 procliam->proclaim
 proconceived->preconceived
-procotol->protocol
-procotols->protocols
 procrascinating->procrastinating
 procrastenating->procrastinating
 procrastiantion->procrastination
@@ -15453,9 +15432,6 @@ procrestinating->procrastinating
 procrestination->procrastination
 procriation->procreation
 procudures->procedures
-prodcution->production
-prodcutions->productions
-prodcuts->products
 prodecural->procedural
 prodecures->procedures
 prodictions->productions
@@ -15480,12 +15456,8 @@ produktions->productions
 produktive->productive
 produly->proudly
 produtcion->productions
-profesions->profession
 profesisonal->professionals
-professers->professors
 professiinal->professionalism
-professinal->professional
-professin->professions
 professioanl->professionals
 professiomal->professionalism
 professionalisim->professionalism
@@ -15496,7 +15468,6 @@ professionel->professional
 professionials->professionalism
 professionl->professionals
 professionnalism->professionalism
-professionnal->professional
 professionnals->professionals
 professionsl->professionalism
 professoinal->professionals
@@ -15635,7 +15606,6 @@ promethesus->prometheus
 prometheyus->prometheus
 promethius->prometheus
 promethous->prometheus
-promethues->prometheus
 promimently->prominently
 prominantely->prominently
 prominenty->prominently
@@ -15840,7 +15810,6 @@ protestents->protestants
 protestes->protests
 protestina->protestant
 protestos->protests
-protfolio->portfolio
 prothsetic->prosthetic
 protiens->proteins
 protines->proteins
@@ -15994,7 +15963,6 @@ puinsher->punisher
 pumkpins->pumpkins
 pumpinks->pumpkins
 pumpknis->pumpkins
-puncutation->punctuation
 punihsment->punishments
 punishemnt->punishments
 punishible->punishable
@@ -16010,8 +15978,6 @@ punsiher->punisher
 punsihes->punishes
 punsihments->punishments
 puragtory->purgatory
-purcahsed->purchased
-purcahses->purchases
 purchacing->purchasing
 purchaseing->purchasing
 purchashing->purchasing
@@ -21208,7 +21174,6 @@ freamebuffer->framebuffer
 inclrease->increase
 loadkeyboardlaout->loadkeyboardlayout
 multwindow->multiwindow
-picure->picture
 registrarion->registration
 removep->remove
 retuurn->return
@@ -21544,11 +21509,9 @@ performend->performed
 permanaent->permanent
 plurlize->pluralize
 posteed->posted
-postgresl->postgresql
 prefixd->prefixed
 prefox->prefix
 prefxed->prefixed
-prety->pretty
 primry->primary
 procedual->procedural
 pythont->python
@@ -21632,7 +21595,6 @@ paritcular->particular
 portuges->portuguese
 postgresinstalled->postgresqlinstalled
 pouplar->popular
-proxys->proxies
 singapoo->singapore
 siutations->situations
 spania->spain
@@ -21725,7 +21687,6 @@ permantent->permanent
 pivileges->privileges
 possiblye->possibly
 praga->pragma
-prerelase->prerelease
 progessively->progressively
 proprocessor->preprocessor
 proram->program
@@ -22548,7 +22509,6 @@ occpied->occupied
 oflload->offload
 osolete->obsolete
 pacmage->package
-painfull->painful
 pchannel->channel
 pconnect->connect
 pedding->pending
@@ -22830,7 +22790,6 @@ entitties->entities
 impliicit->implicit
 intesect->intersect
 iterartor->iterator
-passoword->password
 referrent->referent
 regiester->register
 retrievs->retrieves
@@ -22861,7 +22820,6 @@ interting->inserting
 intervace->interface
 meadphone->headphone
 occording->according
-pertitent->pertinent
 preseding->preceding
 progedure->procedure
 refrected->reflected
@@ -22902,7 +22860,6 @@ hnown->known
 wanrs->wants
 conmmit->commit
 deetect->detect
-passess->passes
 paojects->projects
 shareabe->shareable
 basbranch->basebranch
@@ -23150,7 +23107,6 @@ precerding->preceding
 preemtion->preemption
 preseting->presetting
 pricipals->principals
-primtives->primitives
 privieged->privileged
 privillege->privilege
 procecsses->processes
@@ -23262,12 +23218,9 @@ nonexisten->nonexistent
 outsanding->outstanding
 parityerro->parityerror
 particiant->participant
-passthough->passthrough
 passthroug->passthrough
-performanc->performance
 periperals->peripherals
 pesimistic->pessimistic
-pplication->application
 prepration->preparation
 progession->progression
 promisuous->promiscuous
@@ -23336,8 +23289,6 @@ oroginal->original
 overritten->overwritten
 passiong->passing
 persisent->persistent
-pluggin->plugin
-pluggins->plugins
 procudure->procedure
 protoocol->protocol
 questins->questions
@@ -23849,7 +23800,6 @@ paresed->parsed
 parsee->parse
 passhrase->passphrase
 passprase->passphrase
-perameters->parameters
 perdiod->period
 permutaton->permutation
 peserve->preserve
@@ -23863,9 +23813,7 @@ postprocessng->postprocessing
 precalclate->precalculate
 predicctor->predictor
 predicion->prediction
-predicition->prediction
 printfing->printing
-priorites->priorities
 prixel->pixel
 produc->produce
 progrssive->progressive
@@ -23983,7 +23931,6 @@ utilitues->utilities
 argumrents->arguments
 argurments->arguments
 itheration->iteration
-particpate->participate
 recursivon->recursion
 specalized->specialized
 decarations->declarations
@@ -24293,7 +24240,6 @@ speific->specific
 ucraina->ukraina
 inreases->increases
 isvalide->isvalid
-payement->payment
 requesat->request
 scenarii->scenario
 switchig->switching
@@ -24630,10 +24576,8 @@ nameles->nameless
 ncustom->custom
 noasset->noassert
 optionb->option
-passwor->password
 patterh->pattern
 phtooey->phooey
-platorm->platform
 plently->plenty
 pragama->pragma
 prunued->pruned
@@ -24736,9 +24680,7 @@ omething->something
 opennurl->openurl
 ownershp->ownership
 pausible->pausable
-perharps->perhaps
 premisis->premises
-primtive->primitive
 printeds->printed
 privatre->private
 probebly->probably
@@ -24852,10 +24794,8 @@ opttional->optional
 ourselbes->ourselves
 petabaits->petabytes
 playround->playground
-powershel->powershell
 prediates->predicates
 probablye->probably
-propegate->propagate
 qualifers->qualifiers
 refaactor->refactor
 repeading->repeating
@@ -28578,9 +28518,6 @@ paarllelism->parallelism
 paarllelogram->parallelogram
 paartheid->apartheid
 pajent->parent
-palyed->played
-palyer->player
-palying->playing
 palywright->playwright
 panal->panel
 panarama->panorama
@@ -28635,8 +28572,6 @@ parllelogram->parallelogram
 partciularly->particularly
 partheid->apartheid
 particluarly->particularly
-particpant->participant
-particpated->participated
 particularl->particularly
 particularyl->particularly
 particulraly->particularly
@@ -28645,7 +28580,6 @@ partiuclarly->particularly
 pasenger->passenger
 pasime->pastime
 pasitme->pastime
-passanger->passenger
 pastie->pasties
 pastiem->pastime
 pastim->pastime
@@ -28675,7 +28609,6 @@ pecluiar->peculiar
 pecn->pecan
 pecna->pecan
 pecuiar->peculiar
-pecular->peculiar
 peculia->peculiar
 peculir->peculiar
 peculira->peculiar
@@ -28684,7 +28617,6 @@ peninnsula->peninsula
 pensil->pensile
 pensinsula->peninsula
 peple->people
-perameter->parameter
 percede->precede
 peresverance->perseverance
 pereverance->perseverance
@@ -28694,7 +28626,6 @@ permitt->permit
 perodactyl->pterodactyl
 peronnel->personnel
 perosnnel->personnel
-perpare->prepare
 perpindcular->perpendicular
 perpindicalar->perpendicular
 perpindiculor->perpendicular
@@ -28746,7 +28677,6 @@ petrodactyl->pterodactyl
 peucliar->peculiar
 peuliar->peculiar
 phenominal->phenomenal
-pheonix->phoenix
 phoosynthesis->photosynthesis
 phootsynthesis->photosynthesis
 photosinthasis->photosynthesis
@@ -28777,7 +28707,6 @@ phyics->physics
 physcs->physics
 physis->physics
 physisc->physics
-pidgeon->pigeon
 pigrim->pilgrim
 pik->pick
 pilgim->pilgrim
@@ -28955,7 +28884,6 @@ privielge->privilege
 privilee->privilege
 privileeg->privilege
 privileg->privilege
-privilge->privilege
 privilgee->privilege
 privliege->privilege
 prnounciation->pronunciation
@@ -29063,7 +28991,6 @@ publicl->publicly
 publicyl->publicly
 publilcy->publicly
 publily->publicly
-puchase->purchase
 pucrhase->purchase
 pul->pull
 pulbicly->publicly
@@ -30250,7 +30177,6 @@ paramentes->parameters
 parapraph->paragraph
 partterns->patterns
 parttern->pattern
-presing->pressing
 prevemnt->prevent
 requisities->requisites
 resizng->resizing
@@ -30313,7 +30239,6 @@ resuem->resume
 realloctions->reallocations
 realloction->reallocation
 decreaed->decreased
-possibel->possible
 erdvinis->erdviniai
 escudowo->escudo
 eventgcg->eventg
@@ -30354,7 +30279,6 @@ paragrap->paragraph
 paragreph->paragraph
 bulck->bulk
 modalality->modality
-purpuse->purpose
 namepspace->namespace
 approximisation->approximation
 boundariess->boundaries
@@ -30637,7 +30561,6 @@ needef->needed
 ordeding->ordering
 orderred->ordered
 oveall->overall
-patttern->pattern
 reodering->reordering
 reseti->reset
 sompath->somepath
