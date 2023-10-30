@@ -409,7 +409,6 @@ readine->readline
 rebuiliding->rebuilding
 refocunt->refcount
 reforced->forced
-regnerated->regenerated
 relcating->relocating
 rellocate->reallocate
 requiste->requested
@@ -524,12 +523,7 @@ pyintotify->pyinotify
 qualifed->qualified
 recoevery->recovery
 rehat->redhat
-repalcing->replacing
 repisitory->repository
-replaceing->replacing
-reporsitory->repository
-reposity->repository
-resilent->resilient
 scalabe->scalable
 scalibility->scalability
 servehs->serves
@@ -16073,7 +16067,6 @@ queation->equation
 queations->equations
 queitly->quietly
 quention->quentin
-quereis->queries
 questionalbe->questionable
 questionalble->questionable
 questional->questionable
@@ -16244,10 +16237,6 @@ recliam->reclaim
 reclutantly->reluctantly
 reclutant->reluctant
 recocnised->recognised
-recoginsed->recognised
-recoginse->recognise
-recoginzed->recognized
-recoginze->recognize
 recognie->recognizes
 recognision->recognition
 recogniton->recognition
@@ -16268,7 +16257,6 @@ reconcille->reconcile
 recongizable->recognizable
 reconicle->reconcile
 reconisder->reconsider
-reconnet->reconnect
 reconsiled->reconsider
 reconstruccion->reconstruction
 reconstrucion->reconstruction
@@ -16320,7 +16308,6 @@ redemtpion->redemption
 redepmtion->redemption
 redesgin->redesign
 redesiging->redesign
-redesing->redesign
 redistribucion->redistribution
 redistribuito->redistribution
 redistributin->redistribution
@@ -16482,9 +16469,7 @@ reinitalized->reinitialized
 reinitalizes->reinitializes
 reinitalizing->reinitializing
 reinkarnation->reincarnation
-reinstaled->reinstalled
 reinstale->reinstalled
-reinstaling->reinstalling
 reinstallled->reinstalled
 reinstallling->reinstalling
 reinstallng->reinstalling
@@ -16625,9 +16610,6 @@ renyolds->reynolds
 reowrked->reworked
 repaird->repaired
 repaires->repairs
-repalcement->replacement
-repalcements->replacements
-repalces->replaces
 repalying->replaying
 repalys->replays
 reparied->repaired
@@ -16635,7 +16617,6 @@ repbulican->republican
 repbulicans->republicans
 repbulic->republic
 repeadedly->repeatedly
-repeadetly->repeatedly
 repearable->repeatable
 repearedly->repealed
 repeast->repeats
@@ -16659,7 +16640,6 @@ rephrasse->rephrase
 repitle->reptile
 repitles->reptiles
 replaceble->replaceable
-replacemet->replacements
 replacemnet->replacements
 replacemnt->replacement
 replacemnts->replacements
@@ -16670,14 +16650,12 @@ repleacable->replaceable
 replecated->replicated
 replubic->republic
 replusive->repulsive
-repoistory->repository
 reporduction->reproduction
 reporductive->reproductive
 reportedy->reportedly
 reporteros->reporters
 reportes->reporters
 reportidly->reportedly
-repositary->repository
 reposotory->repository
 repostas->reposts
 repostd->reposted
@@ -16767,16 +16745,10 @@ resembe->resemble
 resemblace->resemble
 resemblense->resembles
 reseptionist->receptionist
-reserached->researched
-reseracher->researchers
-reserachers->researchers
-reseraching->researching
-reserach->research
 reserrection->resurrection
 reserverad->reserved
 resgination->resignation
 resgined->resigned
-residencial->residential
 residentail->residential
 residentual->residential
 residude->residue
@@ -16785,9 +16757,6 @@ resignacion->resignation
 resignating->resignation
 resignition->resignation
 resinged->resigned
-resintalled->reinstalled
-resintalling->reinstalling
-resintall->reinstall
 resistancies->resistances
 resistane->resistances
 resistanes->resistances
@@ -16851,7 +16820,6 @@ respondas->responds
 respondendo->responded
 respondis->responds
 respondus->responds
-responed->respond
 responisbly->responsibly
 responsabile->responsible
 responsably->responsibly
@@ -16982,8 +16950,6 @@ revelaed->revealed
 revelaing->revealing
 revelaiton->revelations
 revelaitons->revelations
-revelance->relevance
-revelant->relevant
 revelas->reveals
 revelatons->revelations
 revelead->revealed
@@ -21287,8 +21253,6 @@ recykey->recvkey
 reository->repository
 reparing->preparing
 repoitories->repositories
-repsitories->repositories
-repsitory->repository
 retrievel->retrieval
 retufn->return
 rsunc->rsync
@@ -21515,7 +21479,6 @@ prefxed->prefixed
 primry->primary
 procedual->procedural
 pythont->python
-queris->queries
 realoads->reloads
 receriverkey->receiverkey
 recognnized->recognized
@@ -21536,7 +21499,6 @@ returnded->returned
 rhe->the
 routerinteface->routerinterface
 rray->array
-runnner->runner
 sahra->sahara
 saxara->sahara
 sami->same
@@ -21692,7 +21654,6 @@ proprocessor->preprocessor
 proram->program
 pust->push
 qualifacation->qualification
-randome->random
 realtimes->realtime
 reassemblied->reassembled
 reconstrucated->reconstructed
@@ -22365,15 +22326,11 @@ queuen->queue
 quiece->quiesce
 quiesc->quiesce
 quisce->quiesce
-ramdom->random
 readio->radio
 readir->readdir
 readyn->ready
-reallly->really
 reanges->ranges
-rearch->reach
 rendom->random
-reolve->resolve
 reresh->refresh
 rerturn->return
 resynd->resync
@@ -22382,7 +22339,6 @@ retuen->return
 retult->result
 retusn->return
 retyurn->return
-reult->result
 reume->resume
 revice->device
 rotata->rodata
@@ -22535,12 +22491,9 @@ reasults->results
 receivce->receive
 refernt->referent
 reghions->regions
-relesase->release
-repoted->reported
 requeest->request
 requewst->request
 routinge->routine
-rumtime->runtime
 samaung->samsung
 samusung->samsung
 scannng->scanning
@@ -22661,7 +22614,6 @@ rediness->readiness
 reeponse->response
 regiseter->register
 regsister->register
-relesing->releasing
 relvative->relative
 reqserved->reserved
 requeing->requeuing
@@ -22672,7 +22624,6 @@ requiried->required
 rersource->resource
 rererved->reserved
 reservied->reserved
-resourece->resource
 reversly->reversely
 revesion->revision
 routeines->routines
@@ -22824,7 +22775,6 @@ preseding->preceding
 progedure->procedure
 refrected->reflected
 rereasing->releasing
-resiliant->resilient
 signagure->signature
 specidied->specified
 stabalise->stabilise
@@ -23115,7 +23065,6 @@ prootected->protected
 prorities->priorities
 quadractic->quadratic
 quantinies->quantities
-quantites->quantities
 quiesecent->quiescent
 rasterizer->rasterized
 reassemby->reassembly
@@ -23125,7 +23074,6 @@ redirektor->redirector
 regaurding->regarding
 regreesion->regression
 regulaltor->regulator
-releaseing->releasing
 replacoing->replacing
 reprogramm->reprogram
 requeested->requested
@@ -23366,7 +23314,6 @@ repeatition->repetition
 requestiong->requesting
 resolultion->resolution
 restricions->restrictions
-retrieveing->retrieving
 robusteness->robustness
 rransaction->transaction
 semanticaly->semantically
@@ -23561,7 +23508,6 @@ writetrough->writethrough
 autogened->autogenerated
 uncoming->upcoming
 heartbearts->heartbeats
-reserch->research
 changesd->changed
 nondeterminstic->nondeterministic
 oveeride->override
@@ -23843,7 +23789,6 @@ retriebval->retrieval
 revokation->revocation
 riight->right
 rimary->primary
-runnng->running
 samplt->sample
 sdirect->direct
 secondart->secondary
@@ -23926,7 +23871,6 @@ fionacci->fibonacci
 preorden->preorder
 punicode->pyunicode
 dustutils->distutils
-regnerate->regenerate
 utilitues->utilities
 argumrents->arguments
 argurments->arguments
@@ -24043,7 +23987,6 @@ raplce->replace
 recory->recovery
 regiry->registry
 regual->regular
-resutl->result
 rotuer->router
 rspnse->response
 simlpy->simply
@@ -24154,8 +24097,6 @@ recylce->recycle
 aboutqt->abouttqt
 reguens->returns
 reiceve->receive
-repalce->replace
-requset->request
 resepct->respect
 reyunyon->reunion
 revocer->recover
@@ -24258,7 +24199,6 @@ vourchers->vouchers
 cusomlangs->customlangs
 equatoriaal->equatorial
 rediretion->redirection
-requesites->requisites
 rresources->resources
 timpestamp->timestamp
 branaddress->brandaddress
@@ -24802,7 +24742,6 @@ repeading->repeating
 requeusts->requests
 respsonse->response
 retryable->retriable
-roperties->properties
 sandwitch->sandwich
 screnshot->screenshot
 securituy->security
@@ -29011,7 +28950,6 @@ pyscho->psycho
 qality->quality
 qeuipment->equipment
 quaity->quality
-qualit->quality
 qualiy->quality
 qualiyt->quality
 qualtiy->quality
@@ -29082,7 +29020,6 @@ rebuttle->rebuttal
 recasted->recast
 reccent->recent
 receed->recede
-recepies->recipes
 recepted->received
 reconciliate->reconcile
 recoupe->recoup
@@ -29113,8 +29050,6 @@ registeed->registered
 registeerd->registered
 registerde->registered
 registrashin->registration
-registre->register
-registreed->registered
 regitser->register
 regitsered->registered
 reistered->registered
@@ -30129,7 +30064,6 @@ tintermediate->intermediate
 intialtarget->initialtarget
 irretrivable->irretrievable
 issuerepoter->issuereporter
-repoter->reporter
 iswhitespave->iswhitespace
 labelservice->labelservie
 libcrypsetup->libcryptsetup
@@ -30473,7 +30407,6 @@ misscalculate->miscalculate
 ooxlm->ooxml
 remembeer->remember
 representataion->representation
-reults->results
 sertions->assertions
 spnaned->spanned
 supportr->support
@@ -30561,7 +30494,6 @@ needef->needed
 ordeding->ordering
 orderred->ordered
 oveall->overall
-reodering->reordering
 reseti->reset
 sompath->somepath
 thinnest->thinest
