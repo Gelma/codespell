@@ -421,7 +421,6 @@ sectoin->section
 sessoin->session
 simulaneous->simultaneous
 sourcefroge->sourceforge
-sparce->sparc
 ssystems->systems
 subection->subsection
 subections->subsections
@@ -596,7 +595,6 @@ reuquired->required
 reypling->replying
 simluate->simulate
 simpple->simple
-spead->speed
 ssince->since
 stuffes->stuffs
 subeject->subject
@@ -687,7 +685,6 @@ pridge->bridge
 primariy->primarily
 projevt->project
 relaim->reclaim
-sceleton->skeleton
 segmant->segment
 solaries->solaris
 telll->tell
@@ -17219,15 +17216,8 @@ satisfactorly->satisfactory
 satisfcation->satisfaction
 satisfiction->satisfaction
 satistactory->satisfactory
-satisy->satisfy
 satruday->saturday
 satrudays->saturdays
-satsifaction->satisfaction
-satsifactory->satisfactory
-satsified->satisfied
-satsifies->satisfies
-satsifying->satisfying
-satsify->satisfy
 satsohi->satoshi
 saturacion->saturation
 saturdsy->saturdays
@@ -17288,7 +17278,6 @@ sceintific->scientific
 sceintist->scientist
 sceintists->scientists
 scenarioes->scenarios
-scenarious->scenarios
 scepture->scepter
 scheduleing->scheduling
 scheems->schemes
@@ -17398,8 +17387,6 @@ sebastin->sebastian
 sebrian->serbian
 sebsatian->sebastian
 secertary->secretary
-secertly->secretly
-secerts->secrets
 secpter->scepter
 secratery->secretary
 secrelty->secretly
@@ -17675,7 +17662,6 @@ siezable->sizeable
 sightstine->sightstone
 signapore->singapore
 signfiy->signify
-signifiant->significant
 significane->significance
 significanlty->significantly
 significante->significance
@@ -17684,7 +17670,6 @@ significato->significant
 signifikant->significant
 signigns->signings
 signins->signings
-signitures->signatures
 signleplayer->singleplayer
 sigthstone->sightstone
 sihlouette->silhouette
@@ -17700,8 +17685,6 @@ simeltaneously->simultaneously
 simeltaneous->simultaneous
 simialir->similar
 simiilar->similar
-similair->similar
-similairty->similarity
 similaraties->similarities
 similari->similar
 similarites->similarities
@@ -17732,7 +17715,6 @@ simplicy->simplicity
 simplificacion->simplification
 simplificating->simplification
 simplifiing->simplifying
-simplifing->simplifying
 simplifyed->simplified
 simplifyng->simplifying
 simplisitc->simplistic
@@ -17755,8 +17737,6 @@ simulatneous->simultaneous
 simulatons->simulations
 simulatore->simulate
 simulato->simulation
-simultaenously->simultaneously
-simultaenous->simultaneous
 simultainously->simultaneously
 simultaneoulsy->simultaneously
 simultaneuos->simultaneous
@@ -17902,8 +17882,6 @@ snycing->syncing
 snydrome->syndrome
 snyergy->synergy
 snyopsis->synopsis
-snythesis->synthesis
-snythetic->synthetic
 soberity->sobriety
 sobreity->sobriety
 socailism->socialism
@@ -18200,7 +18178,6 @@ spirutually->spiritually
 spitirually->spiritually
 splaton->splatoon
 splatooon->splatoon
-spleling->spelling
 splitner->splinter
 splittr->splitter
 spoilerd->spoiled
@@ -18215,8 +18192,6 @@ sponosred->sponsored
 sponsord->sponsored
 sponsorees->sponsors
 sponsores->sponsors
-sponsorhip->sponsorship
-sponsorhips->sponsorship
 sponsorhsip->sponsorship
 sponsorise->sponsors
 sponsorshop->sponsorship
@@ -18375,8 +18350,6 @@ statisitcs->statistics
 statisitc->statistic
 statiskt->statist
 statistacally->statistically
-statistcal->statistical
-statistc->statistic
 statisticaly->statistically
 statisticly->statistical
 statistisch->statistics
@@ -18388,8 +18361,6 @@ stattues->statutes
 statuer->stature
 statuets->statutes
 statuser->stature
-statuse->statutes
-statuts->statutes
 staurday->saturday
 staurdays->saturdays
 stautes->statues
@@ -18643,7 +18614,6 @@ submergerd->submerged
 submergered->submerged
 submerines->submarines
 submissies->submissive
-submittion->submitting
 subredddits->subreddits
 subredditors->subreddits
 subruban->suburban
@@ -18658,8 +18628,6 @@ subscribbing->subscribing
 subscribirse->subscriber
 subscribir->subscriber
 subscrible->subscriber
-subscribtions->subscriptions
-subscribtion->subscription
 subscrie->subscriber
 subscriped->subscribed
 subscriping->subscribing
@@ -18879,8 +18847,6 @@ suprisd->surprised
 suprsied->surprised
 supscriptions->subscriptions
 supscription->subscription
-supsense->suspense
-supsension->suspension
 surbuban->suburban
 surpases->surpass
 surpemacist->supremacist
@@ -19058,11 +19024,9 @@ syndacite->syndicate
 syndiacte->syndicate
 synegry->synergy
 synidcate->syndicate
-synomymous->synonymous
 synomynous->synonymous
 synomyns->synonyms
 synonamous->synonymous
-synonimous->synonymous
 synonmyous->synonymous
 synonmys->synonyms
 synonomy->synonym
@@ -19073,8 +19037,6 @@ synonymos->synonymous
 synonymus->synonyms
 synonynous->synonymous
 synopsies->synopsis
-synoynms->synonyms
-synoynm->synonym
 synthesasia->synthesis
 synthesesia->synthesis
 sypmathetic->sympathetic
@@ -21668,7 +21630,6 @@ sequenial->sequential
 sideof->sizeof
 soeed->speed
 sqlit->sqlite
-sqllite->sqlite
 sqlote->sqlite
 statisics->statistics
 strint->string
@@ -22088,7 +22049,6 @@ algrorithm->algorithm
 ample->sample
 cahcefile->cachefile
 checkummed->checksummed
-snapshoted->snapshotted
 cphertext->cyphertext
 crypographically->cryptographically
 datasetss->datasets
@@ -22349,7 +22309,6 @@ satic->static
 secoend->second
 sefely->safely
 selsect->select
-sesson->session
 sexport->export
 shaber->shaper
 shapped->shaped
@@ -22363,7 +22322,6 @@ socken->socket
 spinx->sphinx
 sssue->issue
 stablep->stable
-statick->static
 stired->stored
 stors->stores
 strean->stream
@@ -22499,15 +22457,11 @@ samusung->samsung
 scannng->scanning
 scather->scatter
 scrable->scramble
-secrity->security
-securit->security
 servioe->service
 setttime->settime
 silbling->sibling
 siletly->silently
-similer->similar
 skylaye->skylake
-softare->software
 spatical->spatial
 spesial->special
 ssigned->assigned
@@ -22628,7 +22582,6 @@ reversly->reversely
 revesion->revision
 routeines->routines
 safepoin->safepoint
-scenerio->scenario
 scrample->scramble
 sdandard->standard
 senasync->sendasync
@@ -22841,7 +22794,6 @@ devidce->device
 namespase->namespace
 optimsation->optimization
 anhything->anything
-scenerios->scenarios
 stoke->stroke
 acord->accord
 aggain->again
@@ -22988,7 +22940,6 @@ samper->sampler
 sanitiy->sanity
 sarch->search
 screipt->script
-scrol->scroll
 seprador->separador
 sevas->saves
 shoiuld->should
@@ -23003,7 +22954,6 @@ surfacs->surfaces
 surve->serve
 symbolx->symbols
 symbool->symbol
-synonims->synonyms
 systemm->system
 tablepc->tabletpc
 tabstopps->tabstops
@@ -23190,7 +23140,6 @@ videbuffer->videobuffer
 windotitle->windowtitle
 mus->must
 idend->ident
-sufix->suffix
 thory->theory
 tomic->atomic
 usial->usual
@@ -23256,7 +23205,6 @@ singuar->singular
 snapsot->snapshot
 sockect->socket
 specifiled->specified
-standalong->standalone
 substing->substring
 suggestipn->suggestion
 supportng->supporting
@@ -23319,7 +23267,6 @@ rransaction->transaction
 semanticaly->semantically
 seqeuencers->sequencers
 simplfistic->simplistic
-snapshoting->snapshotting
 soliciation->solicitation
 structurees->structures
 subseqently->subsequently
@@ -23992,7 +23939,6 @@ rspnse->response
 simlpy->simply
 srtoke->stroke
 survor->survivor
-symble->symbol
 terset->reset
 textre->textures
 unusde->unused
@@ -24406,7 +24352,6 @@ setfl->setfd
 shink->shrink
 shory->short
 sleve->sleeve
-squre->square
 srong->strong
 syper->super
 thera->there
@@ -24533,7 +24478,6 @@ sapache->apache
 sayingt->saying
 sertext->settext
 shorest->shortest
-shoulde->should
 skippen->skipped
 stringl->string
 struact->struct
@@ -24643,7 +24587,6 @@ soething->something
 sometome->sometime
 ssession->session
 startved->starved
-synonymn->synonym
 telemety->telemetry
 testvmss->testvmssx
 tinclude->tincludel
@@ -24742,8 +24685,6 @@ repeading->repeating
 requeusts->requests
 respsonse->response
 retryable->retriable
-sandwitch->sandwich
-screnshot->screenshot
 securituy->security
 ssettings->settings
 startwith->startswith
@@ -29227,7 +29168,6 @@ scapgoat->scapegoat
 scarry->scary
 scay->scaly
 scayr->scary
-scedule->schedule
 scehdule->schedule
 sceince->science
 sceret->secret
@@ -29251,21 +29191,16 @@ scor->scorn
 scray->scary
 scre->screw
 scret->secret
-scroe->score
 scry->scary
 sday->say
-seacrh->search
 seamingly->seemingly
 seaprate->separate
 searate->separate
-searh->search
 searhc->search
 seccesion->secession
-secert->secret
 secet->secret
 secondry->secondary
 secre->secret
-secrect->secret
 secrt->secret
 secrte->secret
 sedantary->sedentary
@@ -29293,10 +29228,7 @@ sergeatn->sergeant
 sergenat->sergeant
 sergon->sermon
 serpenteen->serpentine
-servent->servant
 sharlaton->charlatan
-shcedule->schedule
-shelfs->shelves
 shooted->shot
 shrewed->shrewd
 sicence->science
@@ -29306,10 +29238,8 @@ sieeg->siege
 sieg->siege
 sige->sage
 sigee->siege
-signiture->signature
 silimar->similar
 simapthy->sympathy
-simular->similar
 simulcasted->simulcast
 sinegog->singeing
 sinked->sank
@@ -29341,7 +29271,6 @@ socipath->sociopath
 socipoath->sociopath
 socoipath->sociopath
 socopath->sociopath
-socre->score
 soicopath->sociopath
 soiopath->sociopath
 solider->soldier
@@ -29383,7 +29312,6 @@ spersede->supersede
 sphalt->asphalt
 spilled->spilt
 spilt->spilled
-splel->spell
 spll->spell
 spnaish->spanish
 spnish->spins
@@ -29426,7 +29354,6 @@ stoes->sties
 stoies->stories
 stoires->stories
 stoled->stole
-stoopid->stooped
 stoper->stopper
 stor->story
 storie->stories
@@ -29483,12 +29410,9 @@ supposably->supposedly
 supremist->supremacist
 supresede->supersede
 suprsede->supersede
-surelly->surely
 surender->surrender
 susaphone->sousaphone
 susincly->supinely
-sutff->stuff
-sutffing->stuffing
 sutie->suite
 swarrie->starrier
 sweared->swore
@@ -30351,7 +30275,6 @@ emergnecy->emergency
 emergengy->emergency
 mutliservice->multiservice
 trasnformations->transformations
-synatx->syntax
 boll->bool
 correspondint->corresponding
 sulfolders->subfolders
@@ -30362,7 +30285,6 @@ reaking->reaching
 iterata->iterate
 mirrowed->mirrored
 unitzialized->uninitialized
-succefull->successful
 fremium->freemium
 iunput->input
 reaplce->replace
@@ -30382,7 +30304,6 @@ admiistration->administration
 implemnented->implemented
 necessasy->necessary
 decoractive->decorative
-soloution->solution
 disbable->disable
 spwcified->specified
 crete->create
