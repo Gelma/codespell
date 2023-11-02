@@ -104,7 +104,6 @@ fuer->for
 leaft->leaf
 resreve->reserve
 spache->space
-transcation->transaction
 umounting->unmounting
 bookend->booked
 coping->copying
@@ -286,7 +285,6 @@ permitir->permite
 recomennded->recommended
 recomented->recommended
 transofrmar->transformar
-triyng->trying
 unchnaged->unchanged
 unitilisable->inutilisable
 unpartitions->unpartitioned
@@ -759,7 +757,6 @@ compresseed->compressed
 requirenments->requirements
 maintin->maintain
 adjustmnt->adjustment
-unfortunetely->unfortunately
 quiesing->quiescing
 checkfuncs->checkfunc
 pooname->poolname
@@ -19137,13 +19134,10 @@ techncially->technically
 technicain->technician
 technicallity->technically
 technicalty->technicality
-technicaly->technically
 technicans->technicians
 technichan->technician
 technichian->technician
 technicials->technicians
-techniciens->technicians
-technicien->technician
 technicion->technician
 techniqe->technique
 technoligically->technologically
@@ -19261,7 +19255,6 @@ terrirories->territories
 terriroties->territories
 terriroty->territory
 terristrial->territorial
-territoires->territories
 territoral->territorial
 territores->territories
 territoriella->territorial
@@ -19297,8 +19290,6 @@ teusdays->tuesdays
 texutres->textures
 texutre->texture
 thaliand->thailand
-thankfullly->thankfully
-thankfuly->thankfully
 thanksgivng->thanksgiving
 thankyooou->thankyou
 thankyoou->thankyou
@@ -19398,7 +19389,6 @@ thornes->thrones
 thoroughy->thoroughly
 thorttling->throttling
 thoruim->thorium
-thoughs->thoughts
 thouroghly->thoroughly
 thourogh->thorough
 threadd->threaded
@@ -19602,7 +19592,6 @@ trannsexual->transsexual
 tranpshobic->transphobic
 transaccion->transaction
 transaprency->transparency
-transcations->transactions
 transciprt->transcripts
 transcirpt->transcripts
 transcluent->translucent
@@ -19692,8 +19681,6 @@ transmatter->transmitter
 transmisisons->transmissions
 transmisison->transmission
 transmissin->transmissions
-transmissons->transmissions
-transmisson->transmission
 transmitirte->transmitter
 transmitor->transistor
 transmittor->transmitter
@@ -19913,10 +19900,6 @@ udnercut->undercut
 udnerdog->underdog
 udnerestimate->underestimated
 udnerpowered->underpowered
-ugpraded->upgraded
-ugprades->upgrades
-ugprade->upgrade
-ugprading->upgrading
 ukarine->ukraine
 ukrainains->ukrainians
 ukrainain->ukrainian
@@ -19979,7 +19962,6 @@ unautherized->unauthorized
 unauthoried->unauthorized
 unauthroized->unauthorized
 unavailabe->unavailable
-unavailble->unavailable
 unaviodable->unavoidable
 unavoidble->unavoidable
 unawnsered->unanswered
@@ -20045,8 +20027,6 @@ uncomited->uncommitted
 unconcsiously->unconsciously
 unconcsious->unconscious
 unconditionable->unconditional
-unconfortable->uncomfortable
-unconfortably->uncomfortably
 unconsciosly->unconsciously
 unconscioulsy->unconsciously
 unconsciouly->unconsciously
@@ -20147,11 +20127,9 @@ underraged->underrated
 underraker->undertaker
 underrater->undertaker
 underratted->underrated
-undersatnd->understands
 undersetimated->underestimated
 undersetimate->underestimate
 undersog->undergo
-understad->understands
 understandablely->understandably
 understandabley->understandably
 understandble->understandable
@@ -20161,7 +20139,6 @@ understandible->understandable
 understandibly->understandably
 understannd->understands
 understans->understands
-understnad->understands
 understsand->understands
 understsnd->understands
 undertacker->undertaker
@@ -20209,7 +20186,6 @@ unempolyed->unemployed
 unempolyment->unemployment
 unenployment->unemployment
 unexpectadely->unexpectedly
-unexpectadly->unexpectedly
 unexpectetly->unexpectedly
 unexpectidly->unexpectedly
 unexperience->inexperience
@@ -20227,7 +20203,6 @@ unfirendly->unfriendly
 unfomfortable->uncomfortable
 unforgiveble->unforgivable
 unforgivible->unforgivable
-unfortuate->unfortunate
 unfortunantly->unfortunately
 unfortuneatly->unfortunately
 unfortune->unfortunate
@@ -20318,13 +20293,10 @@ unlcuky->unlucky
 unliaterally->unilaterally
 unlockes->unlocks
 unluckly->unlucky
-unnecassarily->unnecessarily
-unnecassary->unnecessary
 unnecessairly->unnecessarily
 unnecessairy->unnecessarily
 unnecessarely->unnecessarily
 unnecessarity->unnecessarily
-unnecessarly->unnecessarily
 unnecissarily->unnecessarily
 unnecissary->unnecessary
 unnistalled->uninstalled
@@ -20543,7 +20515,6 @@ vanillia->vanilla
 vanillla->vanilla
 vanugard->vanguard
 vareity->variety
-variantes->variants
 varisty->varsity
 varitey->variety
 varstiy->varsity
@@ -20608,7 +20579,6 @@ verastility->versatility
 verbaly->verbally
 verbatium->verbatim
 verificacion->verification
-verificaiton->verification
 verificato->verification
 verifikation->verification
 verifiyng->verifying
@@ -20753,7 +20723,6 @@ vitrues->virtues
 vocabluary->vocabulary
 vocabularily->vocabulary
 vocabularity->vocabulary
-vocabularly->vocabulary
 vociemail->voicemail
 voicemal->voicemail
 voilates->violates
@@ -20851,9 +20820,6 @@ wealtheir->wealthier
 wealthly->wealthy
 weathliest->wealthiest
 webapge->webpage
-webistes->websites
-websties->websites
-webstie->website
 wedensdays->wednesdays
 wednesdsay->wednesdays
 wednesdsy->wednesdays
@@ -20878,13 +20844,9 @@ wellingston->wellington
 wellingtion->wellington
 wendesdays->wednesdays
 wepbage->webpage
-weridest->weirdest
-weridly->weirdly
 weridos->weirdos
 werstler->wrestler
 werstle->wrestle
-wesbites->websites
-wesbite->website
 wesbtrook->westbrook
 westbrok->westbrook
 westbroook->westbrook
@@ -21246,7 +21208,6 @@ uploadd->upload
 uppgrade->upgrade
 valult->vault
 waiit->wait
-walkthough->walkthrough
 widtd->width
 withcstring->withcastring
 writechan->writetchan
@@ -21328,7 +21289,6 @@ utiliztion->utilization
 valoue->value
 verificatin->verification
 vjetnam->vietnam
-vistor->visitor
 volkswagon->volkswagen
 webseite->website
 webside->website
@@ -21644,7 +21604,6 @@ thios->this
 trasformdict->transformdict
 trvial->trivial
 turnned->turned
-tutoral->tutorial
 unabiguously->unambiguously
 unabiguous->unambiguous
 unpreditable->unpredictable
@@ -21653,7 +21612,6 @@ uthors->authors
 vaolues->values
 varioius->various
 verbosit->verbosity
-versioon->version
 virtualt->virtual
 zcommit->commit
 accessive->excessive
@@ -22337,7 +22295,6 @@ targret->target
 tartget->target
 taskes->tasks
 terget->target
-tesult->result
 therof->thereof
 thouugh->though
 tickect->ticket
@@ -22346,12 +22303,10 @@ tirane->tirana
 tored->stored
 totoal->total
 trown->thrown
-tryied->tried
 ttypes->types
 twised->twisted
 unabe->unable
 unablt->unable
-unble->unable
 updata->update
 usaged->usage
 ustream->stream
@@ -22363,7 +22318,6 @@ waitng->waiting
 warior->warrior
 whereh->where
 whoses->whose
-woker->worker
 worken->woken
 wrtite->write
 zerors->zeroes
@@ -22476,7 +22430,6 @@ takover->takeover
 telgram->telegram
 teturns->returns
 theremal->thermal
-thowing->throwing
 trigget->trigger
 trunning->running
 ucommon->uncommon
@@ -22603,7 +22556,6 @@ supended->suspended
 supperset->superset
 supporsts->supports
 surrount->surround
-telemtry->telemetry
 toggline->toggling
 trailings->trailing
 trancate->truncate
@@ -22613,7 +22565,6 @@ triggred->triggered
 uncommont->uncommon
 undwinder->unwinder
 unespcape->unescape
-unpluged->unplugged
 unsliped->unslipped
 untouced->untouched
 upreamble->preamble
@@ -22957,20 +22908,15 @@ symbool->symbol
 systemm->system
 tablepc->tabletpc
 tabstopps->tabstops
-taked->taken
 tble->table
-thease->these
-themeing->theming
 thouched->touched
 throughs->through
 troncated->truncated
-unabled->unable
 unckecked->unchecked
 unneeed->unneeded
 unoad->unload
 upperr->upper
 variabled->variables
-verifyed->verified
 verrtex->vertex
 vertes->vertex
 vislble->visible
@@ -23065,8 +23011,6 @@ uexpected->unexpected
 umodified->unmodified
 unalligned->unaligned
 unchangedi->unchanged
-undersand->understand
-understant->understand
 unespected->unexpected
 unevitably->inevitably
 unmappble->unmappable
@@ -23074,11 +23018,9 @@ unpplugged->unplugged
 unregiser->unregister
 uregister->unregister
 urlhostory->urlhistory
-validatin->validating
 violtation->violation
 volatilty->volatility
 whiteliste->whitelist
-whitepace->whitespace
 accompished->accomplished
 bencmarking->benchmarking
 bibliotequs->biblioteques
@@ -23132,7 +23074,6 @@ traditonal->traditional
 transciver->transceiver
 unallocted->unallocated
 unegisters->unregisters
-unsubcribe->unsubscribe
 unsuppoted->unsupported
 untraceble->untraceable
 upgradeble->upgradeable
@@ -23143,7 +23084,6 @@ idend->ident
 thory->theory
 tomic->atomic
 usial->usual
-whick->which
 whise->whose
 zerod->zeroed
 handly->handle
@@ -23156,7 +23096,6 @@ stanby->standby
 ttacks->attacks
 typid->typeid
 usings->using
-wakups->wakeups
 greates->greatest
 ingeger->integer
 inrease->increase
@@ -23213,9 +23152,7 @@ suupplied->supplied
 temrorary->temporary
 therefoere->therefore
 toutine->routine
-tructure->structure
 unlabelled->unlabeled
-variale->variable
 veariable->variable
 volation->violation
 zauthor->author
@@ -23498,7 +23435,6 @@ taotl->total
 wati->wait
 wdith->width
 woah->whoa
-zeor->zero
 ryrun->dryrun
 mitterlimit->miterlimit
 fillingng->filling
@@ -23522,9 +23458,7 @@ steet->street
 stpre->store
 tasts->tasks
 trhis->this
-tryin->trying
 unlok->unlock
-usinf->using
 widzh->width
 wioth->with
 witgh->with
@@ -23787,7 +23721,6 @@ vetorial->vectorial
 vissual->visual
 weighthing->weighting
 widthd->widthq
-woking->working
 woulnd->would
 woyuld->would
 clase->close
@@ -23941,7 +23874,6 @@ srtoke->stroke
 survor->survivor
 terset->reset
 textre->textures
-unusde->unused
 veretx->vertex
 wrigin->writing
 yealds->yields
@@ -24276,14 +24208,12 @@ setupp->setup
 sorrty->sorry
 squeez->squeeze
 thois->this
-tocken->token
 tracl->track
 tusing->using
 usedid->userid
 usefuk->useful
 varags->varargs
 vulken->vulkan
-workds->words
 writtn->written
 wrute->write
 xample->example
@@ -24326,7 +24256,6 @@ sdds->ssds
 seet->set
 slf->self
 sush->such
-tetst->test
 tota->total
 usae->use
 ysed->used
@@ -24357,7 +24286,6 @@ syper->super
 thera->there
 trais->traits
 tream->stream
-treee->tree
 tthey->they
 unlnk->unlink
 usafe->usage
@@ -24403,7 +24331,6 @@ timesi->timesix
 traint->trait
 treaks->treats
 tutple->tuple
-unifed->unified
 unwrawp->unwrap
 valuee->value
 wheree->where
@@ -24482,7 +24409,6 @@ skippen->skipped
 stringl->string
 struact->struct
 tblkcnt->blkcnt
-tennant->tenant
 timieng->timing
 unfoldr->unfold
 updateg->update
@@ -24590,14 +24516,10 @@ startved->starved
 telemety->telemetry
 testvmss->testvmssx
 tinclude->tincludel
-togather->together
 tooffset->toffset
 typeparm->typeparam
-uhandled->unhandled
-undefind->undefined
 unwindws->unwinds
 visbible->visible
-warnning->warning
 wholsome->wholesome
 allocdecs->allocdescs
 allreport->allreports
@@ -24695,7 +24617,6 @@ sufficies->suffices
 terminaor->terminator
 testruner->testrunner
 testsuits->testsuites
-thankfull->thankfully
 theadpool->threadpool
 togglable->toggleable
 transiend->transient
@@ -24705,7 +24626,6 @@ unsafecel->unsafecell
 unzippsed->unzipped
 variablem->variable
 visiility->visibility
-whatsover->whatsoever
 ambiguiuty->ambiguity
 analyticsd->analytics
 appcompatt->appcompat
@@ -24775,7 +24695,6 @@ suspsended->suspended
 telemeetry->telemetry
 telementry->telemetry
 templagtes->templates
-toplogical->topological
 translatey->translate
 translatie->translate
 truercrypt->truecrypt
@@ -24794,7 +24713,6 @@ annotationg->annotating
 applicationt->application
 appliciable->applicable
 mobilelocaleseperator->mobilelocaleseparator
-tooptip->tooltip
 jgoups->jgroups
 credentia->credential
 ftom->from
@@ -29620,10 +29538,8 @@ twelft->twelfth
 tweltfh->twelfth
 twelveth->twelfth
 tweter->twitter
-twiiter->twitter
 twiitter->twitter
 twitar->twitter
-twiter->twitter
 twlefth->twelfth
 twlfth->twelfth
 tyanny->tyranny
@@ -29719,7 +29635,6 @@ valient->valiant
 valiidty->validity
 valiity->validity
 varietes->varieties
-varios->various
 variosly->variously
 varys->varies
 vaucum->vacuum
@@ -29816,10 +29731,8 @@ weid->weed
 weidr->weird
 welfth->twelfth
 werd->ward
-werid->weird
 wetaher->weather
 wetha->withal
-whent->went
 whier->whiter
 whinning->whining
 wholistic->holistic
@@ -29831,7 +29744,6 @@ wlalet->wallet
 wllet->wallet
 wordprss->wordpress
 worldpress->wordpress
-worpress->wordpress
 worsten->worsen
 worstening->worsening
 wqat->what
@@ -29946,7 +29858,6 @@ uniformised->uniformized
 unitrootdir->unixrootdir
 unnecessory->unnecessary
 unsafeblock->unsafeblocks
-unstability->instability
 updateation->updateaction
 viewcametas->viewcameras
 actionconfig->actionsconfig
@@ -30148,7 +30059,6 @@ methof->method
 psersistent->persistent
 sepatrated->separated
 solders->olders
-whitepaces->whitespace
 aleardy->already
 shew->skew
 supperposing->superposing
@@ -30176,7 +30086,6 @@ incrememtal->incremental
 passprhase->passphrase
 resason->reason
 resasons->reasons
-workarond->workaround
 horizontically->horizontally
 responsiility->responsibility
 destorted->distorted
@@ -30332,13 +30241,11 @@ sertions->assertions
 spnaned->spanned
 supportr->support
 valkud->value
-woul->would
 pdesruptor->pdisruptor
 digrams->diagrams
 blurrred->blurred
 mrsdrtext->mxsdrtext
 pruduct->product
-thiss->this
 rquot->rquote
 rquottoreplace->rquotetoreplace
 bordemnwidth->bordermnwidth
@@ -30373,7 +30280,6 @@ positin->position
 preparedstatment->preparedstatement
 releasd->released
 silmilar->similar
-thoght->thought
 toleranzes->tolerances
 asynched->asynced
 basicieditor->basiceditor
@@ -30419,7 +30325,6 @@ reseti->reset
 sompath->somepath
 thinnest->thinest
 typcache->typecache
-validatior->validator
 cosntitutes->constitutes
 deconnection->disconnection
 includeded->included
