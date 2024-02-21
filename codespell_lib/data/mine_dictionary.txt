@@ -1321,7 +1321,6 @@ anlayses->analyses
 anlaytics->analytics
 anmesia->amnesia
 anmesty->amnesty
-annhiliation->annihilation
 annihalated->annihilated
 annihalition->annihilation
 annihilaton->annihilation
@@ -8404,7 +8403,6 @@ fundumentalists->fundamentalists
 funides->fundies
 funniliy->funnily
 funnilly->funnily
-furance->furnace
 furctose->fructose
 furiosuly->furiously
 furition->fruition
@@ -10521,8 +10519,6 @@ internacional->international
 internationaal->international
 internationaly->internationally
 internationl->international
-internationnal->international
-internationnally->internationally
 internations->interactions
 internediate->intermediate
 internelized->internalized
@@ -27044,7 +27040,6 @@ graigslist->craigslist
 gramattical->grammatical
 granfather->grandfather
 granmother->grandmother
-grap->grip
 gratefl->grateful
 grateflu->grateful
 gratefu->grateful
