@@ -8744,7 +8744,6 @@ guardiands->guardians
 guardianes->guardians
 guardianis->guardians
 guardias->guardians
-guardin->guardian
 guaridan->guardian
 guaridans->guardians
 guerrillera->guerrilla
@@ -8972,7 +8971,6 @@ heroicus->heroics
 heronie->heroine
 herucles->hercules
 hesiman->heisman
-hesitatin->hesitation
 hesitstion->hesitation
 hestiant->hesitant
 hestiation->hesitation
@@ -9577,7 +9575,6 @@ imprefection->imperfections
 imprefections->imperfections
 impresison->impressions
 impresonating->impersonating
-impressin->impressions
 impressoin->impressions
 impressons->impressions
 impresssion->impressions
@@ -10111,7 +10108,6 @@ initalled->initialled
 initalling->initialling
 initalness->initialness
 initiaitve->initiatives
-initiatin->initiation
 initiativs->initiatives
 initiavite->initiatives
 initisl->initials
@@ -10236,7 +10232,6 @@ insparation->inspiration
 inspeccion->inspection
 inspeciton->inspections
 inspecticon->inspection
-inspectin->inspection
 inspectons->inspections
 inspectoras->inspectors
 inspectres->inspectors
@@ -10635,7 +10630,6 @@ intimidante->intimidate
 intimidant->intimidate
 intimidare->intimidate
 intimidatie->intimidated
-intimidatin->intimidation
 intimidative->intimidate
 intimidaton->intimidation
 intimide->intimidate
@@ -10818,7 +10812,6 @@ investigaron->investigator
 investigater->investigator
 investigaters->investigators
 investigatie->investigative
-investigatin->investigation
 investigatio->investigator
 investigationes->investigations
 investigatiors->investigations
@@ -10929,7 +10922,6 @@ irrisponsible->irresponsible
 irritacion->irritation
 irritatie->irritate
 irritaties->irritate
-irritatin->irritation
 irritato->irritation
 irriversible->irreversible
 isalmic->islamic
@@ -16487,7 +16479,6 @@ relevation->revelation
 relevations->revelations
 relexation->relegation
 relfexes->reflexes
-reliabe->reliable
 reliabillity->reliability
 reliabilty->reliability
 reliablely->reliably
