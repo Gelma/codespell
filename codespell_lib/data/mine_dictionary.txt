@@ -1533,7 +1533,6 @@ appreciateive->appreciative
 appreciaters->appreciates
 appreciatie->appreciative
 appreciatied->appreciative
-appreciatin->appreciation
 appreciationg->appreciating
 appreciato->appreciation
 appreciaton->appreciation
@@ -1553,7 +1552,6 @@ appriecate->appreciates
 approacing->approaching
 appropiration->appropriation
 appropreation->appropriation
-appropriatin->appropriation
 appropriatley->appropriately
 appropriato->appropriation
 appropriaton->appropriation
@@ -1770,7 +1768,6 @@ assembley->assembly
 assemblie->assemble
 assemblying->assembling
 assempling->assembling
-assertin->assertions
 assesement->assessment
 assestment->assessment
 asshates->asshats
@@ -1798,7 +1795,6 @@ assistsnt->assistants
 assmebled->assembled
 assnage->assange
 associaiton->associations
-associatin->associations
 associationg->associating
 associationthis->associations
 associato->association
@@ -2792,7 +2788,6 @@ calculatons->calculations
 calgarry->calgary
 calibartion->calibration
 calibler->calibre
-calibratin->calibration
 calibraton->calibration
 calicum->calcium
 califnoria->californian
@@ -3104,7 +3099,6 @@ celebirties->celebrities
 celebirty->celebrity
 celebracion->celebration
 celebrasion->celebrations
-celebratin->celebration
 celebratings->celebrations
 celebrationis->celebrations
 celebrationists->celebrations
@@ -3823,7 +3817,6 @@ communciations->communications
 communiaction->communications
 communicae->communicated
 communicaiton->communication
-communicatin->communications
 communicatoin->communications
 communicatons->communications
 communicted->communicated
@@ -3894,7 +3887,6 @@ compensacion->compensation
 compensante->compensate
 compensare->compensate
 compensatie->compensate
-compensatin->compensation
 compensationg->compensating
 compensative->compensate
 compense->compensate
@@ -3970,7 +3962,6 @@ completenes->completes
 completent->complement
 completi->complexity
 completily->complexity
-completin->completion
 completito->completion
 complexers->complexes
 complexety->complexity
@@ -3992,7 +3983,6 @@ complicatie->complicit
 complicatied->complicate
 complicaties->complicate
 complicatii->complicit
-complicatin->complicit
 complicato->complication
 complicatred->complicate
 complicatted->complicate
@@ -4146,7 +4136,6 @@ concentrant->concentrate
 concentrare->concentrate
 concentrarte->concentrate
 concentratie->concentrate
-concentratin->concentration
 concentrato->concentration
 concentratons->concentrations
 conceps->concepts
@@ -4289,7 +4278,6 @@ confersation->conservation
 confescated->confiscated
 confeses->confess
 confesos->confess
-confessin->confession
 confessino->confessions
 confessionis->confessions
 confesso->confession
@@ -4840,7 +4828,6 @@ conversatives->conservatives
 conversatoin->conversations
 converseley->conversely
 conversie->converse
-conversin->conversions
 conversino->conversions
 conversiones->conversions
 conversley->conversely
@@ -4957,7 +4944,6 @@ corrdior->corridor
 correccion->correction
 correciton->corrections
 correctess->correctness
-correctin->correction
 correctings->corrections
 correctionals->corrections
 correctivo->correction
@@ -5570,7 +5556,6 @@ deflaction->deflection
 deflatin->deflation
 defleciton->deflection
 deflecticon->deflection
-deflectin->deflection
 deflecto->deflection
 deflektion->deflection
 defniately->definitely
@@ -5708,7 +5693,6 @@ demonstras->demonstrates
 demonstratbly->demonstrably
 demonstratie->demonstrate
 demonstraties->demonstrate
-demonstratin->demonstration
 demonstrationens->demonstrations
 demonstrativno->demonstrations
 demonstrativo->demonstration
@@ -6249,7 +6233,6 @@ discriminacion->discrimination
 discriminante->discriminate
 discriminare->discriminate
 discriminatie->discriminate
-discriminatin->discrimination
 discriminatoire->discriminate
 discriminatorie->discriminate
 discrimine->discriminate
@@ -6260,7 +6243,6 @@ discrption->discretion
 disctintions->distinctions
 discualified->disqualified
 discusison->discussions
-discussin->discussion
 discussiong->discussing
 discustingly->disgustingly
 disengenuous->disingenuous
@@ -6411,7 +6393,6 @@ disrispectful->disrespectful
 disrispecting->disrespecting
 disrputing->disrupting
 disrtibution->distributions
-disruptin->disruption
 disruptivo->disruption
 disruptron->disruption
 dissapionted->disappointed
@@ -6503,7 +6484,6 @@ distribuitor->distributor
 distribusion->distributions
 distribustion->distributions
 distributie->distributed
-distributin->distribution
 distributino->distributions
 distributio->distributor
 distributior->distributor
@@ -6610,7 +6590,6 @@ dominacion->domination
 dominae->dominate
 dominaters->dominates
 dominateurs->dominates
-dominatin->domination
 dominationg->dominating
 dominato->domination
 dominats->dominates
@@ -6975,7 +6954,6 @@ eliminacion->elimination
 eliminase->eliminates
 eliminas->eliminates
 eliminaste->eliminates
-eliminatin->elimination
 eliminato->elimination
 eliminaton->elimination
 eliminster->eliminates
@@ -7316,7 +7294,6 @@ equivolents->equivalents
 ermington->remington
 erroenous->erroneous
 escalatie->escalate
-escalatin->escalation
 escalative->escalate
 escalato->escalation
 escapse->escapes
@@ -7352,7 +7329,6 @@ estiamted->estimated
 estiamte->estimate
 estiamtes->estimates
 estimacion->estimation
-estimatin->estimation
 estimativo->estimation
 estination->estimation
 estoeric->esoteric
@@ -7443,7 +7419,6 @@ exaggarate->exaggerate
 exaggarating->exaggerating
 exaggaration->exaggeration
 exaggareted->exaggerate
-exaggeratin->exaggeration
 exaggeratted->exaggerated
 exaggeratting->exaggerating
 exaggerrate->exaggerate
@@ -7515,7 +7490,6 @@ exectuives->executives
 executabil->executable
 executie->executive
 executiner->executioner
-executin->execution
 executings->executions
 executionar->executioner
 executioneer->executioner
@@ -7536,13 +7510,11 @@ exhasuted->exhausted
 exhasut->exhaust
 exhasuting->exhausting
 exhasution->exhaustion
-exhaustin->exhaustion
 exhaustivo->exhaustion
 exhaustn->exhaustion
 exhausto->exhaustion
 exhibicion->exhibition
 exhibites->exhibits
-exhibitin->exhibition
 exhibitons->exhibits
 exhuasted->exhausted
 exhuast->exhaust
@@ -7726,7 +7698,6 @@ expresse->expressive
 expressens->expresses
 expressie->expressive
 expressief->expressive
-expressin->expression
 expressivos->expressions
 expressley->expressly
 expresssive->expressive
@@ -7748,7 +7719,6 @@ exteriour->exterior
 extermally->externally
 extermism->extremism
 extoics->exotics
-extortin->extortion
 extraccion->extraction
 extractivo->extraction
 extractnow->extraction
@@ -21752,7 +21722,6 @@ broardcom->broadcom
 broght->brought
 buffereing->buffering
 buiiltin->builtin
-buildin->builtin
 buttoni->button
 buundle->bundle
 bytebufer->bytebuffer
@@ -21761,7 +21730,6 @@ cabable->capable
 caibration->calibration
 calculayte->calculate
 calibtration->calibration
-callin->calling
 callse->calls
 callx->call
 caninicalization->canonicalization
@@ -23488,7 +23456,6 @@ coeffecient->coefficient
 coeffecients->coefficients
 coeffitients->coefficients
 colorschema->colorscheme
-combin->combine
 comentary->commentary
 commznd->command
 compesation->compensation
@@ -23513,7 +23480,6 @@ dequantizaton->dequantization
 destrooy->destroy
 directky->directly
 directted->directed
-disallowin->disallowing
 discontinously->discontinuously
 distrortion->distortion
 ditherq->ditherd
@@ -24334,7 +24300,6 @@ bufferd->buffered
 capacit->capacity
 chldren->children
 claning->cleaning
-coercin->coercion
 coercon->coercion
 coerece->coerce
 colunmn->column
@@ -24441,7 +24406,6 @@ enlessly->endlessly
 entimate->estimate
 epsilone->epsilon
 foontote->footnote
-expectin->expecting
 fallable->fallible
 forciong->forcing
 forrests->forests
@@ -24971,7 +24935,6 @@ acknowldegment->acknowledgment
 acknowledgent->acknowledgment
 acknowledgig->acknowledging
 acknowledgign->acknowledging
-acknowledgin->acknowledging
 acknowledgmen->acknowledgment
 acknowledgmet->acknowledgment
 acknowledgmetn->acknowledgment
@@ -26701,7 +26664,6 @@ elcetion->election
 elecdion->election
 elecion->election
 eleciton->election
-electin->electing
 electino->election
 electio->election
 electoin->election
