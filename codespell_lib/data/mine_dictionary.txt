@@ -11933,7 +11933,6 @@ masturbateing->masturbating
 masturbathe->masturbated
 masturbathon->masturbation
 masturbatie->masturbated
-masturbatin->masturbation
 masturbaton->masturbation
 masturbe->masturbate
 masturbeta->masturbated
@@ -13022,7 +13021,6 @@ nautlius->nautilus
 nautres->natures
 nautulis->nautilus
 navigatie->navigate
-navigatin->navigation
 navigato->navigation
 navigatore->navigate
 nazionalists->nationalists
@@ -13092,7 +13090,6 @@ negotiatians->negotiations
 negotiatied->negotiate
 negotiatie->negotiated
 negotiatiing->negotiating
-negotiatin->negotiations
 negotiationg->negotiating
 negotiatiors->negotiations
 negotiative->negotiate
@@ -13362,7 +13359,6 @@ obssesion->obsession
 obssesive->obsessive
 obstruccion->obstruction
 obstrucion->obstruction
-obstructin->obstruction
 obstruktion->obstruction
 obsturction->obstruction
 obsucrity->obscurity
@@ -27649,7 +27645,6 @@ liense->license
 lighs->lights
 lighst->lights
 lightinng->lighting
-lightnin->lightning
 lightnng->lightning
 lightnnig->lightning
 ligible->legible
@@ -29901,7 +29896,6 @@ discarged->discharged
 despites->despite
 evenmore->even more
 executess->executes
-orderin->order
 referreing->referring
 scub->scrub
 specificaion->specification
