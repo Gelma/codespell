@@ -252,7 +252,6 @@ regerneate->regenerate
 regrex->regex
 reresents->represents
 rescure->rescue
-returnin->returning
 separeate->separate
 smililarly->similarly
 sopies->copies
@@ -13986,7 +13985,6 @@ participas->participants
 participaste->participants
 participatd->participant
 participatie->participated
-participatin->participation
 participati->participant
 participativo->participation
 participatns->participant
@@ -14783,7 +14781,6 @@ politicien->politician
 politiciens->politicians
 politicin->politician
 politicion->politician
-politickin->politician
 politicus->politics
 politiicans->politician
 politiikan->politician
@@ -14884,7 +14881,6 @@ possesives->possessive
 possesse->possessive
 possessers->possesses
 possesseurs->possesses
-possessin->possessions
 possessivize->possessive
 possesssion->possessions
 possesss->possesses
@@ -14995,7 +14991,6 @@ predickted->predicated
 predictave->predictive
 predicte->predictive
 predictie->predictive
-predictin->prediction
 predictious->predictions
 predictivo->prediction
 predictment->predicament
@@ -15243,7 +15238,6 @@ prevantative->preventative
 prevencion->prevention
 preventation->presentation
 preventetive->preventative
-preventin->prevention
 preventitive->preventative
 preventitve->preventative
 preventivno->prevention
@@ -15359,7 +15353,6 @@ procrastiantion->procrastination
 procrastibating->procrastinating
 procrastibation->procrastination
 procrastinarting->procrastinating
-procrastinatin->procrastination
 procrastinationg->procrastinating
 procrastinaton->procrastination
 procrastinazione->procrastination
@@ -15460,7 +15453,6 @@ progressief->progressive
 progressie->progressives
 progressieve->progressive
 progressino->progressions
-progressin->progression
 progressioin->progressions
 progressiong->progressing
 progressionists->progressions
@@ -15512,7 +15504,6 @@ projectiel->projectiles
 projectie->projectile
 projecties->projectiles
 projectils->projectiles
-projectin->projection
 projectives->projectiles
 projectles->projectiles
 projectlie->projectiles
@@ -16251,7 +16242,6 @@ redesgin->redesign
 redesiging->redesign
 redistribucion->redistribution
 redistribuito->redistribution
-redistributin->redistribution
 redistributivo->redistribution
 redistrubition->redistribution
 redmeption->redemption
@@ -16329,7 +16319,6 @@ regenade->renegade
 regenarate->regenerate
 regenaration->regeneration
 regeneracion->regeneration
-regeneratin->regeneration
 regeneraton->regeneration
 regenere->regenerate
 regerts->regrets
@@ -16441,7 +16430,6 @@ relatiate->retaliate
 relatiation->retaliation
 relatie->relative
 relatinoship->relationships
-relatin->relation
 relationshits->relationships
 relationshp->relationships
 relationsship->relationships
@@ -17672,7 +17660,6 @@ simspon->simpson
 simulacion->simulation
 simulatie->simulate
 simulaties->simulate
-simulatin->simulation
 simulatious->simulations
 simulative->simulate
 simulatneously->simultaneously
@@ -18775,7 +18762,6 @@ supposebly->supposedly
 supposidely->supposedly
 supposidly->supposedly
 suppresors->suppressor
-suppressin->suppression
 suppressio->suppressor
 suppresson->suppression
 suppresssion->suppression
@@ -19613,7 +19599,6 @@ transkription->transcription
 transkript->transcript
 translastion->translations
 translateing->translating
-translatin->translations
 translationg->translating
 translatio->translator
 translatron->translation
@@ -20626,7 +20611,6 @@ vindictave->vindictive
 vindicte->vindictive
 vinicity->vicinity
 vioalting->violating
-violatin->violation
 violenty->violently
 violetas->violates
 virament->vraiment
@@ -24142,7 +24126,6 @@ rdddf->rddf
 reacct->react
 runtme->runtime
 salien->salient
-scalin->scaling
 sennd->send
 setupp->setup
 sorrty->sorry
@@ -24339,7 +24322,6 @@ remeote->remote
 repeatd->repeated
 requert->request
 rngstep->rngstepp
-samplin->sampling
 sapache->apache
 sayingt->saying
 sertext->settext
@@ -29227,7 +29209,6 @@ sttistic->statistic
 studder->studded
 stuffig->stuffing
 stuffign->stuffing
-stuffin->stuffing
 stuffng->stuffing
 stuffnig->stuffing
 stufifng->stuffing
