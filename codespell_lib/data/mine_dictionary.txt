@@ -1132,7 +1132,6 @@ alternar->alternator
 alternater->alternator
 alternatevly->alternately
 alternatieve->alternative
-alternativelly->alternatively
 alternativets->alternatives
 alternativos->alternatives
 alternatley->alternately
@@ -1185,7 +1184,6 @@ amensty->amnesty
 amercian->american
 amercians->americans
 amercias->americas
-americain->american
 americains->americas
 americams->americas
 americanas->americans
@@ -1560,7 +1558,6 @@ approstraphe->apostrophe
 approximatelly->approximately
 approximatley->approximately
 approximetly->approximately
-approxmiate->approximate
 apratheid->apartheid
 apreture->aperture
 apsaragus->asparagus
@@ -1681,7 +1678,6 @@ armstrog->armstrong
 arpanoid->paranoid
 arpatheid->apartheid
 arpeture->aperture
-arragned->arranged
 arrangerad->arranged
 arresst->arrests
 arrestes->arrests
@@ -6035,7 +6031,6 @@ difenitly->definitely
 differenciations->differentiation
 differental->differential
 differentate->differentiate
-differente->difference
 differentiantion->differentiation
 differentiatiors->differentiation
 differentitation->differentiation
@@ -10387,7 +10382,6 @@ intelligenty->intelligently
 intelligient->intelligent
 intelluctuals->intellectuals
 intencional->intentional
-intendes->intends
 intendos->intends
 intenseley->intensely
 intensitiy->intensity
@@ -10739,7 +10733,6 @@ intsrumental->instrumental
 intuatively->intuitively
 intuitevely->intuitively
 intuitevly->intuitively
-intuitivelly->intuitively
 intuitivley->intuitively
 intuitivly->intuitively
 intuitivno->intuition
@@ -12051,7 +12044,6 @@ medicinens->medicines
 medicineras->medicines
 medicinske->medicine
 medicins->medicines
-medicore->mediocre
 medicority->mediocrity
 medidating->meditating
 medioce->mediocre
@@ -12538,7 +12530,6 @@ mistakengly->mistakenly
 mistakently->mistakenly
 mistakey->mistakenly
 mistakinly->mistakenly
-mistankely->mistakenly
 mistreaded->mistreated
 mistread->mistreated
 misubderstanding->misunderstandings
@@ -12995,7 +12986,6 @@ nationas->nationals
 nationella->national
 nationsl->nationals
 natique->antique
-nativelly->natively
 nativey->natively
 nativley->natively
 natuilus->nautilus
@@ -14131,7 +14121,6 @@ penetrarion->penetration
 penetratiing->penetrating
 penetratin->penetration
 penetraton->penetration
-pengiuns->penguins
 penguinese->penguins
 penguines->penguins
 penguiness->penguins
@@ -14931,7 +14920,6 @@ precausions->precautions
 precautios->precautions
 precedance->precedence
 precedeed->preceded
-precedense->precedence
 precedessors->predecessors
 preceived->perceived
 preciesly->precisely
@@ -15070,7 +15058,6 @@ preliminarly->preliminary
 premanently->permanently
 premanent->permanent
 prematuraly->prematurely
-prematurelly->prematurely
 prematurily->prematurely
 prematurley->prematurely
 prematurly->prematurely
@@ -18231,7 +18218,6 @@ stalkes->stalkers
 staminia->stamina
 stamnia->stamina
 stampade->stamped
-stampeed->stamped
 stancels->stances
 stancers->stances
 standbay->standby
@@ -21380,7 +21366,6 @@ fuild->fluid
 impliclty->implicitly
 incompatibities->incompatibilities
 inspirated->inspired
-instaciating->instantiating
 iteratoror->iterator
 keenia->kenya
 kolumbia->colombia
@@ -23030,7 +23015,6 @@ intersction->intersection
 intevention->intervention
 inxtruction->instruction
 managemnt->management
-montonic->monotonic
 numberings->numbering
 objectes->objects
 optioms->options
@@ -24015,7 +23999,6 @@ atrtibute->attribute
 vlaidate->validate
 translatation->translation
 deassociate->unassociate
-deprectad->deprecated
 samrty->smarty
 noche->nocache
 transaprencyamount->transparencyamount
@@ -26148,7 +26131,6 @@ comprimize->compromise
 comraderie->camaraderie
 conaminate->contaminate
 conatminate->contaminate
-concecutive->consecutive
 concenrate->concentrate
 concenrtate->concentrate
 concensas->condenses
@@ -26695,7 +26677,6 @@ equipent->equipment
 equipmen->equipment
 equipmet->equipment
 equipmetn->equipment
-equipmnet->equipment
 equipmnt->equipment
 equpiment->equipment
 eraphones->earphones
@@ -26715,7 +26696,6 @@ eroes->erodes
 erphones->earphones
 erpublican->republican
 erradicate->eradicate
-errect->erect
 errode->erode
 errosion->erosion
 erseverance->perseverance
@@ -29705,7 +29685,6 @@ frameoworks->frameworks
 genealizing->generalizing
 implilcitly->implicitly
 inaccrurate->inaccurate
-infalliable->infallible
 initializng->initializing
 inoovations->innovations
 integratint->integrating
@@ -29796,7 +29775,6 @@ normalencode->normalencoder
 predeccessor->predecessor
 preprocssing->preprocessing
 recaluculate->recalculate
-recognisable->recognizable
 bookarks->bookmarks
 bookark->bookmark
 renderinmg->rendering
@@ -29883,7 +29861,6 @@ resivlering->resilvering
 abored->aborted
 dereferecen->dereference
 referecen->reference
-dito->ditto
 caes->case
 neext->next
 propertey->property
