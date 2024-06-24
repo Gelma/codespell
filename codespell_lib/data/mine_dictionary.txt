@@ -91,7 +91,6 @@ wesal->weasel
 wichid->whichid
 xelementacces->xelementaccess
 yamaka->yarmulke
-interruted->interrupted
 prifles->profiles
 approciate->appropriate
 blocsk->blocks
@@ -9424,7 +9423,6 @@ incrediblely->incredibly
 incredibley->incredibly
 incrediby->incredibly
 incrememnts->increments
-incremenets->increments
 incrementarla->incremental
 incrementarlo->incremental
 incrementas->increments
@@ -22095,7 +22093,6 @@ prootype->prototype
 proptects->protects
 quckpath->quickpath
 quiscent->quiescent
-reacable->reachable
 readbable->readable
 readlocks->readlock
 readmode->realmode
@@ -30033,3 +30030,23 @@ bodys->bodies
 innerer->inner
 myscheam->myschema
 tabelspaces->tablespaces
+basr->base
+compytibility->compatibility
+dbbaccess->dbaccess
+dockingforntwork->dockingfontwork
+drwinglayer->drawinglayer
+exepinfo->excepinfo
+getattachement->getattachment
+getfilesatus->getfilestatus
+identifierr->identifier
+keap->keep
+polymporphic->polymorphic
+primities->primitives
+scpecific->specific
+shriked->shrinked
+supposet->supposed
+taxt->text
+unsresponsive->unresponsive
+artibrary->arbitrary
+asscoiated->associated
+occurencies->occurrences
