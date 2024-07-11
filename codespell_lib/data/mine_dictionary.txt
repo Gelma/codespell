@@ -19518,7 +19518,6 @@ verificato->verification
 verifikation->verification
 verifiyng->verifying
 verifyable->verifiable
-verisions->revisions
 veritgo->vertigo
 veritiable->verifiable
 vernaculaire->vernacular
@@ -22350,7 +22349,6 @@ proir->prior
 satet->state
 taotl->total
 wati->wait
-wdith->width
 woah->whoa
 ryrun->dryrun
 mitterlimit->miterlimit
@@ -22651,7 +22649,6 @@ ydata->xdata
 coints->coins
 newode->newnode
 numeic->numeric
-preety->pretty
 bultins->builtins
 cythonp->cython
 exycept->except
